@@ -24,13 +24,13 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
 <tr>
     <td align="center">
       <a href="https://github.com/TiagoUNB">
-        <img style="border-radius: 50%;" src="https://github.com/Tiago_Geovane.png.png" width="150px;"/>
+        <img style="border-radius: 50%;" src="docs/img/Tiago_Geovane.png" width="150px;"/>
         <h5 class="text-center">Tiago Geovane da Silva Sousa</h5>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/MLuana725">
-        <img style="border-radius: 50%;" src="https://github.com/Maria_Luana.png.png" width="150px;"/>
+        <img style="border-radius: 50%;" src="docs/img/Maria_Luana.png" width="150px;"/>
         <h5 class="text-center">Nome do Membro 2</h5>
       </a>
     </td>
