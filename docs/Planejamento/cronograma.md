@@ -41,7 +41,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega 2 - Perfil do usuário
+## Entrega 2 - Perfil do usuário - Data: 03/05
 
 ### Planejado
 
@@ -71,7 +71,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Perfil do usuário (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega 3 - Análise de Requisitos
+## Entrega 3 - Análise de Requisitos - Data: 12/05
 
 ### Planejado
 
@@ -100,7 +100,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Análise de Requisitos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega 4 - Planejamento
+## Entrega 4 - Planejamento - Data: 19/05
 
 ### Planejado
 
@@ -128,7 +128,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Planejamento (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega 5 - Protótipo de papel
+## Entrega 5 - Protótipo de papel - Data: 31/05
 
 ### Planejado
 
@@ -156,7 +156,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Protótipo de papel (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega 6 - Protótipo de alta fidelidade
+## Entrega 6 - Protótipo de alta fidelidade - Data: 07/06
 
 ### Planejado
 
@@ -182,7 +182,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega 7 - Relato dos resultados do Protótipo de alta fidelidade
+## Entrega 7 - Relato dos resultados do Protótipo de alta fidelidade - Data: 17/06
 
 ### Planejado
 
@@ -206,7 +206,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Relato dos resultados do Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega 8 - Verificação dos artefatos
+## Entrega 8 - Verificação dos artefatos - Data: 26/06
 
 ### Planejado
 
@@ -232,7 +232,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 16</b> - Verificação dos artefatos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-## Entrega Final - Projeto final
+## Entrega Final - Projeto final - Data: 01/07
 
 ### Planejado
 
