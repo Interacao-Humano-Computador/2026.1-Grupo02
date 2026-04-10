@@ -1,7 +1,7 @@
 # Secretaria de Estado de Saúde do Distrito Federal - SES-DF
 ## Exames de Carga Viral de HIV, Hepatite B, Hepatite C e Contagem de Linfócitos T CD4 e CD8
 
-## Grupo [Número do seu Grupo]
+## Grupo 02
 
 <div align="center">
 <img src="docs/img/logoSite.png" alt="logo SES-DF" style="width: 400px">
