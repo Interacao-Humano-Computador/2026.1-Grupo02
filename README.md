@@ -1,7 +1,7 @@
 # Secretaria de Estado de Saúde do Distrito Federal - SES-DF
 ## Exames de Carga Viral de HIV, Hepatite B, Hepatite C e Contagem de Linfócitos T CD4 e CD8
 
-## Grupo [Número do seu Grupo]
+## Grupo 02
 
 <div align="center">
 <img src="docs/img/logoSite.png" alt="logo SES-DF" style="width: 400px">
@@ -23,14 +23,14 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
     <td align="center">
-      <a href="https://github.com/[Seu_User_GitHub]">
-        <img style="border-radius: 50%;" src="https://github.com/[Seu_User_GitHub].png" width="150px;"/>
+      <a href="https://github.com/TiagoUNB">
+        <img style="border-radius: 50%;" src="https://github.com/Tiago_Geovane.png.png" width="150px;"/>
         <h5 class="text-center">Tiago Geovane da Silva Sousa</h5>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/[User_Membro_2]">
-        <img style="border-radius: 50%;" src="https://github.com/[User_Membro_2].png" width="150px;"/>
+      <a href="https://github.com/MLuana725">
+        <img style="border-radius: 50%;" src="https://github.com/Maria_Luana.png.png" width="150px;"/>
         <h5 class="text-center">Nome do Membro 2</h5>
       </a>
     </td>
