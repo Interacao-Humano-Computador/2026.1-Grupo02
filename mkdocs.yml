@@ -16,6 +16,7 @@ theme:
       accent: indigo
 
 nav:
-  - Início: index.md
+  - Inicio: index.md
   - Planejamento:
-      - Cronograma: planejamento/cronograma.md
+      - Cronograma: Planejamento/cronograma.md
+      - Ferramentas: Planejamento/ferramentas.md
