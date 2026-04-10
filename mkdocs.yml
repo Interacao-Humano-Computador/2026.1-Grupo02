@@ -1,0 +1,19 @@
+site_name: IHC - Grupo 02
+site_url: https://Interacao-Humano-Computador.github.io/2026.1-Grupo02
+repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo02
+repo_name: 2026.1-Grupo02
+
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
+nav:
+  - Início: index.md
