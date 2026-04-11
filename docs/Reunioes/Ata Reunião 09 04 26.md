@@ -12,7 +12,7 @@
 | **Data** | 09 de abril de 2026 |
 | **Horário** | Início: 20:34 – Término: aproximadamente 21:36 |
 | **Duração** | Aproximadamente 1 hora |
-| **Local** | Virtual (plataforma não especificada) |
+| **Local** | Virtual (Teams) |
 | **Responsável pela ata** | Bryan |
 | **Tipo de reunião** | Planejamento de projeto |
 
@@ -51,13 +51,13 @@ Os participantes concordaram em iniciar as reuniões às **20h45** (em vez de 20
 
 Foram avaliados os seguintes serviços/sites:
 
-- ECAC
-- PROCON
 - Hemocentro
 - Agendamento eletrônico de exames de curva glicêmica para gestantes
 - Portal da Secretaria de Educação do DF (matrícula regular digital, consulta de histórico acadêmico)
 
 O grupo considerou que muitos sites apresentam apenas informações estáticas, sem funcionalidades transacionais efetivas.
+
+- Serviço/site escolhido: Secretaria de Estado de Saúde do Distrito Federal - SES-DF
 
 ### 3. Planejamento do projeto
 
@@ -89,8 +89,9 @@ Ficou decidido que todo o material deve estar organizado e de fácil acesso no G
 
 - **Tiago:** Documento com informações da equipe
 - **Samuel:** Ferramentas
-- **Git Pages:** Responsável ainda não definido (atividade considerada complexa)
-- Demais atividades serão divididas em duplas
+- **Luan e Bryan:** Gitpages
+- **Guilherme:** Processo de Design com justificativa
+- **Lucas:** Cronograma planejado e executado pro github
 
 ### 7. Próxima reunião
 
