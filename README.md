@@ -50,8 +50,8 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
     </td>
         <td align="center">
       <a href="https://github.com/Bryan70897">
-        <img style="border-radius: 50%;" src="docs/img/Bryan70897.png" width="150px;"/>
-        <h5 class="text-center"></h5>
+        <img style="border-radius: 50%;" src="docs/img/Lucas_Fujimoto.png" width="150px;"/>
+        <h5 class="text-center">Lucas Fujimoto</h5>
       </a>
     </td>
 </tr>
