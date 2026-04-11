@@ -4,7 +4,7 @@
 
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
-| 10/04/2026 |        10/04/2026        |  1.0   |     Criação do Documento     | [Guilherme](https://github.com/GuilhermeCarvalho2024) | Não revisado |
+| 10/04/2026 |        10/04/2026        |  1.0   |     Criação do Documento     | Guilherme| Samuel |
 
 ---
 
