@@ -6,13 +6,13 @@ Para a realização deste projeto, foi utilizado alguns softwares selecionados p
 
 Logo | Ferramenta | Finalidade
 :---:|:----------:|:---------:
-<img src="../../img/logos/GitHub_Invertocat_Black.png" width="100"> | GitHub | Manter, organizar e ter controle de versão sobre os artefatos do projeto
-<img src="../../img/logos/mkdocs.png" width="200"> | MkDocs | Geração das páginas de documentação
-<img src="../../img/logos/microsoftTeams.png" width="100"> | Microsoft Teams | Comunicação e reuniões da equipe
-<img src="../../img/logos/WhatsApp.png" width="80"> | WhatsApp | Comunicação rápida entre os membros
-<img src="../../img/logos/googleSheets.png" width="100"> | Google Sheets | Organização de dados e planilhas
-<img src="../../img/logos/Google-Docs-Logo.png" width="115"> | Google Docs | Documentação colaborativa
-<img src="../../img/logos/youtube.png" width="180"> | YouTube | Hospedagem e compartilhamento de vídeos do projeto
+<img src="../img/logos/GitHub_Invertocat_Black.png" width="100"> | GitHub | Manter, organizar e ter controle de versão sobre os artefatos do projeto
+<img src="../img/logos/mkdocs.png" width="200"> | MkDocs | Geração das páginas de documentação
+<img src="../img/logos/microsoftTeams.png" width="100"> | Microsoft Teams | Comunicação e reuniões da equipe
+<img src="../img/logos/WhatsApp.png" width="80"> | WhatsApp | Comunicação rápida entre os membros
+<img src="../img/logos/googleSheets.png" width="100"> | Google Sheets | Organização de dados e planilhas
+<img src="../img/logos/Google-Docs-Logo.png" width="115"> | Google Docs | Documentação colaborativa
+<img src="../img/logos/youtube.png" width="180"> | YouTube | Hospedagem e compartilhamento de vídeos do projeto
 <p><b>Tabela 1</b> – Ferramentas utilizadas no projeto. Fonte: SOARES LOPES, Maria Luana (2026).</p>
 
 ## Bibliografia
@@ -36,4 +36,4 @@ Logo | Ferramenta | Finalidade
 
 Data       | Versão | Descrição                               | Autor(es)           | Revisor(es)        
 :----------:|:------:|:--------------------------------------|:-------------------:|:---------------:
-10/04/2026| 1.0| Criação do documento contendo as ferramentas| Maria Luana|  ------
+10/04/2026| 1.0| Criação do documento contendo as ferramentas| Maria Luana| Tiago Geovane
