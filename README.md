@@ -17,6 +17,8 @@ A Secretaria de Estado de Saúde do Distrito Federal é o órgão responsável p
 
 ## Integrantes da equipe
 
+Heatmap de Disponibilidade: <a href="https://docs.google.com/spreadsheets/d/1Jm0rxqWhgBwGmKBtouq9D5yVQB8GpTcptL05fGTCjNI/edit?gid=1105040389#gid=1105040389">Heatmap</a> 
+
 Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasília presentes na Tabela 1.
 
 <center>
@@ -31,7 +33,7 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
     <td align="center">
       <a href="https://github.com/MLuana725">
         <img style="border-radius: 50%;" src="docs/img/Maria_Luana.png" width="150px;"/>
-        <h5 class="text-center">Nome do Membro 2</h5>
+        <h5 class="text-center">Maria Luana</h5>
       </a>
     </td>
     <td align="center">
