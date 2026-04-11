@@ -2,6 +2,7 @@
 
 **Disciplina:** Interação Humano-Computador (IHC)  
 **Data:** 11 de abril de 2026
+
 **Tipo de reunião:** Apresentação do projeto e planejamento  
 **Responsável pela ata:** Bryan Smith Rodrigues Cavalcante
 ---
