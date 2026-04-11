@@ -44,7 +44,7 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
     </td>
     <td align="center">
       <a href="https://github.com/GuilhermeCarvalho2024"> <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/Guilherme.png" />
-        <h5 class="text-center">Guilherme</h5>
+        <h5 class="text-center">Guilherme de Carvalho</h5>
       </a>
     </td>
     <td align="center">
