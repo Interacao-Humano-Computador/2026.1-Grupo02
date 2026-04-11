@@ -114,7 +114,9 @@ Agendada para **sexta-feira, às 20h30**, com duração prevista de 1 hora.
 - O monitor da disciplina confirmou que a gravação da reunião é obrigatória como comprovação de participação na cloud
 
 ---
-
+## Link da Gravação da Reunião
+https://unbbr-my.sharepoint.com/personal/241025390_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F241025390%5Faluno%5Funb%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o%20com%20Tiago%20Geovane%20Da%20Silva%20Sousa%2D20260409%5F203307%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee92f7d97%2D01ac%2D4de3%2Dbb08%2Dbfca48d14d55
+---
 *Documento elaborado a partir da transcrição automática da reunião do Grupo 2.*
 
 ---
