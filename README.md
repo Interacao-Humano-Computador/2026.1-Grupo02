@@ -42,6 +42,18 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
         <h5 class="text-center">Bryan Smith Rodrigues Cavalcante</h5>
       </a>
     </td>
+        <td align="center">
+      <a href="https://github.com/Bryan70897">
+        <img style="border-radius: 50%;" src="docs/img/Guilherme.png" width="150px;"/>
+        <h5 class="text-center">Guilherme</h5>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/Bryan70897">
+        <img style="border-radius: 50%;" src="docs/img/Bryan70897.png" width="150px;"/>
+        <h5 class="text-center"></h5>
+      </a>
+    </td>
 </tr>
 </table>
 </center>
