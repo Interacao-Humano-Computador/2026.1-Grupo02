@@ -1,123 +1,75 @@
-# ATA DE REUNIÃO - GRUPO 2
+# Ata de Reunião - Grupo 02
 
 **Disciplina:** Interação Humano-Computador (IHC)  
-**Data:** 09 de abril de 2026
-
----
-
-## Informações Gerais
-
-| Item | Descrição |
-|------|------------|
-| **Data** | 09 de abril de 2026 |
-| **Horário** | Início: 20:34 – Término: aproximadamente 21:36 |
-| **Duração** | Aproximadamente 1 hora |
-| **Local** | Virtual (Teams) |
-| **Responsável pela ata** | Bryan |
-| **Tipo de reunião** | Planejamento de projeto |
+**Data:** 09 de abril de 2026  
+**Horário:** 20h34 – 21h36  
+**Local:** Virtual (Microsoft Teams)  
+**Responsável pela ata:** Bryan Smith Rodrigues Cavalcante  
 
 ---
 
 ## Participantes
 
-- Bryan Smith Rodrigues Cavalcante
-- Guilherme De Carvalho
-- Lucas Fujimoto (Lucas Fujimoto Tokunaga)
-- Luan Ludry Souza
-- Maria Luana
-- Samuel Felipe Lira De Souza
-- Tiago Geovane Da Silva Sousa
+| Nome |
+|------|
+| Bryan Smith Rodrigues Cavalcante |
+| Guilherme de Carvalho |
+| Lucas Fujimoto Tokunaga |
+| Luan Ludry Souza |
+| Maria Luana |
+| Samuel Felipe Lira de Souza |
+| Tiago Geovane da Silva Sousa |
 
 ---
 
-## Pauta da Reunião
+## Pauta
 
-1. Definição do horário da reunião (alteração para 20h45)
-2. Seleção de sites/serviços públicos para análise
-3. Planejamento do projeto: cronograma, divisão de tarefas e entregáveis
+1. Alteração do horário das reuniões
+2. Seleção do site para análise
+3. Planejamento do projeto e divisão de tarefas
 4. Escolha do ciclo de vida de design
-5. Organização do GitHub Pages e documentação
-6. Definição de próximos passos e prazos
+5. Organização do GitHub Pages
 
 ---
 
 ## Discussões e Decisões
 
-### 1. Horário da reunião
+**Horário das reuniões:** acordado início às 20h45, conforme ajuste proposto por Guilherme.
 
-Os participantes concordaram em iniciar as reuniões às **20h45** (em vez de 20h30), conforme ajuste proposto por Guilherme.
+**Site selecionado:** após avaliação de opções como Hemocentro, Portal da Secretaria de Educação do DF e agendamento de exames para gestantes, o grupo escolheu o portal da **Secretaria de Estado de Saúde do Distrito Federal (SES-DF)**.
 
-### 2. Serviços analisados
+**Ciclo de vida de design:** optou-se pelo **Ciclo de Mayhew**, recomendado pelo professor por ser mais completo.
 
-Foram avaliados os seguintes serviços/sites:
-
-- Hemocentro
-- Agendamento eletrônico de exames de curva glicêmica para gestantes
-- Portal da Secretaria de Educação do DF (matrícula regular digital, consulta de histórico acadêmico)
-
-O grupo considerou que muitos sites apresentam apenas informações estáticas, sem funcionalidades transacionais efetivas.
-
-- Serviço/site escolhido: Secretaria de Estado de Saúde do Distrito Federal - SES-DF
-
-### 3. Planejamento do projeto
-
-Definiu-se que o planejamento deve conter:
-
-- Apresentação da equipe (com fotos e breve descrição)
-- Cronograma de atividades
-- Heatmap de probabilidade de uso
-- Lista de sites avaliados
-- Site selecionado para análise aprofundada
-- Ferramentas a serem utilizadas
-- Design do site (proposta de melhorias)
-- Programa detalhado das atividades
-
-### 4. Escolha do ciclo de vida de design
-
-Após discussão, o grupo optou pelo **ciclo de vida de design "Mayhew"** (recomendado pelo professor por ser mais completo). Alternativas como "Ciclo de Vida Simples" foram descartadas por serem consideradas superficiais.
-
-### 5. GitHub Pages e documentação
-
-Ficou decidido que todo o material deve estar organizado e de fácil acesso no GitHub Pages, com:
-
-- Documento em Markdown com informações da equipe
-- Links visíveis para todos os entregáveis
-- Contraste de cores adequado (conforme orientação do professor)
-- Possibilidade de usar modelos de semestres anteriores como referência
-
-### 6. Divisão de tarefas (parcial)
-
-- **Tiago:** Documento com informações da equipe
-- **Samuel:** Ferramentas
-- **Luan e Bryan:** Gitpages
-- **Guilherme:** Processo de Design com justificativa
-- **Lucas:** Cronograma planejado e executado pro github
-
-### 7. Próxima reunião
-
-Agendada para **sexta-feira, às 20h30**, com duração prevista de 1 hora.
+**GitHub Pages:** o material deve estar organizado com links visíveis para todos os entregáveis, contraste adequado e informações da equipe em Markdown.
 
 ---
 
-## Encaminhamentos e Prazos
+## Divisão de Tarefas
 
-- Cada membro deve produzir os documentos sob sua responsabilidade até **amanhã, antes da gravação**
-- O grupo deve finalizar a seleção do site-alvo e registrar no documento de planejamento
-- A ata de reunião deve ser produzida (questionamento de Maria Luana: *"Eu tenho que fazer a reunião, não?"*)
-- A gravação e transcrição da reunião devem ser salvas (lembrado por Samuel)
+| Membro | Responsabilidade |
+|--------|-----------------|
+| Tiago | Documento com informações da equipe |
+| Samuel | Ferramentas |
+| Luan e Bryan | GitHub Pages |
+| Guilherme | Processo de design com justificativa |
+| Lucas | Cronograma planejado e executado |
+
+---
+
+## Próximos Passos
+
+- Produzir os documentos até o dia seguinte, antes da gravação
+- Finalizar a seleção do site-alvo e registrar no planejamento
+- Salvar gravação e transcrição da reunião
+
+**Próxima reunião:** sexta-feira, às 20h30
 
 ---
 
-## Observações
+## Gravação
 
-- Houve instabilidade técnica inicial (problemas com câmera e áudio)
-- O monitor da disciplina confirmou que a gravação da reunião é obrigatória como comprovação de participação na cloud
-
----
-## Link da Gravação da Reunião
-https://unbbr-my.sharepoint.com/personal/241025390_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F241025390%5Faluno%5Funb%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o%20com%20Tiago%20Geovane%20Da%20Silva%20Sousa%2D20260409%5F203307%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee92f7d97%2D01ac%2D4de3%2Dbb08%2Dbfca48d14d55
----
-*Documento elaborado a partir da transcrição automática da reunião do Grupo 2.*
+<small>https://unbbr-my.sharepoint.com/personal/241025390_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F241025390%5Faluno%5Funb%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o%20com%20Tiago%20Geovane%20Da%20Silva%20Sousa%2D20260409%5F203307%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee92f7d97%2D01ac%2D4de3%2Dbb08%2Dbfca48d14d55</small>
 
 ---
-_________________________
+
+*Documento elaborado a partir da transcrição automática da reunião.*

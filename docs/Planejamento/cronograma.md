@@ -7,7 +7,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 1 - Planejamento do Projeto - Data: 14/04
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
@@ -43,7 +43,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 2 - Perfil do usuário - Data: 03/05
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do usuário (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 3 - Análise de Requisitos - Data: 12/05
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -102,7 +102,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 4 - Planejamento - Data: 19/05
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 5 - Protótipo de papel - Data: 31/05
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Protótipo de papel (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -158,7 +158,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 6 - Protótipo de alta fidelidade - Data: 07/06
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -184,7 +184,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 7 - Relato dos resultados do Protótipo de alta fidelidade - Data: 17/06
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Relato dos resultados do Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Resultados finais</p></font>
 
@@ -208,7 +208,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega 8 - Verificação dos artefatos - Data: 26/06
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -220,7 +220,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Verificação dos artefatos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -234,7 +234,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 ## Entrega Final - Projeto final - Data: 01/07
 
-### Planejado
+#### Planejado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
@@ -244,7 +244,7 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 <font size="3"><p style="text-align: center"><b>Tabela 17</b> - Projeto final (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
-### Executado
+#### Executado
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
