@@ -29,13 +29,13 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
-| Documentar equipe |  |  |  |  |
-| Lista de sites |  |  |  |  |
-| Site selecionado |  |  |  |  |
-| Ferramentas utilizadas no projeto |  |  |  |  |
-| Processo de Design |  |  |  |  |
-| Cronograma |  |  |  |  |
-| Criação do git pages |  |  |  |  |
+| Documentar equipe | 09/04<br>Fim: 10/04 | Tiago | Início: 11/04<br>Fim: 11/04 |  |
+| Lista de sites | 09/04<br>Fim: 11/04 | Samuel | Início: 11/04<br>Fim: 11/04 | Lucas |
+| Site selecionado | 09/04<br>Fim: 11/04 | Samuel | Início: 11/04<br>Fim: 11/04 |  |
+| Ferramentas utilizadas no projeto | 09/04<br>Fim: 10/04 | Maria Luana | Início: 11/04<br>Fim: 11/04 | Tiago |
+| Processo de Design | 09/04<br>Fim: 10/04 | Guilherme e Samuel | Início: 11/04<br>Fim: 11/04 |  |
+| Cronograma | Início: 09/04<br>Fim: 10/04 | Lucas | Início: 11/04<br>Fim: 11/04 | Luan |
+| Criação do git pages | 09/04<br>Fim: 10/04 | Luan e Bryan | Início: 11/04<br>Fim: 11/04 |  |
 | Gravar vídeo de apresentação |  |  |  |  |
 | Correção após feedback |  |  |  |  |
 

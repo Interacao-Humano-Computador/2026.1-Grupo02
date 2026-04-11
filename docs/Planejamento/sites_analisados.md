@@ -17,5 +17,5 @@ Para ser decidido quais dos sites seriam avaliados e selecionado, foi decidido c
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| `1.0`| 11/04/2026 | Criação da página "Sites Analisados" | [Samuel Felipe](https://github.com/TerminaKng05) |  |
-| `1.1`| 11/04/2026 | Update da página "Sites Analisados" | [Samuel Felipe](https://github.com/TerminaKng05) |  |
+| `1.0`| 11/04/2026 | Criação da página "Sites Analisados" | [Samuel Felipe](https://github.com/TerminaKng05) | [Lucas Fujimoto](https://github.com/Lucasft16) |
+| `1.1`| 11/04/2026 | Update da página "Sites Analisados" | [Samuel Felipe](https://github.com/TerminaKng05) | [Lucas Fujimoto](https://github.com/Lucasft16) |
