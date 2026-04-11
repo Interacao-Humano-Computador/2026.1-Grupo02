@@ -70,3 +70,10 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
 
 <div style="text-align: left">
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2026).</
+
+
+## Histórico de versão
+
+Data       | Versão | Descrição                               | Autor(es)           | Revisor(es)        
+:----------:|:------:|:--------------------------------------|:-------------------:|:---------------:
+10/04/2026| 1.0| Criação do Readme com a informações dos integrantes da Equipe| Tiago Geovane| Maria Luana
