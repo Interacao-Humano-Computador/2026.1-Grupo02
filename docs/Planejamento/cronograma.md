@@ -262,4 +262,4 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| `1.0` | 10/04/2026 | Criação do cronograma | Lucas Fujimoto |  |
+| `1.0` | 10/04/2026 | Criação do cronograma | Lucas Fujimoto | Luan Ludry |
