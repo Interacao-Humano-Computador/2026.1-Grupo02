@@ -60,4 +60,10 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
         <h5 class="text-center">Luan Ludry Souza</h5>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/TerminaKng05">
+        <img style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" src="img/Samuel_Felipe.png" width="150px;"/>
+        <h5 class="text-center">Samuel Felipe Lira de Souza</h5>
+      </a>
+    </td>
 </tr>
