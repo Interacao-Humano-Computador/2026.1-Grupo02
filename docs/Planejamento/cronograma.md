@@ -29,13 +29,13 @@ Este documento tem o objetivo de mostrar as atividades e as etapas nas quais dev
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
-| Documentar equipe | 09/04<br>Fim: 10/04 | Tiago | Início: 11/04<br>Fim: 11/04 |  |
+| Documentar equipe | 09/04<br>Fim: 10/04 | Tiago | Início: 11/04<br>Fim: 11/04 | Maria Luana |
 | Lista de sites | 09/04<br>Fim: 11/04 | Samuel | Início: 11/04<br>Fim: 11/04 | Lucas |
-| Site selecionado | 09/04<br>Fim: 11/04 | Samuel | Início: 11/04<br>Fim: 11/04 |  |
+| Site selecionado | 09/04<br>Fim: 11/04 | Samuel | Início: 11/04<br>Fim: 11/04 | Luan |
 | Ferramentas utilizadas no projeto | 09/04<br>Fim: 10/04 | Maria Luana | Início: 11/04<br>Fim: 11/04 | Tiago |
-| Processo de Design | 09/04<br>Fim: 10/04 | Guilherme e Samuel | Início: 11/04<br>Fim: 11/04 |  |
+| Processo de Design | 09/04<br>Fim: 10/04 | Guilherme e Samuel | Início: 11/04<br>Fim: 11/04 | Samuel |
 | Cronograma | Início: 09/04<br>Fim: 10/04 | Lucas | Início: 11/04<br>Fim: 11/04 | Luan |
-| Criação do git pages | 09/04<br>Fim: 10/04 | Luan e Bryan | Início: 11/04<br>Fim: 11/04 |  |
+| Criação do git pages | 09/04<br>Fim: 10/04 | Luan e Bryan | Início: 11/04<br>Fim: 11/04 | Todos |
 | Gravar vídeo de apresentação |  |  |  |  |
 | Correção após feedback |  |  |  |  |
 
