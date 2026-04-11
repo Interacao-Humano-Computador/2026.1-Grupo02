@@ -4,7 +4,7 @@
 ## Grupo 02
 
 <div align="center">
-<img src="docs/img/logoSite.png" alt="logo SES-DF" style="width: 400px">
+<img src="img/logoSite.png" alt="logo SES-DF" style="width: 400px">
 </div>
 
 ## Introdução
@@ -17,32 +17,47 @@ A Secretaria de Estado de Saúde do Distrito Federal é o órgão responsável p
 
 ## Integrantes da equipe
 
+Heatmap de Disponibilidade: <a href="https://docs.google.com/spreadsheets/d/1Jm0rxqWhgBwGmKBtouq9D5yVQB8GpTcptL05fGTCjNI/edit?gid=1105040389#gid=1105040389">Heatmap</a> 
+
 Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasília presentes na Tabela 1.
 
 <center>
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
     <td align="center">
-      <a href="https://github.com/[Seu_User_GitHub]">
-        <img style="border-radius: 50%;" src="https://github.com/[Seu_User_GitHub].png" width="150px;"/>
+      <a href="https://github.com/TiagoUNB">
+        <img style="border-radius: 50%;" src="img/Tiago_Geovane.png" width="150px;"/>
         <h5 class="text-center">Tiago Geovane da Silva Sousa</h5>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/[User_Membro_2]">
-        <img style="border-radius: 50%;" src="https://github.com/[User_Membro_2].png" width="150px;"/>
-        <h5 class="text-center">Nome do Membro 2</h5>
+      <a href="https://github.com/MLuana725">
+        <img style="border-radius: 50%;" src="img/Maria_Luana.png" width="150px;"/>
+        <h5 class="text-center">Maria Luana</h5>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/[User_Membro_3]">
-        <img style="border-radius: 50%;" src="https://github.com/[User_Membro_3].png" width="150px;"/>
-        <h5 class="text-center">Nome do Membro 3</h5>
+      <a href="https://github.com/Bryan70897">
+        <img style="border-radius: 50%;" src="img/Bryan70897.png" width="150px;"/>
+        <h5 class="text-center">Bryan Smith Rodrigues Cavalcante</h5>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/Bryan70897">
+        <img style="border-radius: 50%;" src="img/Guilherme.png" width="150px;"/>
+        <h5 class="text-center">Guilherme</h5>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/Bryan70897">
+        <img style="border-radius: 50%;" src="img/Lucas_Fujimoto.png" width="150px;"/>
+        <h5 class="text-center">Lucas Fujimoto</h5>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/luanludry">
+        <img style="border-radius: 50%;" src="img/Luan.png" width="150px;"/>
+        <h5 class="text-center">Luan Ludry Souza</h5>
       </a>
     </td>
 </tr>
-</table>
-</center>
-
-<div style="text-align: left">
-<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2026).</
