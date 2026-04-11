@@ -6,20 +6,22 @@ repo_name: 2026.1-Grupo02
 theme:
   name: material
   language: pt
+  logo: img/MiniLogo.png
+  favicon: img/MiniLogo.png
   features:
     - navigation.tabs
     - navigation.top
     - search.highlight
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: light blue
+      accent: light blue
       toggle:
         icon: material/weather-night
         name: Alternar para modo escuro
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: light blue
+      accent: light blue
       toggle:
         icon: material/weather-sunny
         name: Alternar para modo claro
@@ -29,6 +31,5 @@ nav:
   - Planejamento:
       - Cronograma: Planejamento/cronograma.md
       - Ferramentas: Planejamento/ferramentas.md
-      - Processo de Design: Planejamento/Processo_Design.md
-  - Reuniões: 
-      - Atas: Reunioes/Ata Reunião 09 04 26.md
+  - Reunioes:
+      - Ata 09/04/26: Reunioes/Ata Reunião 09 04 26.md

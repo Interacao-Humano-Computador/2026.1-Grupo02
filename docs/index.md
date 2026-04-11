@@ -26,37 +26,37 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
 <tr>
     <td align="center">
       <a href="https://github.com/TiagoUNB">
-        <img style="border-radius: 50%;" src="img/Tiago_Geovane.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" src="img/Tiago_Geovane.png" width="150px;"/>
         <h5 class="text-center">Tiago Geovane da Silva Sousa</h5>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/MLuana725">
-        <img style="border-radius: 50%;" src="img/Maria_Luana.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" src="img/Maria_Luana.png" width="150px;"/>
         <h5 class="text-center">Maria Luana</h5>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Bryan70897">
-        <img style="border-radius: 50%;" src="img/Bryan70897.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" src="img/Bryan70897.png" width="150px;"/>
         <h5 class="text-center">Bryan Smith Rodrigues Cavalcante</h5>
       </a>
     </td>
         <td align="center">
       <a href="https://github.com/Bryan70897">
-        <img style="border-radius: 50%;" src="img/Guilherme.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" src="img/Guilherme.png" width="150px;"/>
         <h5 class="text-center">Guilherme</h5>
       </a>
     </td>
         <td align="center">
       <a href="https://github.com/Bryan70897">
-        <img style="border-radius: 50%;" src="img/Lucas_Fujimoto.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" src="img/Lucas_Fujimoto.png" width="150px;"/>
         <h5 class="text-center">Lucas Fujimoto</h5>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/luanludry">
-        <img style="border-radius: 50%;" src="img/Luan.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" src="img/Luan.png" width="150px;"/>
         <h5 class="text-center">Luan Ludry Souza</h5>
       </a>
     </td>
