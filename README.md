@@ -54,6 +54,12 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
         <h5 class="text-center">Lucas Fujimoto</h5>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/luanludry">
+        <img style="border-radius: 50%;" src="docs/img/Luan.png" width="150px;"/>
+        <h5 class="text-center">Luan Ludry Souza</h5>
+      </a>
+    </td>
 </tr>
 </table>
 </center>
