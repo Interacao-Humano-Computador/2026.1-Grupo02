@@ -33,7 +33,7 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
     <td align="center">
       <a href="https://github.com/MLuana725">
         <img style="border-radius: 50%;" src="docs/img/Maria_Luana.png" width="150px;"/>
-        <h5 class="text-center">Maria Luana</h5>
+        <h5 class="text-center">Maria Luana Soares Lopes</h5>
       </a>
     </td>
     <td align="center">
