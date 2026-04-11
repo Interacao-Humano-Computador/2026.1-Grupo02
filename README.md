@@ -26,37 +26,35 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
 <tr>
     <td align="center">
       <a href="https://github.com/TiagoUNB">
-        <img style="border-radius: 50%;" src="docs/img/Tiago_Geovane.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/Tiago_Geovane.png" />
         <h5 class="text-center">Tiago Geovane da Silva Sousa</h5>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/MLuana725">
-        <img style="border-radius: 50%;" src="docs/img/Maria_Luana.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/Maria_Luana.png" />
         <h5 class="text-center">Maria Luana Soares Lopes</h5>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Bryan70897">
-        <img style="border-radius: 50%;" src="docs/img/Bryan70897.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/Bryan70897.png" />
         <h5 class="text-center">Bryan Smith Rodrigues Cavalcante</h5>
       </a>
     </td>
-        <td align="center">
-      <a href="https://github.com/Bryan70897">
-        <img style="border-radius: 50%;" src="docs/img/Guilherme.png" width="150px;"/>
+    <td align="center">
+      <a href="https://github.com/GuilhermeCarvalho2024"> <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/Guilherme.png" />
         <h5 class="text-center">Guilherme</h5>
       </a>
     </td>
-        <td align="center">
-      <a href="https://github.com/Bryan70897">
-        <img style="border-radius: 50%;" src="docs/img/Lucas_Fujimoto.png" width="150px;"/>
+    <td align="center">
+      <a href="https://github.com/Lucasft16"> <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/Lucas_Fujimoto.png" />
         <h5 class="text-center">Lucas Fujimoto</h5>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/luanludry">
-        <img style="border-radius: 50%;" src="docs/img/Luan.png" width="150px;"/>
+        <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/Luan.png" />
         <h5 class="text-center">Luan Ludry Souza</h5>
       </a>
     </td>
