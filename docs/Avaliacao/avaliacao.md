@@ -10,7 +10,7 @@
 
 **Data da Avaliação:** [13 de Abril de 2026]
 
-**Versão do Artefato:** [1.1]
+**Versão do Artefato:** [1.0]
 
 ---
 
