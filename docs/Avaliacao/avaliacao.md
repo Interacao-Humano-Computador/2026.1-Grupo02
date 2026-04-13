@@ -8,7 +8,7 @@
 
 **Grupo Avaliado:** [Grupo 3]
 
-**Data da Avaliação:** [A Definir]
+**Data da Avaliação:** [13 de Abril de 2026]
 
 **Versão do Artefato:** [1.1]
 
