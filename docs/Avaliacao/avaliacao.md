@@ -10,7 +10,7 @@
 
 **Data da Avaliação:** [A Definir]
 
-**Versão do Artefato:** [1.1.1]
+**Versão do Artefato:** [1.1]
 
 ---
 
@@ -177,3 +177,13 @@
 4. **Preencha** as colunas "Autor do Item" com o nome do integrante responsável (quando aplicável).
 
 5. **Adicione** o nome do grupo avaliador e do grupo avaliado no cabeçalho.
+
+## Referência
+
+A Lista de Verificação foi feita com base na Lista de Verificação que está no[ Plano de Ensino](https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf) disponibilizado pelo professor André Barro de Sales.
+
+## Histórico de versão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|---|---|---|---|---|
+| `1.0` | 10/04/2026 | Criação do cronograma | Bryan Smith|  |
