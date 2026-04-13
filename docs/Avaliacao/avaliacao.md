@@ -31,6 +31,7 @@
 | PG07 | Possui opção de contraste de cores? | | | | **Cap. 8, p. 277:** "Ao utilizar cores para transmitir alguma informação através da interface, é necessário utilizar dicas secundárias claras para transmitir a mesma informação àqueles que não conseguem distinguir as cores utilizadas." |
 | PG08 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, Ferramentas do projeto, Processo de Design, cronograma das atividades? | | | | **Cap. 4, p. 99:** "Cada processo de design detalha as atividades básicas... e os artefatos consumidos e produzidos em cada uma delas." |
 | PG09 | Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver? | | | | **Cap. 5, p. 140:** "O pesquisador deve garantir aos participantes a confidencialidade e a privacidade dos dados brutos coletados." |
+| **PG10 (Bryan)** | **A descrição das ferramentas do projeto com justificativa da escolha de cada uma?** | | | | **Cap. 7, p. 248-251:** "Uma interface pode ser representada informalmente através de esboços, de forma estruturada através de modelos ou até mesmo através de protótipos funcionais. A escolha da ferramenta adequada é fundamental para o processo de design." |
 
 ---
 
@@ -49,6 +50,7 @@
 | DD09 | Vídeo de apresentação na categoria "não listado" no YouTube? | | | | **Cap. 9, p. 306:** "O avaliador deve preparar todo ambiente, hardware e software necessário para o uso do sistema avaliado e a captura de dados." |
 | DD10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | | | | **Cap. 4, p. 101:** "Uma equipe de pessoas formadas em diferentes áreas de conhecimento favorece a síntese de uma intervenção." |
 | DD11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | | | | **Cap. 5, p. 140:** "Ao divulgar os resultados da avaliação, o avaliador deve garantir o anonimato dos participantes e a utilização cuidadosa das informações coletadas." |
+| **DD12 (Bryan)** | **Um documento de "README.md" na raiz do repositório explicando o projeto?** | | | | **Cap. 4, p. 99:** "Cada processo de design detalha as atividades básicas... e os artefatos consumidos e produzidos em cada uma delas. A documentação clara é essencial para a comunicação entre os membros da equipe." |
 
 ---
 
