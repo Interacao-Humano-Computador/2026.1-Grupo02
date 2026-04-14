@@ -22,15 +22,17 @@
 
 | ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Observações |
 |:---|:---|:---|:---|:---|
-| PG01 | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | | | |
-| PG02 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período da revisão deles? | | | |
-| PG03 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | | | |
-| PG04 | O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? | | | |
-| PG05 | A motivação e os critérios para a escolha do site? | | | |
-| PG06 | O planejamento e avaliação dos sites selecionados? | | | |
-| PG07 | Possui opção de contraste de cores? | | | |
-| PG08 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, Ferramentas do projeto, Processo de Design, cronograma das atividades? | | | |
-| PG09 | Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver? | | | |
+| PG01 | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| PG02 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período da revisão deles? | **Incompleto** | **1.0, 13/04/26 as 20:47**  | Faltou quem e quando revisou|
+| PG03 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| PG04 | O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| PG05 | A motivação e os critérios para a escolha do site? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| PG06 | O planejamento e avaliação dos sites selecionados? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| PG07 | Possui opção de contraste de cores? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| PG08 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, Ferramentas do projeto, Processo de Design, cronograma das atividades? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| PG09 | Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+
+
 
 
 ---
@@ -39,17 +41,17 @@
 
 | ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Observações |
 |:---|:---|:---|:---|:---|
-| DD01 | O histórico de versão padronizado? | | | |
-| DD02 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | | | |
-| DD03 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | | | |
-| DD04 | As tabelas e imagens possuem legenda e fonte e são chamadas dentro do texto? | | | |
-| DD05 | Um texto fazendo uma introdução dos artefatos? | | | |
-| DD06 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização? | | | |
-| DD07 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc.)? | | | |
-| DD08 | A gravação da reunião do grupo? | | | |
-| DD09 | Vídeo de apresentação na categoria "não listado" no YouTube? | | | |
-| DD10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | | | |
-| DD11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | | | |
+| DD01 | O histórico de versão padronizado? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| DD02 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| DD03 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| DD04 | As tabelas e imagens possuem legenda e fonte e são chamadas dentro do texto? | **Não**| **1.0, 13/04/26 as 20:47**  | Falta da Legenda |
+| DD05 | Um texto fazendo uma introdução dos artefatos? | **Sim** | **1.0, 13/04/26 as 20:47** | |
+| DD06 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização? | **Não** | **1.0, 13/04/26 as 20:47**  | Faltou o Executado |
+| DD07 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc.)? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| DD08 | A gravação da reunião do grupo? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+| DD09 | Vídeo de apresentação na categoria "não listado" no YouTube? | **Sim** |  **1.0, 13/04/26 as 20:47**  | |
+| DD10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | **Incompleto** |  **1.0, 13/04/26 as 20:47**  | Tem a tabela mas não tem a hiperligação |
+| DD11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
 
 
 ---
@@ -58,7 +60,9 @@
 
 | ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Autor do Item | Observações |
 |:---|:---|:---|:---|:---|
-| CD01 | A justificativa da escolha do Processo de Design com referência bibliográfica e foto do texto? | | | |
+| CD01 | A justificativa da escolha do Processo de Design com referência bibliográfica e foto do texto? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+
+## Gravação da Avaliação da Entrega 1: [Youtube](https://youtu.be/Nr_rQPLNAIY)
 
 ---
 
