@@ -1,94 +1,117 @@
 # Processo de Design
+## Grupo 02
+
+---
 
 ## Histórico de Versão
 
-|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
-| 10/04/2026 |        10/04/2026        |  1.0   |     Criação do Documento     | Guilherme| Samuel |
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 10/04/2026 | 1.0 | Criação do documento | Guilherme | Samuel |
 
 ---
 
 ## Introdução
 
-Antes de tratar dos processos de design em si, é importante compreender o que o design representa dentro da área de Interação Humano-Computador. Segundo Barbosa e Silva (2010), o design pode ser entendido como uma atividade composta por três etapas essenciais que se relacionam: primeiro, o designer investiga e compreende a situação atual, identificando onde existem problemas ou oportunidades de melhoria; a partir dessa compreensão, ele concebe e modela uma forma de intervir nessa situação; e, por fim, avalia se a intervenção proposta ou já implantada é adequada e satisfatória. Os processos de design em IHC se organizam de forma iterativa, de modo que o designer possa retornar a etapas anteriores sempre que surgir a necessidade de ampliar sua compreensão do problema ou reformular a intervenção que está sendo construída. 
+Este documento apresenta o processo de design adotado no desenvolvimento do projeto da disciplina de Interação Humano-Computador (IHC). Seu objetivo é descrever os fundamentos teóricos, os modelos de ciclo de vida considerados e justificar a escolha do modelo que orientará as atividades do grupo.
 
-Conforme levantado por Barbosa e Silva (2010), esses processos focam prioritariamente nas pessoas, e não na tecnologia pela tecnologia. O objetivo central é criar soluções que atendam às necessidades reais dos usuários e de seu contexto. Para que isso aconteça de forma consistente, os autores descrevem três princípios que orientam os processos centrados no usuário, originalmente formulados por Gould e Lewis (1985):
+Antes de abordar os processos de design, é importante compreender seu papel dentro da IHC. O design pode ser entendido como uma atividade composta por três etapas principais: compreender a situação atual e identificar problemas, conceber soluções para intervenção e avaliar se essas soluções atendem às necessidades propostas. Esse processo é iterativo, permitindo revisões constantes conforme novas informações surgem.
 
-O primeiro princípio é o **foco no usuário**: o designer deve conhecer os usuários, compreendendo seu perfil, rotina, capacidades físicas e cognitivas, além de seus objetivos. Ignorar esses fatores torna as decisões de design vulneráveis a suposições equivocadas que podem comprometer a eficácia do sistema.
-
-O segundo princípio diz respeito às **métricas observáveis**: para garantir decisões fundamentadas, o design deve incluir testes com usuários reais em versões preliminares do sistema. Registrar e analisar o desempenho e as reações dessas pessoas fornece a base empírica necessária para validar as escolhas do projeto.
-
-O terceiro princípio é o **design iterativo**: sempre que testes com usuários revelarem falhas, estas devem ser corrigidas antes do progresso da equipe. O design, a avaliação e a revisão compõem um ciclo iterativo que se repete até que todas as necessidades do público sejam plenamente atendidas.
+Além disso, os processos de design em IHC são centrados no usuário, priorizando suas necessidades e contexto. Para isso, destacam-se três princípios fundamentais: foco no usuário, uso de métricas observáveis por meio de testes e adoção de um ciclo iterativo de design e avaliação.
 
 ---
 
-## Modelos de Ciclos de Vida
+## Modelos de Ciclos de Vida em IHC
 
 ### Ciclo de Vida Simples
 
-O ciclo de vida simples foi organizado por Preece, Sharp e Rogers e corresponde ao modelo mais simpless entre as propostas apresentadas, assim por não detalhar profundamente cada etapa é recomendado ter uma base sólida de conhecimento relacionado. Nele, a etapa de síntese é subdividida em duas frentes: a elaboração do design ou redesign conceitual da interação, seguida pela construção de uma versão interativa que permita avaliar a proposta (Barbosa; Silva, 2010).
+O ciclo de vida simples, proposto por Preece, Sharp e Rogers, é um modelo mais direto e menos detalhado. Ele organiza o processo de design em etapas amplas, sendo recomendado para equipes que já possuem experiência prévia em IHC.
 
-### Ciclo de Vida em Estrela
-
-Conforme Barbosa e Silva (2010), o ciclo de vida em estrela foi criado por Hix e Hartson no início dos anos 1990 e foi um dos primeiros modelos voltados especificamente para IHC a ganhar ampla difusão. Esse processo é formado por seis atividades: análise de tarefas, usuários e funções; especificação de requisitos; projeto conceitual e especificação do design; prototipação; implementação; e avaliação.
-
-O diferencial desse modelo é a centralização da avaliação, que se conecta a todas as outras etapas do processo. Na prática, o designer deve obrigatoriamente avaliar os resultados de qualquer atividade antes de avançar. Além disso, não existe uma ordem fixa, garantindo a autonomia para decidir por onde começar, adaptando o fluxo conforme as necessidades do projeto (Barbosa; Silva, 2010).
-
-### Engenharia de Usabilidade de Nielsen
-
-Jakob Nielsen formulou a engenharia de usabilidade como um conjunto de dez atividades que compõe todo o ciclo de vida de um produto. Segundo Barbosa e Silva (2010), Nielsen enfatiza que grande parte dessas atividades ocorre nas fases iniciais do projeto, antes mesmo que a interface comece a ser desenhada. As atividades que compõem essa proposta são:
-
-1. Conhecer o usuário
-2. Realizar uma análise competitiva
-3. Definir as metas de usabilidade
-4. Fazer designs paralelos
-5. Adotar o design participativo
-6. Fazer o design coordenado da interface como um todo
-7. Aplicar diretrizes e análise heurística
-8. Fazer protótipos
-9. Realizar testes empíricos
-10. Praticar design iterativo
-
-### Engenharia de Usabilidade de Mayhew
-
-Deborah Mayhew propôs, em 1999, um ciclo de vida para a engenharia de usabilidade que se destaca por sua abrangência. A proposta reúne, sob uma perspectiva holística, diversas atividades provenientes da área de IHC, organizando-as de modo a guiar o trabalho do designer em direção a soluções interativas de qualidade, assim o modelo é estruturado em três grandes fases (Barbosa; Silva, 2010).
-
-#### Fase 1: Análise de Requisitos
-
-A fase inicial foca em estabelecer as metas de usabilidade baseadas em quatro fontes fundamentais. Essas metas são documentadas em guias de estilo que servem como referência contínua para o projeto.
-<ul>
-<li>Perfil dos Usuários: Mapeamento de características como idade, experiência técnica, motivações e limitações. 
-<li>Análise de Tarefas: Estudo detalhado das atividades, incluindo objetivos, tempo necessário, dependências e esforço mental. 
-<li>Plataforma e Restrições: Definição das capacidades e limites técnicos do hardware, software e rede. 
-<li>Princípios de IHC: Aplicação de diretrizes ergonômicas e boas práticas de interface específicas para o contexto. 
-</ul> 
-
-#### Fase 2: Design, Avaliação e Desenvolvimento
-
-A segunda fase tem como objetivo construir uma solução que atenda às metas estabelecidas na fase anterior. Mayhew organiza essa construção em três níveis progressivos de detalhamento, cada qual acompanhado de avaliação com usuários.
-
-No **primeiro nível**, o foco reside na reengenharia do trabalho e na concepção da solução. O designer repensa como as tarefas devem ser executadas para atingir os objetivos dos usuários, desenvolve diferentes alternativas para o modelo conceitual e as materializa em protótipos de baixa fidelidade, que são submetidos a avaliação imediata.
-
-No **segundo nível**, o foco é a padronização, designer estabelece padrões de design de IHC específicos para a solução, constrói protótipos de média fidelidade baseados nessas normas e realiza novas avaliações para garantir a consistência e a funcionalidade.
-
-No **terceiro nível**, o designer executa o projeto detalhado da interface em alta fidelidade, preparando-a para a implementação final. Durante o desenvolvimento do sistema, a interface deve ser continuamente avaliada com a participação ativa dos usuários para garantir que o produto final seja funcional e intuitivo.
-
-#### Fase 3: Instalação
-
-A terceira fase ocorre depois que o sistema já está em operação e os usuários o utilizaram por algum período. O objetivo é coletar as opiniões e percepções que emergem do uso cotidiano, informações que dificilmente estariam disponíveis durante as fases de projeto. Esse retorno pode servir para duas finalidades: orientar melhorias em versões futuras do sistema ou indicar a necessidade de desenvolver novos produtos que atendam a demandas ainda não contempladas.
+Nesse modelo, a etapa de síntese envolve tanto a concepção do design quanto a construção de uma versão interativa que permita sua avaliação.
 
 ---
 
-## Justificativa da Escolha do Ciclo de Mayhew
+### Ciclo de Vida em Estrela
 
-Após examinar os modelos apresentados, o ciclo de vida de Mayhew foi o escolhido para orientar este projeto. Essa decisão levou em consideração os seguintes aspectos.
+O ciclo de vida em estrela, desenvolvido por Hix e Hartson, é um dos primeiros modelos específicos para IHC. Ele é composto por seis atividades principais: análise de tarefas, usuários e funções; especificação de requisitos; projeto conceitual; prototipação; implementação; e avaliação.
 
-Em primeiro lugar, o grau de detalhamento que o modelo oferece é consideravelmente maior. Enquanto o ciclo de vida simples e o ciclo em estrela deixam à cargo do designer a maior parte das decisões sobre como conduzir cada etapa, o ciclo de Mayhew especifica o que fazer, quando fazer e o que se espera como resultado de cada atividade. 
+Seu principal diferencial é a centralidade da avaliação, que deve ocorrer após cada etapa. Além disso, o modelo não impõe uma ordem fixa, permitindo flexibilidade na condução do processo.
 
-Em segundo lugar, o modelo especialmente adequado para equipes que ainda estão desenvolvendo familiaridade com os processos de IHC. O roteiro bem estruturado funciona como um guia concreto, diminuindo a dependência de experiência prévia acumulada para que o processo seja conduzido de forma consistente.
+---
+
+### Engenharia de Usabilidade de Nielsen
+
+A engenharia de usabilidade proposta por Jakob Nielsen organiza o processo em dez atividades, com forte ênfase nas fases iniciais do projeto. Essas atividades incluem desde o conhecimento do usuário até a realização de testes empíricos e a prática do design iterativo.
+
+Esse modelo destaca a importância de validar decisões antes da implementação, reduzindo retrabalho e aumentando a qualidade da interface.
+
+---
+
+### Engenharia de Usabilidade de Mayhew
+
+O modelo de Deborah Mayhew apresenta uma abordagem abrangente e estruturada para o desenvolvimento de sistemas interativos. Ele é dividido em três fases principais:
+
+#### Fase 1: Análise de Requisitos
+
+Nesta fase, são definidas as metas de usabilidade com base em quatro elementos principais:
+
+- Perfil dos usuários  
+- Análise de tarefas  
+- Plataforma e restrições  
+- Princípios de IHC  
+
+Essas informações são documentadas e utilizadas como base para todo o projeto.
+
+---
+
+#### Fase 2: Design, Avaliação e Desenvolvimento
+
+Esta fase envolve a construção da solução em níveis progressivos:
+
+- **Primeiro nível:** concepção da solução e protótipos de baixa fidelidade, com avaliação inicial  
+- **Segundo nível:** padronização e protótipos de média fidelidade  
+- **Terceiro nível:** desenvolvimento de protótipos de alta fidelidade e preparação para implementação  
+
+Em todos os níveis, a avaliação com usuários é essencial.
+
+---
+
+#### Fase 3: Instalação
+
+Após a implementação, esta fase busca coletar feedback real dos usuários em uso contínuo. Essas informações servem para melhorias futuras ou novos desenvolvimentos.
+
+---
+
+## Justificativa da Escolha do Modelo
+
+Após a análise dos modelos apresentados, o grupo optou por utilizar o ciclo de vida de Mayhew como base para o projeto.
+
+Essa escolha se deve, principalmente, ao alto nível de detalhamento do modelo, que fornece orientações claras sobre o que deve ser feito em cada etapa. Diferentemente de outros modelos mais abstratos, o de Mayhew oferece um guia estruturado que facilita a condução do projeto.
+
+Além disso, o modelo é especialmente adequado para equipes que ainda estão desenvolvendo experiência em IHC, pois reduz a dependência de conhecimento prévio ao fornecer um roteiro bem definido.
+
+---
+
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Guilherme | Elaboração do conteúdo sobre processos de design |
+| Samuel | Revisão do documento |
+| Tiago | Padronização do documento |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
 ## Referência Bibliográfica
 
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+
+---
+
+## Agradecimentos
+
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na organização da estrutura e padronização do conteúdo em formato acadêmico. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
