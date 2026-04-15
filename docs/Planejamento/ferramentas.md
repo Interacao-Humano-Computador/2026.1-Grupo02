@@ -8,7 +8,7 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 10/04/2026 | 1.0 | Criação do documento contendo as ferramentas | Maria Luana | Tiago Geovane |
-| 15/04/2026 | 1.1 | Correção das imagens das ferramentas | Lucas Fujimoto | ----- |
+| 15/04/2026 | 1.1 | Correção das imagens das ferramentas | Lucas Fujimoto | Maria Luana|
 
 
 ---
