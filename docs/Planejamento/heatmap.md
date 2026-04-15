@@ -39,6 +39,8 @@ O processo de construção ocorreu da seguinte forma:
 
 Essa abordagem permitiu uma visão clara e compartilhada da agenda do grupo, contribuindo para uma melhor organização das atividades.
 
+Heatmap de Disponibilidade: <a href="https://docs.google.com/spreadsheets/d/1Jm0rxqWhgBwGmKBtouq9D5yVQB8GpTcptL05fGTCjNI">Heatmap</a>
+
 ---
 
 ## Representação do Heatmap
