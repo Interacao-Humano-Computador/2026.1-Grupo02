@@ -1,20 +1,51 @@
-# Site Selecionado
+# Site Selecionado: Portal do TRE/TSE
 
-O site selecionado para o desenvolvimento do trabalho foi o **[portal de agendamento da SES-DF (Secretaria de Estado de Saúde do Distrito Federal)](https://agenda.df.gov.br/posto.html;jsessionid=cRuQ8w2jbDmkFE09XeSEiAKm841ugFoNlO8MgbcV.000suticsv112?servico=54165098)**, com foco no **agenda, Hepatite B, Hepatite C e Contagem de Linfócitos T CD4 e CD8.
+## Introdução
 
----
+Este documento apresenta o processo de seleção do site analisado pelo grupo no contexto da disciplina de Interação Humano-Computador (IHC). A partir da avaliação de plataformas digitais de serviços públicos, o portal do TRE/TSE foi escolhido para análise por concentrar serviços de alta complexidade e importância social, permitindo uma avaliação profunda das heurísticas de usabilidade e da experiência do usuário em fluxos críticos de atendimento cidadão.
 
-## Motivações para a escolha do Site
-- Foi um dos sites que estão na lista de recomendação do professor para se trabalhar;
-- Sua funcionalidade é importante para a comunidade por ser um meio de agendamento de exames que afeta muitos usuários;
-- O site tem apareência obsoleta em coparação a outros sites do GDF, o que podee gerar insatisfação por parte do usuário;
-- A intereface apreseta falta de acessibilidade para usuários com diversas incapacidades visuais e audivitas, como surdez ou cegueira;
-- O sistema não tem uma interface agradável para o usuário, por não haver opção de troca de visual da tela (opção de alternar as cores do site para variante clara ou escura) e muitos espaços vazios que deixam o site ter uma aparência inacabada.
+Para mais detalhes sobre os sites analisados, consulte a seção de planejamento do grupo.
 
 ---
 
-## Histórico de Versão
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| `1.0`| 11/04/2026 | Criação da página "Site Selecionado" | [Samuel Felipe](https://github.com/TerminaKng05) |  |
-| `1.1`| 11/04/2026 | Update da página "Sites Selecionado" | [Samuel Felipe](https://github.com/TerminaKng05) |  |
+## Site Selecionado
+
+O site selecionado pelo grupo foi o portal do **Tribunal Superior Eleitoral (TSE) / Tribunal Regional Eleitoral (TRE)**, com foco nas plataformas de atendimento ao eleitor e transparência.
+
+---
+
+## Funcionalidades Analisadas
+
+O grupo focará a análise nas seguintes funcionalidades, que representam diferentes níveis de interação e complexidade:
+
+### 1. Autoatendimento ao Eleitor
+
+Painel que centraliza diversos serviços fundamentais para o público externo:
+
+- **Transferir título eleitoral:** Fluxo de mudança de domicílio eleitoral.
+- **Atualizar dados pessoais:** Alteração de informações biográficas e cadastrais.
+- **Justificar ausência:** Sistema para eleitores que não compareceram às urnas.
+- **Validar autenticidade de documentos:** Verificação de certidões e documentos emitidos pela Justiça Eleitoral.
+
+### 2. DivulgaCandContas
+
+Portal de transparência que permite a navegação profunda por dados de candidaturas em todo o país:
+
+- **Consultas detalhadas:** Acesso a propostas e históricos de candidatos.
+- **Validação de documentos:** Conferência de atas e registros.
+- **Comparativo de Gastos:** Visualização e análise de receitas e despesas de campanhas.
+
+### 3. Balcão Virtual
+
+Plataforma de interação em tempo real para atendimento imediato:
+
+- **Agendamento de Videoconferência:** Sistema de marcação para atendimento remoto por vídeo com servidores da Justiça Eleitoral.
+
+---
+
+## Motivação da Escolha e Heurísticas Relacionadas
+
+PREENCHER
+
+### Satisfação do Usuário
+PREENCHER
