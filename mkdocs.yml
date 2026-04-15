@@ -30,8 +30,8 @@ nav:
   - Inicio: index.md
   - Planejamento:
       - Cronograma: Planejamento/cronograma.md
-      - Ferramentas: Planejamento/ferramentas.md
       - Heatmap: Planejamento/heatmap.md
+      - Ferramentas: Planejamento/ferramentas.md
       - Processo de Design: Planejamento/Processo_Design.md
       - Sites Analisados: Planejamento/sites_analisados.md
       - Site Selecionado: Planejamento/site_selecionado.md
