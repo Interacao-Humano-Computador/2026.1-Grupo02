@@ -1,193 +1,158 @@
 # Lista de Verificação para Inspeção de Projetos de IHC
-
-**Universidade de Brasília - Faculdade UnB Gama**
-
-**Disciplina:** Interação Humano-Computador
-
-**Grupo Avaliador:** [Grupo 2]
-
-**Grupo Avaliado:** [Grupo 3]
-
-**Data da Avaliação:** [13 de Abril de 2026]
-
-**Versão do Artefato:** [1.0]
+## Grupo 02
 
 ---
 
-## Entrega 1: Planejamento do Projeto
+## Histórico de Versão
 
-**Tempo de apresentação:** 20 a 30 minutos (mínimo e máximo)
-
-### Itens do Planejamento Geral do Projeto
-
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Observações |
-|:---|:---|:---|:---|:---|
-| PG01 | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| PG02 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período da revisão deles? | **Incompleto** | **1.0, 13/04/26 as 20:47**  | Faltou quem e quando revisou|
-| PG03 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| PG04 | O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| PG05 | A motivação e os critérios para a escolha do site? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| PG06 | O planejamento e avaliação dos sites selecionados? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| PG07 | Possui opção de contraste de cores? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| PG08 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, Ferramentas do projeto, Processo de Design, cronograma das atividades? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| PG09 | Uma página com as atas de reunião com o acesso a gravação (vídeo), quando houver? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-
-
-
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 10/04/2026 | 1.0 | Criação da lista de verificação | Bryan Smith | — |
 
 ---
 
-### Itens do Desenvolvimento do Projeto (Entrega 1)
+## Introdução
 
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Observações |
-|:---|:---|:---|:---|:---|
-| DD01 | O histórico de versão padronizado? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| DD02 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| DD03 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| DD04 | As tabelas e imagens possuem legenda e fonte e são chamadas dentro do texto? | **Não**| **1.0, 13/04/26 as 20:47**  | Falta da Legenda |
-| DD05 | Um texto fazendo uma introdução dos artefatos? | **Sim** | **1.0, 13/04/26 as 20:47** | |
-| DD06 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização? | **Não** | **1.0, 13/04/26 as 20:47**  | Faltou o Executado |
-| DD07 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc.)? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| DD08 | A gravação da reunião do grupo? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-| DD09 | Vídeo de apresentação na categoria "não listado" no YouTube? | **Sim** |  **1.0, 13/04/26 as 20:47**  | |
-| DD10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | **Incompleto** |  **1.0, 13/04/26 as 20:47**  | Tem a tabela mas não tem a hiperligação |
-| DD11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
+Este documento apresenta uma lista de verificação (checklist) utilizada para a inspeção de projetos da disciplina de Interação Humano-Computador (IHC). Seu objetivo é avaliar de forma sistemática os artefatos produzidos por outros grupos, verificando se atendem aos critérios definidos no plano de ensino da disciplina.
 
+A checklist está organizada por entregas e contempla tanto aspectos de desenvolvimento do projeto quanto conteúdos específicos da disciplina, permitindo uma análise estruturada e consistente.
 
 ---
 
-### Itens do Conteúdo da Disciplina (Entrega 1)
+## Identificação da Avaliação
 
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Autor do Item | Observações |
-|:---|:---|:---|:---|:---|
-| CD01 | A justificativa da escolha do Processo de Design com referência bibliográfica e foto do texto? | **Sim** | **1.0, 13/04/26 as 20:47**  | |
-
-## Gravação da Avaliação da Entrega 1: [Youtube](https://youtu.be/Nr_rQPLNAIY)
-
----
-
-## Entrega 2: Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
-
-### Itens do Desenvolvimento do Projeto (Entrega 2)
-
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Observações |
-|:---|:---|:---|:---|:---|
-| DD-E2-01 | Todos os 11 itens de desenvolvimento do projeto (conforme tabela anterior)? | | | |
+- **Universidade:** Universidade de Brasília - Faculdade UnB Gama  
+- **Disciplina:** Interação Humano-Computador  
+- **Grupo Avaliador:** Grupo 2  
+- **Grupo Avaliado:** Grupo 3  
+- **Data da Avaliação:** 13 de abril de 2026  
+- **Versão do Artefato:** 1.0  
 
 ---
 
-### Itens do Conteúdo da Disciplina (Entrega 2)
+## Checklist de Avaliação
 
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Autor do Item | Observações |
-|:---|:---|:---|:---|:---|
-| CD-E2-01 | O perfil do usuário definido com base nos tipos de dados descritos no livro (idade, experiência, atitudes, tarefas primárias, etc.)? | | | |
-| CD-E2-02 | O perfil do usuário define os grupos de atributos: idade (criança, jovem, adulto, terceira idade); experiência (leigo/novato, especialista); atitudes (tecnófilos, tecnófobos); e tarefas primárias (compra, venda)? | | | |
-| CD-E2-03 | Considera os Aspectos Éticos de Pesquisas Envolvendo Pessoas? | | | |
-| CD-E2-04 | Apresenta os 4 princípios éticos (autonomia, beneficência, não maleficência, justiça e equidade)? | | | |
-| CD-E2-05 | Solicita permissão para gravar a voz ou imagem de qualquer pessoa antes de começar a gravação? | | | |
-| CD-E2-06 | Possui o Termo de Consentimento Livre e Esclarecido (TCLE) dos participantes? | | | |
-| CD-E2-07 | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (entrevistas, questionários, grupos de foco, brainstorming, card sorting, estudos de campo, investigação contextual)? | | | |
-| CD-E2-08 | Os Cenários (de problema, de interação, etc.)? | | | |
-| CD-E2-09 | A Análise de Tarefas? | | | |
-| CD-E2-10 | Uma atividade para cada integrante do grupo modelizada em ao menos duas técnicas para especificar as tarefas (HTA com diagrama, legenda e tabela; GOMS: KLM, CMN-GOMS, CPM-GOMS; CTT)? | | | |
-| CD-E2-11 | Utilizaram alguma técnica para especificar as tarefas? | | | |
+### Entrega 1: Planejamento do Projeto
 
----
+**Tempo de apresentação:** 20 a 30 minutos
 
-## Entrega 3: Princípios Gerais de Projeto, Metas de Usabilidade, Guia de Estilo
+#### Itens do Planejamento Geral do Projeto
 
-**Fase:** Análise de Requisitos
-
-### Itens do Desenvolvimento do Projeto (Entrega 3)
-
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Observações |
-|:---|:---|:---|:---|:---|
-| DD-E3-01 | Todos os 10 itens de desenvolvimento do projeto? | | | |
+| ID | Questão | Resposta | Versão, Data e Hora | Observações |
+|:---|:--------|:---------|:--------------------|:------------|
+| PG01 | Página com integrantes (foto e nome, sem matrícula) | Sim | 1.0, 13/04/26 às 20:47 | |
+| PG02 | Cronograma completo com responsáveis e revisores | Incompleto | 1.0, 13/04/26 às 20:47 | Faltou quem e quando revisou |
+| PG03 | Período de gravação das apresentações | Sim | 1.0, 13/04/26 às 20:47 | |
+| PG04 | Período de revisão após feedback | Sim | 1.0, 13/04/26 às 20:47 | |
+| PG05 | Motivação e critérios de escolha do site | Sim | 1.0, 13/04/26 às 20:47 | |
+| PG06 | Planejamento e avaliação dos sites | Sim | 1.0, 13/04/26 às 20:47 | |
+| PG07 | Opção de contraste de cores | Sim | 1.0, 13/04/26 às 20:47 | |
+| PG08 | Artefatos obrigatórios presentes | Sim | 1.0, 13/04/26 às 20:47 | |
+| PG09 | Página com atas e gravações | Sim | 1.0, 13/04/26 às 20:47 | |
 
 ---
 
-### Itens do Conteúdo da Disciplina (Entrega 3)
+#### Itens do Desenvolvimento do Projeto (Entrega 1)
 
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Autor do Item | Observações |
-|:---|:---|:---|:---|:---|
-| CD-E3-01 | As características da plataforma para o projeto? | | | |
-| CD-E3-02 | Os Princípios Gerais do Projeto que serão utilizados no projeto? | | | |
-| CD-E3-03 | Os Princípios Gerais do Projeto contêm os tópicos: correspondência com as expectativas; simplicidade; equilíbrio entre controle e liberdade; consistência e padronização; promoção da eficiência; antecipação; visibilidade e reconhecimento; conteúdo relevante e expressão adequada; e projeto para erros? | | | |
-| CD-E3-04 | As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC? | | | |
-| CD-E3-05 | A razão da seleção das metas de usabilidade? | | | |
-| CD-E3-06 | O Guia de Estilo do projeto? | | | |
-| CD-E3-07 | O Guia de Estilo possui a estrutura completa (Introdução com objetivo, organização, público-alvo, como utilizar, como manter; Resultados de análise; Descrição do ambiente de trabalho; Elementos de interface; Elementos de interação; Elementos de ação; Vocabulário e padrões)? | | | |
-| CD-E3-08 | O Guia de Estilo corresponde ao site avaliado? | | | |
-
----
-
-## Entrega 4: Planejamento da Avaliação do Storyboard e Análise de Tarefas
-
-### Itens do Desenvolvimento do Projeto (Entrega 4)
-
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Observações |
-|:---|:---|:---|:---|:---|
-| DD-E4-01 | Todos os 10 itens de desenvolvimento do projeto? | | | |
+| ID | Questão | Resposta | Versão, Data e Hora | Observações |
+|:---|:--------|:---------|:--------------------|:------------|
+| DD01 | Histórico de versão padronizado | Sim | 1.0, 13/04/26 às 20:47 | |
+| DD02 | Autores e revisores definidos | Sim | 1.0, 13/04/26 às 20:47 | |
+| DD03 | Referências bibliográficas presentes | Sim | 1.0, 13/04/26 às 20:47 | |
+| DD04 | Tabelas/imagens com legenda e fonte | Não | 1.0, 13/04/26 às 20:47 | Falta legenda |
+| DD05 | Introdução nos artefatos | Sim | 1.0, 13/04/26 às 20:47 | |
+| DD06 | Cronograma executado detalhado | Não | 1.0, 13/04/26 às 20:47 | Faltou executado |
+| DD07 | Atas de reuniões completas | Sim | 1.0, 13/04/26 às 20:47 | |
+| DD08 | Gravação das reuniões | Sim | 1.0, 13/04/26 às 20:47 | |
+| DD09 | Vídeo no YouTube não listado | Sim | 1.0, 13/04/26 às 20:47 | |
+| DD10 | Tabela de contribuição com links | Incompleto | 1.0, 13/04/26 às 20:47 | Sem hiperlinks |
+| DD11 | Agradecimentos com uso de IA | Sim | 1.0, 13/04/26 às 20:47 | |
 
 ---
 
-### Itens do Conteúdo da Disciplina (Entrega 4)
+#### Itens do Conteúdo da Disciplina (Entrega 1)
 
-| ID | Questão: O GitHub Pages possui... | Resposta (Sim/Não/Incompleto) | Autor do Item | Observações |
-|:---|:---|:---|:---|:---|
-| CD-E4-01 | O planejamento da avaliação segue o Framework DECIDE? | | | |
-| CD-E4-02 | Descreve o(s) objetivo(s) da avaliação (apropriação de tecnologia; ideias e alternativas de design; conformidade com padrão; problemas na interação e na interface)? | | | |
-| CD-E4-03 | Os métodos de avaliação a serem utilizados? | | | |
-| CD-E4-04 | As questões práticas da avaliação (recrutamento dos usuários, perfil, quantidade, local, equipamentos, prazos, orçamento, mão-de-obra)? | | | |
-| CD-E4-05 | As questões éticas (participantes respeitados, não prejudicados direta ou indiretamente)? | | | |
-| CD-E4-06 | A estrutura do relatório do resultado da avaliação (objetivos, descrição do método, número e perfil de avaliadores e participantes, tarefas executadas, lista de problemas)? | | | |
-| CD-E4-07 | Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas? | | | |
-| CD-E4-08 | Cada desenho do StoryBoard está relacionado a uma especificação do artefato da Análise de Tarefas? | | | |
-| CD-E4-09 | A quantidade de storyboards é igual à quantidade de integrantes do grupo? | | | |
-| CD-E4-10 | A definição do teste piloto e data para realização antes da avaliação? | | | |
-| CD-E4-11 | O resultado do teste piloto não será apresentado no resultado da avaliação? | | | |
-| CD-E4-12 | Os itens que o avaliador deve realizar/anotar durante a avaliação (listar problemas encontrados, priorizar correções)? | | | |
+| ID | Questão | Resposta | Autor do Item | Observações |
+|:---|:--------|:---------|:--------------|:------------|
+| CD01 | Justificativa do processo de design | Sim | 1.0, 13/04/26 às 20:47 | |
+
+---
+
+### Entrega 2: Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
+
+#### Itens do Desenvolvimento do Projeto
+
+| ID | Questão | Resposta | Versão, Data e Hora | Observações |
+|:---|:--------|:---------|:--------------------|:------------|
+| DD-E2-01 | Todos os itens de desenvolvimento atendidos |  |  |  |
+
+---
+
+#### Itens do Conteúdo da Disciplina
+
+| ID | Questão | Resposta | Autor do Item | Observações |
+|:---|:--------|:---------|:--------------|:------------|
+| CD-E2-01 | Perfil do usuário completo |  |  |  |
+| CD-E2-02 | Definição de atributos dos usuários |  |  |  |
+| CD-E2-03 | Consideração de aspectos éticos |  |  |  |
+| CD-E2-04 | Princípios éticos apresentados |  |  |  |
+| CD-E2-05 | Consentimento para gravação |  |  |  |
+| CD-E2-06 | TCLE presente |  |  |  |
+| CD-E2-07 | Uso de duas técnicas de coleta |  |  |  |
+| CD-E2-08 | Cenários definidos |  |  |  |
+| CD-E2-09 | Análise de tarefas |  |  |  |
+| CD-E2-10 | Modelagem de tarefas por integrante |  |  |  |
+| CD-E2-11 | Uso de técnica de especificação |  |  |  |
 
 ---
 
 ## Observações Finais
 
-**Importante:** Cada integrante da equipe deve elaborar ao menos um (1) item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência.
-
-**Referência Bibliográfica Base:**
-
-> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Editora Campus, 2010.
+Cada integrante da equipe deve elaborar ao menos um item de conteúdo da disciplina, incluindo referência bibliográfica e evidência da fonte utilizada.
 
 ---
 
-## Legenda de Preenchimento
+## Legenda
 
 | Símbolo | Significado |
 |:---|:---|
-| **Sim** | O artefato está presente e atende completamente ao critério |
-| **Não** | O artefato não está presente ou não atende ao critério |
-| **Incompleto** | O artefato está presente mas atende parcialmente ao critério |
+| Sim | Atende completamente |
+| Não | Não atende |
+| Incompleto | Atende parcialmente |
 
 ---
 
 ## Instruções de Uso
 
-1. **Preencha** as colunas "Resposta" com `Sim`, `Não` ou `Incompleto`.
+1. Preencher as respostas com Sim, Não ou Incompleto.  
+2. Registrar versão, data e horário do artefato avaliado.  
+3. Adicionar observações com justificativas.  
+4. Identificar o autor responsável por cada item quando necessário.  
 
-2. **Preencha** as colunas "Versão, Data e Hora" com as informações do artefato avaliado.
+---
 
-3. **Preencha** as colunas "Observações" com justificativas e evidências encontradas.
+## Tabela de Contribuição
 
-4. **Preencha** as colunas "Autor do Item" com o nome do integrante responsável (quando aplicável).
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Bryan Smith | Criação da checklist |
+| Nome do Integrante 2 | Revisão |
+| Nome do Integrante 3 | — |
 
-5. **Adicione** o nome do grupo avaliador e do grupo avaliado no cabeçalho.
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
-## Referência
+---
 
-A Lista de Verificação foi feita com base na Lista de Verificação que está no[ Plano de Ensino](https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf) disponibilizado pelo professor André Barro de Sales.
+## Referência Bibliográfica
 
-## Histórico de versão
+SALES, André Barros. **Plano de Ensino da disciplina de Interação Humano-Computador**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|---|---|---|---|---|
-| `1.0` | 10/04/2026 | Criação do cronograma | Bryan Smith|  |
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Campus, 2010.
+
+---
+
+## Agradecimentos
+
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na organização e padronização da checklist. Todo o conteúdo técnico e as decisões de avaliação foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
