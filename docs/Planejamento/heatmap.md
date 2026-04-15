@@ -7,7 +7,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/2026 | 1.0 | Criação do documento do heatmap de disponibilidade | Nome do Autor | Nome do Revisor |
+| 15/04/2026 | 1.0 | Criação do documento do heatmap de disponibilidade | Tiago | ----- |
 
 ---
 
@@ -35,7 +35,7 @@ O processo de construção ocorreu da seguinte forma:
 
 - Foi criada uma planilha contendo os dias da semana e intervalos de horários.  
 - Cada integrante do grupo acessou a planilha e marcou os horários em que estava ocupado.  
-- A partir dessas marcações, foi possível identificar visualmente os períodos com maior ou menor disponibilidade coletiva.  
+- A partir dessas marcações, foi possível identificar juntar visualmente todos os dados para melhor interpretação deles. 
 
 Essa abordagem permitiu uma visão clara e compartilhada da agenda do grupo, contribuindo para uma melhor organização das atividades.
 
