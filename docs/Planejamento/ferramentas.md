@@ -8,6 +8,8 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 10/04/2026 | 1.0 | Criação do documento contendo as ferramentas | Maria Luana | Tiago Geovane |
+| 15/04/2026 | 1.1 | Correção das imagens das ferramentas | Lucas Fujimoto | ----- |
+
 
 ---
 
@@ -25,13 +27,13 @@ As ferramentas selecionadas pelo grupo estão descritas na tabela a seguir, junt
 
 | Logo | Ferramenta | Finalidade |
 |:---:|:----------:|:-----------|
-| <img src="../img/logos/GitHub_Invertocat_Black.png" width="100"> | GitHub | Manter, organizar e controlar a versão dos artefatos do projeto |
-| <img src="../img/logos/mkdocs.png" width="200"> | MkDocs | Geração das páginas de documentação |
-| <img src="../img/logos/microsoftTeams.png" width="100"> | Microsoft Teams | Comunicação e realização de reuniões da equipe |
-| <img src="../img/logos/WhatsApp.png" width="80"> | WhatsApp | Comunicação rápida entre os membros |
-| <img src="../img/logos/googleSheets.png" width="100"> | Google Sheets | Organização de dados e criação de planilhas |
-| <img src="../img/logos/Google-Docs-Logo.png" width="115"> | Google Docs | Documentação colaborativa |
-| <img src="../img/logos/youtube.png" width="180"> | YouTube | Hospedagem e compartilhamento de vídeos do projeto |
+| <img src="../../img/logos/GitHub_Invertocat_Black.png" alt="GitHub" width="100"> | GitHub | Manter, organizar e controlar a versão dos artefatos do projeto |
+| <img src="../../img/logos/mkdocs.png" alt="MkDocs" width="200"> | MkDocs | Geração das páginas de documentação |
+| <img src="../../img/logos/microsoftTeams.png" alt="Microsoft Teams" width="100"> | Microsoft Teams | Comunicação e realização de reuniões da equipe |
+| <img src="../../img/logos/WhatsApp.png" alt="WhatsApp" width="80"> | WhatsApp | Comunicação rápida entre os membros |
+| <img src="../../img/logos/googleSheets.png" alt="Google Sheets" width="100"> | Google Sheets | Organização de dados e criação de planilhas |
+| <img src="../../img/logos/Google-Docs-Logo.png" alt="Google Docs" width="115"> | Google Docs | Documentação colaborativa |
+| <img src="../../img/logos/youtube.png" alt="YouTube" width="180"> | YouTube | Hospedagem e compartilhamento de vídeos do projeto |
 
 <div style="text-align: left">
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: SOARES LOPES, Maria Luana, 2026).</p>

@@ -7,7 +7,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 15/04/2026 | 1.0 | Criação do documento do heatmap de disponibilidade | Tiago | ----- |
+| 15/04/2026 | 1.0 | Criação do documento do heatmap de disponibilidade | Tiago | Lucas Fujimoto |
 
 ---
 
