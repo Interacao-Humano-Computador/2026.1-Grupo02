@@ -1,6 +1,57 @@
+/* =========================================
+   MODO CLARO (Padrão TSE)
+   ========================================= */
 :root {
-    --md-primary-fg-color: #4CAF50;
-    --md-primary-fg-color--light: #81C784;
-    --md-primary-fg-color--dark: #388E3C;
-    --md-accent-fg-color: #4CAF50;
-  }
+  /* Cor principal: Azul Escuro do TSE */
+  --md-primary-fg-color:        #1b305a; 
+  /* Cor do texto no cabeçalho (Branco) */
+  --md-primary-fg-color--light: #ffffff; 
+  /* Cor de destaque: Amarelo Institucional */
+  --md-accent-fg-color:         #ffda59; 
+  /* Texto principal: Cinza Texto Padrão */
+  --md-typeset-color:           #6b6b6b; 
+  /* Títulos: Azul Escuro */
+  --md-typeset-heading-color:   #1b305a; 
+  /* Links: Azul Claro/Hover */
+  --md-typeset-a-color:         #4671c8; 
+  /* Fundo de blocos de código/citações (Cinza Fundo Secundário) */
+  --md-code-bg-color:           #f8f8f8; 
+}
+
+/* Ajuste sutil para o amarelo não sumir no texto de links ativos no menu lateral */
+.md-nav__link--active {
+  color: #1b305a !important;
+  font-weight: 700;
+  border-left: 4px solid var(--md-accent-fg-color);
+}
+
+/* =========================================
+   MODO ESCURO (Adaptação de Contraste)
+   ========================================= */
+[data-md-color-scheme="slate"] {
+  /* Fundo principal: Um azul marinho bem profundo para manter a identidade */
+  --md-default-bg-color:        #061937; 
+  /* Fundo de elementos em destaque (cards, menu lateral) */
+  --md-default-bg-color--light: #163058; 
+  
+  /* Cor do cabeçalho: Fundo um pouco mais escuro que a página para separar */
+  --md-primary-fg-color:        #041126; 
+  /* Destaque mantido no Amarelo Institucional, pois tem alto contraste no escuro */
+  --md-accent-fg-color:         #ffda59; 
+  
+  /* Textos: Usando um cinza/gelo claro (retirado do próprio CSS do TSE) */
+  --md-typeset-color:           #e6ecf0; 
+  /* Títulos: Branco ou quase branco */
+  --md-typeset-heading-color:   #ffffff; 
+  /* Links: Verde Destaque do TSE (funciona muito bem em fundos escuros) */
+  --md-typeset-a-color:         #47c77d; 
+  
+  /* Código: Fundo escurecido */
+  --md-code-bg-color:           #020814; 
+}
+
+/* Ajuste de contraste para links no modo escuro */
+[data-md-color-scheme="slate"] .md-nav__link--active {
+  color: #ffda59 !important;
+  border-left: 4px solid var(--md-accent-fg-color);
+}
