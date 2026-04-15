@@ -62,7 +62,7 @@ Abaixo está a representação visual do heatmap de disponibilidade da equipe:
 |:----------:|:-------------|
 | Tiago | Criação da planilha e organização dos dados |
 | Tiago, Maria, Bryan, Guilherme, Lucas, Luan e Samuel | Preenchimento do heatmap |
-| ----- | Revisão do documento |
+| Lucas Fujimoto | Revisão do documento |
 
 <div style="text-align: left">
 <p>Tabela 2: Tabela de contribuição (Fonte: autor, 2026).</p>
