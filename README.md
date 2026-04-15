@@ -31,7 +31,7 @@ O Tribunal Superior Eleitoral (TSE) e os Tribunais Regionais Eleitorais (TREs) s
 
 ## Integrantes da Equipe
 
-Heatmap de Disponibilidade: <a href="https://docs.google.com/spreadsheets/d/1Jm0rxqWhgBwGmKBtouq9D5yVQB8GpTcptL05fGTCjNI/edit?gid=1105040389#gid=1105040389">Heatmap</a>
+Heatmap de Disponibilidade: <a href="https://docs.google.com/spreadsheets/d/1Jm0rxqWhgBwGmKBtouq9D5yVQB8GpTcptL05fGTCjNI">Heatmap</a>
 
 Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasília presentes na Tabela 1.
 
