@@ -8,6 +8,7 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 10/04/2026 | 1.0 | Criação do cronograma do projeto | Lucas Fujimoto | Luan Ludry |
+| 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | |
 
 ---
 
@@ -28,14 +29,14 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
 | Documentar equipe | Início: 09/04<br>Fim: 10/04 | Tiago | Início: 09/04<br>Fim: 10/04 | Luan |
-| Lista de sites | Início: 09/04<br>Fim: 10/04 | Todos | Início: 09/04<br>Fim: 10/04 | Bryan |
-| Site selecionado | Início: 09/04<br>Fim: 10/04 | Todos | Início: 09/04<br>Fim: 10/04 | Lucas |
+| Lista de sites | Início: 09/04<br>Fim: 10/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 09/04<br>Fim: 10/04 | Bryan |
+| Site selecionado | Início: 09/04<br>Fim: 10/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 09/04<br>Fim: 10/04 | Lucas |
 | Ferramentas utilizadas no projeto | Início: 09/04<br>Fim: 10/04 | Maria Luana | Início: 09/04<br>Fim: 10/04 | Guilherme |
 | Processo de Design | Início: 09/04<br>Fim: 12/04 | Guilherme e Samuel | Início: 09/04<br>Fim: 10/04 | Tiago |
 | Cronograma | Início: 09/04<br>Fim: 12/04 | Lucas | Início: 09/04<br>Fim: 10/04 | Samuel |
 | Criação do git pages | Início: 09/04<br>Fim: 10/04 | Luan e Bryan | Início: 09/04<br>Fim: 10/04 | Maria Luana |
-| Gravar vídeo de apresentação | Início: 10/04<br>Fim: 10/04 | Todos | Início: 09/04<br>Fim: 10/04 | Bryan |
-| Correção após feedback | Início: 14/04<br>Fim: 16/04 | Todos | Início: 09/04<br>Fim: 10/04 | Lucas |
+| Gravar vídeo de apresentação | Início: 10/04<br>Fim: 10/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 09/04<br>Fim: 10/04 | Bryan |
+| Correção após feedback | Início: 14/04<br>Fim: 16/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 09/04<br>Fim: 10/04 | Lucas |
 
 <div style="text-align: left">
 <p>Tabela 1: Planejamento do Projeto (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -51,8 +52,8 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Ferramentas utilizadas no projeto | 09/04<br>Fim: 10/04 | Maria Luana | Início: 11/04<br>Fim: 11/04 | Tiago |
 | Processo de Design | 09/04<br>Fim: 10/04 | Guilherme e Samuel | Início: 11/04<br>Fim: 11/04 | Samuel |
 | Cronograma | Início: 09/04<br>Fim: 10/04 | Lucas | Início: 11/04<br>Fim: 11/04 | Luan |
-| Criação do git pages | 09/04<br>Fim: 10/04 | Luan e Bryan | Início: 11/04<br>Fim: 11/04 | Todos |
-| Gravar vídeo de apresentação |  |  |  |  |
+| Criação do git pages | 09/04<br>Fim: 10/04 | Luan e Bryan | Início: 11/04<br>Fim: 11/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Gravar vídeo de apresentação | Início: 10/04<br>Fim: 10/04  | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 10/04<br>Fim: 10/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Correção após feedback |  |  |  |  |
 
 <div style="text-align: left">
@@ -72,8 +73,8 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Mapa de empatia | Início: 22/04<br>Fim: 25/04 | Lucas | Início: 26/04<br>Fim: 28/04 | Maria Luana |
 | Análise de tarefas | Início: 20/04<br>Fim: 29/04 | Luan | Início: 30/04<br>Fim: 02/05 | Guilherme |
 | Aspectos éticos | Início: 22/04<br>Fim: 27/04 | Maria Luana | Início: 28/04<br>Fim: 30/04 | Tiago |
-| Gravar vídeo de apresentação | Início: 30/04<br>Fim: 30/04 | Todos | Início: 01/05<br>Fim: 03/05 | Samuel |
-| Correção após feedback | Início: 06/05<br>Fim: 06/05 | Todos | Início: 07/05<br>Fim: 07/05 | Bryan |
+| Gravar vídeo de apresentação | Início: 30/04<br>Fim: 30/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 01/05<br>Fim: 03/05 | Samuel |
+| Correção após feedback | Início: 06/05<br>Fim: 06/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 07/05<br>Fim: 07/05 | Bryan |
 
 <div style="text-align: left">
 <p>Tabela 3: Perfil do usuário (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -107,8 +108,8 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Metas de usabilidade | Início: 08/05<br>Fim: 10/05 | Bryan e Tiago | Início: 11/05<br>Fim: 11/05 | Maria Luana e Lucas |
 | Guia de estilo | Início: 08/05<br>Fim: 10/05 | Guilherme e Maria Luana | Início: 11/05<br>Fim: 11/05 | Samuel |
 | Características da plataforma | Início: 08/05<br>Fim: 10/05 | Samuel | Início: 11/05<br>Fim: 11/05 | Guilherme |
-| Gravar vídeo de apresentação | Início: 11/05<br>Fim: 11/05 | Todos | Início: 12/05<br>Fim: 12/05 | Luan |
-| Correção após feedback | Início: 15/05<br>Fim: 16/05 | Todos | Início: 17/05<br>Fim: 18/05 | Bryan |
+| Gravar vídeo de apresentação | Início: 11/05<br>Fim: 11/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 12/05<br>Fim: 12/05 | Luan |
+| Correção após feedback | Início: 15/05<br>Fim: 16/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 17/05<br>Fim: 18/05 | Bryan |
 
 <div style="text-align: left">
 <p>Tabela 5: Análise de requisitos (Fonte: FUJIMOTO, Lucas, 2026).</p>
