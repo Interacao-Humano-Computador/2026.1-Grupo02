@@ -9,7 +9,7 @@
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 10/04/2026 | 1.0 | Criação do documento contendo as ferramentas | Maria Luana | Tiago Geovane |
 | 15/04/2026 | 1.1 | Correção das imagens das ferramentas | Lucas Fujimoto | Maria Luana|
-| 15/04/2026 | 1.2 | Adição de novas ferramentas e indicação das utilizadas em cada etapa | Maria Luana | ------- |
+| 15/04/2026 | 1.2 | Adição de novas ferramentas e indicação das utilizadas em cada etapa | Maria Luana | Guilherme |
 
 ---
 
