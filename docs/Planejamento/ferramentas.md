@@ -9,7 +9,7 @@
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 10/04/2026 | 1.0 | Criação do documento contendo as ferramentas | Maria Luana | Tiago Geovane |
 | 15/04/2026 | 1.1 | Correção das imagens das ferramentas | Lucas Fujimoto | Maria Luana|
-
+| 15/04/2026 | 1.2 | Adição de novas ferramentas e indicação das utilizadas em cada etapa | Maria Luana | ------- |
 
 ---
 
@@ -21,24 +21,57 @@ A escolha dessas ferramentas visa aumentar a eficiência do trabalho colaborativ
 
 ---
 
-## Ferramentas Utilizadas
+## Ferramentas Selecionadas
 
-As ferramentas selecionadas pelo grupo estão descritas na tabela a seguir, juntamente com suas respectivas finalidades no contexto do projeto.
+Todas as ferramentas escolhidas pelo grupo estão descritas na tabela 1, juntamente com suas respectivas finalidades no contexto do projeto. 
 
 | Logo | Ferramenta | Finalidade |
 |:---:|:----------:|:-----------|
+| <img src="../../img/logos/Claude_AI_logo.png" alt="YouTube" width="180"> | Claude IA | Apoio na organização da estrutura e padronização dos documentos |
 | <img src="../../img/logos/GitHub_Invertocat_Black.png" alt="GitHub" width="100"> | GitHub | Manter, organizar e controlar a versão dos artefatos do projeto |
-| <img src="../../img/logos/mkdocs.png" alt="MkDocs" width="200"> | MkDocs | Geração das páginas de documentação |
-| <img src="../../img/logos/microsoftTeams.png" alt="Microsoft Teams" width="100"> | Microsoft Teams | Comunicação e realização de reuniões da equipe |
-| <img src="../../img/logos/WhatsApp.png" alt="WhatsApp" width="80"> | WhatsApp | Comunicação rápida entre os membros |
-| <img src="../../img/logos/googleSheets.png" alt="Google Sheets" width="100"> | Google Sheets | Organização de dados e criação de planilhas |
 | <img src="../../img/logos/Google-Docs-Logo.png" alt="Google Docs" width="115"> | Google Docs | Documentação colaborativa |
+| <img src="../../img/logos/googleSheets.png" alt="Google Sheets" width="100"> | Google Sheets | Organização de dados e criação de planilhas |
+| <img src="../../img/logos/microsoftTeams.png" alt="Microsoft Teams" width="100"> | Microsoft Teams | Comunicação e realização de reuniões da equipe |
+| <img src="../../img/logos/mkdocs.png" alt="MkDocs" width="200"> | MkDocs | Geração das páginas de documentação |
+| <img src="../../img/logos/Visual_Studio_Code_icon.png" alt="MkDocs" width="80"> | VsCode | Criação e edição da documentação |
+| <img src="../../img/logos/WhatsApp.png" alt="WhatsApp" width="80"> | WhatsApp | Comunicação rápida entre os membros |
 | <img src="../../img/logos/youtube.png" alt="YouTube" width="180"> | YouTube | Hospedagem e compartilhamento de vídeos do projeto |
 
 <div style="text-align: left">
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
 </div>
 
+### Etapa 1
+Durante a etapa 1 do projeto, foram utilizadas as seguintes ferramentas:
+
+- Ferramentas de comunicação:
+  - Microsoft Teams
+  - Whatsapp
+
+- Ferramentas de documentação:
+  - Google Docs
+  - Google Sheets
+  - Mkdocs
+  - Vscode
+
+- Outras ferramentas:
+  - Github
+  - Claude IA
+  - Youtube
+
+### Etapa 2
+Durante a etapa 2 do projeto, foram utilizadas as seguintes ferramentas:
+
+- Ferramentas de comunicação:
+  - Microsoft Teams
+  - Whatsapp
+
+- Ferramentas de documentação:
+  - Mkdocs
+  - Vscode
+
+- Outras ferramentas:
+  - Github
 ---
 
 ## Tabela de Contribuição
