@@ -17,7 +17,12 @@
 
 Este documento apresenta as ferramentas utilizadas pelo grupo ao longo do desenvolvimento do projeto da disciplina de Interação Humano-Computador (IHC). O objetivo é registrar os softwares adotados para apoiar a organização da equipe, a produção dos artefatos e a gestão do projeto.
 
-A escolha dessas ferramentas visa aumentar a eficiência do trabalho colaborativo, facilitar o controle de versões e garantir uma melhor comunicação entre os integrantes do grupo.
+A escolha dessas ferramentas visa aumentar a eficiência do trabalho colaborativo, facilitar o controle de versões e garantir uma melhor comunicação entre os integrantes do grupo. Essa seleção foi realizada utilizando como referência as ferramentas escolhidas por projetos anteriores e com os resultados do consenso do grupo após uma pequena sessão de brainstorming.
+
+- Projetos utilizados como referência:
+  - Interacao-Humano-Computador/2023.1-BilheteriaDigital
+  - Interacao-Humano-Computador/2022.2-Lichess
+  - Interacao-Humano-Computador/2023.1-BancoCentral
 
 ---
 
