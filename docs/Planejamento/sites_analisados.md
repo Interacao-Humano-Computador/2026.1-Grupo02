@@ -8,41 +8,51 @@ Os sites escolhidos pelos/as integrantes do grupo foram:
 
 ---
 
-## Portal de Serviços da Receita - Receita do Distrito Federal
+## Portal do INSS
 
-**Link do site:** https://ww1.receita.fazenda.df.gov.br/servicos
+**Link do site:** https://www.gov.br/inss/pt-br
 
-
-O portal oferece diversos serviços relacionados à Receita do Distrito Federal, como emissão de guias de pagamento e consulta de débitos.
+O portal do INSS oferece serviços relacionados à previdência social, como agendamento de atendimentos, consulta de benefícios e emissão de extratos.
 
 **Problemas encontrados:**
 
-- **Interface desatualizada:** O design do site não segue padrões modernos, dificultando a navegação.
+- **Interface complexa:** O excesso de informações na página inicial dificulta a navegação.
+- **Falta de acessibilidade:** Não há suporte adequado para leitores de tela.
+- **Mensagens de erro genéricas:** Não informam claramente o que o usuário deve corrigir.
+
+---
+
+## Fala.BR
+
+**Link do site:** https://falabr.cgu.gov.br/
+
+O Fala.BR é um sistema de ouvidoria que permite o registro de manifestações como denúncias, reclamações, sugestões e elogios.
+
+**Problemas encontrados:**
+
+- **Processo longo:** O registro de manifestações exige o preenchimento de muitos campos obrigatórios.
 - **Falta de responsividade:** O site apresenta problemas de visualização em dispositivos móveis.
-- **Feedback insuficiente:** Não há mensagens claras para ações realizadas, como envio de formulários.
+- **Feedback insuficiente:** Não há confirmação clara após o envio de uma manifestação.
 
 ---
 
-## Portal de Carta de Serviços de Matrícula - SEE-DF
+## Portal da Transparência do Distrito Federal
 
-**Link do site:** https://www.educacao.df.gov.br/carta-de-servicos-matricula
+**Link do site:** https://www.transparencia.df.gov.br/
 
-
-O portal permite o agendamento eletrônico de serviços relacionados à matrícula escolar no Distrito Federal.
+O portal disponibiliza informações sobre receitas, despesas e contratos do governo do Distrito Federal, promovendo a transparência pública.
 
 **Problemas encontrados:**
 
-- **Excesso de informações:** A página inicial apresenta muitas informações, dificultando a localização do serviço desejado.
-- **Falta de acessibilidade:** Não há suporte para leitores de tela ou navegação por teclado.
-- **Mensagens de erro técnicas:** Erros são exibidos em linguagem técnica, dificultando o entendimento pelos/as usuários/as.
+- **Busca ineficiente:** O sistema de busca não retorna resultados relevantes em alguns casos.
+- **Interface desatualizada:** O design do site não segue padrões modernos.
+- **Carregamento lento:** Algumas páginas demoram para carregar, especialmente em conexões mais lentas.
 
 ---
 
-## Portal da Câmara dos Deputados
+## Câmara dos Deputados
 
 **Link do site:** https://www.camara.leg.br/
-
-
 
 O portal disponibiliza informações sobre as atividades legislativas, projetos de lei e dados dos deputados.
 
@@ -54,35 +64,45 @@ O portal disponibiliza informações sobre as atividades legislativas, projetos 
 
 ---
 
-## Portal de Agendamento de Exames de Carga Viral da SES-DF
+## AgendaDF - Doação de Sangue
 
-**Link do site:** https://agenda.df.gov.br/posto.html
+**Link do site:** https://agenda.df.gov.br/organizacao.html?organizacao=37959462
 
-
-
-O portal permite o agendamento de exames laboratoriais, como carga viral de HIV e hepatites.
+O portal permite o agendamento de doações de sangue, apresentando datas e horários disponíveis.
 
 **Problemas encontrados:**
 
-- **Inconsistência visual:** As cores e estilos dos elementos mudam entre as páginas, confundindo os/as usuários/as.
-- **Falta de validação:** O sistema não valida corretamente os dados inseridos, permitindo erros.
-- **Mensagens de erro inadequadas:** Erros são exibidos de forma técnica, sem explicações claras.
+- **Falta de feedback:** O status do agendamento é indicado apenas por elementos visuais, sem explicação textual clara.
+- **Mensagens de erro técnicas:** Algumas mensagens são exibidas em inglês, dificultando o entendimento.
+- **Falta de persistência de dados:** Após o login, o sistema não mantém as escolhas previamente realizadas.
 
 ---
 
-## Portal da Ouvidoria do Governo do Estado de São Paulo
+## Portal da Transparência de Luziânia
 
-**Link do site:** https://www.ouvidoria.sp.gov.br/Portal/Default.aspx
+**Link do site:** https://www.luziania.go.gov.br/transparencia
 
-
-
-O portal permite que cidadãos registrem reclamações, sugestões e elogios relacionados aos serviços públicos do estado de São Paulo.
+O portal disponibiliza informações sobre receitas, despesas e contratos do município de Luziânia, promovendo a transparência pública.
 
 **Problemas encontrados:**
 
 - **Layout desorganizado:** A disposição dos elementos na página inicial dificulta a navegação.
 - **Falta de responsividade:** O site não se adapta bem a dispositivos móveis.
-- **Processo longo:** O registro de manifestações exige o preenchimento de muitos campos obrigatórios.
+- **Busca limitada:** Não é possível filtrar informações de forma eficiente.
+
+---
+
+## Fundação Hemocentro de Brasília
+
+**Link do site:** https://www.fhb.df.gov.br/
+
+O site da Fundação Hemocentro de Brasília oferece informações sobre doação de sangue, campanhas e agendamentos.
+
+**Problemas encontrados:**
+
+- **Interface desatualizada:** O design do site não segue padrões modernos.
+- **Falta de acessibilidade:** Não há suporte adequado para pessoas com deficiência visual ou auditiva.
+- **Navegação confusa:** Algumas informações importantes estão escondidas em menus pouco intuitivos.
 
 ---
 
