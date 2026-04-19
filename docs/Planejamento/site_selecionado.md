@@ -115,9 +115,9 @@ A ajuda não é contextualizada dentro dos fluxos de uso, e a FAQ não está int
 Abaixo se encontra uma imagem (Imagem 1) que é contem uma print do livro de onde foi retirado essas heurísticas
 
 <div align="center">
-<img src="docs/img/site_escolhidoIMG/site_escolhido_img1.png" alt="Imagem 1" style="width: 400px">
+<img src="../img/site_escolhidoIMG/site_escolhido_img1.png" alt="Imagem 1" style="width: 400px">
 </div>
-> **Imagem 1:** Heurísticas de Nielsen (Fonte: Barbosa et al. (2021, p. 282)).
+**Imagem 1:** Heurísticas de Nielsen (Fonte: Barbosa et al. (2021, p. 282)).
 
 ## Quadro-Resumo das Heurísticas
 
@@ -155,9 +155,10 @@ Por fim, conforme Barbosa et al. (2021, p. 38), dificilmente um sistema será ex
 Abaixo se encontra uma imagem (Imagem 2) que é contem uma print do livro que fala sobre experiencia do usuario
 
 <div align="center">
-<img src="docs/img/site_escolhidoIMG/site_escolhido_img2.png" alt="Imagem 1" style="width: 400px">
+<img src="../img/site_escolhidoIMG/site_escolhido_img2.png" alt="Imagem 2" style="width: 400px">
 </div>
-> **Imagem 2:** Experiencia do usuario (Fonte: Barbosa et al. (2021, p. 37)).
+**Imagem 2:** Experiencia do usuario (Fonte: Barbosa et al. (2021, p. 37)).
+
 ---
 
 ## Tabela de Contribuição
