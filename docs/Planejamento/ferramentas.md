@@ -32,13 +32,14 @@ Todas as ferramentas escolhidas pelo grupo estão descritas na tabela 1, juntame
 
 | Logo | Ferramenta | Finalidade |
 |:---:|:----------:|:-----------|
-| <img src="../../img/logos/Claude_AI_logo.png" alt="YouTube" width="180"> | Claude IA | Apoio na organização da estrutura e padronização dos documentos |
+| <img src="../../img/logos/Claude_AI_logo.png" alt="Claude AI" width="180"> | Claude IA | Apoio na organização da estrutura e padronização dos documentos |
 | <img src="../../img/logos/GitHub_Invertocat_Black.png" alt="GitHub" width="100"> | GitHub | Manter, organizar e controlar a versão dos artefatos do projeto |
 | <img src="../../img/logos/Google-Docs-Logo.png" alt="Google Docs" width="115"> | Google Docs | Documentação colaborativa |
 | <img src="../../img/logos/googleSheets.png" alt="Google Sheets" width="100"> | Google Sheets | Organização de dados e criação de planilhas |
 | <img src="../../img/logos/microsoftTeams.png" alt="Microsoft Teams" width="100"> | Microsoft Teams | Comunicação e realização de reuniões da equipe |
 | <img src="../../img/logos/mkdocs.png" alt="MkDocs" width="200"> | MkDocs | Geração das páginas de documentação |
-| <img src="../../img/logos/Visual_Studio_Code_icon.png" alt="MkDocs" width="80"> | VsCode | Criação e edição da documentação |
+| <img src="../../img/logos/Notion-logo.png" alt="Notion" width="200"> | Notion | Organização e distribuição de tarefas |
+| <img src="../../img/logos/Visual_Studio_Code_icon.png" alt="VsCode" width="80"> | VsCode | Criação e edição da documentação |
 | <img src="../../img/logos/WhatsApp.png" alt="WhatsApp" width="80"> | WhatsApp | Comunicação rápida entre os membros |
 | <img src="../../img/logos/youtube.png" alt="YouTube" width="180"> | YouTube | Hospedagem e compartilhamento de vídeos do projeto |
 
