@@ -9,7 +9,9 @@
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 10/04/2026 | 1.0 | Criação do documento | Guilherme | Samuel |
 | 15/04/2026 | 1.1 | Padronização do artefato | Tiago | Guilherme |
-| 23/04/2026 | 1.2 | Adição de anexos | Guilherme |  |
+| 23/04/2026 | 1.2 | Adição de anexos | Guilherme | Maria |
+| 23/04/2026 | 1.3 | Correção de anexos | Guilherme | Maria |
+
 
 
 ---
@@ -123,51 +125,50 @@ Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração
 
 ## Anexos
 
-Figura 1 - Seção introduzindo design
-<img src="../../img/processo_design/4.3-1,2.png"> <a id="imagem1"></a>
+### Figura 1 - Seção introduzindo design 
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3-1,2.png"> <a id="imagem1"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.99.
 
-Figura 2 - Seção sobre principios fundamentais do processo de design
-<img src="../../img/processo_design/4.3-7.png"> <a id="imagem2"></a>
+### Figura 2 - Seção sobre principios fundamentais do processo de design
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3-7.png"> <a id="imagem2"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.100-101.
 
-Figura 3 - Seção sobre ciclo de vida simples 
-<img src="../../img/processo_design/4.3-10.png"> <a id="imagem3"></a>
+### Figura 3 - Seção sobre ciclo de vida simples 
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3-10.png"> <a id="imagem3"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.101.
 
-Figura 4 - Seção sobre ciclo de vida simples 
-<img src="../../img/processo_design/4.3-11.png"> <a id="imagem4"></a>
+### Figura 4 - Seção sobre ciclo de vida simples 
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3-11.png"> <a id="imagem4"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.102.
 
-Figura 5 - Seção sobre ciclo de vida estrela 
-<img src="../../img/processo_design/4.3.1-1.png"> <a id="imagem5"></a>
+### Figura 5 - Seção sobre ciclo de vida estrela 
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.1-1.png"> <a id="imagem5"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.103.
 
-Figura 6 - Seção sobre ciclo de vida estrela 
-<img src="../../img/processo_design/4.3.1-6.png"> <a id="imagem6"></a>
+### Figura 6 - Seção sobre ciclo de vida estrela 
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.1-6.png"> <a id="imagem6"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.104.
 
-Figura 7 - Seção sobre Engenharia de Usabilidade de Nielsen
-<img src="../../img/processo_design/4.3.2-1.png"> <a id="imagem7"></a>
+### Figura 7 - Seção sobre Engenharia de Usabilidade de Nielsen
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.2-1.png"> <a id="imagem7"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.104-105.
 
-Figura 8 - Seção sobre Engenharia de Usabilidade de Nielsen
-<img src="../../img/processo_design/4.3.2-14.png"> <a id="imagem8"></a>
+### Figura 8 - Seção sobre Engenharia de Usabilidade de Nielsen
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.2-14.png"> <a id="imagem8"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.108.
 
-Figura 9 - Seção sobre Engenharia de Usabilidade de Mayhew
-<img src="../../img/processo_design/4.3.3-1.png"> <a id="imagem9"></a>
+### Figura 9 - Seção sobre Engenharia de Usabilidade de Mayhew
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.3-1.png"> <a id="imagem9"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.109.
 
-Figura 10 - Seção sobre Engenharia de Usabilidade de Mayhew
-<img src="../../img/processo_design/4.3.3-2.png"> <a id="imagem10"></a>
+### Figura 10 - Seção sobre Engenharia de Usabilidade de Mayhew
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.3-2.png"> <a id="imagem10"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.109.
 
-Figura 11 - Seção sobre Engenharia de Usabilidade de Mayhew
-<img src="../../img/processo_design/4.3.3-3.png"> <a id="imagem11"></a>
+### Figura 11 - Seção sobre Engenharia de Usabilidade de Mayhew
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.3-3.png"> <a id="imagem11"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.110.
 
-Figura 12 - Seção sobre Engenharia de Usabilidade de Mayhew
-<img src="../../img/processo_design/4.3.3-4.png"> <a id="imagem12"></a>
+### Figura 12 - Seção sobre Engenharia de Usabilidade de Mayhew
+<img src="/home/calango/IHC - Projeto/2026.1-Grupo02/docs/img/processo_design/4.3.3-4.png"> <a id="imagem12"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.111.
-
