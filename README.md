@@ -33,6 +33,8 @@ O Tribunal Superior Eleitoral (TSE) e os Tribunais Regionais Eleitorais (TREs) s
 
 Heatmap de Disponibilidade: <a href="https://docs.google.com/spreadsheets/d/1Jm0rxqWhgBwGmKBtouq9D5yVQB8GpTcptL05fGTCjNI">Heatmap</a>
 
+Link das tasks no notion <a href="https://www.notion.so/34aaff1452ca80dbb789efc23066b6d6?v=34aaff1452ca8051b64a000cfe83e18b">Notion</a>
+
 Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasília presentes na Tabela 1.
 
 <center>
