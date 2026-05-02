@@ -939,17 +939,6 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#32-klm-estimativa-de-tempo" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        3.2 KLM — Estimativa de Tempo
-      
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
@@ -1295,7 +1284,7 @@
 </code></pre>
 <p>As três grandes etapas são <strong>sequenciais com passagem de informação</strong> (<code>[]&gt;&gt;</code>): o resultado de cada fase alimenta a próxima.</p>
 <p><strong>Acessar o sistema:</strong></p>
-<pre><code>[Abrir navegador] &gt;&gt; [Navegar até o site TSE] &gt;&gt; [Carregar página inicial]
+<pre><code>[Abrir navegador] &gt;&gt; [Navegar até o site DivulgaCandContas] &gt;&gt; [Carregar página inicial]
 </code></pre>
 <p>Sequência estrita. O sistema só carrega a página após a ação de navegação do usuário.</p>
 <p><strong>Configurar consulta:</strong></p>
@@ -1400,107 +1389,6 @@
       OP. 4.B.4: Analisar os dados de arrecadação e gastos externamente
 </code></pre>
 <hr />
-<h4 id="32-klm-estimativa-de-tempo">3.2 KLM — Estimativa de Tempo</h4>
-<p>O <strong>KLM</strong> (<em>Keystroke-Level Model</em>) é a técnica mais simples da família GOMS, utilizando operadores primitivos com durações médias tabeladas (Barbosa et al., 2021, p. 182). A seguir, aplicamos o KLM ao <strong>Method 1.A</strong> (acesso por URL) e ao <strong>Method 3.1.A</strong> (busca por nome), considerando um <strong>digitador mediano</strong> (K = 0,20 s).</p>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">Operação</th>
-<th style="text-align: left;">Descrição</th>
-<th style="text-align: right;">Tempo (s)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Acessar o site — Method 1.A</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: right;"></td>
-</tr>
-<tr>
-<td style="text-align: center;">M</td>
-<td style="text-align: left;">Preparação mental</td>
-<td style="text-align: right;">1,20</td>
-</tr>
-<tr>
-<td style="text-align: center;">H</td>
-<td style="text-align: left;">Levar a mão ao teclado</td>
-<td style="text-align: right;">0,40</td>
-</tr>
-<tr>
-<td style="text-align: center;">T(28)</td>
-<td style="text-align: left;">Digitar a URL (~28 caracteres)</td>
-<td style="text-align: right;">5,60</td>
-</tr>
-<tr>
-<td style="text-align: center;">K</td>
-<td style="text-align: left;">Pressionar Enter</td>
-<td style="text-align: right;">0,20</td>
-</tr>
-<tr>
-<td style="text-align: center;">W</td>
-<td style="text-align: left;">Aguardar carregamento da página</td>
-<td style="text-align: right;">~2,00</td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: left;"><strong>Subtotal</strong></td>
-<td style="text-align: right;"><strong>9,40 s</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Selecionar candidato — Method 3.1.A</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: right;"></td>
-</tr>
-<tr>
-<td style="text-align: center;">M</td>
-<td style="text-align: left;">Preparação mental</td>
-<td style="text-align: right;">1,20</td>
-</tr>
-<tr>
-<td style="text-align: center;">P</td>
-<td style="text-align: left;">Mover cursor ao campo de busca</td>
-<td style="text-align: right;">1,10</td>
-</tr>
-<tr>
-<td style="text-align: center;">B+B</td>
-<td style="text-align: left;">Clicar no campo</td>
-<td style="text-align: right;">0,20</td>
-</tr>
-<tr>
-<td style="text-align: center;">T(20)</td>
-<td style="text-align: left;">Digitar nome do candidato (~20 chars)</td>
-<td style="text-align: right;">4,00</td>
-</tr>
-<tr>
-<td style="text-align: center;">W</td>
-<td style="text-align: left;">Aguardar sugestões do sistema</td>
-<td style="text-align: right;">~1,50</td>
-</tr>
-<tr>
-<td style="text-align: center;">P</td>
-<td style="text-align: left;">Mover cursor ao resultado correto</td>
-<td style="text-align: right;">1,10</td>
-</tr>
-<tr>
-<td style="text-align: center;">B+B</td>
-<td style="text-align: left;">Clicar no candidato</td>
-<td style="text-align: right;">0,20</td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: left;"><strong>Subtotal</strong></td>
-<td style="text-align: right;"><strong>9,30 s</strong></td>
-</tr>
-</tbody>
-</table>
-<div style="text-align: left">
-<p>Tabela 4: Estimativa de tempo KLM para os principais métodos (Fonte: autor, 2026).</p>
-</div>
-
-<blockquote>
-<p>O tempo total estimado para o fluxo completo (2 candidatos, sem exportação) é de aproximadamente <strong>35–45 segundos</strong> para um usuário mediano familiarizado com a interface, assumindo sistema responsivo.</p>
-</blockquote>
-<hr />
 <h3 id="4-sintese-e-problemas-identificados">4. Síntese e Problemas Identificados</h3>
 <p>As três técnicas, aplicadas em conjunto, revelam uma visão complementar sobre o fluxo de comparação de candidatos.</p>
 <table>
@@ -1551,8 +1439,7 @@
 
 <p>Os principais problemas identificados nas três análises são:</p>
 <ol>
-<li><strong>Descoberta do site:</strong> URL pouco intuitiva dificulta o acesso direto (HTA 1 / GOMS Method 1.B).</li>
-<li><strong>Seleção de ano:</strong> ausência de informação sobre qual tipo de eleição corresponde a cada ano (HTA 2).</li>
+<li><strong>Descoberta do site:</strong> URL pouco intuitiva dificulta o acesso direto, ela não está de facil acesso na pagina inicial  (HTA 1 / GOMS Method 1.B).</li>
 <li><strong>Ambiguidade de candidatos:</strong> homônimos e nomes similares sem desambiguadores claros como partido e cargo (HTA 3.1 / GOMS OP. 3.1.A.4).</li>
 <li><strong>Ausência de painel de seleção persistente:</strong> o usuário pode perder o controle de quais candidatos já foram adicionados (HTA 3.2 / CTT — tarefa interativa sem feedback sistêmico adequado).</li>
 <li><strong>Apresentação dispersa dos dados:</strong> arrecadação e gastos em seções separadas dificultam a comparação visual rápida (HTA 4 / GOMS OP. 4.A.2–4.A.5).</li>
