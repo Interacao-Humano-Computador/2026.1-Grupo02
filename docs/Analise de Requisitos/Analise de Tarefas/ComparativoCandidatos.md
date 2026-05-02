@@ -7,7 +7,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/AAAA | 1.0 | Criação do documento | Nome do Autor | Nome do Revisor |
+| DD/MM/AAAA | 1.0 | Criação do documento | Tiago Geovane | Nome do Revisor |
 
 ---
 
@@ -398,9 +398,8 @@ Os principais problemas identificados nas três análises são:
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Nome do Integrante 1 | Descrição da contribuição |
-| Nome do Integrante 2 | Descrição da contribuição |
-| Nome do Integrante 3 | — |
+| Tiago Geovane | Elaboração do documento integralmente |
+
 
 <div style="text-align: left">
 <p>Tabela 6: Tabela de contribuição (Fonte: autor, 2026).</p>
