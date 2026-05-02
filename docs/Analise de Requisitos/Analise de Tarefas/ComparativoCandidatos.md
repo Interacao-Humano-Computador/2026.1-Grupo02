@@ -200,7 +200,7 @@ As três grandes etapas são **sequenciais com passagem de informação** (`[]>>
 
 **Acessar o sistema:**
 ```
-[Abrir navegador] >> [Navegar até o site TSE] >> [Carregar página inicial]
+[Abrir navegador] >> [Navegar até o site DivulgaCandContas] >> [Carregar página inicial]
 ```
 Sequência estrita. O sistema só carrega a página após a ação de navegação do usuário.
 
@@ -317,36 +317,6 @@ GOAL 0: Realizar comparativo de recursos de campanha entre candidatos
 
 ---
 
-#### 3.2 KLM — Estimativa de Tempo
-
-O **KLM** (*Keystroke-Level Model*) é a técnica mais simples da família GOMS, utilizando operadores primitivos com durações médias tabeladas (Barbosa et al., 2021, p. 182). A seguir, aplicamos o KLM ao **Method 1.A** (acesso por URL) e ao **Method 3.1.A** (busca por nome), considerando um **digitador mediano** (K = 0,20 s).
-
-| Operação | Descrição | Tempo (s) |
-|:--------:|:----------|----------:|
-| **Acessar o site — Method 1.A** | | |
-| M | Preparação mental | 1,20 |
-| H | Levar a mão ao teclado | 0,40 |
-| T(28) | Digitar a URL (~28 caracteres) | 5,60 |
-| K | Pressionar Enter | 0,20 |
-| W | Aguardar carregamento da página | ~2,00 |
-| | **Subtotal** | **9,40 s** |
-| **Selecionar candidato — Method 3.1.A** | | |
-| M | Preparação mental | 1,20 |
-| P | Mover cursor ao campo de busca | 1,10 |
-| B+B | Clicar no campo | 0,20 |
-| T(20) | Digitar nome do candidato (~20 chars) | 4,00 |
-| W | Aguardar sugestões do sistema | ~1,50 |
-| P | Mover cursor ao resultado correto | 1,10 |
-| B+B | Clicar no candidato | 0,20 |
-| | **Subtotal** | **9,30 s** |
-
-<div style="text-align: left">
-<p>Tabela 4: Estimativa de tempo KLM para os principais métodos (Fonte: autor, 2026).</p>
-</div>
-
-> O tempo total estimado para o fluxo completo (2 candidatos, sem exportação) é de aproximadamente **35–45 segundos** para um usuário mediano familiarizado com a interface, assumindo sistema responsivo.
-
----
 
 ### 4. Síntese e Problemas Identificados
 
@@ -366,11 +336,10 @@ As três técnicas, aplicadas em conjunto, revelam uma visão complementar sobre
 
 Os principais problemas identificados nas três análises são:
 
-1. **Descoberta do site:** URL pouco intuitiva dificulta o acesso direto (HTA 1 / GOMS Method 1.B).
-2. **Seleção de ano:** ausência de informação sobre qual tipo de eleição corresponde a cada ano (HTA 2).
-3. **Ambiguidade de candidatos:** homônimos e nomes similares sem desambiguadores claros como partido e cargo (HTA 3.1 / GOMS OP. 3.1.A.4).
-4. **Ausência de painel de seleção persistente:** o usuário pode perder o controle de quais candidatos já foram adicionados (HTA 3.2 / CTT — tarefa interativa sem feedback sistêmico adequado).
-5. **Apresentação dispersa dos dados:** arrecadação e gastos em seções separadas dificultam a comparação visual rápida (HTA 4 / GOMS OP. 4.A.2–4.A.5).
+1. **Descoberta do site:** URL pouco intuitiva dificulta o acesso direto, ela não está de facil acesso na pagina inicial  (HTA 1 / GOMS Method 1.B).
+2. **Ambiguidade de candidatos:** homônimos e nomes similares sem desambiguadores claros como partido e cargo (HTA 3.1 / GOMS OP. 3.1.A.4).
+3. **Ausência de painel de seleção persistente:** o usuário pode perder o controle de quais candidatos já foram adicionados (HTA 3.2 / CTT — tarefa interativa sem feedback sistêmico adequado).
+4. **Apresentação dispersa dos dados:** arrecadação e gastos em seções separadas dificultam a comparação visual rápida (HTA 4 / GOMS OP. 4.A.2–4.A.5).
 
 ---
 
