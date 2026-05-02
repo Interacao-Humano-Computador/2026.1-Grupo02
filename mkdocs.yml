@@ -40,4 +40,13 @@ nav:
           - Ata 11/04/26: Reunioes/Ata Reunião 11 04 26.md
       - Avaliação:
           - Avaliação 1: Avaliacao/avaliacao.md
+  - Análise de Requisitos:
+      - Perfil de Usuário: Analise de Requisitos/Perfil de Usuario.md
+      - Cenários:
+        - Cenário 1: Analise de Requisitos/Cenario/cenario_agendamento.md
+      - Personas:
+        - Persona 4: Analise de Requisitos/Personas/persona_karina.md
+      - Análise de Tarefas:
+        - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
+        - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
         
