@@ -30,10 +30,12 @@
 
 ## Referência Bibliográfica
 
-BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+>BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+
+> TRIBUNAL SUPERIOR ELEITORAL. **AGENDAMENTO PARA ATENDIMENTO PRESENCIAL**. Disponível em: [https://www.tre-df.jus.br/servicos-eleitorais/agendamento/atendimento-presencial-agendamento-1](https://www.tre-df.jus.br/servicos-eleitorais/agendamento/atendimento-presencial-agendamento-1). Acesso em: 01 maio 2026.
 
 ---
 
 ## Agradecimentos
 
-Agradecemos à IA Generativa **Gemini** pelo suporte na elaboração deste documento. A ferramenta foi utilizada para Revisar a estrutura para o formato md. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
+Agradecemos à IA Generativa **Gemini** pelo suporte na elaboração deste documento. A ferramenta foi utilizada para Revisar a estrutura para o formato md. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Gemini atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.

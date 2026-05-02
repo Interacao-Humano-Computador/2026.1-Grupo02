@@ -60,9 +60,9 @@
 
 ## Referência Bibliográfica
 
-Imagem gerada no site This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 01 de maio. 2026. 
+>Imagem gerada no site This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 01 de maio. 2026. 
 
-BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+>BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 ---
 
