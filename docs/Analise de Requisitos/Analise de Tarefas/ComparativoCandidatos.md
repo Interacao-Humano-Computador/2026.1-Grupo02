@@ -39,42 +39,36 @@ A **Análise Hierárquica de Tarefas** (HTA — *Hierarchical Task Analysis*) fo
 ```mermaid
 graph TD
     0(["0. Comparar recursos de campanha entre candidatos<br/>Plano 0: 1 &gt; 2 &gt; 3 &gt; 4"])
-
     1["1. Acessar o site do TSE<br/>(DivulgaCandContas)"]
     2["2. Selecionar o ano da eleição"]
     3(["3. Configurar seleção de candidatos<br/>Plano 3: 3.1 + 3.2 + 3.n"])
     4(["4. Analisar dados comparativos<br/>Plano 4: 4.1 + 4.2"])
-
     3_1["3.1 Selecionar Candidato A"]
     3_2["3.2 Selecionar Candidato B"]
     3_n["3.n Adicionar candidatos adicionais<br/>(opcional, repetível)"]
-
     4_1["4.1 Verificar total de recursos<br/>arrecadados por candidato"]
     4_2["4.2 Verificar total de recursos<br/>gastos por candidato"]
-
     0 --> 1
     0 --> 2
     0 --> 3
     0 --> 4
-
     3 --> 3_1
     3 --> 3_2
     3 --> 3_n
-
     4 --> 4_1
     4 --> 4_2
-
-    style 0 fill:#4A90D9,color:#fff,stroke:#2c6fad
-    style 3 fill:#4A90D9,color:#fff,stroke:#2c6fad
-    style 4 fill:#4A90D9,color:#fff,stroke:#2c6fad
-    style 1 fill:#f5f5f5,stroke:#999
-    style 2 fill:#f5f5f5,stroke:#999
-    style 3_1 fill:#f5f5f5,stroke:#999
-    style 3_2 fill:#f5f5f5,stroke:#999
-    style 3_n fill:#fffbe6,stroke:#c9a800
-    style 4_1 fill:#f5f5f5,stroke:#999
-    style 4_2 fill:#f5f5f5,stroke:#999
+    style 0 fill:#1a5296,color:#ffffff,stroke:#0d3a6e
+    style 3 fill:#1a5296,color:#ffffff,stroke:#0d3a6e
+    style 4 fill:#1a5296,color:#ffffff,stroke:#0d3a6e
+    style 1 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
+    style 2 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
+    style 3_1 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
+    style 3_2 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
+    style 3_n fill:#f5c400,color:#1a1a1a,stroke:#a08000
+    style 4_1 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
+    style 4_2 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
 ```
+
 
 > **Legenda:** Nós arredondados (azuis) = subobjetivos com plano; nós retangulares (cinza) = operações; nó amarelo = tarefa opcional/repetível.
 >
@@ -143,66 +137,52 @@ O modelo **ConcurTaskTrees (CTT)** foi criado para auxiliar a avaliação e o de
 ```mermaid
 graph TD
     Root(["📦 Comparar recursos de campanha\n[ABSTRATA]"])
-
     A(["📦 Acessar o sistema\n[ABSTRATA]"])
     B(["📦 Configurar consulta\n[ABSTRATA]"])
     C(["📦 Visualizar comparativo\n[ABSTRATA]"])
-
     A1["🙋 Abrir navegador\n[USUÁRIO]"]
     A2["🔄 Navegar até o site TSE\n[INTERATIVA]"]
     A3["⚙️ Carregar página inicial\n[SISTEMA]"]
-
     B1["🔄 Selecionar ano da eleição\n[INTERATIVA]"]
     B2["⚙️ Filtrar candidatos pelo ano\n[SISTEMA]"]
     B3(["📦 Selecionar candidatos\n[ABSTRATA]"])
-
     B3a["🔄 Buscar/filtrar Candidato A\n[INTERATIVA]"]
     B3b["🔄 Buscar/filtrar Candidato B\n[INTERATIVA]"]
     B3c["🔄 Adicionar candidatos extras\n[INTERATIVA]"]
-
     C1["⚙️ Processar e exibir dados\n[SISTEMA]"]
     C2["🙋 Analisar arrecadação\n[USUÁRIO]"]
     C3["🙋 Analisar gastos\n[USUÁRIO]"]
-
     Root -- "1 >> 2 >> 3" --> A
     Root -- "1 >> 2 >> 3" --> B
     Root -- "1 >> 2 >> 3" --> C
-
     A -- "1 >> 2 >> 3" --> A1
     A -- "1 >> 2 >> 3" --> A2
     A -- "1 >> 2 >> 3" --> A3
-
     B -- "1 []>> 2 >> 3" --> B1
     B -- "1 []>> 2 >> 3" --> B2
     B -- "1 []>> 2 >> 3" --> B3
-
     B3 -- "A ||| B ||| n" --> B3a
     B3 -- "A ||| B ||| n" --> B3b
     B3 -- "A ||| B ||| n" --> B3c
-
     C -- "1 []>> 2 ||| 3" --> C1
     C -- "1 []>> 2 ||| 3" --> C2
     C -- "1 []>> 2 ||| 3" --> C3
-
-    style Root fill:#7B2D8B,color:#fff,stroke:#5a1f6d
-    style A fill:#2D7BB2,color:#fff,stroke:#1a5a8a
-    style B fill:#2D7BB2,color:#fff,stroke:#1a5a8a
-    style C fill:#2D7BB2,color:#fff,stroke:#1a5a8a
-    style B3 fill:#2D7BB2,color:#fff,stroke:#1a5a8a
-
-    style A1 fill:#E8F5E9,stroke:#388e3c
-    style A2 fill:#E3F2FD,stroke:#1565c0
-    style A3 fill:#FFF3E0,stroke:#e65100,stroke-dasharray: 5 5
-
-    style B1 fill:#E3F2FD,stroke:#1565c0
-    style B2 fill:#FFF3E0,stroke:#e65100,stroke-dasharray: 5 5
-    style B3a fill:#E3F2FD,stroke:#1565c0
-    style B3b fill:#E3F2FD,stroke:#1565c0
-    style B3c fill:#E3F2FD,stroke:#1565c0
-
-    style C1 fill:#FFF3E0,stroke:#e65100,stroke-dasharray: 5 5
-    style C2 fill:#E8F5E9,stroke:#388e3c
-    style C3 fill:#E8F5E9,stroke:#388e3c
+    style Root fill:#5a1f6d,color:#ffffff,stroke:#3d1249
+    style A fill:#1a5296,color:#ffffff,stroke:#0d3a6e
+    style B fill:#1a5296,color:#ffffff,stroke:#0d3a6e
+    style C fill:#1a5296,color:#ffffff,stroke:#0d3a6e
+    style B3 fill:#1a5296,color:#ffffff,stroke:#0d3a6e
+    style A1 fill:#1b5e20,color:#ffffff,stroke:#0a3d12
+    style A2 fill:#0d3a6e,color:#ffffff,stroke:#061f40
+    style A3 fill:#bf360c,color:#ffffff,stroke:#7f2107,stroke-dasharray: 5 5
+    style B1 fill:#0d3a6e,color:#ffffff,stroke:#061f40
+    style B2 fill:#bf360c,color:#ffffff,stroke:#7f2107,stroke-dasharray: 5 5
+    style B3a fill:#0d3a6e,color:#ffffff,stroke:#061f40
+    style B3b fill:#0d3a6e,color:#ffffff,stroke:#061f40
+    style B3c fill:#0d3a6e,color:#ffffff,stroke:#061f40
+    style C1 fill:#bf360c,color:#ffffff,stroke:#7f2107,stroke-dasharray: 5 5
+    style C2 fill:#1b5e20,color:#ffffff,stroke:#0a3d12
+    style C3 fill:#1b5e20,color:#ffffff,stroke:#0a3d12
 ```
 
 > **Legenda de cores:**
@@ -410,14 +390,6 @@ Os principais problemas identificados nas três análises são:
 ## Referência Bibliográfica
 
 > BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
-
-> ANNETT, J. **Hierarchical Task Analysis**. In: DIAPER, D.; STANTON, N. (Eds.). *The Handbook of Task Analysis for Human-Computer Interaction*. Mahwah: Lawrence Erlbaum Associates, 2003.
-
-> CARD, S. K.; MORAN, T. P.; NEWELL, A. **The Psychology of Human-Computer Interaction**. Hillsdale: Lawrence Erlbaum Associates, 1983.
-
-> PATERNO, F. **Model-Based Design and Evaluation of Interactive Applications**. London: Springer, 1999.
-
-> KIERAS, D. **Using the Keystroke-Level Model to Estimate Execution Times**. Ann Arbor: University of Michigan, 1993. (UARI Technical Report TR-93/EECS-20).
 
 > TRIBUNAL SUPERIOR ELEITORAL. **DivulgaCandContas**. Disponível em: [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br). Acesso em: 02 maio 2026.
 
