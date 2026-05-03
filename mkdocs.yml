@@ -41,14 +41,17 @@ nav:
       - Avaliação:
           - Avaliação 1: Avaliacao/avaliacao.md
   - Análise de Requisitos:
-      - Perfil de Usuário: Analise de Requisitos/Perfil de Usuario.md
+      - Perfil de Usuário: Analise de Requisitos/PerfilDeUsuario.md
       - Cenários:
         - Cenário 1: Analise de Requisitos/Cenario/cenario_agendamento.md
         - Cenário 2: Analise de Requisitos/Cenario/cenario_LucasFerreira.md
         - Cenário 3: Analise de Requisitos/Cenario/cenario_RafaelMendonca.md
+        - Cenário 4: Analise de Requisitos/Cenario/cenario_mesario.md
       - Personas:
+        - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
         - Persona 4: Analise de Requisitos/Personas/persona_karina.md
       - Análise de Tarefas:
         - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
         - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
+        
         
