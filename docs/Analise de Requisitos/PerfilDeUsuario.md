@@ -9,6 +9,7 @@
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 02/05/2026 | 1.0 | Criação do documento | Tiago | ------ |
 | 02/05/2026 | 1.0 | Adicionando dados obtidos pela entrevista | Tiago | ------ |
+| 03/05/2026 | 1.1 | Adição parcial dos dados obtidos pela Análise de Documentos | Samuel Felipe | ----- |
 
 ---
 
@@ -55,14 +56,14 @@ Com base nas entrevistas realizadas, foram identificados os seguintes aspectos r
 
 A análise de documentos é uma técnica de pesquisa que consiste no exame sistemático de registros, relatórios, manuais, políticas internas ou qualquer outro material documentado que possa fornecer informações relevantes sobre os usuários e o contexto de uso do sistema. Esta abordagem permite acessar dados secundários já existentes, complementando as informações obtidas por meio de técnicas primárias.
 
-Os documentos analisados neste trabalho incluem: [*liste os tipos de documentos consultados — ex: relatórios institucionais, manuais do sistema, atas de reunião, dados de acesso, políticas de uso, etc.*]. A análise foi conduzida entre os dias [*DD/MM/AAAA*] e [*DD/MM/AAAA*].
+Os documentos analisados neste trabalho incluem: Dados de Acesso oferecidos pelo próprio TSE em seus portais, notícias de comunicação no portal do TSE, [*liste os tipos de documentos consultados — ex: relatórios institucionais, manuais do sistema, atas de reunião, dados de acesso, políticas de uso, etc.*]. A análise foi conduzida entre os dias [*DD/MM/AAAA*] e [*DD/MM/AAAA*].
 
 #### Documentos Analisados
 
 | Documento | Tipo | Fonte | Data |
 |:---------:|:----:|:-----:|:----:|
-| — | — | — | — |
-| — | — | — | — |
+| Eleitorado da eleição | Dados de Acesso | https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-eleitorado/painel-perfil-eleitorado?session=764838445854 | 03/05/2026 |
+| Título de eleitor: uma questão de cidadania | Noícia/Comunicação | https://www.tse.jus.br/comunicacao/noticias/2023/Marco/titulo-de-eleitor-uma-questao-de-cidadania | 03/05/2026 |
 | — | — | — | — |
 
 <div style="text-align: left">
@@ -73,10 +74,22 @@ Os documentos analisados neste trabalho incluem: [*liste os tipos de documentos 
 
 A análise documental permitiu identificar os seguintes elementos relevantes para o perfil do usuário:
 
-- **Características demográficas identificadas:** [*Descreva dados sobre faixa etária, formação, cargo ou outros atributos demográficos encontrados nos documentos.*]
+- **Características demográficas identificadas:** 
+    - Há aproximadamente 156 milhões no eleitorado brasileiro, sendo 52% feminino e 48% masculino, a média de idade dentre os eleitores é dentre 21 a 60 anos.
+    - Em grau de instituição:
+        - 27,04% tem o Ensino Médio completo,
+        - 22,48% tem o Ensino fundamental incompleto,
+        - 17,78% tem o Ensino Médio incompleto,
+        - 10,75% tem o Ensino Superior completo,
+        - 06,59% não tem informação de escolaridade mas sabem ler e escrever,
+        - 06,41% tem o Ensino Médio incompleto,
+        - 05,37% tem o Ensino Médio incompleto,
+        - 03,57% não tem informação de escolaridade e são analfabeto,
+        - 00,02% não tem dados informados;
+[*Descreva dados sobre faixa etária, formação, cargo ou outros atributos demográficos encontrados nos documentos.*]
 - **Contexto de uso:** [*Descreva o ambiente e as condições em que o sistema é utilizado conforme descrito nos documentos analisados.*]
 - **Padrões de comportamento:** [*Relate padrões de uso, fluxos de trabalho ou rotinas identificados nos documentos.*]
-- **Requisitos e restrições institucionais:** [*Indique eventuais regras, normas ou restrições que impactam o uso do sistema pelos usuários.*]
+- **Requisitos e restrições institucionais:** O usuário para usar funções envolvendo quitação ou justificativa ele deve apresentar um título de eleitor válido pelo TSE. [*Indique eventuais regras, normas ou restrições que impactam o uso do sistema pelos usuários.*]
 
 #### Síntese
 
@@ -150,6 +163,7 @@ Com base nos resultados obtidos pelas três técnicas aplicadas, é possível tr
 |:----------:|:-------------|
 | Tiago | Criação da estrutura inicial do documento |
 | Tiago | Preenchimento parcial dos dados obtidos pela entrevista |
+| Samuel Felipe | Preenchimento parcial dos dados obitidos pela anásile de documentos |
 | Nome do Integrante 2 | Descrição da contribuição |
 | Nome do Integrante 3 | — |
 
