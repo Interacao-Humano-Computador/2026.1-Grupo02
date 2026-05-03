@@ -12,6 +12,7 @@
 | 03/05/2026 | 1.2 | Adição parcial dos dados obtidos pela Análise de Documentos | Samuel Felipe | ----- |
 | 03/05/2026 | 1.3 | Adição dos dados obtidos pela Análise de Documentos | Bryan Smith| ----- |
 | 03/05/2026 | 1.4 | Adição dos dados obtidos pelo questionário | Guilherme| Maria Luana |
+| 03/05/2026 | 1.5 | Conslidação do perfil do usuário | Maria Luana | Guilherme |
 
 
 
@@ -215,19 +216,28 @@ Com base nos resultados obtidos pelas três técnicas aplicadas, é possível tr
 
 | Atributo | Descrição |
 |:--------:|:----------|
-| **Faixa etária** | — |
-| **Nível de escolaridade** | — |
-| **Ocupação** | — |
-| **Experiência tecnológica** | — |
-| **Frequência de uso** | — |
-| **Principais objetivos de uso** | — |
-| **Principais dificuldades** | — |
-| **Dispositivos utilizados** | — |
-| **Idioma** | — |
+| **Faixa etária** | Predominantemente adultos entre **21 e 60 anos** (análise documental). No questionário, destaque para **45–59 anos** (32%) e **18–24 anos** (28%). Nas entrevistas, todos os participantes tinham entre **18–30 anos**. |
+| **Nível de escolaridade** | Heterogêneo. Na população geral do eleitorado, predominam Ensino Médio completo (27%) e Ensino Fundamental incompleto (22%), com cerca de 3,5% de analfabetos. Entre os respondentes do questionário (amostra online), maioria com pós-graduação (44%) e ensino superior incompleto (24%), indicando viés da amostra. |
+| **Ocupação** | Variada. Nas entrevistas: estudantes de Engenharia de Software. No questionário: 60% não lida com temas eleitorais na profissão, indicando perfil de **cidadão comum** sem vínculo profissional com o sistema. |
+| **Experiência tecnológica** | Majoritariamente **intermediária a avançada**: 48% avançada e 44% intermediária (questionário). Nas entrevistas: alta afinidade tecnológica em todos os participantes. No eleitorado geral, existe parcela com baixo letramento digital, especialmente nas faixas etárias mais elevadas e com menor escolaridade. |
+| **Frequência de uso** | **Ocasional e esporádica.** 48% acessa o sistema apenas para pendências específicas; 24% somente em período eleitoral; 20% nunca utilizou. Nas entrevistas: uso anual. O sistema não é de uso contínuo. |
+| **Principais objetivos de uso** | Emissão da 1ª via do título de eleitor; verificação e regularização de pendências eleitorais; confirmação de autenticidade do documento; emissão de certidões; pagamento de multas; justificativa de ausência eleitoral; e uso do título como documento comprobatório em contextos civis (concursos públicos, passaporte, empréstimos, matrículas). |
+| **Principais dificuldades** | Inserção de dados com erros repetidos e necessidade de reentrada (entrevista); navegação por excesso de submenus que dificulta localizar serviços (36% no questionário); dúvidas sobre qual botão clicar para avançar (12%); dependência do campo de busca interna ou de fontes externas para encontrar serviços; linguagem pouco acessível para usuários com menor letramento digital; ausência de alertas proativos sobre prazos eleitorais. |
+| **Dispositivos utilizados** | Acesso via **internet** (online), com uso do Autoatendimento Eleitoral – Título Net. Migração crescente do atendimento presencial para o canal digital (análise documental). |
+| **Idioma** | Português brasileiro. |
 
 <div style="text-align: left">
 <p>Tabela 4: Perfil consolidado do usuário (Fonte: autores, 2026).</p>
 </div>
+
+#### Observações para o Design
+
+A consolidação dos dados das três técnicas aponta os seguintes pontos críticos para o design centrado no usuário:
+
+1. **Acessibilidade é essencial:** a diversidade de escolaridade do eleitorado — incluindo analfabetos e pessoas com baixo letramento digital — exige linguagem simples, ícones claros e fluxos intuitivos.
+2. **Uso concentrado em prazos:** o comportamento sazonal dos usuários demanda alertas e notificações proativas, além de desempenho robusto em períodos de pico de acesso.
+3. **Arquitetura de informação deficiente:** a dependência do campo de busca para compensar a navegação por menus indica necessidade de reestruturação da hierarquia de serviços do sistema.
+4. **Restrições institucionais devem ser comunicadas antecipadamente:** pré-requisitos como quitação militar e regularização de pendências precisam ser informados antes que o usuário inicie o processo, evitando frustração e abandono do fluxo.
 
 ---
 
@@ -240,6 +250,7 @@ Com base nos resultados obtidos pelas três técnicas aplicadas, é possível tr
 | Samuel Felipe | Preenchimento parcial dos dados obitidos pela anásile de documentos |
 | Bryan Smith | Preenchimento dos dados obtidos pela Análise de documentos do TSE |
 | Guilherme | Adição de dados obtidos pelo questionário |
+| Maria Luana | Consolidação do perfil do usuário |
 
 <div style="text-align: left">
 <p>Tabela 5: Tabela de contribuição (Fonte: autores, 2026).</p>
