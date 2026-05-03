@@ -19,7 +19,15 @@ Este documento apresenta a persona primária definida a partir dos dados coletad
 
 ## Perfil do Usuário
 
+Abaixo se encontram os dados que foram definidos para a persona ficticia Lucas Ferreira, na imagem 1 é demonstrado uma imagem ficticia para representar a persona.
+
 ### Lucas Ferreira
+
+![Persona Lucas Ferreira](../../img/Personas/LucasFerreira.jpeg)
+<div style="text-align: left">
+<p>Imagem 1: Imagem da Lucas Ferreira (Fonte: Sousa, Tiago, 2026).</p>
+</div>
+
 
 **Dados demográficos**
 
@@ -45,7 +53,7 @@ Este documento apresenta a persona primária definida a partir dos dados coletad
 
 **Motivações de uso**
 
-Lucas acessa o sistema eleitoral de forma pontual, geralmente uma vez ao ano, motivado por necessidades específicas: emitir a primeira via do título de eleitor, confirmar a autenticidade do documento ou verificar se há pendências eleitorais em seu nome.
+Lucas acessa o sistema eleitoral geralmente uma vez ao ano, motivado por necessidades específicas: emitir a primeira via do título de eleitor ou verificar se há pendências eleitorais em seu nome.
 
 ---
 
