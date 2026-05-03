@@ -13,7 +13,7 @@
 
 ## Karina Heeres
 
-![Persona Karina](../../img/PersonaKarina.jpeg)
+![Persona Karina](../../img/Personas/PersonaKarina.jpeg)
 <div style="text-align: left">
 <p>Imagem 1: Imagem da Karina Heeres (Fonte: FUJIMOTO, Lucas, 2026).</p>
 </div>

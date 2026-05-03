@@ -8,7 +8,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Documentação da análise de tarefas da emissão do 1° titulo | Maria Luana | ------- |
+| 03/05/2026 | 1.0 | Documentação da análise de tarefas da emissão do 1° titulo | Maria Luana | Guilherme |
 
 ---
 

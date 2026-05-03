@@ -7,13 +7,13 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 01/05/2026 | 1.0 | Criação da persona Fernanda | Maria Luana | ----- |
+| 01/05/2026 | 1.0 | Criação da persona Fernanda | Maria Luana | Guilherme |
 
 ---
 
 ## Karina Heeres
 
-![Persona Fernanda](../../img/PersonaFernanda.png)
+![Persona Fernanda](../../img/Personas/PersonaFernanda.png)
 <div style="text-align: left">
 <p>Imagem 1: Imagem da Karina Heeres (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
 </div>
