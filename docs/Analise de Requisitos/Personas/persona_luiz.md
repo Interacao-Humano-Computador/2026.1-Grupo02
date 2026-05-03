@@ -8,18 +8,20 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 03/05/2026 | 1.0 | Criação da persona | Guilherme | Maria Luana |
+| 03/05/2026 | 1.1 | Alteração da persona | Guilherme | Maria Luana |
+
 
 ---
 
-## Lucas Ferreira
+## Luiz Ribeiro
 
-![Persona Lucas](../../img/personas/persona_lucas.png)
+![Persona Luiz](../../img/personas/persona_luiz.png)
 <div style="text-align: left">
-<p>Imagem 1: Imagem do Lucas Ferreira (Fonte: CARVALHO, Guilherme, 2026).</p>
+<p>Imagem 1: Imagem do Luiz Ribeiro (Fonte: CARVALHO, Guilherme, 2026).</p>
 </div>
 
 
-* **Identidade:** Lucas Ferreira, 22 anos, homem, solteiro. Mora em uma cidade de médio porte no interior do Brasil e é estudante universitário de Ciência da Computação (4º semestre).
+* **Identidade:** Luiz Ribeiro, 23 anos, homem, solteiro. Mora em uma cidade de médio porte no interior do Brasil e é estudante universitário de Ciência da Computação (5º semestre).
 
 * **Status:** Persona 
 
@@ -45,7 +47,7 @@
     * "A linguagem deve ser clara, sem jargão jurídico, com ícones informativos que expliquem o serviço antes do clique."
     * "O site deve oferecer uma barra de busca eficiente e confirmações visíveis de conclusão de tarefas."
 
-* **Expectativas:** Lucas espera que o site funcione como um serviço online moderno: poucos cliques, confirmação imediata e foco em serviços em vez de notícias em destaque na página inicial.
+* **Expectativas:** Luiz espera que o site funcione como um serviço online moderno: poucos cliques, confirmação imediata e foco em serviços em vez de notícias em destaque na página inicial.
 
 ## Tabela de Contribuição
 
