@@ -5,10 +5,12 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 03/05/2026 | 1.0 | Criação do cenário | Guilherme | Maria Luana |
+| 03/05/2026 | 1.1 | Correção de erro no nome da persona | Guilherme | Maria Luana |
+
 ---
 ## Cenário: Tentando votar em local mais perto
 
-**Atores:** Lucas Ferreira (estudante universitário)
+**Atores:** Luiz Ribeiro (estudante universitário)
 
 É uma noite de terça-feira e Luiz Ribeiro, 23 anos, estudante de Ciência da Computação no quinto semestre, está no quarto da república que divide com colegas. O dia da eleição se aproxima e Luiz já sabe que vai votar desta vez, não precisa se preocupar com transferências. Ele já mora há dois anos na cidade onde está cadastrado, mas lembra que na última consulta o seu local de votação ficava do outro lado da cidade, a quase quarenta minutos de ônibus. Sabendo que é possível solicitar a troca dentro do mesmo município, decide resolver isso antes do prazo fechar.
 
