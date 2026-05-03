@@ -15,7 +15,7 @@
 
 ## Luiz Ribeiro
 
-![Persona Luiz](../../img/personas/persona_luiz.png)
+![Persona Luiz](../../img/Personas/persona_luiz.png)
 <div style="text-align: left">
 <p>Imagem 1: Imagem do Luiz Ribeiro (Fonte: CARVALHO, Guilherme, 2026).</p>
 </div>
