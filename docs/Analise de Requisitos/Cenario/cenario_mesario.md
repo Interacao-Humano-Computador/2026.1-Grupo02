@@ -8,7 +8,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do documento | Bryan Smith |  |
+| 02/05/2026 | 1.0 | Criação do Cenário voluntariamento para ser mesário nas eleições | Bryan Smith |  |
 
 ---
 
