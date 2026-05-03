@@ -78,7 +78,7 @@ Nossa equipe de trabalho é composta pelos estudantes da Universidade de Brasíl
     </td>
     <td align="center">
       <a href="https://github.com/TerminaKng05">
-        <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/integrantes/Samuel_Filipe.png" />
+        <img style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" src="docs/img/integrantes/Samuel_Felipe.png" />
         <h5 class="text-center">Samuel Felipe Lira de Souza</h5>
       </a>
     </td>
