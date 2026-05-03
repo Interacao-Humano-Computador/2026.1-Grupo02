@@ -32,8 +32,8 @@ A entrevista é uma técnica qualitativa de coleta de dados que permite uma inve
 
 | # | Faixa Etária | Ocupação | Nível de Escolaridade | Experiencia com o Sistema | Afinidade com tecnologia |
 |:-:|:------------:|:--------:|:---------------------:|:-------------------------:|:-------------------------:|
-| 1 | 18-30 | Estudante  | Ensino Superior Incompleto | Alta | Alta
-| 2 | 18-30 | Estudante | Ensino Superior Incompleto | Nunca utilizou | Alta
+| 1 | 18-30 | Estudante de Engenharia de Software  | Ensino Superior Incompleto | Alta | Alta
+| 2 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Nunca utilizou | Alta
 
 
 <div style="text-align: left">
@@ -148,7 +148,8 @@ Com base nos resultados obtidos pelas três técnicas aplicadas, é possível tr
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Nome do Integrante 1 | Descrição da contribuição |
+| Tiago | Criação da estrutura inicial do documento |
+| Tiago | Preenchimento parcial dos dados obtidos pela entrevista |
 | Nome do Integrante 2 | Descrição da contribuição |
 | Nome do Integrante 3 | — |
 
