@@ -27,8 +27,7 @@ Ao avançar para a próxima página ele se deparou com uma página mostrando bot
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
 
-> TRIBUNAL SUPERIOR ELEITORAL. **Justificativa Eleitoral**. Disponível em: [https://www.tse.jus.br/eleitor/justificativa-eleitoral](https://www.tse.jus.br/eleitor/justificativa-eleitoral). Acesso em: 03 maio 2026.
-
+> TRIBUNAL SUPERIOR ELEITORAL. **Certidão de quitação eleitoral**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/). Acesso em: 03 maio 2026.
 ---
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
