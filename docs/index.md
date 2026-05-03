@@ -1,19 +1,18 @@
-# Secretaria de Estado de Saúde do Distrito Federal - SES-DF
-## Exames de Carga Viral de HIV, Hepatite B, Hepatite C e Contagem de Linfócitos T CD4 e CD8
+# Portal do Tribunal Superior Eleitoral — TSE / TRE
 
 ## Grupo 02
 
 <div align="center">
-<img src="img/logoSite.png" alt="logo SES-DF" style="width: 400px">
+<img src="img/site_logo.png" alt="logo TSE" style="width: 400px">
 </div>
 
 ## Introdução
 
-Este repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto da disciplina de Interação Humano-Computador (IHC), ministrada pelo professor André Barros de Sales na Faculdade UnB Gama (FGA). O projeto visa avaliar o portal de agendamento da [Secretaria de Estado de Saúde do Distrito Federal](https://agenda.df.gov.br/posto.html;jsessionid=cRuQ8w2jbDmkFE09XeSEiAKm841ugFoNlO8MgbcV.000suticsv112?servico=54165098), com base nos fundamentos práticos e teóricos aprendidos em IHC, apontando sugestões de melhorias para os problemas de usabilidade encontrados.
+Este repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto da disciplina de Interação Humano-Computador (IHC), ministrada pelo professor André Barros de Sales na Faculdade UnB Gama (FGA). O projeto visa avaliar o [Portal do Tribunal Superior Eleitoral (TSE)](https://www.tse.jus.br), com base nos fundamentos práticos e teóricos aprendidos em IHC, apontando sugestões de melhorias para os problemas de usabilidade encontrados.
 
 ## O site
 
-A Secretaria de Estado de Saúde do Distrito Federal é o órgão responsável pela formulação e execução da política de saúde no âmbito do DF. O <a href="https://agenda.df.gov.br/posto.html;jsessionid=cRuQ8w2jbDmkFE09XeSEiAKm841ugFoNlO8MgbcV.000suticsv112?servico=54165098">Portal de Agendamento da SES-DF</a> oferece o serviço de marcação online para diversos procedimentos e exames, incluindo os de alta complexidade como Carga Viral de HIV, Hepatites e Contagem de Linfócitos. Nesta documentação, estão dispostos os artefatos produzidos no decorrer da disciplina. O objetivo principal deste projeto é realizar pesquisas com os usuários do sistema, identificar atritos na jornada do paciente e planejar como a interface pode ser aprimorada para garantir maior acessibilidade aos cidadãos.
+O Tribunal Superior Eleitoral é o órgão responsável pela administração e fiscalização das eleições no Brasil. O <a href="https://www.tse.jus.br">Portal do TSE</a> reúne serviços de atendimento ao eleitor — como transferência de título, justificativa de ausência e atualização de dados — além de portais de transparência pública como o DivulgaCandContas e o Balcão Virtual. Nesta documentação, estão dispostos os artefatos produzidos no decorrer da disciplina. O objetivo principal deste projeto é realizar pesquisas com os usuários do sistema, identificar atritos na jornada do cidadão e planejar como a interface pode ser aprimorada para garantir maior acessibilidade e usabilidade.
 
 ## Integrantes da equipe
 
