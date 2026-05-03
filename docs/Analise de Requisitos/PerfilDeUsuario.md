@@ -148,7 +148,8 @@ Com base nos resultados obtidos pelas três técnicas aplicadas, é possível tr
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Nome do Integrante 1 | Descrição da contribuição |
+| Tiago | Criação da estrutura inicial do documento |
+| Tiago | Preenchimento parcial dos dados obtidos pela entrevista |
 | Nome do Integrante 2 | Descrição da contribuição |
 | Nome do Integrante 3 | — |
 
