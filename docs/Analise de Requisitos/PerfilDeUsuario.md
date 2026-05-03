@@ -26,7 +26,7 @@ Para a construção deste perfil, foram empregadas três técnicas complementare
 
 #### Descrição da Técnica
 
-A entrevista é uma técnica qualitativa de coleta de dados que permite uma investigação aprofundada das percepções, experiências e necessidades dos usuários. Neste trabalho, foram realizadas entrevistas semiestruturadas com 2 participantes. As sessões foram conduzidas de forma presencial no dia [*30/04/2026*], com duração média de [*10 minutos*] cada.
+A entrevista é uma técnica qualitativa de coleta de dados que permite uma investigação aprofundada das percepções, experiências e necessidades dos usuários. Neste trabalho, foram realizadas entrevistas semiestruturadas com 2 participantes. As sessões foram conduzidas de forma presencial no dia 30/04/2026, com duração média de 5 minutos cada.
 
 #### Perfil dos Entrevistados
 
