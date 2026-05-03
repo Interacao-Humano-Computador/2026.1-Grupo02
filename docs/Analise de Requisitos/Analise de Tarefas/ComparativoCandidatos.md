@@ -24,6 +24,13 @@ O fluxo analisado compreende as seguintes etapas macro:
 3. **Seleciona os candidatos** a serem comparados.
 4. **Visualiza os dados** de arrecadação e gastos na tela.
 
+<img width="1851" height="957" alt="image" src="https://github.com/user-attachments/assets/c154a057-c072-4890-906e-169c603d9c81" />
+
+<div style="text-align: left">
+<p>Imagem 1: Print do site (Fonte: divulgacandcontas.tse.jus.br, 2026).</p>
+</div>
+
+
 Foram aplicadas três técnicas complementares, conforme descritas em Barbosa et al. (2021): a **Análise Hierárquica de Tarefas (HTA)**, o modelo **ConcurTaskTrees (CTT)** e o modelo **GOMS** na variante **CMN-GOMS**, com estimativa de tempo via **KLM**.
 
 ---
@@ -32,7 +39,15 @@ Foram aplicadas três técnicas complementares, conforme descritas em Barbosa et
 
 ### 1. Análise Hierárquica de Tarefas (HTA)
 
-A **Análise Hierárquica de Tarefas** (HTA — *Hierarchical Task Analysis*) foi desenvolvida na década de 1960 para entender competências exibidas em tarefas complexas e não repetitivas (Annett, 2003). Ela decompõe o objetivo principal em subobjetivos, organizados em **planos** que descrevem a relação entre eles: sequencial (`>`), paralelo (`+`) ou por seleção (`/`). No nível mais baixo da hierarquia, cada subobjetivo é alcançado por uma **operação**, a unidade fundamental da HTA (Barbosa et al., 2021, p. 178).
+A **Análise Hierárquica de Tarefas** (HTA — *Hierarchical Task Analysis*) foi desenvolvida na década de 1960 para entender competências exibidas em tarefas complexas e não repetitivas (Annett, 2003). Ela decompõe o objetivo principal em subobjetivos, organizados em **planos** que descrevem a relação entre eles: sequencial (`>`), paralelo (`+`) ou por seleção (`/`). No nível mais baixo da hierarquia, cada subobjetivo é alcançado por uma **operação**, a unidade fundamental da HTA. Segue abaixo a imagem 2 que é a definição do livro de HTA (Barbosa et al., 2021, p. 178).
+
+<div align="center">
+<img src="../../img/ReferenciaLivro/analise_de_tarefas_HTA.png" alt="Imagem 1" style="width: 800px">
+</div>
+
+<div style="text-align: left">
+<p>Imagem 2: Referencia do livro (Fonte: Barbosa et AL, 2026).</p>
+</div>
 
 #### 1.1 Diagrama HTA
 
@@ -101,7 +116,15 @@ graph TD
 
 ### 2. ConcurTaskTrees (CTT)
 
-O modelo **ConcurTaskTrees (CTT)** foi criado para auxiliar a avaliação e o design de IHC (Paterno, 1999). Ele classifica as tarefas em quatro tipos e permite representar **relações temporais** entre elas, indo além da simples hierarquia da HTA.
+O modelo **ConcurTaskTrees (CTT)** foi criado para auxiliar a avaliação e o design de IHC (Paterno, 1999). Ele classifica as tarefas em quatro tipos e permite representar **relações temporais** entre elas, indo além da simples hierarquia da HTA.Segue abaixo a imagem 3 que é a definição do livro de CTT (Barbosa et al., 2021, p. 187).
+
+<div align="center">
+<img src="../../img/ReferenciaLivro/analise_de_tarefas_CTT.png" alt="Imagem 1" style="width: 800px">
+</div>
+
+<div style="text-align: left">
+<p>Imagem 3: Referencia do livro (Fonte: Barbosa et AL, 2026).</p>
+</div>
 
 #### Tipos de tarefa
 
@@ -220,7 +243,14 @@ O sistema exibe os dados, e então o usuário analisa arrecadação e gastos de 
 
 ### 3. GOMS (CMN-GOMS)
 
-O modelo **GOMS** (*Goals, Operators, Methods, and Selection Rules*) descreve a tarefa e o conhecimento do usuário em termos de **objetivos**, **operadores**, **métodos** e **regras de seleção** (Card et al., 1983). A variante **CMN-GOMS** representa a hierarquia de objetivos em pseudocódigo com métodos alternativos e condicionais, sendo adequada para analisar o fluxo no DivulgaCandContas. O modelo pressupõe usuários competentes que já dominam a tarefa e sabem o que precisam fazer (Barbosa et al., 2021, p. 182).
+O modelo **GOMS** (*Goals, Operators, Methods, and Selection Rules*) descreve a tarefa e o conhecimento do usuário em termos de **objetivos**, **operadores**, **métodos** e **regras de seleção** (Card et al., 1983). A variante **CMN-GOMS** representa a hierarquia de objetivos em pseudocódigo com métodos alternativos e condicionais, sendo adequada para analisar o fluxo no DivulgaCandContas. O modelo pressupõe usuários competentes que já dominam a tarefa e sabem o que precisam fazer. Segue abaixo a imagem 4 que é a definição do livro de CMN-GOMS (Barbosa et al., 2021, p. 185).
+
+<img width="1029" height="641" alt="image" src="https://github.com/user-attachments/assets/39db2f62-392c-4816-a35b-fd5f604144b5" />
+
+<div style="text-align: left">
+<p>Imagem 4: Referencia do livro (Fonte: Barbosa et AL, 2026).</p>
+</div>
+
 
 #### 3.1 Modelo CMN-GOMS
 
@@ -319,20 +349,6 @@ GOAL 0: Realizar comparativo de recursos de campanha entre candidatos
 
 
 ### 4. Síntese e Problemas Identificados
-
-As três técnicas, aplicadas em conjunto, revelam uma visão complementar sobre o fluxo de comparação de candidatos.
-
-| Dimensão | HTA | CTT | GOMS (CMN) |
-|:--------:|:---:|:---:|:----------:|
-| **Foco** | Hierarquia de objetivos e planos | Tipos de tarefa e relações temporais | Procedimentos, métodos e operadores |
-| **Representação** | Diagrama hierárquico + tabela | Árvore com operadores concorrentes | Pseudocódigo estruturado |
-| **Concorrência** | Parcialmente (plano paralelo) | Explícita (`\|\|\|`, `\|=\|`) | Não representada nativamente |
-| **Agentes** | Foco no usuário | Distingue usuário, sistema, interativo e abstrato | Foco no usuário competente |
-| **Uso principal** | Identificar problemas e estrutura da tarefa | Design e avaliação da interação | Predição de desempenho e design |
-
-<div style="text-align: left">
-<p>Tabela 5: Comparativo entre as técnicas de análise de tarefas aplicadas (Fonte: autor, 2026).</p>
-</div>
 
 Os principais problemas identificados nas três análises são:
 
