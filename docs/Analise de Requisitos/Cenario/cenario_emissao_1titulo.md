@@ -8,7 +8,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 01/05/2026 | 1.0 | Criação do cenário para agendamento precensial do TSE | Lucas Fujimoto | |
+| 01/05/2026 | 1.0 | Criação do cenário para emissão do 1° título de eleitor | Maria Luana | ----- |
 
 ---
 
@@ -32,7 +32,7 @@ Motivada pelo incentivo familiar e pela pressão social dos colegas de escola, F
 
 ## Referência Bibliográfica
 
->BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+> BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 
 > BRASIL. Tribunal Superior Eleitoral. Autoatendimento do Eleitor. Brasília, DF: TSE, [2026]. Disponível em: https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral. Acesso em: 1 maio 2026.
 
