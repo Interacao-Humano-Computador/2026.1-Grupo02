@@ -15,7 +15,7 @@
 
 ![Persona Fernanda](../../img/Personas/PersonaFernanda.png)
 <div style="text-align: left">
-<p>Imagem 1: Imagem da Karina Heeres (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
+<p>Imagem 1: Imagem da Fernanda Ribeiro (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
 </div>
 
 
