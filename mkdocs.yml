@@ -6,8 +6,8 @@ repo_name: 2026.1-Grupo02
 theme:
   name: material
   language: pt
-  logo: img/MiniLogo.png
-  favicon: img/MiniLogo.png
+  logo: img/site_logo.png
+  favicon: img/site_logo.png
   features:
     - navigation.tabs
     - navigation.top
@@ -44,6 +44,8 @@ nav:
       - Perfil de Usuário: Analise de Requisitos/Perfil de Usuario.md
       - Cenários:
         - Cenário 1: Analise de Requisitos/Cenario/cenario_agendamento.md
+        - Cenário 2: Analise de Requisitos/Cenario/cenario_LucasFerreira.md
+        - Cenário 3: Analise de Requisitos/Cenario/cenario_RafaelMendonca.md
       - Personas:
         - Persona 4: Analise de Requisitos/Personas/persona_karina.md
       - Análise de Tarefas:
