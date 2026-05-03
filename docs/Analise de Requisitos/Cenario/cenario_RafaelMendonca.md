@@ -35,7 +35,7 @@ O sistema exibe a mensagem: *"Justificativa recebida com sucesso. Número de pro
 | Luan Ludry | Desenvolvimento integral do artefato |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: LUDRY, Luan, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
 </div>
 
 ---

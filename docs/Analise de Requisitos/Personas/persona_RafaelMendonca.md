@@ -16,7 +16,7 @@
 
 ![Persona Rafael](../../img/Personas/PersonaRafael.png)
 <div style="text-align: left">
-<p>Imagem 1: Imagem de Rafael Mendonça Alves (Fonte: LUDRY, Luan, 2026).</p>
+<p>Imagem 1: Imagem de Rafael Mendonça Alves (Fonte: This Person Does Not Exist, 2026).</p>
 </div>
 
 | Campo | Valor |
@@ -100,7 +100,7 @@ Rafael acredita que um portal governamental deve funcionar como qualquer outro s
 | Luan Ludry | Criação da persona com base na atividade avaliativa de IHC |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: LUDRY, Luan, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
 </div>
 
 ---
