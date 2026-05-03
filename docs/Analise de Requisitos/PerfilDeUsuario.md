@@ -7,7 +7,8 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/AAAA | 1.0 | Criação do documento | Tiago | ------ |
+| 02/05/2026 | 1.0 | Criação do documento | Tiago | ------ |
+| 02/05/2026 | 1.0 | Adicionando dados obtidos pela entrevista | Tiago | ------ |
 
 ---
 
@@ -25,15 +26,15 @@ Para a construção deste perfil, foram empregadas três técnicas complementare
 
 #### Descrição da Técnica
 
-A entrevista é uma técnica qualitativa de coleta de dados que permite uma investigação aprofundada das percepções, experiências e necessidades dos usuários. Neste trabalho, foram realizadas entrevistas semiestruturadas com [*número*] participantes selecionados por [*critério de seleção — ex: conveniência, perfil de uso do sistema, etc.*]. As sessões foram conduzidas de forma [*presencial / remota*] entre os dias [*DD/MM/AAAA*] e [*DD/MM/AAAA*], com duração média de [*X minutos*] cada.
+A entrevista é uma técnica qualitativa de coleta de dados que permite uma investigação aprofundada das percepções, experiências e necessidades dos usuários. Neste trabalho, foram realizadas entrevistas semiestruturadas com 2 participantes. As sessões foram conduzidas de forma presencial no dia [*30/04/2026*], com duração média de [*10 minutos*] cada.
 
 #### Perfil dos Entrevistados
 
-| # | Faixa Etária | Ocupação | Nível de Escolaridade | Experiência com o Sistema |
-|:-:|:------------:|:--------:|:---------------------:|:-------------------------:|
-| 1 | — | — | — | — |
-| 2 | — | — | — | — |
-| 3 | — | — | — | — |
+| # | Faixa Etária | Ocupação | Nível de Escolaridade | Experiencia com o Sistema | Afinidade com tecnologia |
+|:-:|:------------:|:--------:|:---------------------:|:-------------------------:|:-------------------------:|
+| 1 | 18-30 | Estudante  | Ensino Superior Incompleto | Alta | Alta
+| 2 | 18-30 | Estudante | Ensino Superior Incompleto | Nunca utilizou | Alta
+
 
 <div style="text-align: left">
 <p>Tabela 1: Perfil dos entrevistados (Fonte: autores, 2026).</p>
@@ -43,16 +44,9 @@ A entrevista é uma técnica qualitativa de coleta de dados que permite uma inve
 
 Com base nas entrevistas realizadas, foram identificados os seguintes aspectos relevantes para a composição do perfil do usuário:
 
-- **Motivações de uso:** [*Descreva as principais motivações relatadas pelos entrevistados para utilizar o sistema — ex: praticidade, necessidade profissional, obrigatoriedade institucional, etc.*]
-- **Frequência de uso:** [*Indique com qual frequência os usuários utilizam ou utilizariam o sistema — ex: diariamente, semanalmente, esporadicamente.*]
-- **Principais dificuldades relatadas:** [*Liste as dificuldades mais mencionadas pelos entrevistados ao interagir com o sistema.*]
-- **Expectativas e necessidades:** [*Descreva o que os usuários esperam do sistema em termos de funcionalidade, usabilidade e desempenho.*]
-- **Nível de familiaridade tecnológica:** [*Descreva o grau de letramento digital percebido nos entrevistados.*]
-
-#### Síntese
-
-[*Elabore um parágrafo sintetizando os principais achados das entrevistas e sua contribuição para a definição do perfil do usuário.*]
-
+- **Motivações de uso:** Fazer a primeira via do titulo de eleitor, confirmar autenticidade do documento e verificar pendencias eleitorais
+- **Frequência de uso:** Anualmente
+- **Principais dificuldades relatadas:** Relatou dificuldades em inserir dados no sistema, muitas vezes dados tinham que ser inseridos mais de uma vez após dar erro.
 ---
 
 ### 2. Resultados da Análise de Documentos
