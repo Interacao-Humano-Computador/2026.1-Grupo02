@@ -8,9 +8,11 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 02/05/2026 | 1.0 | Criação do documento | Tiago | ------ |
-| 02/05/2026 | 1.0 | Adicionando dados obtidos pela entrevista | Tiago | ------ |
-| 03/05/2026 | 1.1 | Adição parcial dos dados obtidos pela Análise de Documentos | Samuel Felipe | ----- |
-| 03/05/2026 | 1.1 | Adição dos dados obtidos pela Análise de Documentos | Bryan Smith| ----- |
+| 02/05/2026 | 1.1 | Adicionando dados obtidos pela entrevista | Tiago | ------ |
+| 03/05/2026 | 1.2 | Adição parcial dos dados obtidos pela Análise de Documentos | Samuel Felipe | ----- |
+| 03/05/2026 | 1.3 | Adição dos dados obtidos pela Análise de Documentos | Bryan Smith| ----- |
+| 03/05/2026 | 1.4 | Adição dos dados obtidos pelo questionário | Guilherme| Maria Luana |
+
 
 
 ---
@@ -29,7 +31,7 @@ Para a construção deste perfil, foram empregadas três técnicas complementare
 
 #### Descrição da Técnica
 
-A entrevista é uma técnica qualitativa de coleta de dados que permite uma investigação aprofundada das percepções, experiências e necessidades dos usuários. Neste trabalho, foram realizadas entrevistas semiestruturadas com 2 participantes. As sessões foram conduzidas de forma presencial no dia 30/04/2026, com duração média de 5 minutos cada.
+A entrevista é uma técnica qualitativa de coleta de dados que permite uma investigação aprofundada das percepções, experiências e necessidades dos usuários. Neste trabalho, foram realizadas entrevistas semiestruturadas com 3 participantes. As sessões foram conduzidas de forma presencial no dia 30/04/2026, com duração média de 5 minutos cada.
 
 #### Perfil dos Entrevistados
 
@@ -37,6 +39,8 @@ A entrevista é uma técnica qualitativa de coleta de dados que permite uma inve
 |:-:|:------------:|:--------:|:---------------------:|:-------------------------:|:-------------------------:|
 | 1 | 18-30 | Estudante de Engenharia de Software  | Ensino Superior Incompleto | Alta | Alta
 | 2 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Nunca utilizou | Alta
+| 3 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Média | Alta
+
 
 
 <div style="text-align: left">
@@ -163,19 +167,19 @@ Essas informações são fundamentais para a definição do perfil do usuário, 
 
 #### Descrição da Técnica
 
-O questionário é uma técnica quantitativa de coleta de dados que permite alcançar um número maior de participantes de forma padronizada. Neste trabalho, foi elaborado um questionário com [*número*] questões, distribuídas entre perguntas fechadas (escala Likert, múltipla escolha) e abertas, aplicado de forma [*online / presencial*] por meio da plataforma [*ex: Google Forms, SurveyMonkey, etc.*].
+O questionário é uma técnica quantitativa de coleta de dados que permite alcançar um número maior de participantes de forma padronizada. Neste trabalho, foi elaborado um questionário com 10 questões, distribuídas entre perguntas fechadas de múltipla escolha e perguntas abertas dissertativas, aplicado de forma online por meio da plataforma Google Forms.
 
-O questionário ficou disponível para respostas entre os dias [*DD/MM/AAAA*] e [*DD/MM/AAAA*], e obteve um total de [*número*] respostas válidas.
+O questionário ficou disponível para respostas entre os dias 01/05/2026 e 03/05/2026, e obteve um total de 25 respostas válidas.
 
 #### Perfil dos Respondentes
 
 | Atributo | Resultado |
 |:--------:|:---------:|
-| Faixa etária predominante | — |
-| Nível de escolaridade predominante | — |
-| Ocupação mais frequente | — |
-| Frequência de uso do sistema | — |
-| Nível de experiência tecnológica (auto declarado) | — |
+| Faixa etária predominante | 45 a 59 anos (32%) |
+| Nível de escolaridade predominante | Pós-graduação (44%) |
+| Frequência de uso do sistema | Ocasionalmente, para pendências específicas (48%) |
+| Nível de experiência tecnológica (autodeclarado) | Uso avançado (48%) |
+| Lida com temas eleitorais na profissão | Não (60%) |
 
 <div style="text-align: left">
 <p>Tabela 3: Perfil sintético dos respondentes do questionário (Fonte: autores, 2026).</p>
@@ -185,15 +189,23 @@ O questionário ficou disponível para respostas entre os dias [*DD/MM/AAAA*] e 
 
 Os dados coletados pelo questionário revelaram os seguintes aspectos sobre o perfil dos usuários:
 
-- **Distribuição por faixa etária:** [*Descreva os dados percentuais sobre a idade dos respondentes.*]
-- **Nível de familiaridade tecnológica:** [*Apresente os dados sobre o letramento digital dos participantes.*]
-- **Frequência e contexto de uso:** [*Descreva com qual frequência e em quais situações os usuários interagem com o sistema.*]
-- **Aspectos mais valorizados no sistema:** [*Indique quais características os usuários consideram mais importantes — ex: velocidade, clareza das informações, facilidade de navegação.*]
-- **Principais pontos de insatisfação:** [*Apresente os aspectos do sistema que geraram maior insatisfação entre os respondentes.*]
+- **Distribuição por faixa etária:** A faixa etária de 45 a 59 anos foi a mais representada, com 8 respondentes (32%), seguida pela faixa de 18 a 24 anos, com 7 respondentes (28%), e pela faixa de 35 a 44 anos, com 6 respondentes (24%). As faixas de 25 a 34 anos, menos de 18 anos e 60 anos ou mais somaram juntas 4 respondentes (16%).
+
+- **Nível de escolaridade:** A maioria dos respondentes possui pós-graduação (especialização, mestrado ou doutorado), representando 11 participantes (44%). O ensino superior incompleto aparece em segundo lugar, com 6 respondentes (24%), seguido do ensino superior completo, com 5 respondentes (20%). Ensino médio e fundamental somaram 3 respondentes (12%).
+
+- **Nível de familiaridade tecnológica:** 12 respondentes (48%) se autodeclararam usuários de nível avançado, isto é, utilizam tecnologia no trabalho ou nos estudos. Outros 11 (44%) classificaram-se como intermediários, realizando pesquisas e serviços online. Apenas 2 respondentes (8%) se identificaram como usuários básicos, limitados a redes sociais e aplicativos de mensagens.
+
+- **Frequência e contexto de uso:** A maioria dos respondentes, 12 participantes (48%), acessa o site do TSE apenas ocasionalmente, para resolver pendências específicas como emitir certidões ou pagar multas. Outros 6 (24%) utilizam o site somente em épocas de eleições, e 5 (20%) afirmaram nunca tê-lo utilizado. Apenas 1 respondente (4%) acessa o site com frequência para consultas ou acompanhamentos.
+
+- **Facilidade de localização de serviços:** Quando questionados sobre a facilidade de encontrar um serviço específico ao abrir o site, 10 respondentes (40%) avaliaram como muito fácil, afirmando que os principais serviços estão visíveis logo de cara. Por outro lado, 9 respondentes (36%) classificaram como regular, indicando que os serviços existem, mas estão escondidos dentro de muitos submenus. Apenas 1 respondente (4%) considerou difícil, relatando que a organização confusa o obriga a utilizar a busca.
+
+- **Comportamento quando não encontra a informação:** Diante da dificuldade de localizar um serviço, 11 respondentes (44%) relataram mudar a estratégia de busca, utilizando o campo de pesquisa do site em vez dos menus. Outros 8 (32%) buscam auxílio externo, recorrendo a tutoriais ou à seção "Fale Conosco". Dois respondentes (8%) persistem na tentativa e erro pelos menus, e outros 2 (8%) abandonam o site oficial em busca de atalhos pelo Google.
+
+- **Principais pontos de insatisfação:** Em relação à clareza dos botões e instruções, 10 respondentes (40%) afirmaram ter concluído processos sem dificuldade apenas raramente em serviços muito específicos ou técnicos. Outros 9 (36%) declararam nunca ter tido problemas com a linguagem do site. No entanto, 3 respondentes (12%) afirmaram já ter ficado em dúvida sobre em qual botão clicar para avançar, indicando inconsistências pontuais na rotulagem dos elementos de interface.
 
 #### Síntese
 
-[*Elabore um parágrafo sintetizando os principais resultados quantitativos do questionário e sua contribuição para o entendimento do perfil dos usuários.*]
+O questionário revelou um perfil de usuário predominantemente adulto, com alta escolaridade e familiaridade tecnológica intermediária a avançada, que acessa o site do TSE de forma esporádica, geralmente para resolver pendências específicas fora do período eleitoral. A avaliação da interface é polarizada: parte dos respondentes encontra os serviços com facilidade, enquanto outra parcela considerável aponta que a organização por submenus dificulta a navegação. Quando não encontram o que procuram, a maioria recorre à busca interna ou a fontes externas, evidenciando uma dependência do mecanismo de busca para suprir deficiências na arquitetura de informação do site. Os relatos qualitativos reforçam a demanda por maior proatividade do sistema, com destaque para alertas automáticos sobre prazos eleitorais, integração com outros serviços públicos e linguagem mais acessível para públicos com menor letramento digital.
 
 ---
 
@@ -227,7 +239,7 @@ Com base nos resultados obtidos pelas três técnicas aplicadas, é possível tr
 | Tiago | Preenchimento parcial dos dados obtidos pela entrevista |
 | Samuel Felipe | Preenchimento parcial dos dados obitidos pela anásile de documentos |
 | Bryan Smith | Preenchimento dos dados obtidos pela Análise de documentos do TSE |
-| Nome do Integrante 3 | — |
+| Guilherme | Adição de dados obtidos pelo questionário |
 
 <div style="text-align: left">
 <p>Tabela 5: Tabela de contribuição (Fonte: autores, 2026).</p>
