@@ -11,7 +11,7 @@
 
 ---
 
-## Karina Heeres
+## Fernanda Ribeiro
 
 ![Persona Fernanda](../../img/Personas/PersonaFernanda.png)
 <div style="text-align: left">
