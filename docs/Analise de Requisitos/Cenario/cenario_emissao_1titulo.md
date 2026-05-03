@@ -25,7 +25,7 @@ Motivada pelo incentivo familiar e pela pressão social dos colegas de escola, F
 | Maria Luana  | Criação do cenário |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte:  SOARES LOPES, Maria Luana, 2026).</p>
 </div>
 
 ---

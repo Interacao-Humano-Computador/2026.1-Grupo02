@@ -15,7 +15,7 @@
 
 ![Persona Fernanda](../../img/PersonaFernanda.png)
 <div style="text-align: left">
-<p>Imagem 1: Imagem da Karina Heeres (Fonte: FUJIMOTO, Lucas, 2026).</p>
+<p>Imagem 1: Imagem da Karina Heeres (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
 </div>
 
 
@@ -54,7 +54,7 @@
 | Maria Luana | Criação da persona |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
 </div>
 
 ---
