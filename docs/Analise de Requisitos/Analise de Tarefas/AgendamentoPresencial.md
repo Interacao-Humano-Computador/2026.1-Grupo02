@@ -8,7 +8,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação da análise de tarefas para agendamento precensial do TSE | Lucas Fujimoto | |
+| 02/05/2026 | 1.0 | Criação da análise de tarefas para agendamento presensial do TSE | Lucas Fujimoto | Bryan Smith |
 
 ---
 
