@@ -9,6 +9,8 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 03/05/2026 | 1.0 | Criação da análise de tarefas para alteração de local de votação no portal TSE | Guilherme | Maria Luana |
+| 03/05/2026 | 1.1 | Adiçaõ de agradecimentos | Guilherme | Maria Luana |
+
 
 ---
 
@@ -156,3 +158,9 @@ GOAL 0: Trocar local de votação
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. 
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Atualizar dados pessoais, endereço ou local de votação**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral]. Acesso em: 03 maio 2026.
+
+---
+
+## Agradecimentos
+
+Agradecemos à IA Generativa Claude (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação e redação das análises HTA, CTT e GOMS, na geração dos diagramas em Mermaid e na formatação das tabelas comparativas. Todo o conteúdo técnico e as decisões de projeto foram definidos pelo autor; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas.
