@@ -8,6 +8,9 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 03/05/2026 | 1.0 | Criação do documento | Tiago | Luan |
+| 03/05/2026 | 1.1 | Adição de nvos itens na lista | Guilherme | Maria Luana |
+
+
 
 ---
 
@@ -53,21 +56,34 @@ Os artefatos avaliados nesta entrega são: coleta de dados (entrevista, question
 
 | Nº | Artefato | Questão | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação |
 |:--:|:--------:|:--------|:---------------------------------:|:--------------------------------:|
-| 1 | Perfil do Usuário | O perfil do usuário foi definido por mais de uma técnica de elicitação e/ou ferramenta? | | |
-| 2 | Perfil do Usuário | O perfil do usuário possui todos os atributos (dados demográficos, experiência no cargo, educação, tecnologia disponível, motivação, tarefas, idiomas etc.), com referência bibliográfica da fonte? | | |
-| 3 | Perfil do Usuário | O perfil do usuário define os 4 grupos de atributos (idade, experiência, atitudes, tarefas primárias), com referência bibliográfica da fonte? | | |
-| 4 | Aspectos Éticos | O artefato considera os aspectos éticos de pesquisas envolvendo pessoas, com referência bibliográfica da fonte? | | |
-| 5 | Aspectos Éticos | Os 4 princípios éticos estão presentes (autonomia, beneficência, não maleficência, justiça e equidade), com referência bibliográfica da fonte? | | |
-| 6 | TCLE | Há solicitação explícita de permissão para gravar voz ou imagem de qualquer participante antes do início da gravação? | | |
-| 7 | TCLE | O Termo de Consentimento Livre e Esclarecido (TCLE) está elaborado, com referência bibliográfica da fonte? | | |
-| 8 | Coleta de Dados | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar requisitos dos usuários, com referência bibliográfica da fonte? | | |
-| 9 | Cenários | Os cenários estão elaborados com referência bibliográfica explicando o conceito? | | |
-| 10 | Análise de Tarefas | A análise de tarefas está elaborada com referência bibliográfica explicando o(s) método(s) utilizados? | | |
-| 11 | Análise de Tarefas | Cada integrante elaborou ao menos uma atividade modelada em duas técnicas — HTA (com diagrama, legenda e tabela) e GOMS (KLM, CMN-GOMS, CPM-GOMS ou CTT) —, com referência bibliográfica da fonte? | | |
-| 12 | Análise de Tarefas | Alguma técnica formal foi utilizada para especificar as tarefas (além da descrição textual)? | | |
+| C1 | Perfil do Usuário | O perfil do usuário foi definido por mais de uma técnica de elicitação e/ou ferramenta? | | |
+| C2 | Perfil do Usuário | O perfil do usuário possui todos os atributos (dados demográficos, experiência no cargo, educação, tecnologia disponível, motivação, tarefas, idiomas etc.), com referência bibliográfica da fonte? | | |
+| C3 | Perfil do Usuário | O perfil do usuário define os 4 grupos de atributos (idade, experiência, atitudes, tarefas primárias), com referência bibliográfica da fonte? | | |
+| C4 | Aspectos Éticos | O artefato considera os aspectos éticos de pesquisas envolvendo pessoas, com referência bibliográfica da fonte? | | |
+| C5 | Aspectos Éticos | Os 4 princípios éticos estão presentes (autonomia, beneficência, não maleficência, justiça e equidade), com referência bibliográfica da fonte? | | |
+| C6 | TCLE | Há solicitação explícita de permissão para gravar voz ou imagem de qualquer participante antes do início da gravação? | | |
+| C7 | TCLE | O Termo de Consentimento Livre e Esclarecido (TCLE) está elaborado, com referência bibliográfica da fonte? | | |
+| C8 | Coleta de Dados | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar requisitos dos usuários, com referência bibliográfica da fonte? | | |
+| C9 | Cenários | Os cenários estão elaborados com referência bibliográfica explicando o conceito? | | |
+| C10 | Cenários | Foram elaborados cenários como narrativas detalhadas para ilustrar o uso da aplicação em contextos específicos? | | |
+| C11 | Cenários | Os cenários descrevem o comportamento dos atores de forma a evidenciar como seus objetivos direcionam a execução das tarefas?| | |
+| C12 | Cenários |O enredo do cenário detalha as sequências de ações e eventos, considerando seu impacto no alcance dos objetivos? | | |
+| C13 | Cenários | O cenário apresenta um ator e um objetivo principal, detalhando o planejamento mental quando relevante para a atividade? | | |
+| C14 | Análise de Tarefas | A análise de tarefas está elaborada com referência bibliográfica explicando o(s) método(s) utilizados? | | |
+| C15 | Análise de Tarefas | Cada integrante elaborou ao menos uma atividade modelada em duas técnicas — HTA (com diagrama, legenda e tabela) e GOMS (KLM, CMN-GOMS, CPM-GOMS ou CTT) —, com referência bibliográfica da fonte? | | |
+| C16 | Análise de Tarefas | Alguma técnica formal foi utilizada para especificar as tarefas (além da descrição textual)? | | |
+| C17 | Personas | O elenco de personas foi composto por uma quantidade variada de perfis para articular a diversidade da população de usuários? | | |
+| C18 | Personas | O elenco de personas foi mantido em um número reduzido para garantir que cada perfil permaneça memorável para a equipe? | | |
+| C19 | Personas | As personas foram criadas como arquétipos hipotéticos para representar grupos de usuários reais? | | |
+| C20 | Personas | A persona recebeu uma identidade completa com nome, sobrenome e dados demográficos representativos? | | |
+| C21 | Personas | Foram estabelecidos os objetivos da persona de forma abrangente, extrapolando a interação direta com o produto? | | |
+| C22 | Personas | Foram detalhadas as habilidades e competências da persona, abrangendo sua formação e especialidade técnica? | | |
+
+
+
 
 <div style="text-align: left">
-<p>Tabela 2: Itens de conteúdo da disciplina — Entrega 2 (Fonte: Plano de Ensino da Disciplina, 2026).</p>
+<p>Tabela 2: Itens de conteúdo da disciplina — Entrega 2 (Fonte: autores, 2026).</p>
 </div>
 
 ---
@@ -100,7 +116,8 @@ Os artefatos avaliados nesta entrega são: coleta de dados (entrevista, question
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Tiago | Criação do Documento e Elaboração dos items E1,E2,E3 |
-| Nome do Integrante 2 | Descrição da contribuição |
+| Guiherme | Elaboração dos itens C17,C18,C19,C20,C21,C22  |
+| Bryan | Elaboração dos itens E9,E10  |
 
 <div style="text-align: left">
 <p>Tabela 4: Tabela de contribuição (Fonte: autor, 2026).</p>
