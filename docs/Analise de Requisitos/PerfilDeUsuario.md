@@ -251,6 +251,8 @@ A consolidação dos dados das três técnicas aponta os seguintes pontos críti
 | Bryan Smith | Preenchimento dos dados obtidos pela Análise de documentos do TSE |
 | Guilherme | Adição de dados obtidos pelo questionário |
 | Maria Luana | Consolidação do perfil do usuário |
+| Luan | Participar da elaboração do questionario |
+| Lucas Fujimoto| Auxiliar na gravação da entrevista e anotação das respostas do entrevistado |
 
 <div style="text-align: left">
 <p>Tabela 5: Tabela de contribuição (Fonte: autores, 2026).</p>
