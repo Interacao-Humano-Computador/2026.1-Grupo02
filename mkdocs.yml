@@ -49,13 +49,24 @@ nav:
         - Cenário 2: Analise de Requisitos/Cenario/cenario_LucasFerreira.md
         - Cenário 3: Analise de Requisitos/Cenario/cenario_RafaelMendonca.md
         - Cenário 4: Analise de Requisitos/Cenario/cenario_mesario.md
+        - Cenário 5: Analise de Requisitos/Cenario/cenario_alterarlocaldevotacao.md
+        - Cenário 6: Analise de Requisitos/Cenario/cenario_certidaoquitacaoeleitoral.md
+        - Cenário 7: Analise de Requisitos/Cenario/cenario_emissao_1.md
       - Personas:
         - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
         - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
         - Persona 4: Analise de Requisitos/Personas/persona_karina.md
+        - Persona 5: Analise de Requisitos/Personas/persona_FelixRyan.md
+        - Persona 6: Analise de Requisitos/Personas/persona_fernanda.md
+        - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
+        - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
+        - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
       - Análise de Tarefas:
         - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
         - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
         - Análise de Tarefas para se voluntariar a mesário: Analise de Requisitos/Analise de Tarefas/Mesario.md
+        - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
+        - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
+        - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
         
         
