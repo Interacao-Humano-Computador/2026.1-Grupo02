@@ -115,9 +115,13 @@ Os artefatos avaliados nesta entrega são: coleta de dados (entrevista, question
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Tiago | Criação do Documento e Elaboração dos items E1,E2,E3 |
-| Guiherme | Elaboração dos itens C17,C18,C19,C20,C21,C22  |
+| Tiago | Criação do Documento e Elaboração dos items E1,E2 |
+| Guiherme | Elaboração dos itens C17,C18,C19,C20 |
+| Luan | Elaboração dos itens E3,E4  |
+| Maria Luana | Elaboração dos itens E5,E6  |
+| Lucas Fujimoto | Elaboração dos itens E7,E8  |
 | Bryan | Elaboração dos itens E9,E10  |
+| Samuel | Elaboração dos itens C21,C22  |
 
 <div style="text-align: left">
 <p>Tabela 4: Tabela de contribuição (Fonte: autor, 2026).</p>
