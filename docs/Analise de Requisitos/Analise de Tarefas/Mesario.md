@@ -40,6 +40,14 @@ Foram aplicadas três técnicas complementares, conforme descritas em Barbosa et
 
 A **Análise Hierárquica de Tarefas** (HTA — *Hierarchical Task Analysis*) foi desenvolvida na década de 1960 para entender competências exibidas em tarefas complexas e não repetitivas (Annett, 2003). Ela decompõe o objetivo principal em subobjetivos, organizados em **planos** que descrevem a relação entre eles: sequencial (`>`), paralelo (`+`) ou por seleção (`/`). No nível mais baixo da hierarquia, cada subobjetivo é alcançado por uma **operação**, a unidade fundamental da HTA (Barbosa et al., 2021, p. 178).
 
+<div align="center">
+<img src="../../img/ReferenciaLivro/analise_de_tarefas_HTA.png" alt="Imagem 1" style="width: 800px">
+</div>
+
+<div style="text-align: left">
+<p>Imagem 2: Referencia do livro (Fonte: Barbosa et AL, 2026).</p>
+</div>
+
 #### 1.1 Diagrama HTA
 
 ```mermaid
@@ -123,6 +131,14 @@ graph TD
 ### 2. ConcurTaskTrees (CTT)
 
 O modelo **ConcurTaskTrees (CTT)** foi criado para auxiliar a avaliação e o design de IHC (Paterno, 1999). Ele classifica as tarefas em quatro tipos e permite representar relações temporais entre elas, indo além da simples hierarquia da HTA.
+
+<div align="center">
+<img src="../../img/ReferenciaLivro/analise_de_tarefas_CTT.png" alt="Imagem 1" style="width: 800px">
+</div>
+
+<div style="text-align: left">
+<p>Imagem 3: Referencia do livro (Fonte: Barbosa et AL, 2026).</p>
+</div>
 
 #### Tipos de tarefa
 
@@ -288,6 +304,12 @@ O usuário aguarda após o processamento do sistema.
 ### 3. GOMS (CMN-GOMS)
 
 O modelo **GOMS** (*Goals, Operators, Methods, and Selection Rules*) descreve a tarefa e o conhecimento do usuário em termos de objetivos, operadores, métodos e regras de seleção (Card et al., 1983). A variante **CMN-GOMS** representa a hierarquia de objetivos em pseudocódigo com métodos alternativos e condicionais. O modelo pressupõe usuários competentes que já dominam a tarefa e sabem o que precisam fazer (Barbosa et al., 2021, p. 182).
+
+<img width="1029" height="641" alt="image" src="https://github.com/user-attachments/assets/39db2f62-392c-4816-a35b-fd5f604144b5" />
+
+<div style="text-align: left">
+<p>Imagem 4: Referencia do livro (Fonte: Barbosa et AL, 2026).</p>
+</div>
 
 #### 3.1 Modelo CMN-GOMS
 
