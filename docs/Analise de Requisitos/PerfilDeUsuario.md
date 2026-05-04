@@ -36,11 +36,11 @@ A entrevista é uma técnica qualitativa de coleta de dados que permite uma inve
 
 #### Perfil dos Entrevistados
 
-| # | Faixa Etária | Ocupação | Nível de Escolaridade | Experiencia com o Sistema | Afinidade com tecnologia |
-|:-:|:------------:|:--------:|:---------------------:|:-------------------------:|:-------------------------:|
-| 1 | 18-30 | Estudante de Engenharia de Software  | Ensino Superior Incompleto | Alta | Alta
-| 2 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Nunca utilizou | Alta
-| 3 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Média | Alta
+| # | Faixa Etária | Ocupação | Nível de Escolaridade | Experiencia com o Sistema | Afinidade com tecnologia | Link do Video |
+|:-:|:------------:|:--------:|:---------------------:|:-------------------------:|:-------------------------:|:-------------:|
+| 1 | 18-30 | Estudante de Engenharia de Software  | Ensino Superior Incompleto | Alta | Alta | [Video](https://www.youtube.com/watch?v=5bUXvwUHqDc) |
+| 2 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Nunca utilizou | Alta | [Video](https://www.youtube.com/watch?v=F9_WBQEnBqI) | 
+| 3 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Média | Alta | [Video](https://youtu.be/MXrU4fCq7CE?si=AM6N78vQYXxWbihU) | 
 
 
 
