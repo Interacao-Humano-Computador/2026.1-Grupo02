@@ -70,7 +70,7 @@ nav:
         - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
         - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
         - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
-      - Verificação:
+  - Verificação:
           - Etapa 1: Avaliacao/avaliacao.md
           - Etapa 2: Avaliacao/Lista_de_Verificação_Entrega2.md
         
