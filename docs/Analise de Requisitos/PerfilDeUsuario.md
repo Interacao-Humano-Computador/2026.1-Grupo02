@@ -7,7 +7,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do documento | Tiago | ------ |
+| 02/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
 | 02/05/2026 | 1.1 | Adicionando dados obtidos pela entrevista | Tiago | ------ |
 | 03/05/2026 | 1.2 | Adição parcial dos dados obtidos pela Análise de Documentos | Samuel Felipe | ----- |
 | 03/05/2026 | 1.3 | Adição dos dados obtidos pela Análise de Documentos | Bryan Smith| ----- |
@@ -252,7 +252,7 @@ A consolidação dos dados das três técnicas aponta os seguintes pontos críti
 | Guilherme | Adição de dados obtidos pelo questionário |
 | Maria Luana | Consolidação do perfil do usuário |
 | Luan | Participar da elaboração do questionario |
-| Lucas Fujimoto| Auxiliar na gravação da entrevista e anotação das respostas do entrevistado |
+| Lucas Fujimoto | Auxiliar na gravação da entrevista e anotação das respostas do entrevistado |
 
 <div style="text-align: left">
 <p>Tabela 5: Tabela de contribuição (Fonte: autores, 2026).</p>

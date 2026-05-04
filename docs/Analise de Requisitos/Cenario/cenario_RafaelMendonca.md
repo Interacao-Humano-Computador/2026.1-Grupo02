@@ -8,7 +8,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação do cenário de justificativa eleitoral online para Rafael Mendonça Alves | Luan Ludry | — |
+| 03/05/2026 | 1.0 | Criação do cenário de justificativa eleitoral online para Rafael Mendonça Alves | Luan Ludry | Lucas Fujimoto |
 
 ---
 
