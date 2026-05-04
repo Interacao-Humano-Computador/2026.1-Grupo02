@@ -163,4 +163,4 @@ GOAL 0: Trocar local de votação
 
 ## Agradecimentos
 
-Agradecemos à IA Generativa Claude (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação e redação das análises HTA, CTT e GOMS, na geração dos diagramas em Mermaid e na formatação das tabelas comparativas. Todo o conteúdo técnico e as decisões de projeto foram definidos pelo autor; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas.
+Agradecemos à IA Generativa Claude (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação e redação das análises de tarefas.
