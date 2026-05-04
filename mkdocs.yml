@@ -3,6 +3,10 @@ site_url: https://Interacao-Humano-Computador.github.io/2026.1-Grupo02
 repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo02
 repo_name: 2026.1-Grupo02
 
+plugins:
+    - search
+    - mermaid2
+
 theme:
   name: material
   language: pt
