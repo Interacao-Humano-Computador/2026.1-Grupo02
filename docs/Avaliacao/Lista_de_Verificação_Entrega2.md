@@ -9,7 +9,7 @@
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 03/05/2026 | 1.0 | Criação do documento | Tiago | Luan |
 | 03/05/2026 | 1.1 | Adição de nvos itens na lista | Guilherme | Maria Luana |
-| 03/05/2026 | 1.2 | Adição de nvos itens na lista | Bryan |  |
+
 
 
 ---
