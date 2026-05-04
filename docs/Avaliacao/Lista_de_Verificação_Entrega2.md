@@ -116,6 +116,7 @@ Os artefatos avaliados nesta entrega são: coleta de dados (entrevista, question
 |:----------:|:-------------|
 | Tiago | Criação do Documento e Elaboração dos items E1,E2,E3 |
 | Guiherme | Elaboração dos itens C17,C18,C19,C20,C21,C22  |
+| Bryan | Elaboração dos itens E9,E10  |
 
 <div style="text-align: left">
 <p>Tabela 4: Tabela de contribuição (Fonte: autor, 2026).</p>
