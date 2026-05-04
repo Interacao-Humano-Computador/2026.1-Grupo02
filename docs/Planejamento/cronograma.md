@@ -54,7 +54,7 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Cronograma | Início: 09/04<br>Fim: 10/04 | Lucas | Início: 11/04<br>Fim: 11/04 | Luan |
 | Criação do git pages | 09/04<br>Fim: 10/04 | Luan e Bryan | Início: 11/04<br>Fim: 11/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Gravar vídeo de apresentação | Início: 10/04<br>Fim: 10/04  | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 10/04<br>Fim: 10/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
-| Correção após feedback |  |  |  |  |
+| Correção após feedback | Início: 14/04<br>Fim: 16/04 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 17/04<br>Fim: 17/04 | Lucas |
 
 <div style="text-align: left">
 <p>Tabela 2: Planejamento do Projeto (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -84,12 +84,11 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
-| Traçar perfil de usuários |  |  |  |  |
-| Personas |  |  |  |  |
-| Mapa de empatia |  |  |  |  |
-| Análise de tarefas |  |  |  |  |
-| Aspectos éticos |  |  |  |  |
-| Gravar vídeo de apresentação |  |  |  |  |
+| Traçar perfil de usuários | Início: 01/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Personas | Início: 01/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Análise de tarefas | Início: 01/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Aspectos éticos | Início: 01/05<br>Fim: 03/05 | Guilherme | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Gravar vídeo de apresentação | Início: 01/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Correção após feedback |  |  |  |  |
 
 <div style="text-align: left">
