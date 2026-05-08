@@ -39,22 +39,10 @@ nav:
       - Processo de Design: Planejamento/Processo_Design.md
       - Sites Analisados: Planejamento/sites_analisados.md
       - Site Selecionado: Planejamento/site_selecionado.md
-      - Reunioes:
-          - Ata 09/04/26: Reunioes/Ata Reunião 09 04 26.md
-          - Ata 11/04/26: Reunioes/Ata Reunião 11 04 26.md
-          - Ata 23/04/26: Reunioes/Ata Reunião 23 04 26.md
-          - Ata 30/04/26: Reunioes/Ata Reunião 30 04 26.md
   - Análise de Requisitos:
       - Perfil de Usuário: Analise de Requisitos/PerfilDeUsuario.md
       - Aspectos Éticos: Analise de Requisitos/AspectosEticos.md
-      - Cenários:
-        - Cenário 1: Analise de Requisitos/Cenario/cenario_agendamento.md
-        - Cenário 2: Analise de Requisitos/Cenario/cenario_LucasFerreira.md
-        - Cenário 3: Analise de Requisitos/Cenario/cenario_RafaelMendonca.md
-        - Cenário 4: Analise de Requisitos/Cenario/cenario_mesario.md
-        - Cenário 5: Analise de Requisitos/Cenario/cenario_alterarlocaldevotacao.md
-        - Cenário 6: Analise de Requisitos/Cenario/cenario_certidaoquitacaoeleitoral.md
-        - Cenário 7: Analise de Requisitos/Cenario/cenario_emissao_1titulo.md
+      - Cenários: Analise de Requisitos/Cenario/cenario_unificado.md
       - Personas:
         - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
         - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
@@ -75,5 +63,9 @@ nav:
   - Verificação:
           - Etapa 1: Avaliacao/avaliacao.md
           - Etapa 2: Avaliacao/Lista_de_Verificação_Entrega2.md
-        
+  - Reuniões:
+          - Ata 09/04/26: Reunioes/Ata Reunião 09 04 26.md
+          - Ata 11/04/26: Reunioes/Ata Reunião 11 04 26.md
+          - Ata 23/04/26: Reunioes/Ata Reunião 23 04 26.md
+          - Ata 30/04/26: Reunioes/Ata Reunião 30 04 26.md
         
