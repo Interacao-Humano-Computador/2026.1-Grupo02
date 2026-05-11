@@ -8,7 +8,7 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 15/04/2026 | 1.0 | Criação do documento do heatmap de disponibilidade | Tiago | Lucas Fujimoto |
-| 15/04/2026 | 1.1 | Ajustando estrutura do artefato de acordo com o modelo de artefato | Tiago | Lucas Fujimoto |
+| 11/05/2026 | 1.1 | Ajustando estrutura do artefato de acordo com o modelo de artefato | Tiago | Lucas Fujimoto |
 
 ---
 
