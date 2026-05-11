@@ -1,16 +1,45 @@
 # Sites Analisados
-
-## Introdução
-
-Nesta seção, são apresentados os sites analisados pelo grupo no contexto da disciplina de Interação Humano-Computador. O objetivo dessas análises é identificar problemas de usabilidade e interação, com base em critérios heurísticos, a fim de compreender as principais dificuldades enfrentadas pelos/as usuários/as e propor possíveis melhorias.
-
-Os sites escolhidos pelos/as integrantes do grupo foram:
+## Grupo 02
 
 ---
 
-## Portal do INSS
+## Tabela de Contribuição
 
-**Link do site:** https://www.gov.br/inss/pt-br
+> **Instruções:** Registre a contribuição de cada integrante da equipe na elaboração deste artefato. Preencha com as atividades realizadas por cada membro. Caso algum integrante não tenha participado deste artefato específico, deixe o campo como `—`.
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Luan Ludry | Criação da artefato e atualização com análises detalhadas dos sites |
+| Tiago | Correção dos sites avaliados pra refletir os que foram avaliados na atividade individual |
+| Tiago | Padronização do artefato para seguir o modelo de artefato |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 15/04/2026 | 1.0 | Criação da página "Sites Analisados" | [Luan Ludry](https://github.com/luanludry) | [Tiago](https://github.com/TiagoUNB) |
+| 15/04/2026 | 1.1 | Atualização com análises detalhadas | [Luan Ludry](https://github.com/luanludry) | [Tiago](https://github.com/TiagoUNB) |
+| 11/05/2026 | 1.2 | Padronização dos artefato de acordo com o modelo | [Tiago](https://github.com/TiagoUNB) | [Luan Ludry](https://github.com/luanludry) |
+
+---
+
+## Introdução
+
+Este documento apresenta os sites analisados pelo Grupo 02 no contexto da disciplina de Interação Humano-Computador. O objetivo das análises é identificar problemas de usabilidade e interação com base em critérios heurísticos, a fim de compreender as principais dificuldades enfrentadas pelos/as usuários/as e propor possíveis melhorias. Os sites foram escolhidos individualmente por cada integrante do grupo.
+
+---
+
+## Sites Analisados
+
+### Portal do INSS
+
+**Link:** https://www.gov.br/inss/pt-br
 
 O portal do INSS oferece serviços relacionados à previdência social, como agendamento de atendimentos, consulta de benefícios e emissão de extratos.
 
@@ -22,9 +51,9 @@ O portal do INSS oferece serviços relacionados à previdência social, como age
 
 ---
 
-## Fala.BR
+### Fala.BR
 
-**Link do site:** https://falabr.cgu.gov.br/
+**Link:** https://falabr.cgu.gov.br/
 
 O Fala.BR é um sistema de ouvidoria que permite o registro de manifestações como denúncias, reclamações, sugestões e elogios.
 
@@ -36,9 +65,9 @@ O Fala.BR é um sistema de ouvidoria que permite o registro de manifestações c
 
 ---
 
-## Portal da Transparência do Distrito Federal
+### Portal da Transparência do Distrito Federal
 
-**Link do site:** https://www.transparencia.df.gov.br/
+**Link:** https://www.transparencia.df.gov.br/
 
 O portal disponibiliza informações sobre receitas, despesas e contratos do governo do Distrito Federal, promovendo a transparência pública.
 
@@ -50,9 +79,9 @@ O portal disponibiliza informações sobre receitas, despesas e contratos do gov
 
 ---
 
-## Câmara dos Deputados
+### Câmara dos Deputados
 
-**Link do site:** https://www.camara.leg.br/
+**Link:** https://www.camara.leg.br/
 
 O portal disponibiliza informações sobre as atividades legislativas, projetos de lei e dados dos deputados.
 
@@ -64,9 +93,9 @@ O portal disponibiliza informações sobre as atividades legislativas, projetos 
 
 ---
 
-## AgendaDF - Doação de Sangue
+### AgendaDF — Doação de Sangue
 
-**Link do site:** https://agenda.df.gov.br/organizacao.html?organizacao=37959462
+**Link:** https://agenda.df.gov.br/organizacao.html?organizacao=37959462
 
 O portal permite o agendamento de doações de sangue, apresentando datas e horários disponíveis.
 
@@ -78,9 +107,9 @@ O portal permite o agendamento de doações de sangue, apresentando datas e hor�
 
 ---
 
-## Portal da Transparência de Luziânia
+### Portal da Transparência de Luziânia
 
-**Link do site:** https://www.luziania.go.gov.br/transparencia
+**Link:** https://www.luziania.go.gov.br/transparencia
 
 O portal disponibiliza informações sobre receitas, despesas e contratos do município de Luziânia, promovendo a transparência pública.
 
@@ -92,9 +121,9 @@ O portal disponibiliza informações sobre receitas, despesas e contratos do mun
 
 ---
 
-## Fundação Hemocentro de Brasília
+### Fundação Hemocentro de Brasília
 
-**Link do site:** https://www.fhb.df.gov.br/
+**Link:** https://www.fhb.df.gov.br/
 
 O site da Fundação Hemocentro de Brasília oferece informações sobre doação de sangue, campanhas e agendamentos.
 
@@ -106,9 +135,12 @@ O site da Fundação Hemocentro de Brasília oferece informações sobre doaçã
 
 ---
 
-## Histórico de Versão
+## Referência Bibliográfica
 
-| Versão | Data       | Descrição                                     | Autor(es/as)       | Revisor(es/as)     |
-|--------|------------|-----------------------------------------------|--------------------|--------------------|
-| 1.0    | 15/04/2026 | Criação da página "Sites Analisados"          | [Luan Ludry](https://github.com/luanludry) |  - |
-| 1.1    | 15/04/2026 | Atualização com análises detalhadas           | [Luan Ludry](https://github.com/luanludry) | - |
+Não se aplica.
+
+---
+
+## Agradecimentos
+
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na padronização da estrutura e formatação do artefato conforme o modelo do grupo. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
