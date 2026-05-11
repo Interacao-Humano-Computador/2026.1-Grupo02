@@ -13,6 +13,19 @@
 
 ---
 
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Maria Luana | Levantamento e documentação das ferramentas utilizadas |
+| Tiago Geovane | Revisão do conteúdo e padronização |
+
+<div style="text-align: left">
+<p>Tabela 2: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
+
+---
+
 ## Introdução
 
 Este documento apresenta as ferramentas utilizadas pelo grupo ao longo do desenvolvimento do projeto da disciplina de Interação Humano-Computador (IHC). O objetivo é registrar os softwares adotados para apoiar a organização da equipe, a produção dos artefatos e a gestão do projeto.
@@ -78,19 +91,6 @@ Durante a etapa 2 do projeto, foram utilizadas as seguintes ferramentas:
 
 - Outras ferramentas:
   - Github
----
-
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Maria Luana | Levantamento e documentação das ferramentas utilizadas |
-| Tiago Geovane | Revisão do conteúdo e padronização |
-
-<div style="text-align: left">
-<p>Tabela 2: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
-
 ---
 
 ## Referência Bibliográfica
