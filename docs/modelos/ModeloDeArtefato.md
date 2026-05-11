@@ -3,6 +3,22 @@
 
 ---
 
+## Tabela de Contribuição
+
+> **Instruções:** Registre a contribuição de cada integrante da equipe na elaboração deste artefato. Preencha com as atividades realizadas por cada membro. Caso algum integrante não tenha participado deste artefato específico, deixe o campo como `—`.
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Nome do Integrante 1 | Descrição da contribuição |
+| Nome do Integrante 2 | Descrição da contribuição |
+| Nome do Integrante 3 | — |
+
+<div style="text-align: left">
+<p>Tabela X: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
+
+---
+
 ## Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
@@ -10,6 +26,8 @@
 | DD/MM/AAAA | 1.0 | Criação do documento | Nome do Autor | Nome do Revisor |
 
 ---
+
+
 
 ## Introdução
 
@@ -27,21 +45,6 @@ Conteúdo da subseção.
 
 ---
 
-## Tabela de Contribuição
-
-> **Instruções:** Registre a contribuição de cada integrante da equipe na elaboração deste artefato. Preencha com as atividades realizadas por cada membro. Caso algum integrante não tenha participado deste artefato específico, deixe o campo como `—`.
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Nome do Integrante 1 | Descrição da contribuição |
-| Nome do Integrante 2 | Descrição da contribuição |
-| Nome do Integrante 3 | — |
-
-<div style="text-align: left">
-<p>Tabela X: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
-
----
 
 ## Referência Bibliográfica
 
