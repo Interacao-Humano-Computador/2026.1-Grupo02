@@ -7,7 +7,20 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/2026 | 1.0 | Criação e padronização do documento de seleção do site | Samuel e Tiago Geovane | — |
+| 15/04/2026 | 1.0 | Criação e padronização do documento de seleção do site | Samuel e Tiago Geovane | Guilherme |
+| 11/05/2026 | 1.1 | Ajustando estrutura do artefato de acordo com o modelo de artefato | Tiago | Samuel |
+
+---
+
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Samuel e Tiago Geovane | Seleção do site e descrição das funcionalidades |
+| Tiago Geovane | Estruturação do documento conforme modelo |
+| Tiago Geovane | Analise Heurística do site |
+
+> **Tabela 1:** Tabela de contribuição (Fonte: Geovane, Tiago 2026).
 
 ---
 
@@ -158,18 +171,6 @@ Abaixo se encontra uma imagem (Imagem 2) que é contem uma print do livro que fa
 <img src="../img/site_escolhidoIMG/site_escolhido_img2.png" alt="Imagem 2" style="width: 400px">
 </div>
 **Imagem 2:** Experiencia do usuario (Fonte: Barbosa et al. (2021, p. 37)).
-
----
-
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Samuel e Tiago Geovane | Seleção do site e descrição das funcionalidades |
-| Tiago Geovane | Estruturação do documento conforme modelo |
-| Tiago Geovane | Analise Heurística do site |
-
-> **Tabela 1:** Tabela de contribuição (Fonte: Geovane, Tiago 2026).
 
 ---
 
