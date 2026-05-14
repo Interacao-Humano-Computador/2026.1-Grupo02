@@ -8,14 +8,31 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 12/05/2026 | 1.0 | Criação do documento | Lucas | Luan Ludry |
+| 14/05/2026 | 1.1 | Adição de items de verificação do grupo | Tiago | Lucas |
 
+---
 
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Tiago | Elaboração dos itens de verificação E7, E8, E9 (Guia de Estilo) e E21, E22 (Princípios Gerais do Projeto). |
+| Guiherme | Elaboração dos itens de verificação E12 e E14 (Características da Plataforma). |
+| Luan | Elaboração dos itens de verificação E10 e E11 (Guia de Estilo).  |
+| Maria Luana | Elaboração dos itens de verificação E15 e E16 (Princípios Gerais do Projeto). |
+| Lucas Fujimoto | Elaboração dos itens de verificação E1, E2, E3, E4, E5 e E6 (Metas de Usabilidade). |
+| Bryan | Elaboração dos itens de verificação E17 e E18 (Princípios Gerais do Projeto) |
+| Samuel | Elaboração dos itens de verificação E19 e E20 (Princípios Gerais do Projeto).  |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
 ## Introdução
 
-Este documento apresenta a lista de verificação referente à **Entrega 2** da disciplina de Interação Humano-Computador (IHC), cujo tema central é: *Princípios Gerais do Projeto, Metas de Usabilidade, Guia de Estilo*.
+Este documento apresenta a lista de verificação referente à **Entrega 3** da disciplina de Interação Humano-Computador (IHC), cujo tema central é: *Princípios Gerais do Projeto, Metas de Usabilidade, Guia de Estilo*.
 
 A lista reúne os critérios de avaliação organizados em três grupos: (1) itens do desenvolvimento do projeto, comuns a todas as entregas; (2) itens de conteúdo da disciplina, extraídos do plano de ensino; e (3) itens extras elaborados com base no livro *Interação Humano-Computador* (Barbosa e Silva, 2010), que aprofundam a qualidade dos artefatos produzidos.
 
@@ -31,20 +48,20 @@ Os artefatos avaliados nesta entrega são: Características da plataforma, princ
 
 | Nº | Questão | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação |
 |:--:|:--------|:---------------------------------:|:--------------------------------:|
-| 1 | O histórico de versão está padronizado? | | |
-| 2 | O(s) autor(es) e o(s) revisor(es) estão indicados em cada artefato? | | |
-| 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? | | |
-| 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | | |
-| 5 | Há um texto de introdução em todos os artefatos? | | |
-| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | | |
-| 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | | |
-| 8 | A gravação da reunião do grupo está disponível e acessível? | | |
-| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | | |
-| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | | |
-| 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | | |
+| 1 | O histórico de versão está padronizado? | Sim | |
+| 2 | O(s) autor(es) e o(s) revisor(es) estão indicados em cada artefato? |Sim | |
+| 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? |Sim | |
+| 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | Sim| |
+| 5 | Há um texto de introdução em todos os artefatos? |Sim | |
+| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | Sim| |
+| 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? |Sim | |
+| 8 | A gravação da reunião do grupo está disponível e acessível? |Sim | |
+| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? |Sim | |
+| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? |Sim | |
+| 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? |Sim | |
 
 <div style="text-align: left">
-<p>Tabela 1: Itens do desenvolvimento do projeto (Fonte: Plano de Ensino da Disciplina, 2026).</p>
+<p>Tabela 2: Itens do desenvolvimento do projeto (Fonte: Plano de Ensino da Disciplina, 2026).</p>
 </div>
 
 ---
@@ -66,7 +83,7 @@ Os artefatos avaliados nesta entrega são: Características da plataforma, princ
 | C8 | Guia de Estilo | O Guia de Estilo corresponde ao site avaliado? | | |
 
 <div style="text-align: left">
-<p>Tabela 2: Itens de conteúdo da disciplina — Entrega 2 (Fonte: autores, 2026).</p>
+<p>Tabela 3: Itens de conteúdo da disciplina — Entrega 2 (Fonte: autores, 2026).</p>
 </div>
 
 ---
@@ -77,43 +94,35 @@ Os artefatos avaliados nesta entrega são: Características da plataforma, princ
 
 | Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
 |:--:|:--------:|:--------|:----------------------------------:|:---------------------------------:|:--------------------------------:| :---------: |
-| E1 | Metas de Usabilidade | O artefato possui a meta de eficácia? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | Lucas |
-| E2 | Metas de Usabilidade | O artefato possui a meta de eficiência? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | Lucas |
-| E3 | Metas de Usabilidade | O artefato possui a meta de segurança? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | Lucas |
-| E4 | Metas de Usabilidade | O artefato possui a meta de utilidade? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | Lucas |
-| E5 | Metas de Usabilidade | O artefato possui a meta de aprendizado? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | Lucas |
-| E6 | Metas de Usabilidade | O artefato possui a meta de memorável? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | Lucas |
-| E7 | Guia de Estilo | O Guia de Estilo possui objetivo claro? | p. 258 ( Barbosa e Silva, 2010) | | |
-| E8 | Guia de Estilo | O Guia de Estilo possui descrição do ambiente de trabalho do usuário? | p. 258 ( Barbosa e Silva, 2010) | | |
-| E9 | Guia de Estilo | O Guia de Estilo possui público-alvo? | p. 258 ( Barbosa e Silva, 2010) | | |
-| E10 | Guia de Estilo | O Guia de Estilo possui descrição do ambiente de trabalho do usuário? | p. 258 ( Barbosa e Silva, 2010) | | |
-| E11 | Guia de Estilo | O Guia de Estilo possui estilos de interação? | p. 258 ( Barbosa e Silva, 2010) | | |
-| E12 | Guia de Estilo | O Guia de Estilo possui tipos de tela (para tarefas comuns)? | p. 258 ( Barbosa e Silva, 2010) | | |
+| E1 | Metas de Usabilidade | O artefato possui a meta de eficácia? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
+| E2 | Metas de Usabilidade | O artefato possui a meta de eficiência? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
+| E3 | Metas de Usabilidade | O artefato possui a meta de segurança? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
+| E4 | Metas de Usabilidade | O artefato possui a meta de utilidade? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
+| E5 | Metas de Usabilidade | O artefato possui a meta de aprendizado? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
+| E6 | Metas de Usabilidade | O artefato possui a meta de memorável? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | | Lucas
+| E7 | Guia de Estilo | O Guia de Estilo possui descrição do ambiente de trabalho do usuário? | p. 258 ( Barbosa e Silva, 2010) | | | Tiago
+| E8 | Guia de Estilo | O Guia de Estilo possui público-alvo? | p. 258 ( Barbosa e Silva, 2010) | | | Tiago
+| E9 | Guia de Estilo | O Guia de Estilo possui descrição do ambiente de trabalho do usuário? | p. 258 ( Barbosa e Silva, 2010) | | | Tiago
+| E10 | Guia de Estilo | O Guia de Estilo possui estilos de interação? | p. 258 ( Barbosa e Silva, 2010) | | | Luan
+| E11 | Guia de Estilo | O Guia de Estilo possui tipos de tela (para tarefas comuns)? | p. 258 ( Barbosa e Silva, 2010) | | | Luan
+| E12 | Caracteristicas da Plataforma | O documento de Caracteristicas da Plataforma define os principais dispositivos utilizados ao acessar o site?  | Barbosa e Silva, 2010 | | | Guilherme
+| E14 | Caracteristicas da Plataforma | O documento descreve as principais funcionalidades do site?  | Barbosa e Silva, 2010 | | | Guilherme
+| E15 | Princípios Gerais do Projeto | O documento fala sobre o principio de Correspondência com as Expectativas dos Usuários?  |p.238-p.248 Barbosa e Silva, 2010 | | | Maria Luana
+| E16 | Princípios Gerais do Projeto| O documento fala sobre o principio de Simplicidade nas Estruturas das Tarefas?  | p.238-p.248 Barbosa e Silva, 2010 | | | Maria Luana
+| E17 | Princípios Gerais do Projeto | O documento fala sobre o principio de Equilíbrio entre Controle e Liberdade do Usuário?  | p.238-p.248 Barbosa e Silva, 2010 | | | Bryan
+| E18 | Princípios Gerais do Projeto | O documento fala sobre o principio de Consistência e Padronização?  | p.238-p.248 Barbosa e Silva, 2010 | | | Bryan
+| E19 | Princípios Gerais do Projeto | O documento fala sobre o principio de Antecipação das Necessidades do Usuário?  | p.238-p.248 Barbosa e Silva, 2010 | | | Samuel
+| E20 | Princípios Gerais do Projeto | O documento fala sobre o principio de Visibilidade e Reconhecimento?  | p.238-p.248 Barbosa e Silva, 2010 | | | Samuel
+| E21 | Princípios Gerais do Projeto | O documento fala sobre o principio de Conteúdo Relevante e Expressão Adequada?  | p.238-p.248 Barbosa e Silva, 2010 | | | Tiago
+| E22 | Princípios Gerais do Projeto | O documento fala sobre o principio de Projeto para Erros?  | p.238-p.248 Barbosa e Silva, 2010 | | | Tiago
 
 
 <div style="text-align: left">
-<p>Tabela 3: Itens extras de verificação (Fonte: autor, 2026).</p>
+<p>Tabela 4: Itens extras de verificação (Fonte: autor, 2026).</p>
 </div>
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Tiago | Criação do Documento e Elaboração dos items E1,E2 |
-| Guiherme | Elaboração dos itens C17,C18,C19,C20 |
-| Luan | Elaboração dos itens E3,E4  |
-| Maria Luana | Elaboração dos itens E5,E6  |
-| Lucas Fujimoto | Elaboração dos itens E7,E8  |
-| Bryan | Elaboração dos itens E9,E10  |
-| Samuel | Elaboração dos itens C21,C22  |
-
-<div style="text-align: left">
-<p>Tabela 4: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
-
----
 
 ## Referência Bibliográfica
 
