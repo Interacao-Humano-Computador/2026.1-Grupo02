@@ -7,7 +7,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 01/05/2026 | 1.0 | Criação da persona Karina | Lucas Fujimoto | |
+| 01/05/2026 | 1.0 | Criação da persona Karina | Lucas Fujimoto | Luan Ludry |
 
 ---
 
