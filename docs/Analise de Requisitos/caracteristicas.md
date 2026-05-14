@@ -44,7 +44,7 @@ O portal concentra múltiplos subportais e sistemas integrados, entre os quais s
 
 ## Requisitos de Sistema
 
-O portal pode ser acessado por qualquer dispositivo com conexão à internet e navegador. Seu design é responsivo, adaptando-se a diferentes tamanhos de tela, incluindo dispositivos móveis. Os navegadores compatíveis com o funcionamento adequado incluem:
+O portal pode ser acessado por qualquer dispositivo com conexão à internet e navegador. Sendo principalmente acessado por computadores desktop ou laptop. Seu design é responsivo, adaptando-se a diferentes tamanhos de tela, incluindo dispositivos móveis. Os navegadores compatíveis com o funcionamento adequado incluem:
 
 - Google Chrome
 - Mozilla Firefox
