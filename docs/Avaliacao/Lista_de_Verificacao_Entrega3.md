@@ -7,7 +7,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 12/05/2026 | 1.0 | Criação do documento | Lucas | |
+| 12/05/2026 | 1.0 | Criação do documento | Lucas | Luan Ludry |
 
 
 

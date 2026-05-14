@@ -9,7 +9,7 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 01/05/2026 | 1.0 | Criação e desenvolvimento dos cenários | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Lucas Fujimoto |
-| 07/05/2026 | 1.1 | Unificação dos cenários em só um arquivo | Lucas Fujimoto | |
+| 07/05/2026 | 1.1 | Unificação dos cenários em só um arquivo | Lucas Fujimoto | Luan Ludry |
 
 ---
 

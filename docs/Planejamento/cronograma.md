@@ -8,7 +8,7 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 10/04/2026 | 1.0 | Criação do cronograma do projeto | Lucas Fujimoto | Luan Ludry |
-| 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | |
+| 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | Luan Ludry |
 
 ---
 
