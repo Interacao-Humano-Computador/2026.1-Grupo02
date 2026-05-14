@@ -20,7 +20,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 11/05/2026 | 1.0 | Criação do documento | Lucas Fujimoto | Nome do Revisor |
+| 11/05/2026 | 1.0 | Criação do documento | Lucas Fujimoto | Luan Ludry |
 
 ---
 
