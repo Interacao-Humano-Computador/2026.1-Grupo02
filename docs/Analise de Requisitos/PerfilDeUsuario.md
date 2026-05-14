@@ -13,6 +13,7 @@
 | 03/05/2026 | 1.3 | Adição dos dados obtidos pela Análise de Documentos | Bryan Smith| ----- |
 | 03/05/2026 | 1.4 | Adição dos dados obtidos pelo questionário | Guilherme| Maria Luana |
 | 03/05/2026 | 1.5 | Conslidação do perfil do usuário | Maria Luana | Guilherme |
+| 14/05/2026 | 1.6 | Inserção de planilhas, links e gráficos relacionados ao questionário | Maria Luana | Guilherme |
 
 
 
@@ -170,7 +171,7 @@ Essas informações são fundamentais para a definição do perfil do usuário, 
 
 O questionário é uma técnica quantitativa de coleta de dados que permite alcançar um número maior de participantes de forma padronizada. Neste trabalho, foi elaborado um questionário com 10 questões, distribuídas entre perguntas fechadas de múltipla escolha e perguntas abertas dissertativas, aplicado de forma online por meio da plataforma Google Forms.
 
-O questionário ficou disponível para respostas entre os dias 01/05/2026 e 03/05/2026, e obteve um total de 25 respostas válidas.
+O [questionário](https://forms.gle/HUyceMVqywnef7az5) ficou disponível para respostas entre os dias 01/05/2026 e 03/05/2026, e obteve um total de 25 respostas válidas.
 
 #### Perfil dos Respondentes
 
@@ -188,21 +189,60 @@ O questionário ficou disponível para respostas entre os dias 01/05/2026 e 03/0
 
 #### Principais Resultados
 
+
+#### Principais Resultados
+
 Os dados coletados pelo questionário revelaram os seguintes aspectos sobre o perfil dos usuários:
 
 - **Distribuição por faixa etária:** A faixa etária de 45 a 59 anos foi a mais representada, com 8 respondentes (32%), seguida pela faixa de 18 a 24 anos, com 7 respondentes (28%), e pela faixa de 35 a 44 anos, com 6 respondentes (24%). As faixas de 25 a 34 anos, menos de 18 anos e 60 anos ou mais somaram juntas 4 respondentes (16%).
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q1_Idade.jpeg" alt="Gráfico - Distribuição por faixa etária">
+</details>
 
 - **Nível de escolaridade:** A maioria dos respondentes possui pós-graduação (especialização, mestrado ou doutorado), representando 11 participantes (44%). O ensino superior incompleto aparece em segundo lugar, com 6 respondentes (24%), seguido do ensino superior completo, com 5 respondentes (20%). Ensino médio e fundamental somaram 3 respondentes (12%).
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q2_Escolaridade.jpeg" alt="Gráfico - Nível de escolaridade">
+</details>
 
 - **Nível de familiaridade tecnológica:** 12 respondentes (48%) se autodeclararam usuários de nível avançado, isto é, utilizam tecnologia no trabalho ou nos estudos. Outros 11 (44%) classificaram-se como intermediários, realizando pesquisas e serviços online. Apenas 2 respondentes (8%) se identificaram como usuários básicos, limitados a redes sociais e aplicativos de mensagens.
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q3_Tecnologia.jpeg" alt="Gráfico - Familiaridade tecnológica">
+</details>
+
+- **Profissão:** 15 respondentes (60%) declararam que sua profissão não lida com temas eleitorais, enquanto 10 respondentes trabalham com área relacionada a esse tema.
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q4_profissão.jpeg" alt="Gráfico - Profissão">
+</details>
 
 - **Frequência e contexto de uso:** A maioria dos respondentes, 12 participantes (48%), acessa o site do TSE apenas ocasionalmente, para resolver pendências específicas como emitir certidões ou pagar multas. Outros 6 (24%) utilizam o site somente em épocas de eleições, e 5 (20%) afirmaram nunca tê-lo utilizado. Apenas 1 respondente (4%) acessa o site com frequência para consultas ou acompanhamentos.
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q5_Frequencia.jpeg" alt="Gráfico - Frequência de uso">
+</details>
 
 - **Facilidade de localização de serviços:** Quando questionados sobre a facilidade de encontrar um serviço específico ao abrir o site, 10 respondentes (40%) avaliaram como muito fácil, afirmando que os principais serviços estão visíveis logo de cara. Por outro lado, 9 respondentes (36%) classificaram como regular, indicando que os serviços existem, mas estão escondidos dentro de muitos submenus. Apenas 1 respondente (4%) considerou difícil, relatando que a organização confusa o obriga a utilizar a busca.
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q6_Facilidade.jpeg" alt="Gráfico - Facilidade de localização">
+</details>
 
 - **Comportamento quando não encontra a informação:** Diante da dificuldade de localizar um serviço, 11 respondentes (44%) relataram mudar a estratégia de busca, utilizando o campo de pesquisa do site em vez dos menus. Outros 8 (32%) buscam auxílio externo, recorrendo a tutoriais ou à seção "Fale Conosco". Dois respondentes (8%) persistem na tentativa e erro pelos menus, e outros 2 (8%) abandonam o site oficial em busca de atalhos pelo Google.
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q7_AchaInforma.jpeg" alt="Gráfico - Comportamento de busca">
+</details>
 
 - **Principais pontos de insatisfação:** Em relação à clareza dos botões e instruções, 10 respondentes (40%) afirmaram ter concluído processos sem dificuldade apenas raramente em serviços muito específicos ou técnicos. Outros 9 (36%) declararam nunca ter tido problemas com a linguagem do site. No entanto, 3 respondentes (12%) afirmaram já ter ficado em dúvida sobre em qual botão clicar para avançar, indicando inconsistências pontuais na rotulagem dos elementos de interface.
+<details>
+  <summary>📊 Ver gráfico</summary>
+  <img src="../img/Questionario/Q8_Compreensao.jpeg" alt="Gráfico - Pontos de insatisfação">
+</details>
+
+Aqui segue a planilha contendo todas as respostas coletadas: [planilha](../img/Questionario/Respostas_do_Questionario.pdf)
 
 #### Síntese
 
@@ -249,8 +289,8 @@ A consolidação dos dados das três técnicas aponta os seguintes pontos críti
 | Tiago | Preenchimento parcial dos dados obtidos pela entrevista |
 | Samuel Felipe | Preenchimento parcial dos dados obitidos pela anásile de documentos |
 | Bryan Smith | Preenchimento dos dados obtidos pela Análise de documentos do TSE |
-| Guilherme | Adição de dados obtidos pelo questionário |
-| Maria Luana | Consolidação do perfil do usuário |
+| Guilherme | Participar da elaboração do questionario e adição de dados obtidos pelo questionário |
+| Maria Luana | Consolidação do perfil do usuário e participar da elaboração do questionário |
 | Luan | Participar da elaboração do questionario |
 | Lucas Fujimoto | Auxiliar na gravação da entrevista e anotação das respostas do entrevistado |
 
@@ -269,3 +309,5 @@ A consolidação dos dados das três técnicas aponta os seguintes pontos críti
 ## Agradecimentos
 
 Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação do documento, formatação das tabelas e organização do conteúdo de acordo com o modelo estabelecido pelo grupo. Todo o conteúdo técnico — incluindo os dados coletados nas entrevistas, na análise de documentos e no questionário — e as decisões metodológicas foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.  
+
+
