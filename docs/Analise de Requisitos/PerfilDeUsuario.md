@@ -189,57 +189,54 @@ O [questionário](https://forms.gle/HUyceMVqywnef7az5) ficou disponível para re
 
 #### Principais Resultados
 
-
-#### Principais Resultados
-
 Os dados coletados pelo questionário revelaram os seguintes aspectos sobre o perfil dos usuários:
 
 - **Distribuição por faixa etária:** A faixa etária de 45 a 59 anos foi a mais representada, com 8 respondentes (32%), seguida pela faixa de 18 a 24 anos, com 7 respondentes (28%), e pela faixa de 35 a 44 anos, com 6 respondentes (24%). As faixas de 25 a 34 anos, menos de 18 anos e 60 anos ou mais somaram juntas 4 respondentes (16%).
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q1_Idade.jpeg" alt="Gráfico - Distribuição por faixa etária">
+  <img src="/2026.1-Grupo02/img/Questionario/Q1_Idade.jpeg" alt="Gráfico - Distribuição por faixa etária">
 </details>
 
 - **Nível de escolaridade:** A maioria dos respondentes possui pós-graduação (especialização, mestrado ou doutorado), representando 11 participantes (44%). O ensino superior incompleto aparece em segundo lugar, com 6 respondentes (24%), seguido do ensino superior completo, com 5 respondentes (20%). Ensino médio e fundamental somaram 3 respondentes (12%).
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q2_Escolaridade.jpeg" alt="Gráfico - Nível de escolaridade">
+  <img src="/2026.1-Grupo02/img/Questionario/Q2_Escolaridade.jpeg" alt="Gráfico - Nível de escolaridade">
 </details>
 
 - **Nível de familiaridade tecnológica:** 12 respondentes (48%) se autodeclararam usuários de nível avançado, isto é, utilizam tecnologia no trabalho ou nos estudos. Outros 11 (44%) classificaram-se como intermediários, realizando pesquisas e serviços online. Apenas 2 respondentes (8%) se identificaram como usuários básicos, limitados a redes sociais e aplicativos de mensagens.
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q3_Tecnologia.jpeg" alt="Gráfico - Familiaridade tecnológica">
+  <img src="/2026.1-Grupo02/img/Questionario/Q3_Tecnologia.jpeg" alt="Gráfico - Familiaridade tecnológica">
 </details>
 
 - **Profissão:** 15 respondentes (60%) declararam que sua profissão não lida com temas eleitorais, enquanto 10 respondentes trabalham com área relacionada a esse tema.
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q4_profissão.jpeg" alt="Gráfico - Profissão">
+  <img src="/2026.1-Grupo02/img/Questionario/Q4_profissão.jpeg" alt="Gráfico - Profissão">
 </details>
 
 - **Frequência e contexto de uso:** A maioria dos respondentes, 12 participantes (48%), acessa o site do TSE apenas ocasionalmente, para resolver pendências específicas como emitir certidões ou pagar multas. Outros 6 (24%) utilizam o site somente em épocas de eleições, e 5 (20%) afirmaram nunca tê-lo utilizado. Apenas 1 respondente (4%) acessa o site com frequência para consultas ou acompanhamentos.
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q5_Frequencia.jpeg" alt="Gráfico - Frequência de uso">
+  <img src="/2026.1-Grupo02/img/Questionario/Q5_Frequencia.jpeg" alt="Gráfico - Frequência de uso">
 </details>
 
 - **Facilidade de localização de serviços:** Quando questionados sobre a facilidade de encontrar um serviço específico ao abrir o site, 10 respondentes (40%) avaliaram como muito fácil, afirmando que os principais serviços estão visíveis logo de cara. Por outro lado, 9 respondentes (36%) classificaram como regular, indicando que os serviços existem, mas estão escondidos dentro de muitos submenus. Apenas 1 respondente (4%) considerou difícil, relatando que a organização confusa o obriga a utilizar a busca.
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q6_Facilidade.jpeg" alt="Gráfico - Facilidade de localização">
+  <img src="/2026.1-Grupo02/img/Questionario/Q6_Facilidade.jpeg" alt="Gráfico - Facilidade de localização">
 </details>
 
 - **Comportamento quando não encontra a informação:** Diante da dificuldade de localizar um serviço, 11 respondentes (44%) relataram mudar a estratégia de busca, utilizando o campo de pesquisa do site em vez dos menus. Outros 8 (32%) buscam auxílio externo, recorrendo a tutoriais ou à seção "Fale Conosco". Dois respondentes (8%) persistem na tentativa e erro pelos menus, e outros 2 (8%) abandonam o site oficial em busca de atalhos pelo Google.
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q7_AchaInforma.jpeg" alt="Gráfico - Comportamento de busca">
+  <img src="/2026.1-Grupo02/img/Questionario/Q7_AchaInforma.jpeg" alt="Gráfico - Comportamento de busca">
 </details>
 
 - **Principais pontos de insatisfação:** Em relação à clareza dos botões e instruções, 10 respondentes (40%) afirmaram ter concluído processos sem dificuldade apenas raramente em serviços muito específicos ou técnicos. Outros 9 (36%) declararam nunca ter tido problemas com a linguagem do site. No entanto, 3 respondentes (12%) afirmaram já ter ficado em dúvida sobre em qual botão clicar para avançar, indicando inconsistências pontuais na rotulagem dos elementos de interface.
 <details>
   <summary>📊 Ver gráfico</summary>
-  <img src="../img/Questionario/Q8_Compreensao.jpeg" alt="Gráfico - Pontos de insatisfação">
+  <img src="/2026.1-Grupo02/img/Questionario/Q8_Compreensao.jpeg" alt="Gráfico - Pontos de insatisfação">
 </details>
 
 Aqui segue a planilha contendo todas as respostas coletadas: [planilha](../img/Questionario/Respostas_do_Questionario.pdf)
