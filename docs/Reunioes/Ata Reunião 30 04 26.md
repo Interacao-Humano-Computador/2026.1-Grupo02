@@ -87,4 +87,8 @@ Sábado, 02/05/2026 — refinamento das entregas.
 
 ---
 
-*Revisora: Luan Ludry Souza*
+## 7. Gravação
+
+Link do video: [Video](https://youtu.be/ZG8FvMcoKuk)
+
+
