@@ -68,6 +68,6 @@ Sábado, 04/05/2026 - Inpeção do grupo n-1.
 |----|------------|-------------|------|
 | 1 | Reunir para fazer a apresentação do grupo n-1 | Todos os membros | 01/05/2026 |
 
-## 6. Gravação
+## 7. Gravação
 
 Link do video: [Video](https://www.youtube.com/watch?v=l97lZHIU0Ms)
