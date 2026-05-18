@@ -87,3 +87,8 @@ A definir — conforme demanda do projeto e cronograma de entregas.
 | 2 | Definir local de realização das entrevistas | Todos os membros | A definir |
 | 3 | Iniciar produção do documento de Análise de Tarefas (HTA) | Todos os membros | A definir |
 | 4 | Refinar cronograma planejado | Todos os membros | A definir |
+
+
+## 7. Gravação
+
+Link do video: [Video](https://youtu.be/6jjdEcruNgA)
