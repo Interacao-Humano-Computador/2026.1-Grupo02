@@ -72,14 +72,14 @@ Os artefatos avaliados nesta entrega são: Características da plataforma, princ
 
 | Nº | Artefato | Questão | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação |
 |:--:|:--------:|:--------|:---------------------------------:|:--------------------------------:|
-| C1 | Característica do projeto | As características da plataforma para o projeto estão definidas? | | |
-| C2 | Princípios Gerais | Os Princípios Gerais do Projeto que serão utilizados no projeto? | | |
-| C3 | Princípios Gerais | Os Princípios Gerais do Projeto contém os tópicos de correspondência com as expectativas dos usuários, simplicidade nas estruturas das tarefas, equilíbrio entre controle e liberdade do usuário, consistência e padronização; promoção da eficiência do usuário, antecipação das necessidades do usuário, visibilidade e reconhecimento, conteúdo relevante e expressão adequada e projeto para erros? | | |
-| C4 | Metas de Usabilidade | As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC | | |
-| C5 | Metas de Usabilidade | A razão da seleção das metas de usabilidade? | | |
-| C6 | Guia de Estilo | O guia de Estilo do Projeto? | | |
-| C7 | Guia de Estilo | O guia de Estilo possui a estrutura de intodução, resultados de análise, elementos de interface, elementos de interação, elementos de ação, vocabulários e padrões | | |
-| C8 | Guia de Estilo | O Guia de Estilo corresponde ao site avaliado? | | |
+| C1 | Característica do projeto | As características da plataforma para o projeto estão definidas? | Sim | 1.0 |
+| C2 | Princípios Gerais | Os Princípios Gerais do Projeto que serão utilizados no projeto? | Sim | 1.0 |
+| C3 | Princípios Gerais | Os Princípios Gerais do Projeto contém os tópicos de correspondência com as expectativas dos usuários, simplicidade nas estruturas das tarefas, equilíbrio entre controle e liberdade do usuário, consistência e padronização; promoção da eficiência do usuário, antecipação das necessidades do usuário, visibilidade e reconhecimento, conteúdo relevante e expressão adequada e projeto para erros? | Sim | 1.0 |
+| C4 | Metas de Usabilidade | As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC | Sim | 1.0 |
+| C5 | Metas de Usabilidade | A razão da seleção das metas de usabilidade? | Sim | 1.0 |
+| C6 | Guia de Estilo | O guia de Estilo do Projeto? | Sim | 1.0 |
+| C7 | Guia de Estilo | O guia de Estilo possui a estrutura de intodução, resultados de análise, elementos de interface, elementos de interação, elementos de ação, vocabulários e padrões | Sim | 1.0 |
+| C8 | Guia de Estilo | O Guia de Estilo corresponde ao site avaliado? | Sim | 1.0 |
 
 <div style="text-align: left">
 <p>Tabela 3: Itens de conteúdo da disciplina — Entrega 2 (Fonte: autores, 2026).</p>
@@ -93,29 +93,26 @@ Os artefatos avaliados nesta entrega são: Características da plataforma, princ
 
 | Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
 |:--:|:--------:|:--------|:----------------------------------:|:---------------------------------:|:--------------------------------:| :---------: |
-| E1 | Metas de Usabilidade | O artefato possui a meta de eficácia? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
-| E2 | Metas de Usabilidade | O artefato possui a meta de eficiência? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
-| E3 | Metas de Usabilidade | O artefato possui a meta de segurança? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
-| E4 | Metas de Usabilidade | O artefato possui a meta de utilidade? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
-| E5 | Metas de Usabilidade | O artefato possui a meta de aprendizado? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | |  | Lucas
-| E6 | Metas de Usabilidade | O artefato possui a meta de memorável? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | | | Lucas
-| E7 | Guia de Estilo | O Guia de Estilo possui descrição do ambiente de trabalho do usuário? | p. 258 ( Barbosa e Silva, 2010) | | | Tiago
-| E8 | Guia de Estilo | O Guia de Estilo possui público-alvo? | p. 258 ( Barbosa e Silva, 2010) | | | Tiago
-| E9 | Guia de Estilo | O Guia de Estilo possui descrição do ambiente de trabalho do usuário? | p. 258 ( Barbosa e Silva, 2010) | | | Tiago
-| E10 | Guia de Estilo | O Guia de Estilo possui estilos de interação? | p. 258 ( Barbosa e Silva, 2010) | | | Luan
-| E11 | Guia de Estilo | O Guia de Estilo possui tipos de tela (para tarefas comuns)? | p. 258 ( Barbosa e Silva, 2010) | | | Luan
-| E12 | Caracteristicas da Plataforma | O documento de Caracteristicas da Plataforma define os principais dispositivos utilizados ao acessar o site?  | Barbosa e Silva, 2010 | | | Guilherme
-| E14 | Caracteristicas da Plataforma | O documento descreve as principais funcionalidades do site?  | Barbosa e Silva, 2010 | | | Guilherme
-| E15 | Princípios Gerais do Projeto | O documento fala sobre o principio de Correspondência com as Expectativas dos Usuários?  |p.238-p.248 Barbosa e Silva, 2010 | | | Maria Luana
-| E16 | Princípios Gerais do Projeto| O documento fala sobre o principio de Simplicidade nas Estruturas das Tarefas?  | p.238-p.248 Barbosa e Silva, 2010 | | | Maria Luana
-| E17 | Princípios Gerais do Projeto | O documento fala sobre o principio de Equilíbrio entre Controle e Liberdade do Usuário?  | p.238-p.248 Barbosa e Silva, 2010 | | | Bryan
-| E18 | Princípios Gerais do Projeto | O documento fala sobre o principio de Consistência e Padronização?  | p.238-p.248 Barbosa e Silva, 2010 | | | Bryan
-| E19 | Princípios Gerais do Projeto | O documento fala sobre o principio de Antecipação das Necessidades do Usuário?  | p.238-p.248 Barbosa e Silva, 2010 | | | Samuel
-| E20 | Princípios Gerais do Projeto | O documento fala sobre o principio de Visibilidade e Reconhecimento?  | p.238-p.248 Barbosa e Silva, 2010 | | | Samuel
-| E21 | Princípios Gerais do Projeto | O documento fala sobre o principio de Conteúdo Relevante e Expressão Adequada?  | p.238-p.248 Barbosa e Silva, 2010 | | | Tiago
-| E22 | Princípios Gerais do Projeto | O documento fala sobre o principio de Projeto para Erros?  | p.238-p.248 Barbosa e Silva, 2010 | | | Tiago
-
-
+| E1 | Metas de Usabilidade | O artefato possui a meta de eficácia? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | Sim | 1.0 | Lucas |
+| E2 | Metas de Usabilidade | O artefato possui a meta de eficiência? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | Sim | 1.0 | Lucas |
+| E3 | Metas de Usabilidade | O artefato possui a meta de segurança? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | Sim | 1.0 | Lucas |
+| E4 | Metas de Usabilidade | O artefato possui a meta de utilidade? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | Sim | 1.0 | Lucas |
+| E5 | Metas de Usabilidade | O artefato possui a meta de aprendizado? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | Sim | 1.0 | Lucas |
+| E6 | Metas de Usabilidade | O artefato possui a meta de memorável? | p. 18 (ROGERS, Y.; SHARP, H.; PREECE, J.) | Sim | 1.0 | Lucas |
+| E7 | Guia de Estilo | O Guia de Estilo possui descrição do ambiente de trabalho do usuário? | p. 258 ( Barbosa e Silva, 2010) | Sim | 1.0 | Tiago |
+| E8 | Guia de Estilo | O Guia de Estilo possui público-alvo? | p. 258 ( Barbosa e Silva, 2010) | Sim | 1.0 | Tiago |
+| E9 | Guia de Estilo | O Guia de Estilo possui estilos de interação? | p. 258 ( Barbosa e Silva, 2010) | Sim | 1.0 | Luan |
+| E10 | Guia de Estilo | O Guia de Estilo possui tipos de tela (para tarefas comuns)? | p. 258 ( Barbosa e Silva, 2010) | Sim | 1.0 | Luan |
+| E11 | Caracteristicas da Plataforma | O documento de Caracteristicas da Plataforma define os principais dispositivos utilizados ao acessar o site?  | Barbosa e Silva, 2010 | Não | 1.0 | Guilherme |
+| E12 | Caracteristicas da Plataforma | O documento descreve as principais funcionalidades do site?  | Barbosa e Silva, 2010 | Não | 1.0 | Guilherme |
+| E13 | Princípios Gerais do Projeto | O documento fala sobre o principio de Correspondência com as Expectativas dos Usuários?  |p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Maria Luana |
+| E14 | Princípios Gerais do Projeto| O documento fala sobre o principio de Simplicidade nas Estruturas das Tarefas?   | p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Maria Luana |
+| E15 | Princípios Gerais do Projeto | O documento fala sobre o principio de Equilíbrio entre Controle e Liberdade do Usuário?   | p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Bryan |
+| E16 | Princípios Gerais do Projeto | O documento fala sobre o principio de Consistência e Padronização?   | p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Bryan |
+| E17 | Princípios Gerais do Projeto | O documento fala sobre o principio de Antecipação das Necessidades do Usuário?   | p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Samuel |
+| E18 | Princípios Gerais do Projeto | O documento fala sobre o principio de Visibilidade e Reconhecimento?   | p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Samuel |
+| E19 | Princípios Gerais do Projeto | O documento fala sobre o principio de Conteúdo Relevante e Expressão Adequada?   | p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Tiago |
+| E20 | Princípios Gerais do Projeto | O documento fala sobre o principio de Projeto para Erros?   | p.238-p.248 Barbosa e Silva, 2010 | Sim | 1.0 | Tiago |
 <div style="text-align: left">
 <p>Tabela 4: Itens extras de verificação (Fonte: autor, 2026).</p>
 </div>
