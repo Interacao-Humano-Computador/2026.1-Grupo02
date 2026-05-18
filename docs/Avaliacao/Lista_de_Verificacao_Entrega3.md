@@ -72,7 +72,6 @@ Os artefatos avaliados nesta entrega são: Características da plataforma, princ
 
 | Nº | Artefato | Questão | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação |
 |:--:|:--------:|:--------|:---------------------------------:|:--------------------------------:|
-| C1 | Perfil do Usuário | O perfil do usuário foi definido por mais de uma técnica de elicitação e/ou ferramenta? | | |
 | C1 | Característica do projeto | As características da plataforma para o projeto estão definidas? | | |
 | C2 | Princípios Gerais | Os Princípios Gerais do Projeto que serão utilizados no projeto? | | |
 | C3 | Princípios Gerais | Os Princípios Gerais do Projeto contém os tópicos de correspondência com as expectativas dos usuários, simplicidade nas estruturas das tarefas, equilíbrio entre controle e liberdade do usuário, consistência e padronização; promoção da eficiência do usuário, antecipação das necessidades do usuário, visibilidade e reconhecimento, conteúdo relevante e expressão adequada e projeto para erros? | | |
