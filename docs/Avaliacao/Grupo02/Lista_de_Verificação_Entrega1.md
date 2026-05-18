@@ -51,13 +51,13 @@ A lista reúne os critérios de avaliação das **Entregas 1**, organizados no s
 | 1 | O histórico de versão está padronizado? | Sim | 1.0, 13/04/26 às 20:47 |
 | 2 | O(s) autor(es) e o(s) revisor(es) estão indicados em cada artefato? | Sim | 1.0, 13/04/26 às 20:47 |
 | 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? | Sim | 1.0, 13/04/26 às 20:47 |
-| 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | Não (Falta legenda) | 1.0, 13/04/26 às 20:47 |
+| 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | Sim | 1.0, 13/04/26 às 20:47 |
 | 5 | Há um texto de introdução em todos os artefatos? | Sim | 1.0, 13/04/26 às 20:47 |
-| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | Não (Faltou executado) | 1.0, 13/04/26 às 20:47 |
+| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | Sim | 1.0, 13/04/26 às 20:47 |
 | 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | Sim | 1.0, 13/04/26 às 20:47 |
 | 8 | A gravação da reunião do grupo está disponível e acessível? | Sim | 1.0, 13/04/26 às 20:47 |
 | 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | Sim | 1.0, 13/04/26 às 20:47 |
-| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | Incompleto (Sem hiperlinks) | 1.0, 13/04/26 às 20:47 |
+| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | Sim | 1.0, 13/04/26 às 20:47 |
 | 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | Sim | 1.0, 13/04/26 às 20:47 |
 
 <div style="text-align: left">
@@ -73,7 +73,7 @@ A lista reúne os critérios de avaliação das **Entregas 1**, organizados no s
 | Nº | Artefato | Questão | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação |
 |:--:|:--------:|:--------|:---------------------------------:|:--------------------------------:|
 | C1 | Equipe | A página com integrantes possui foto e nome (sem matrícula)? | Sim | 1.0, 13/04/26 às 20:47 |
-| C2 | Cronograma | O cronograma de planejamento apresenta todas as atividades de todas as etapas, para cada integrante, com as datas de início e fim das entregas e o período de revisão dos artefatos? | Incompleto (Faltou quem e quando revisou) | 1.0, 13/04/26 às 20:47 |
+| C2 | Cronograma | O cronograma de planejamento apresenta todas as atividades de todas as etapas, para cada integrante, com as datas de início e fim das entregas e o período de revisão dos artefatos? | Sim | 1.0, 13/04/26 às 20:47 |
 | C3 | Cronograma | O cronograma de planejamento apresenta um período de gravação da apresentação de cada etapa? | Sim | 1.0, 13/04/26 às 20:47 |
 | C4 | Cronograma | O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? | Sim | 1.0, 13/04/26 às 20:47 |
 | C5 | Sites Avaliados | A motivação e os critérios de escolha do site estão claros? | Sim | 1.0, 13/04/26 às 20:47 |
@@ -82,7 +82,7 @@ A lista reúne os critérios de avaliação das **Entregas 1**, organizados no s
 | C8 | Artefatos | Todos os artefatos obrigatórios previstos para a Entrega 1 estão presentes? (Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, ferramentas do projeto, Processo de Design, cronograma das atividades) | Sim | 1.0, 13/04/26 às 20:47 |
 | C9 | Atas de Reunião | Existe uma página centralizando atas e gravações das reuniões? | Sim | 1.0, 13/04/26 às 20:47 |
 | C10 | Processo de Design | A justificativa da escolha do Processo de Design foi apresentada, com referência bibliográfica da fonte e foto do texto da referência? | Sim | 1.0, 13/04/26 às 20:47 |
-| C11 | Conteúdo | Todos os integrantes elaboraram itens de conteúdo da disciplina com referência bibliográfica da fonte, foto do texto da referência e o nome do autor do item? | Incompleto (Sem hiperlinks) | 1.0, 13/04/26 às 20:47 |
+| C11 | Conteúdo | Todos os integrantes elaboraram itens de conteúdo da disciplina com referência bibliográfica da fonte, foto do texto da referência e o nome do autor do item? | Sim | 1.0, 13/04/26 às 20:47 |
 
 <div style="text-align: left">
 <p>Tabela 3: Itens do Plano de Ensino referentes à Entrega 1 (Fonte: Plano de Ensino da Disciplina, 2026).</p>
