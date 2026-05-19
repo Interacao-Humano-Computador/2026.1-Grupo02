@@ -8,9 +8,8 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Nome do Integrante 1 | Redação da Introdução e seção DECIDE (D - Objetivos) |
-| Nome do Integrante 2 | Elaboração do roteiro de perguntas e cronograma |
-| Nome do Integrante 3 | Aspectos éticos, teste piloto e revisão geral |
+| Tiago | Criação do documento |
+
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
@@ -22,7 +21,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/2026 | 1.0 | Criação do documento | Nome do Autor | Nome do Revisor |
+| 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
 
 ---
 
@@ -231,8 +230,6 @@ A tabela abaixo apresenta as questões de verificação aplicadas a este documen
 ## Referência Bibliográfica
 
 > BARBOSA, Simone et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação — Leanpub, 2021.
-
-> PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. **Interaction Design: Beyond Human-Computer Interaction**. John Wiley & Sons, 2002.
 
 > BRASIL. Conselho Nacional de Saúde. **Resolução Nº 466, de 12 de dezembro de 2012**. Disponível em: [https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: DD mês 2026.
 
