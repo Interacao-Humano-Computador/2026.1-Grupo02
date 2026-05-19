@@ -131,13 +131,13 @@ Os critérios de seleção consideram: faixa etária compatível com o perfil de
 - Roteiro de perguntas impresso para o entrevistador;
 - Termo de Consentimento Livre e Esclarecido (TCLE) em duas vias.
 
-#### Cronograma
+#### Cronograma Planejado
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data** | **Local** |
 |:---------------------:|:-------------------:|:---------------------:|:------------------:|:--------:|:---------:|
-| Nome Entrevistador 1 | Participante 1 | 14:00 | 14:30 | DD/MM/2026 | Online / Presencial |
-| Nome Entrevistador 2 | Participante 2 | 15:00 | 15:30 | DD/MM/2026 | Online / Presencial |
-| Nome Entrevistador 3 | Participante 3 | 16:00 | 16:30 | DD/MM/2026 | Online / Presencial |
+| Tiago, Lucas e Samuel | a definir | 12:00 | 12:20 | 21/05/2026 | Presencial |
+| Guilherme, Maria Luana | a definir | 12:20 | 12:40 | 21/05/2026 | Presencial |
+| Luan e Bryan | a definir | 12:40 | 13:00 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
 <p>Tabela 4: Cronograma das entrevistas (Fonte: autor, 2026).</p>
@@ -189,11 +189,17 @@ Durante o teste piloto, o avaliador conduzirá a sessão como se fosse uma entre
 
 Os dados coletados no teste piloto serão **descartados**, pois podem estar contaminados por problemas identificados durante o próprio piloto. Caso problemas sejam detectados, o planejamento e os materiais de apoio serão corrigidos antes das entrevistas definitivas.
 
+
 ### Cronograma do Teste Piloto
 
 | **Avaliador(es)** | **Participante** | **Horário de Início** | **Horário de Fim** | **Data** | **Local** |
 |:-----------------:|:----------------:|:---------------------:|:------------------:|:--------:|:---------:|
-| Nome Avaliador | Participante piloto | 13:00 | 13:30 | DD/MM/2026 | Online / Presencial |
+| Guilherme | Luan | 11:30 | 11:50 | 21/05/2026 | Presencial |
+
+<div style="text-align: left">
+<p>Tabela 5: Cronograma do teste piloto (Fonte: autor, 2026).</p>
+</div>
+
 
 <div style="text-align: left">
 <p>Tabela 5: Cronograma do teste piloto (Fonte: autor, 2026).</p>
