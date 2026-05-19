@@ -9,6 +9,7 @@
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Tiago | Criação do documento |
+| Lucas | Adição das imagens |
 
 
 <div style="text-align: left">
@@ -22,6 +23,7 @@
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
+| 19/05/2026 | 1.1 | Adição das imagens | Lucas | --- |
 
 ---
 
@@ -31,7 +33,10 @@ A análise de tarefas é um instrumento fundamental no processo de design centra
 
 Este documento tem por objetivo planejar a avaliação da análise de tarefas produzida pelo Grupo 02, detalhando de forma estruturada os objetivos da avaliação, as perguntas norteadoras, o método adotado, os critérios de seleção de participantes, o cronograma, as questões éticas envolvidas e a realização de um teste piloto. Todo o planejamento é conduzido com base no **Framework DECIDE** (Preece et al., 2002), que orienta de forma iterativa e interligada todas as dimensões do planejamento de uma avaliação de IHC.
 
-> 📖 **Referência de imagem:** Inserir aqui figura ou diagrama que ilustre a análise de tarefas — BARBOSA et al. (2021), Capítulo 8, Figura 8.1 (Elementos de um diagrama HTA, p. 178–179).
+![elementosHTA](../img/ReferenciaLivro/elementosHTA.png)
+<div style="text-align: left">
+<p>Imagem 1: Elementos de um diagrama HTA (Fonte: BARBOSA et al. (2021, p. 179)).</p>
+</div>
 
 ---
 
@@ -41,7 +46,10 @@ Este documento tem por objetivo planejar a avaliação da análise de tarefas pr
 
 O Framework DECIDE foi proposto por Preece et al. (2002) para orientar o planejamento, a execução e a análise de avaliações de IHC. Suas atividades são interligadas e executadas de forma iterativa: quando o avaliador identifica a necessidade de ajustar os rumos da avaliação, as demais atividades são afetadas em cadeia (BARBOSA et al., 2021, p. 279–280).
 
-> 📖 **Referência de imagem:** Inserir aqui figura esquemática do Framework DECIDE — BARBOSA et al. (2021), p. 280, Capítulo 11 (Planejamento da Avaliação de IHC).
+![DECIDE](../img/ReferenciaLivro/DECIDE.png)
+<div style="text-align: left">
+<p>Imagem 2: Framewordk DECIDE (Fonte: BARBOSA et al. (2021, p. 280)).</p>
+</div>
 
 | **Letra** | **Etapa** | **Descrição** |
 |:---------:|:----------|:--------------|
@@ -68,7 +76,10 @@ A questão fundamental de qualquer avaliação de IHC é definir quais são seus
 
 Esses objetivos são relevantes para a equipe de design pois, ao validar a análise de tarefas com usuários reais, é possível identificar precocemente falhas de modelagem antes que estas se propaguem para etapas mais custosas do processo de design.
 
-> 📖 **Referência de imagem:** Inserir aqui a Tabela 11.1 com exemplos de perguntas por objetivo de avaliação — BARBOSA et al. (2021), p. 266, Capítulo 11 (Tabela 11.1: Exemplos de perguntas que uma avaliação de IHC pode responder).
+![PerguntasIHC](../img/ReferenciaLivro/ExemploPerguntaIHC.png)
+<div style="text-align: left">
+<p>Imagem 3: Exemplos de perguntas (Fonte: BARBOSA et al. (2021, p. 266)).</p>
+</div>
 
 ---
 
@@ -102,6 +113,10 @@ O método de avaliação selecionado é a **entrevista semiestruturada**. A esco
 A entrevista é especialmente adequada para a avaliação da análise de tarefas, pois permite verificar se o modelo elaborado pela equipe corresponde à realidade dos usuários — algo que métodos sem participação direta dos usuários não conseguem capturar. As entrevistas serão conduzidas com base no roteiro da seção anterior, sendo apresentado ao participante o modelo de tarefas para que ele possa comentar sobre sua clareza, correção e completude.
 
 > 📖 **Referência de imagem:** Inserir aqui figura ou tabela comparativa dos métodos de avaliação — BARBOSA et al. (2021), Capítulo 12, Subseção 12.2.4 (Comparação dos métodos de avaliação de IHC).
+![Comparação dos métodos de avaliação](../img/ReferenciaLivro/comparacaometodos.png)
+<div style="text-align: left">
+<p>Imagem 4: Comparação dos métodos de avaliação (Fonte: BARBOSA et al. (2021, p. 320)).</p>
+</div>
 
 ---
 
@@ -109,7 +124,7 @@ A entrevista é especialmente adequada para a avaliação da análise de tarefas
 
 #### Metas de Usabilidade
 
-A definição das metas de usabilidade envolve determinar os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador (BARBOSA et al., 2021, p. 573–574).
+A definição das metas de usabilidade envolve determinar os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador (BARBOSA et al., 2021, p. 117).
 
 Para esta avaliação da análise de tarefas, as metas de usabilidade priorizadas são:
 
@@ -118,7 +133,10 @@ Para esta avaliação da análise de tarefas, as metas de usabilidade priorizada
 
 A razão para a seleção dessas metas é o estágio atual do projeto: a análise de tarefas é um artefato de modelagem que serve de base para decisões de design subsequentes. Falhas de compreensão ou de cobertura das tarefas nesta fase podem impactar toda a cadeia de design, tornando crítico validá-las com representantes reais do público-alvo antes de avançar.
 
-> 📖 **Referência de imagem:** Inserir aqui a Figura 6.6 com faixas de valores para indicadores de usabilidade — BARBOSA et al. (2021), p. 574 (Figura 6.6: Faixas de valores para indicadores de usabilidade).
+![Faixas de valores para indicadores de usabilidade](../img/ReferenciaLivro/faixasvalores.png)
+<div style="text-align: left">
+<p>Imagem 5: Faixas de valores para indicadores de usabilidade (Fonte: BARBOSA et al. (2021, p. 117)).</p>
+</div>
 
 #### Perfil dos Participantes e Recrutamento
 
@@ -157,7 +175,10 @@ Sempre que usuários são envolvidos numa avaliação, o avaliador deve tomar os
 - **Direito de retirada:** os participantes têm o direito de retirar seu consentimento e abandonar a avaliação em qualquer momento, sem qualquer penalização ou consequência negativa.
 - **Gravação:** qualquer gravação de voz ou imagem será realizada somente mediante autorização explícita do participante, registrada no TCLE.
 
-> 📖 **Referência de imagem:** Inserir aqui exemplo de Termo de Consentimento Livre e Esclarecido — BARBOSA et al. (2021), Capítulo 7, Exemplo 7.1 (Termo de Consentimento para realização de entrevista).
+![Exemplo de Termo de Consentimento Livre e Esclarecido](../img/ReferenciaLivro/ExemploTermoConsentimento.png)
+<div style="text-align: left">
+<p>Imagem 6: Exemplo de Termo de Consentimento Livre e Esclarecido (Fonte: BARBOSA et al. (2021, p. 142)).</p>
+</div>
 
 ---
 
@@ -178,7 +199,10 @@ Os resultados consolidados serão apresentados em relatório contendo: os objeti
 
 Antes da realização das entrevistas principais, será conduzido um **teste piloto**. O objetivo desse teste é avaliar o próprio planejamento e verificar se a avaliação, tal como planejada, produzirá os dados necessários para responder às questões e aos objetivos do estudo. O avaliador deve conduzir o teste piloto como se fosse uma sessão normal de avaliação (BARBOSA et al., 2021, p. 276).
 
-> 📖 **Referência de imagem:** Inserir aqui trecho sobre teste piloto — BARBOSA et al. (2021), p. 276–278, Capítulo 11 (subseção sobre Teste-Piloto e Recrutamento de Participantes).
+![Exemplo de teste piloto](../img/ReferenciaLivro/exemplotestepiloto.png)
+<div style="text-align: left">
+<p>Imagem 7: Exemplo de Teste Piloto (Fonte: BARBOSA et al. (2021, p. 276)).</p>
+</div>
 
 Durante o teste piloto, serão verificados:
 
