@@ -66,12 +66,11 @@ A Tabela 2 apresenta o cronograma planejado para as entrevistas de avaliação d
 
 **Tabela 2** — Cronograma Planejado das Entrevistas.
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim | Data | Local |
-|:-----------------:|:---------------:|:-----------------:|:--------------:|:----:|:-----:|
-| Nome do Entrevistador 1 | Nome do Entrevistado 1 | HH:MM | HH:MM | DD/MM/AAAA | Local/Plataforma |
-| Nome do Entrevistador 2 | Nome do Entrevistado 2 | HH:MM | HH:MM | DD/MM/AAAA | Local/Plataforma |
-| Nome do Entrevistador 3 | Nome do Entrevistado 3 | HH:MM | HH:MM | DD/MM/AAAA | Local/Plataforma |
-
+| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data** | **Local** |
+|:---------------------:|:-------------------:|:---------------------:|:------------------:|:--------:|:---------:|
+| Tiago, Lucas e Samuel | a definir | 12:00 | 12:20 | 21/05/2026 | Presencial |
+| Guilherme, Maria Luana | a definir | 12:20 | 12:40 | 21/05/2026 | Presencial |
+| Luan e Bryan | a definir | 12:40 | 13:00 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
 <p>Tabela 3: Tabela de ccronograma planejado das entrevistas. (Fonte: autor, 2026).</p>
@@ -146,9 +145,9 @@ As sugestões levantadas durante a avaliação e as dificuldades identificadas p
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
 |:------------------------:|:-----------------:|:--------------:|:----:|
-| Nome do Integrante 1 | HH:MM | HH:MM | DD/MM/AAAA |
-| Nome do Integrante 2 | HH:MM | HH:MM | DD/MM/AAAA |
-| Nome do Integrante 3 | HH:MM | HH:MM | DD/MM/AAAA |
+| Tiago | 20:30 | 21:30 | 23/05/2026 |
+| Guilherme | 15:50 | 16:50 | 23/05/2026 |
+| Luan | 17:40 | 18:40 | 23/05/2026 |
 
 
 <div style="text-align: left">
