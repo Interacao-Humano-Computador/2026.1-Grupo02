@@ -8,6 +8,7 @@
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Tiago | Criação do documento |
+| Lucas | Revisão do documento |
 
 
 <div style="text-align: left">
@@ -20,7 +21,8 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento | Tiago | --- |
+| 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
+| 19/05/2026 | 1.1 | Ajustes na formatação das tabelas | Lucas | --- |
 
 ---
 
@@ -62,8 +64,6 @@ O método adotado é o de observação e entrevista com usuários. Cada entrevis
 
 A Tabela 2 apresenta o cronograma planejado para as entrevistas de avaliação da análise de tarefas.
 
-<center>
-
 **Tabela 2** — Cronograma Planejado das Entrevistas.
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data** | **Local** |
@@ -75,9 +75,6 @@ A Tabela 2 apresenta o cronograma planejado para as entrevistas de avaliação d
 <div style="text-align: left">
 <p>Tabela 3: Tabela de ccronograma planejado das entrevistas. (Fonte: autor, 2026).</p>
 </div>
-</center>
-
-</center>
 
 > **Nota:** O teste piloto não deve ser incluído nos resultados da avaliação, conforme critério de verificação definido para este artefato.
 
@@ -139,8 +136,6 @@ A gravação da sessão deve ser disponibilizada no seguinte formato:
 
 As sugestões levantadas durante a avaliação e as dificuldades identificadas pelos participantes devem ser consideradas para a realização de um reprojeto da análise de tarefas. O reprojeto deve manter a base do artefato original, realizando somente as alterações necessárias e justificadas pelos dados coletados. A Tabela 3 apresenta o cronograma previsto para a execução do reprojeto, a ser realizado preferencialmente um dia após as entrevistas.
 
-<center>
-
 **Tabela 3** — Cronograma de Reprojeto.
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
@@ -153,7 +148,6 @@ As sugestões levantadas durante a avaliação e as dificuldades identificadas p
 <div style="text-align: left">
 <p>Tabela 3: Tabela de cronograma de reprojeto. (Fonte: autor, 2026).</p>
 </div>
-</center>
 
 ---
 
