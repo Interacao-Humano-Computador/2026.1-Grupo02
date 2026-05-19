@@ -20,7 +20,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/2026 | 1.0 | Criação do documento | Tiago | --- |
+| 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
 
 ---
 
