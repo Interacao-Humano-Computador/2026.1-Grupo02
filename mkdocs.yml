@@ -4,8 +4,8 @@ repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo02
 repo_name: 2026.1-Grupo02
 
 plugins:
-    - search
-    - mermaid2
+  - search
+  - mermaid2
 
 theme:
   name: material
@@ -18,14 +18,14 @@ theme:
     - search.highlight
   palette:
     - scheme: default
-      primary: light blue
-      accent: light blue
+      primary: light-blue
+      accent: light-blue
       toggle:
         icon: material/weather-night
         name: Alternar para modo escuro
     - scheme: slate
-      primary: light blue
-      accent: light blue
+      primary: light-blue
+      accent: light-blue
       toggle:
         icon: material/weather-sunny
         name: Alternar para modo claro
@@ -44,43 +44,48 @@ nav:
       - Aspectos Éticos: Analise de Requisitos/AspectosEticos.md
       - Cenários: Analise de Requisitos/Cenario/cenario_unificado.md
       - Personas:
-        - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
-        - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
-        - Persona 4: Analise de Requisitos/Personas/persona_karina.md
-        - Persona 5: Analise de Requisitos/Personas/persona_FelixRyan.md
-        - Persona 6: Analise de Requisitos/Personas/persona_fernanda.md
-        - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
-        - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
-        - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
+          - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
+          - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
+          - Persona 4: Analise de Requisitos/Personas/persona_karina.md
+          - Persona 5: Analise de Requisitos/Personas/persona_FelixRyan.md
+          - Persona 6: Analise de Requisitos/Personas/persona_fernanda.md
+          - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
+          - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
+          - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
       - Análise de Tarefas:
-        - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
-        - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
-        - Análise de Tarefas para se voluntariar a mesário: Analise de Requisitos/Analise de Tarefas/Mesario.md
-        - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
-        - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
-        - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
-        - Análise de Tarefas para justificativa eleitoral online: Analise de Requisitos/Analise de Tarefas/JustificativaEleitoral.md
+          - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
+          - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
+          - Análise de Tarefas para se voluntariar a mesário: Analise de Requisitos/Analise de Tarefas/Mesario.md
+          - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
+          - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
+          - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
+          - Análise de Tarefas para justificativa eleitoral online: Analise de Requisitos/Analise de Tarefas/JustificativaEleitoral.md
       - Metas de Usabilidade: Analise de Requisitos/MetasUsabilidade.md
       - Características da Plataforma: Analise de Requisitos/caracteristicas.md
       - Princípios Gerais do Projeto: Analise de Requisitos/PrincipiosGerais.md
       - Guia de Estilo: Analise de Requisitos/GuiadeEstilo.md
+  - Design, Avaliação e Desenvolvimento:
+      - Análise de Tarefas:
+          - Planejamento da Avaliação da Análise de Tarefas: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_da_Análise_de_Tarefas.md
+          - Planejamento do Relato dos Resultados da Avaliação: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_AnaliseTarefas.md
+      - Storyboard:
+          - Planejamento da Avaliação da Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Storyboard.md
+          - Planejamento do Relato dos Resultados da Avaliação do Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_StoryBoard.md
   - Verificação:
-          - Nosso Grupo:
-              - Etapa 1: Avaliacao/Grupo02/Lista_de_Verificação_Entrega1.md
-              - Etapa 2: Avaliacao/Grupo02/Lista_de_Verificação_Entrega2.md
-              - Etapa 3: Avaliacao/Grupo02/Lista_de_Verificacao_Entrega3.md
-          - Grupo N+1/N-1:
-              - Etapa 1: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega1.md
-              - Etapa 2: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega2.md
-              - Etapa 3: Avaliacao/Outros Grupos/Lista_de_Verificacao_Entrega3.md
+      - Nosso Grupo:
+          - Etapa 1: Avaliacao/Grupo02/Lista_de_Verificação_Entrega1.md
+          - Etapa 2: Avaliacao/Grupo02/Lista_de_Verificação_Entrega2.md
+          - Etapa 3: Avaliacao/Grupo02/Lista_de_Verificacao_Entrega3.md
+      - Grupo N+1/N-1:
+          - Etapa 1: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega1.md
+          - Etapa 2: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega2.md
+          - Etapa 3: Avaliacao/Outros Grupos/Lista_de_Verificacao_Entrega3.md
   - Reuniões:
-          - Ata 09/04/26: Reunioes/Ata Reunião 09 04 26.md
-          - Ata 11/04/26: Reunioes/Ata Reunião 11 04 26.md
-          - Ata 23/04/26: Reunioes/Ata Reunião 23 04 26.md
-          - Ata 30/04/26: Reunioes/Ata Reunião 30 04 26.md
-          - Ata 03/05/26: Reunioes/Ata Reunião 04 05 26.md
-          - Ata 04/05/26: Reunioes/Ata Reunião 03 05 26.md
-          - Ata 14/05/26: Reunioes/Ata Reunião 14 05 26.md
-          - Ata 17/05/26: Reunioes/Ata Reunião 17 05 26.md
-
-        
+      - Ata 09/04/26: Reunioes/Ata Reunião 09 04 26.md
+      - Ata 11/04/26: Reunioes/Ata Reunião 11 04 26.md
+      - Ata 23/04/26: Reunioes/Ata Reunião 23 04 26.md
+      - Ata 30/04/26: Reunioes/Ata Reunião 30 04 26.md
+      - Ata 03/05/26: Reunioes/Ata Reunião 04 05 26.md
+      - Ata 04/05/26: Reunioes/Ata Reunião 03 05 26.md
+      - Ata 14/05/26: Reunioes/Ata Reunião 14 05 26.md
+      - Ata 17/05/26: Reunioes/Ata Reunião 17 05 26.md
