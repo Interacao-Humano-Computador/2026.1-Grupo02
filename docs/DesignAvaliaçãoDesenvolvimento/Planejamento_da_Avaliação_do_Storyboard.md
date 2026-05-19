@@ -8,9 +8,7 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Nome do Integrante 1 | Redação da Introdução e seção DECIDE (D - Objetivos) |
-| Nome do Integrante 2 | Elaboração do roteiro de perguntas e cronograma |
-| Nome do Integrante 3 | Aspectos éticos, teste piloto e revisão geral |
+| Tiago | Criação inicial do artefato |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
@@ -22,7 +20,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/2026 | 1.0 | Criação do documento | Nome do Autor | Nome do Revisor |
+| DD/MM/2026 | 1.0 | Criação do documento | Tiago | --- |
 
 ---
 
@@ -207,33 +205,12 @@ Os dados coletados no teste piloto serão **descartados**, pois podem estar cont
 
 ---
 
-## Checklist de Verificação
-
-A tabela abaixo apresenta as questões de verificação aplicadas a este documento, confirmando que todos os itens obrigatórios foram atendidos:
-
-| **Item** | **Questão de Verificação** | **Atendido?** |
-|:--------:|:---------------------------|:-------------:|
-| 2 | O planejamento da avaliação segue o Framework DECIDE? | ✅ Sim |
-| 3 | Descreve o(s) objetivo(s) da avaliação? | ✅ Sim |
-| 4 | Os métodos de avaliação a serem utilizados? | ✅ Sim |
-| 5 | As questões práticas da avaliação (recrutamento, equipamentos, prazos, orçamento)? | ✅ Sim |
-| 6 | As questões éticas (respeito aos participantes, termos de consentimento)? | ✅ Sim |
-| 8 | Um cronograma (data e horário) e local para realização da avaliação? | ✅ Sim |
-| 11 | A definição do teste piloto e data para realização do teste piloto antes da avaliação? | ✅ Sim |
-| 13* | As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC? | ✅ Sim |
-| 14 | A razão da seleção das metas de usabilidade? | ✅ Sim |
-
-<div style="text-align: left">
-<p>Tabela 6: Checklist de verificação do artefato (Fonte: autor, 2026).</p>
-</div>
 
 ---
 
 ## Referência Bibliográfica
 
 > BARBOSA, Simone et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação — Leanpub, 2021.
-
-> PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. **Interaction Design: Beyond Human-Computer Interaction**. John Wiley & Sons, 2002.
 
 > BRASIL. Conselho Nacional de Saúde. **Resolução Nº 466, de 12 de dezembro de 2012**. Disponível em: [https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: DD mês 2026.
 
