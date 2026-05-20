@@ -140,7 +140,7 @@ A razão para a seleção dessas metas é o estágio atual do projeto: a anális
 
 #### Perfil dos Participantes e Recrutamento
 
-Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos do projeto, priorizando indivíduos que representem o público-alvo do sistema. Serão recrutados **3 participantes** para as sessões de avaliação, pois, segundo Krug (apud BARBOSA et al., 2021), é possível identificar a maior parte dos problemas com três ou quatro participantes.
+Os participantes serão selecionados com base no [Perfil de Usuario](<../Analise de Requisitos/PerfilDeUsuario.md>) definido durante a análise de requisitos do projeto, priorizando indivíduos que representem o público-alvo do sistema. Serão recrutados **3 participantes** para as sessões de avaliação, pois, segundo Krug (apud BARBOSA et al., 2021), é possível identificar a maior parte dos problemas com três ou quatro participantes.
 
 O perfil considerado é composto por pessoas na faixa etária compatível com os usuários do sistema, que realizem as atividades representadas nas tarefas modeladas no seu cotidiano. O avaliador deve evitar selecionar conhecidos próximos ou pessoas com quem possua relação que possa influenciar os dados coletados (BARBOSA et al., 2021, p. 277).
 
