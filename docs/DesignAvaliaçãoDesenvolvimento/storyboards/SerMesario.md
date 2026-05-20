@@ -51,34 +51,16 @@ Cada storyboard contempla os seguintes elementos:
 
 Na figura 1, apresenta-se um storyboard no qual o usuario procura o espaço para se cadastrar como mesário 
 
-<center>
 
 **Figura 1** — Storyboard: [Se cadastrar para ser Mesário Voluntario]
 
 ![Ser Mesario storyboard feito no Papel](../../img/storyboard/sermesario_PAPEL.jpeg)
-<div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
-</div>
-
-
-<p>Fonte: <a href="https://github.com/Bryan70897">Bryan</a> (2026).</p>
-
-</center>
 
 Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de gastos e receita de dois candidatos para se informar e decidir em quem votar, feito em por um modelo de inteligencia artifical
-
-<center>
 
 **Figura 2** — Storyboard: [Se cadastrar para ser Mesário Voluntario]
 
 ![Ser Mesario storyboard feito por IA](../../img/storyboard/sermesario_IA.jpeg)
-<div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
-</div>
-
-<p>Fonte: <a href="https://github.com/Bryan70897">Bryan</a> (2026).</p>
-
-</center>
 
 ---
 
