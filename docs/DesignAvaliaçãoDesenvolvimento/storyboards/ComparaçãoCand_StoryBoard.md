@@ -55,12 +55,7 @@ Na figura 1, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 **Figura 1** — Storyboard: [Comparar gastos entre candidatos]
 
-<figure>
-  <img src="../../img/storyboard/CompararCand_storyboard_Papel.png" 
-       alt="Comparar Candidatos storyboard feito no Papel" 
-       width="600">
-  <figcaption>Imagem 1: Storyboard — Comparar gastos entre candidatos (Fonte: autor, 2026).</figcaption>
-</figure>
+![AgendamentoPresencialStoryBoard](../../img/storyboard/CompararCand_storyboard_Papel.png)
 
 <p>Fonte: <a href="https://github.com/TiagoUNB">Tiago</a> (2026).</p>
 
@@ -72,13 +67,7 @@ Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 **Figura 2** — Storyboard: [Comparar gastos entre candidatos]
 
-<figure>
-  <img src="../../img/storyboard/CompararCand_storyboard_IA.png" 
-       alt="Comparar Candidatos storyboard feito no Papel" 
-       width="600">
-  <figcaption>Imagem 1: Storyboard — Comparar gastos entre candidatos (Fonte: autor, 2026).</figcaption>
-</figure>
-
+![AgendamentoPresencialStoryBoard](../../img/storyboard/CompararCand_storyboard_IA.png)
 <p>Fonte: <a href="https://github.com/TiagoUNB">Tiago</a> (2026).</p>
 
 </center>
