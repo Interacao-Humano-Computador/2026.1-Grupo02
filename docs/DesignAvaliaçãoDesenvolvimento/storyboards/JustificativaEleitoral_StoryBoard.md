@@ -56,14 +56,10 @@ Na figura 1, apresenta-se um storyboard no qual o usuário percebe que faltou à
 
 **Figura 1** — Storyboard: [Justificativa Eleitoral Online]
 
-<figure>
-  <img src="../../img/storyboard/JustificativaEleitoral_Papel.png" 
-       alt="Justificativa Eleitoral storyboard feito no Papel" 
-       width="600">
-  <figcaption>Imagem 1: Storyboard — Justificativa Eleitoral Online (Fonte: autor, 2026).</figcaption>
-</figure>
-
-<p>Fonte: <a href="https://github.com/luanludry">Luan Ludry</a> (2026).</p>
+![Justificativa Eleitoral storyboard feito no Papel](../../img/storyboard/JustificativaEleitoral_Papel.png)
+<div style="text-align: left">
+<p>Imagem 1: Storyboard — Justificativa Eleitoral Online feito no papel (Fonte: LUDRY, Luan, 2026).</p>
+</div>
 
 </center>
 
@@ -73,14 +69,10 @@ Na figura 2, apresenta-se um storyboard no qual o usuário percebe que faltou à
 
 **Figura 2** — Storyboard: [Justificativa Eleitoral Online]
 
-<figure>
-  <img src="../../img/storyboard/JustificativaEleitoral_IA.png" 
-       alt="Justificativa Eleitoral storyboard feito por IA" 
-       width="600">
-  <figcaption>Imagem 2: Storyboard — Justificativa Eleitoral Online (Fonte: autor, 2026).</figcaption>
-</figure>
-
-<p>Fonte: <a href="https://github.com/luanludry">Luan Ludry</a> (2026).</p>
+![Justificativa Eleitoral storyboard feito por IA](../../img/storyboard/JustificativaEleitoral_IA.png)
+<div style="text-align: left">
+<p>Imagem 2: Storyboard — Justificativa Eleitoral Online feito por IA (Fonte: LUDRY, Luan, 2026).</p>
+</div>
 
 </center>
 
