@@ -52,29 +52,15 @@ Cada storyboard contempla os seguintes elementos:
 
 Na figura 1, apresenta-se um storyboard no qual o usuário percebe que faltou à eleição e realiza a justificativa eleitoral online pelo portal do TSE, feito em papel.
 
-<center>
-
 **Figura 1** — Storyboard: [Justificativa Eleitoral Online]
 
 ![Justificativa Eleitoral storyboard feito no Papel](../../img/storyboard/JustificativaEleitoral_Papel.png)
-<div style="text-align: left">
-<p>Imagem 1: Storyboard — Justificativa Eleitoral Online feito no papel (Fonte: LUDRY, Luan, 2026).</p>
-</div>
-
-</center>
 
 Na figura 2, apresenta-se um storyboard no qual o usuário percebe que faltou à eleição e realiza a justificativa eleitoral online pelo portal do TSE, feito por um modelo de inteligência artificial.
-
-<center>
 
 **Figura 2** — Storyboard: [Justificativa Eleitoral Online]
 
 ![Justificativa Eleitoral storyboard feito por IA](../../img/storyboard/JustificativaEleitoral_IA.png)
-<div style="text-align: left">
-<p>Imagem 2: Storyboard — Justificativa Eleitoral Online feito por IA (Fonte: LUDRY, Luan, 2026).</p>
-</div>
-
-</center>
 
 ---
 
