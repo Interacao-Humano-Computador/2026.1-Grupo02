@@ -16,7 +16,8 @@
 |:----------:|:-------------|
 | Tiago | Criação do documento de índice de storyboards |
 | Bryan | Adição do hyperlink para a atividade de mesario |
-| Samuel Felipe | Adição do hyperlink para a atividade de quitação eleitoral
+| Samuel Felipe | Adição do hyperlink para a atividade de quitação eleitoral |
+| Lucas Fujimoto | Adição do hyperlink para a atividade de agendamento presencial |
 
 
 <div style="text-align: left">
@@ -40,7 +41,7 @@ Os storyboards estão organizados por tarefa e podem ser acessados individualmen
 | 1 | Comparação de gastos entre candidatos | Tiago | [Acessar](storyboards/ComparaçãoCand_StoryBoard.md) |
 | 2 | Ser Mesario | Bryan | [Acessar](storyboards/SerMesario.md) |
 | 3 | Certidão de quitação eleitoral | Samuel Felipe | [Acessar](storyboards/certidãoquitaçãoeleitor.md.md) |
-| 4 | [Nome da Tarefa 4] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo4].md) |
+| 4 | Agendamento Presencial | Lucas Fujimoto | [Acessar](storyboards/AgendamentoPres_StoryBoard.md) |
 | 5 | [Nome da Tarefa 5] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo5].md) |
 | 6 | [Nome da Tarefa 6] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo6].md) |
 | 7 | [Nome da Tarefa 7] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo7].md) |

@@ -51,7 +51,7 @@ Cada storyboard contempla os seguintes elementos:
 
 Na figura 1, apresenta-se um storyboard no qual o usuario lembrou que precisava fazer sua biometria, assim sendo necessário fazer um agendamento presencial a partir de um dispositivo móvel, feito em papel.
 
-**Figura 1** — Storyboard: [AgendamentoPresencial]
+**Figura 1** — Storyboard: Agendamento Presencial feito em papel
 
 ![AgendamentoPresencialStoryBoard](../../img/storyboard/agendamentostory.jpeg)
 <div style="text-align: left">
@@ -62,7 +62,7 @@ Na figura 1, apresenta-se um storyboard no qual o usuario lembrou que precisava 
 
 Na figura 1, apresenta-se um storyboard no qual o usuario lembrou que precisava fazer sua biometria, assim sendo necessário fazer um agendamento presencial a partir de um dispositivo móvel, feito por inteligência arteficial
 
-**Figura 2** — Storyboard: [AgendamentoPresencial_IA]
+**Figura 2** — Storyboard: Agendamento Presencial feito por IA
 
 ![AgendamentoPresencialStoryBoard](../../img/storyboard/AgendamentoStory_IA.png)
 <div style="text-align: left">
