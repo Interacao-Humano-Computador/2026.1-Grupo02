@@ -60,13 +60,13 @@ Na figura 1, apresenta-se um storyboard no qual o usuario lembrou que precisava 
 
 <p>(Fonte: FUJIMOTO, Lucas, 2026.)</p>
 
-Na figura 1, apresenta-se um storyboard no qual o usuario lembrou que precisava fazer sua biometria, assim sendo necessário fazer um agendamento presencial a partir de um dispositivo móvel, feito por inteligência arteficial
+Na figura 2, apresenta-se um storyboard no qual o usuario lembrou que precisava fazer sua biometria, assim sendo necessário fazer um agendamento presencial a partir de um dispositivo móvel, feito por inteligência arteficial
 
 **Figura 2** — Storyboard: Agendamento Presencial feito por IA
 
 ![AgendamentoPresencialStoryBoard](../../img/storyboard/AgendamentoStory_IA.png)
 <div style="text-align: left">
-<p>Imagem 1: Storyboard — Agendamento Presencial feito por IA (Fonte: autor, 2026).</p>
+<p>Imagem 2: Storyboard — Agendamento Presencial feito por IA (Fonte: autor, 2026).</p>
 </div>
 
 
