@@ -55,11 +55,12 @@ Na figura 1, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 **Figura 1** — Storyboard: [Comparar gastos entre candidatos]
 
-![Comparar Candidatos storyboard feito no Papel](../../img/storyboard/CompararCand_storyboard_Papel.png)
-<div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
-</div>
-
+<figure>
+  <img src="../../img/storyboard/CompararCand_storyboard_Papel.png" 
+       alt="Comparar Candidatos storyboard feito no Papel" 
+       width="600">
+  <figcaption>Imagem 1: Storyboard — Comparar gastos entre candidatos (Fonte: autor, 2026).</figcaption>
+</figure>
 
 <p>Fonte: <a href="https://github.com/TiagoUNB">Tiago</a> (2026).</p>
 
@@ -71,10 +72,12 @@ Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 **Figura 2** — Storyboard: [Comparar gastos entre candidatos]
 
-![Comparar Candidatos storyboard feito por IA](../../img/storyboard/CompararCand_storyboard_IA.png)
-<div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
-</div>
+<figure>
+  <img src="../../img/storyboard/CompararCand_storyboard_IA.png" 
+       alt="Comparar Candidatos storyboard feito no Papel" 
+       width="600">
+  <figcaption>Imagem 1: Storyboard — Comparar gastos entre candidatos (Fonte: autor, 2026).</figcaption>
+</figure>
 
 <p>Fonte: <a href="https://github.com/TiagoUNB">Tiago</a> (2026).</p>
 
