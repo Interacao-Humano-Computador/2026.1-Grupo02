@@ -56,7 +56,7 @@ Os artefatos avaliados nesta entrega são: Storyboards, Planejamento da Avaliaç
 | 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | Sim | 1.0 |
 | 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | Sim | 1.0 |
 | 8 | A gravação da reunião do grupo está disponível e acessível? | Sim | 1.0 |
-| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | Incompleto | 1.0 |
+| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | Sim | 1.0 |
 | 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | Sim | 1.0 |
 | 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | Sim | 1.0 |
 
