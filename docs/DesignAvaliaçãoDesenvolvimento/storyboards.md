@@ -6,7 +6,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/AAAA | 1.0 | Criação do documento de índice de storyboards | Nome do Autor | Nome do Revisor |
+| 19/05/2026 | 1.0 | Criação do documento de índice de storyboards | Tiago | --- |
 
 ---
 
@@ -14,9 +14,8 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Nome do Integrante 1 | Descrição da contribuição |
-| Nome do Integrante 2 | Descrição da contribuição |
-| Nome do Integrante 3 | — |
+| Tiago | Criação do documento de índice de storyboards |
+
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
