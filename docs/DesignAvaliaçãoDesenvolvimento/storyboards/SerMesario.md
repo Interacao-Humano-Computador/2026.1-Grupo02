@@ -19,7 +19,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/06 | 1.0 | Criação do documento de storyboard | Bryan | --- |
+| 19/05/06 | 1.0 | Criação do documento de storyboard | Bryan | Tiago |
 
 ---
 <div style="text-align: left">
