@@ -112,7 +112,6 @@ O método de avaliação selecionado é a **entrevista semiestruturada**. A esco
 
 A entrevista é especialmente adequada para a avaliação da análise de tarefas, pois permite verificar se o modelo elaborado pela equipe corresponde à realidade dos usuários — algo que métodos sem participação direta dos usuários não conseguem capturar. As entrevistas serão conduzidas com base no roteiro da seção anterior, sendo apresentado ao participante o modelo de tarefas para que ele possa comentar sobre sua clareza, correção e completude.
 
-> 📖 **Referência de imagem:** Inserir aqui figura ou tabela comparativa dos métodos de avaliação — BARBOSA et al. (2021), Capítulo 12, Subseção 12.2.4 (Comparação dos métodos de avaliação de IHC).
 ![Comparação dos métodos de avaliação](../img/ReferenciaLivro/comparacaometodos.png)
 <div style="text-align: left">
 <p>Imagem 4: Comparação dos métodos de avaliação (Fonte: BARBOSA et al. (2021, p. 320)).</p>
