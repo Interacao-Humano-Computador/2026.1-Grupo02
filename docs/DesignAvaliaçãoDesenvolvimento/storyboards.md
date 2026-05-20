@@ -6,7 +6,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento de índice de storyboards | Tiago | --- |
+| 19/05/2026 | 1.0 | Criação do documento de índice de storyboards | Tiago | Bryan |
 
 ---
 
@@ -15,6 +15,7 @@
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Tiago | Criação do documento de índice de storyboards |
+| Bryan | Adição do hyperlink para a atividade de mesario |
 
 
 <div style="text-align: left">
@@ -36,8 +37,12 @@ Os storyboards estão organizados por tarefa e podem ser acessados individualmen
 | # | Tarefa | Responsável | Link |
 |:-:|:-------|:-----------:|:----:|
 | 1 | Comparação de gastos entre candidatos | Tiago | [Acessar](storyboards/ComparaçãoCand_StoryBoard.md) |
-| 2 | [Nome da Tarefa 2] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo2].md) |
+| 2 | Ser Mesario | Bryan | [Acessar](storyboards/SerMesario.md) |
 | 3 | [Nome da Tarefa 3] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo3].md) |
+| 4 | [Nome da Tarefa 4] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo4].md) |
+| 5 | [Nome da Tarefa 5] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo5].md) |
+| 6 | [Nome da Tarefa 6] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo6].md) |
+| 7 | [Nome da Tarefa 7] | Nome do Autor | [Acessar](storyboards/[NomeDoArquivo7].md) |
 
 <div style="text-align: left">
 <p>Tabela 2: Índice de storyboards do Grupo 02 (Fonte: autor, 2026).</p>
