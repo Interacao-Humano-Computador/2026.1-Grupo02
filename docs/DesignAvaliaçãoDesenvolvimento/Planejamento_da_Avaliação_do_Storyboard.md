@@ -122,7 +122,7 @@ A razão da seleção dessas metas está diretamente relacionada ao estágio atu
 
 Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos do projeto, priorizando indivíduos que representem o público-alvo do sistema. Serão recrutados **3 participantes** para as sessões de avaliação. Segundo Krug (apud BARBOSA et al., 2021), é possível identificar a maior parte dos problemas de usabilidade com três ou quatro participantes.
 
-Os critérios de seleção consideram: faixa etária compatível com o perfil de usuário levantado, familiaridade com o contexto de uso representado no storyboard e disponibilidade de tempo para a entrevista. Sempre que possível, o avaliador deve evitar selecionar conhecidos próximos ou pessoas com quem possua relação que possa influenciar os dados coletados (BARBOSA et al., 2021, p. 277).
+Os critérios de seleção consideram: faixa etária compatível com o [Perfil de Usuario](../Analise de Requisitos/PerfilDeUsuario.md)  levantado, familiaridade com o contexto de uso representado no storyboard e disponibilidade de tempo para a entrevista. Sempre que possível, o avaliador deve evitar selecionar conhecidos próximos ou pessoas com quem possua relação que possa influenciar os dados coletados (BARBOSA et al., 2021, p. 277).
 
 #### Equipamentos Necessários
 
