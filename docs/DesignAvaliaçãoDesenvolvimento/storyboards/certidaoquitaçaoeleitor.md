@@ -57,7 +57,7 @@ Na figura 1, apresenta-se um storyboard no qual o usuario em dúvida sobre sua s
 
 ![Certidão de quitação storyboard feito no Papel](../../img/storyboard/storyboard_quitacao.jpg)
 
-Imagem 1: Storyboard de "Verificar a situação da quitação eleitoral".</p>
+</p>Imagem 1: Storyboard de "Verificar a situação da quitação eleitoral".</p>
 
 
 
