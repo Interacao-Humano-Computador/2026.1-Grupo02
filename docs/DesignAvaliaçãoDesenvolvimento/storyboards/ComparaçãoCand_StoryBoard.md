@@ -55,7 +55,7 @@ Na figura 1, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 **Figura 1** — Storyboard: [Comparar gastos entre candidatos]
 
-![AgendamentoPresencialStoryBoard](../../img/storyboard/CompararCand_storyboard_Papel.png)
+![Certidão de quitação storyboard feito no Papel](../../img/storyboard/storyboard_quitacao.jpg)
 
 <p>Fonte: <a href="https://github.com/TiagoUNB">Tiago</a> (2026).</p>
 
