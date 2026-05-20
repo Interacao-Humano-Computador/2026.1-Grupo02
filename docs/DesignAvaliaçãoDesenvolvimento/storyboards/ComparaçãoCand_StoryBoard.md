@@ -54,7 +54,7 @@ Na figura 1, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 **Figura 1** — Storyboard: [Comparar gastos entre candidatos]
 
-![Certidão de quitação storyboard feito no Papel](../../img/storyboard/storyboard_quitacao.jpg)
+![AgendamentoPresencialStoryBoard](../../img/storyboard/CompararCand_storyboard_Papel.png)
 
 
 Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de gastos e receita de dois candidatos para se informar e decidir em quem votar, feito em por um modelo de inteligencia artifical
