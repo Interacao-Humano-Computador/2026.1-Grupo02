@@ -15,13 +15,13 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Tiago | |
-| Guilherme | |
-| Luan | |
-| Maria Luana | |
-| Lucas Fujimoto | |
-| Bryan | |
-| Samuel | |
+| Tiago | Elaboração dos items E1,E2,E3,E4 |
+| Guilherme | Elaboração do items E5 |
+| Luan | Elaboração do items E6  |
+| Maria Luana | Elaboração do items E7  |
+| Lucas Fujimoto | Elaboração do items E8  |
+| Bryan | Elaboração do items E9 |
+| Samuel | Elaboração do items E10  |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
@@ -98,16 +98,16 @@ Os artefatos avaliados nesta entrega são: Storyboards, Planejamento da Avaliaç
 
 | Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
 |:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
-| E1 | Storyboard | O storyboard representa de forma clara o contexto de uso e o ambiente em que a tarefa ocorre? |  [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU)  | | | |
-| E2 | Storyboard | O storyboard ilustra a sequência de passos do usuário de maneira compreensível e coerente com a HTA correspondente? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | | | |
-| E3 | Storyboard | O storyboard evidencia o problema ou necessidade que motivou a tarefa retratada? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | | | |
-| E4 | Storyboard | O storyboard apresenta a satisfação ou reação do usuário ao concluir a tarefa? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | | | |
-| E5 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento define claramente as perguntas a serem respondidas pela avaliação (questões de pesquisa)? | p. 280 (Barbosa e Silva, 2010) | | | |
-| E6 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento especifica o perfil dos participantes a serem recrutados, alinhado ao perfil de usuário levantado anteriormente? | p. 283 (Barbosa e Silva, 2010) | | | |
-| E7 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento descreve como os dados coletados serão registrados, tratados e analisados? | p. 280 (Barbosa e Silva, 2010) | | | |
-| E8 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento contempla um roteiro ou script para condução da sessão de avaliação? | p. 285 (Barbosa e Silva, 2010) | | | |
-| E9 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato prevê a consolidação e interpretação dos dados antes da apresentação dos resultados? | p. 290 (Barbosa e Silva, 2010) | | | |
-| E10 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato indica como as sugestões de melhoria identificadas durante a avaliação serão documentadas e priorizadas? | p. 291 (Barbosa e Silva, 2010) | | | |
+| E1 | Storyboard | O storyboard representa de forma clara o contexto de uso e o ambiente em que a tarefa ocorre? |  [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU)  | | | Tiago |
+| E2 | Storyboard | O storyboard ilustra a sequência de passos do usuário de maneira compreensível e coerente com a HTA correspondente? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | | | Tiago |
+| E3 | Storyboard | O storyboard evidencia o problema ou necessidade que motivou a tarefa retratada? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | | | Tiago |
+| E4 | Storyboard | O storyboard apresenta a satisfação ou reação do usuário ao concluir a tarefa? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | | | Tiago |
+| E5 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento define claramente as perguntas a serem respondidas pela avaliação (questões de pesquisa)? | p. 280 (Barbosa e Silva, 2010) | | | Guilherme |
+| E6 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento especifica o perfil dos participantes a serem recrutados, alinhado ao perfil de usuário levantado anteriormente? | p. 283 (Barbosa e Silva, 2010) | | | Luan |
+| E7 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento descreve como os dados coletados serão registrados, tratados e analisados? | p. 280 (Barbosa e Silva, 2010) | | | Maria Luana |
+| E8 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento contempla um roteiro ou script para condução da sessão de avaliação? | p. 285 (Barbosa e Silva, 2010) | | | Lucas Fujimoto |
+| E9 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato prevê a consolidação e interpretação dos dados antes da apresentação dos resultados? | p. 290 (Barbosa e Silva, 2010) | | | Bryan |
+| E10 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato indica como as sugestões de melhoria identificadas durante a avaliação serão documentadas e priorizadas? | p. 291 (Barbosa e Silva, 2010) | | | Samuel |
 
 <div style="text-align: left">
 <p>Tabela 4: Itens extras de verificação (Fonte: autores, 2026).</p>
