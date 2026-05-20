@@ -51,7 +51,6 @@ Cada storyboard contempla os seguintes elementos:
 
 Na figura 1, apresenta-se um storyboard no qual o usuario em dúvida sobre sua sitação de quitação eleitoral deseja verificar a mesma, para garantir que não terá problemas ao votar no ano eleitoral vindouro.
 
-<center>
 
 **Figura 1** — Storyboard: [Verificar a situação da quitação eleitoral]
 
