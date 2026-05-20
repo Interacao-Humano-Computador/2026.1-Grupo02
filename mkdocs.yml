@@ -69,8 +69,9 @@ nav:
           - Planejamento da Avaliação da Análise de Tarefas: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_da_Análise_de_Tarefas.md
           - Planejamento do Relato dos Resultados da Avaliação: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_AnaliseTarefas.md
       - Storyboard:
-          - Planejamento da Avaliação da Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Storyboard.md
-          - Planejamento do Relato dos Resultados da Avaliação do Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_StoryBoard.md
+        - Planejamento:
+            - Planejamento da Avaliação da Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Storyboard.md
+            - Planejamento do Relato dos Resultados da Avaliação do Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_StoryBoard.md
           - Storyboard Comparação de Candidatos: DesignAvaliaçãoDesenvolvimento/storyboards/ComparaçãoCand_StoryBoard.md
           - Storyboard Ser Mesário: DesignAvaliaçãoDesenvolvimento/storyboards/SerMesario.md
           - Storyboard Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/JustificativaEleitoral_StoryBoard.md
@@ -82,10 +83,12 @@ nav:
           - Etapa 1: Avaliacao/Grupo02/Lista_de_Verificação_Entrega1.md
           - Etapa 2: Avaliacao/Grupo02/Lista_de_Verificação_Entrega2.md
           - Etapa 3: Avaliacao/Grupo02/Lista_de_Verificacao_Entrega3.md
+          - Etapa 4: Avaliacao/Grupo02/Lista_de_Verificacao_Entrega4.md
       - Grupo N+1/N-1:
           - Etapa 1: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega1.md
           - Etapa 2: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega2.md
           - Etapa 3: Avaliacao/Outros Grupos/Lista_de_Verificacao_Entrega3.md
+          - Etapa 4: Avaliacao/Outros Grupos/Lista_de_Verificacao_Entrega4.md
   - Reuniões:
       - Ata 09/04/26: Reunioes/Ata Reunião 09 04 26.md
       - Ata 11/04/26: Reunioes/Ata Reunião 11 04 26.md
