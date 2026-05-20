@@ -7,7 +7,7 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Tiago | Criação do documento de storyboard |
+| Bryan | Criação do documento de storyboard |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
