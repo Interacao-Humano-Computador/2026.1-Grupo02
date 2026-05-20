@@ -44,6 +44,7 @@ Os storyboards estão organizados por tarefa e podem ser acessados individualmen
 | 4 | Agendamento Presencial | Lucas Fujimoto | [Acessar](storyboards/AgendamentoPres_StoryBoard.md) |
 | 5 | Justificativa Eleitoral | Luan  Ludry| [Acessar](storyboards/JustificativaEleitoral_StoryBoard.md) |
 | 6 | Alterar local de voto | Guilherme | [Acessar](storyboards/alterarlocal.md) |
+| 7 | Emissão 1° Titulo de Eleitor | Maria Luana | [Acessar](storyboards/Emissão1°Titulo.md) |
 
 <div style="text-align: left">
 <p>Tabela 2: Índice de storyboards do Grupo 02 (Fonte: autor, 2026).</p>
