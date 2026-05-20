@@ -9,9 +9,7 @@
 |:----------:|:-------------|
 | Bryan | Criação do documento de storyboard |
 
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
+*Tabela 1: Tabela de contribuição (Fonte: autor, 2026).* 
 
 ---
 
@@ -22,10 +20,8 @@
 | 19/05/06 | 1.0 | Criação do documento de storyboard | Bryan | Tiago |
 
 ---
-<div style="text-align: left">
-<p>Tabela 2: Tabela de Histórico de Versão (Fonte: autor, 2026).</p>
-</div>
 
+*Tabela 2: Tabela de Histórico de Versão (Fonte: autor, 2026).* 
 
 ## Introdução
 
@@ -49,26 +45,41 @@ Cada storyboard contempla os seguintes elementos:
 
 ### Tarefa 1: Se voluntariar como Mesário
 
-Na figura 1, apresenta-se um storyboard no qual o usuario procura o espaço para se cadastrar como mesário 
+Na figura 1, apresenta-se um storyboard no qual o usuário procura o espaço para se cadastrar como mesário.
+
 
 
 **Figura 1** — Storyboard: [Se cadastrar para ser Mesário Voluntario]
 
-![Ser Mesario storyboard feito no Papel](../../img/storyboard/sermesario_PAPEL.jpeg)
+![Storyboard ser mesário feito no papel](../../img/storyboard/sermesario_PAPEL.jpeg)
 
-Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de gastos e receita de dois candidatos para se informar e decidir em quem votar, feito em por um modelo de inteligencia artifical
+*Imagem 1: Referência do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).*
+
+Fonte: [Bryan](https://github.com/Bryan70897) (2026).
+
+
+
+Na figura 2, apresenta-se um storyboard no qual o usuário pesquisa os dados de gastos e receita de dois candidatos para se informar e decidir em quem votar, feito por um modelo de inteligência artificial.
+
+
 
 **Figura 2** — Storyboard: [Se cadastrar para ser Mesário Voluntario]
 
-![Ser Mesario storyboard feito por IA](../../img/storyboard/sermesario_IA.jpeg)
+![Storyboard ser mesário feito por IA](../../img/storyboard/sermesario_IA.jpeg)
+
+*Imagem 2: Referência do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).*
+
+Fonte: [Bryan](https://github.com/Bryan70897) (2026).
+
+
 
 ---
 
 ## Referência Bibliográfica
 
-> <a id="REF1" href="#anchor_1">1.</a> KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
+> 1. KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
+> 2. BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
 
 ---
 
