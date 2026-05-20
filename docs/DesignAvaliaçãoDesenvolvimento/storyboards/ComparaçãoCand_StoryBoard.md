@@ -55,7 +55,7 @@ Na figura 1, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 **Figura 1** — Storyboard: [Comparar gastos entre candidatos]
 
-![Comparar Candidatos storyboard feito no Papel](../../img/storyboard/CompararCand_storyboard_IA.png)
+![Comparar Candidatos storyboard feito no Papel](../../img/storyboard/CompararCand_storyboard_Papel.png)
 <div style="text-align: left">
 <p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
 </div>
