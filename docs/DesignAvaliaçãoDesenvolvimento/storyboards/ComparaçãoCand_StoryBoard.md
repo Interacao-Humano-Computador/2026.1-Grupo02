@@ -51,26 +51,17 @@ Cada storyboard contempla os seguintes elementos:
 
 Na figura 1, apresenta-se um storyboard no qual o usuario pesquisa os dados de gastos e receita de dois candidatos para se informar e decidir em quem votar, feito em papel
 
-<center>
 
 **Figura 1** — Storyboard: [Comparar gastos entre candidatos]
 
 ![Certidão de quitação storyboard feito no Papel](../../img/storyboard/storyboard_quitacao.jpg)
 
-<p>Fonte: <a href="https://github.com/TiagoUNB">Tiago</a> (2026).</p>
-
-</center>
 
 Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de gastos e receita de dois candidatos para se informar e decidir em quem votar, feito em por um modelo de inteligencia artifical
-
-<center>
 
 **Figura 2** — Storyboard: [Comparar gastos entre candidatos]
 
 ![AgendamentoPresencialStoryBoard](../../img/storyboard/CompararCand_storyboard_IA.png)
-<p>Fonte: <a href="https://github.com/TiagoUNB">Tiago</a> (2026).</p>
-
-</center>
 
 ---
 
