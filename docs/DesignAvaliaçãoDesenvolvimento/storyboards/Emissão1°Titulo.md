@@ -51,34 +51,19 @@ Cada storyboard contempla os seguintes elementos:
 
 Na figura 1, apresenta-se um storyboard no qual o usuário procura o local para conseguir obter e emitir seu primeiro título de eleitor.
 
-<center>
 
 **Figura 1** — Storyboard: [Emissão do 1° Título de Eleitor]
 
 ![Comparar Candidatos storyboard feito no Papel](../../img/storyboard/EmissaoTitulo_storyboard_papel.jpeg)
-<div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
-</div>
 
-
-<p>Fonte: <a href="https://github.com/MLuana725">Maria Luana</a> (2026).</p>
-
-</center>
 
 Na figura 2, apresenta-se um storyboard no qual o usuário procura o local para conseguir obter e emitir seu primeiro título de eleitor   feito em por um modelo de inteligencia artifical
 
-<center>
+
 
 **Figura 2** — Storyboard: [Emissão do 1° Título de Eleitor]
 
 ![Comparar Candidatos storyboard feito por IA](../../img/storyboard/EmissaoTitulo_storyboard_IA.png)
-<div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
-</div>
-
-<p>Fonte: <a href="https://github.com/MLuana725">Maria Luana</a> (2026).</p>
-
-</center>
 
 ---
 
