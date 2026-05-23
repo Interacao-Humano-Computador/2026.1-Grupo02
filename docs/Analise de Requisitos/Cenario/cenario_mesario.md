@@ -4,11 +4,16 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do Cenário voluntariamento para ser mesário nas eleições | Bryan Smith |  |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Bryan Smith | Elaboração do cenário, descrição das ações e identificação de problemas |
+|  |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
@@ -83,24 +88,20 @@ Lucas considera a experiência **razoável**, mas com uma dificuldade importante
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Bryan Smith | Elaboração do cenário, descrição das ações e identificação de problemas |
-|  |
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 >BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 
 >TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE – Serviços ao Eleitor**. Disponível em: https://www.tse.jus.br. Acesso em: 02 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 02/05/2026 | 1.0 | Criação do Cenário voluntariamento para ser mesário nas eleições | Bryan Smith |  |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

@@ -1,14 +1,17 @@
-# Perfil do Usuário
+# Aspectos Éticos
 ## Grupo 02
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Guilherme | Desenvolvimento do artefato |
 
+<div style="text-align: left">
+<p>Tabela 5: Tabela de contribuição (Fonte: CARVALHO, Guilherme 2026).</p>
+</div>
 
 ---
 
@@ -99,26 +102,21 @@ Local: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Data: \_\_\
 
 ---
 
-## Tabela de Contribuição
+## Bibliografia
 
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Guilherme | Desenvolvimento do artefato |
-
-
-<div style="text-align: left">
-<p>Tabela 5: Tabela de contribuição (Fonte: CARVALHO, Guilherme 2026).</p>
-</div>
+> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 ---
 
-## Referência Bibliográfica
+## Histórico de Versão
 
-> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 
 ## Agradecimentos
 
 Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação do documento, formatação das tabelas e organização do conteúdo de acordo com o modelo estabelecido pelo grupo. Todo o conteúdo técnico — incluindo os dados coletados nas entrevistas, na análise de documentos e no questionário — e as decisões metodológicas foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.  
-

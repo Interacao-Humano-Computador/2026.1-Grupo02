@@ -2,11 +2,36 @@
 
 ---
 
+## Grupo 02
+
+---
+
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Samuel Felipe | Criação do arquivo de analise de tarefas |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: FELIPE, Samuel, 2026).</p>
+</div>
+
+---
+
+## Bibliografia
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
+
+> TRIBUNAL SUPERIOR ELEITORAL. **Certidão de quitação eleitoral**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/). Acesso em: 03 maio 2026.
+
+---
+
 ## Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 02/05/2026 | 1.0 | Criação da análise de tarefas para Certidão de Quitação Eleitoral do TSE | Samuel Felipe | |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 
@@ -47,20 +72,8 @@ Nessa parte, apresentamos o diagrama de árvore de tarefas concorrentes, a parti
 <p>Imagem 2: Imagem do diagrama CTT da Certidão de quitação eleitoral (Fonte: FELIPE, Samuel, 2026).</p>
 </div>
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Samuel Felipe | Criação do arquivo de analise de tarefas |
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: FELIPE, Samuel, 2026).</p>
-</div>
-
 ---
 
-## Referência Bibliográfica
+## Agradecimentos
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
-
-> TRIBUNAL SUPERIOR ELEITORAL. **Certidão de quitação eleitoral**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/). Acesso em: 03 maio 2026.
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação e padronização do artefato. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; a IA atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.

@@ -3,13 +3,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação da persona | Guilherme | Maria Luana |
-| 03/05/2026 | 1.1 | Alteração da persona | Guilherme | Maria Luana |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Guilherme | Criação da persona |
 
+<div style="text-align: left">
+<p>Tabela 2: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
 
 ---
 
@@ -19,7 +21,6 @@
 <div style="text-align: left">
 <p>Imagem 1: Imagem do Luiz Ribeiro (Fonte: CARVALHO, Guilherme, 2026).</p>
 </div>
-
 
 * **Identidade:** Luiz Ribeiro, 23 anos, homem, solteiro. Mora em uma cidade de médio porte no interior do Brasil e é estudante universitário de Ciência da Computação (5º semestre).
 
@@ -49,23 +50,23 @@
 
 * **Expectativas:** Luiz espera que o site funcione como um serviço online moderno: poucos cliques, confirmação imediata e foco em serviços em vez de notícias em destaque na página inicial.
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Guilherme | Criação da persona |
-
-<div style="text-align: left">
-<p>Tabela 2: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
-</div>
-
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 >Imagem gerada no site This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 03 de maio. 2026. 
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Criação da persona | Guilherme | Maria Luana |
+| 03/05/2026 | 1.1 | Alteração da persona | Guilherme | Maria Luana |
+| 23/05/2026 | 1.2 | Padronização do artefato | Tiago | - |
 
 ---
 

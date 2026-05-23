@@ -3,12 +3,18 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 10/04/2026 | 1.0 | Criação do cronograma do projeto | Lucas Fujimoto | Luan Ludry |
-| 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | Luan Ludry |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Lucas Fujimoto | Elaboração do cronograma |
+| Luan Ludry | Revisão do documento |
+| Luan Ludry | Padronização do documento |
+| Demais integrantes | Apoio na definição das atividades |
+
+<div style="text-align: left">
+<p>Tabela 7: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
@@ -131,24 +137,19 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 
 ---
 
-## Tabela de Contribuição
+## Bibliografia
 
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Lucas Fujimoto | Elaboração do cronograma |
-| Luan Ludry | Revisão do documento |
-| Luan Ludry | Padronização do documento |
-| Demais integrantes | Apoio na definição das atividades |
-
-<div style="text-align: left">
-<p>Tabela 7: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
+SALES, André Barros. **Plano de ensino da disciplina**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
 
 ---
 
-## Referência Bibliográfica
+## Histórico de Versão
 
-SALES, André Barros. **Plano de ensino da disciplina**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 10/04/2026 | 1.0 | Criação do cronograma do projeto | Lucas Fujimoto | Luan Ludry |
+| 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | Luan Ludry |
+| 23/05/2026 | 1.2 | Padronização do artefato conforme modelo | Tiago | - |
 
 ---
 

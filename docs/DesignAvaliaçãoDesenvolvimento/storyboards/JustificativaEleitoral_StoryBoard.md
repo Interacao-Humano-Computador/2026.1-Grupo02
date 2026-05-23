@@ -7,6 +7,7 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
+| Tiago  | Padronização do artefato |
 | Luan Ludry | Criação do documento de storyboard |
 
 <div style="text-align: left">

@@ -61,7 +61,7 @@ Conteúdo da subseção.
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/AAAA | 1.0 | Criação do documento | Nome do Autor | Nome do Revisor |
+| DD/MM/AAAA | `1.X` | Criação do documento | Nome do Autor | Nome do Revisor |
 
 ---
 

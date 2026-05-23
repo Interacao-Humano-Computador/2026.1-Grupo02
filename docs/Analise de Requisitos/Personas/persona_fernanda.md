@@ -3,11 +3,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 01/05/2026 | 1.0 | Criação da persona Fernanda | Maria Luana | Guilherme |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Maria Luana | Criação da persona |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
+</div>
 
 ---
 
@@ -17,7 +21,6 @@
 <div style="text-align: left">
 <p>Imagem 1: Imagem da Fernanda Ribeiro (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
 </div>
-
 
 *   **Identidade:** Fernanda Ribeiro, 17 anos, mulher, solteira. Estudante do 3º ano do Ensino Médio em Brasília-DF. Divide o quarto com a irmã mais nova e possui uma rotina dividida entre estudos e redes sociais.
 
@@ -47,23 +50,22 @@
 
 *   **Expectativas:** Fernanda espera que o serviço seja tão simples quanto criar um perfil em uma rede social, sendo 100% online e visualmente claro.
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Maria Luana | Criação da persona |
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
-</div>
-
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 >Imagem gerada no site This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 01 de maio. 2026. 
 
 > BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 01/05/2026 | 1.0 | Criação da persona Fernanda | Maria Luana | Guilherme |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

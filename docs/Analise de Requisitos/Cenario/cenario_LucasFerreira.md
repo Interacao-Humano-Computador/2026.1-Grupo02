@@ -1,11 +1,19 @@
 # Cenários
 ## Grupo 02
+
 ---
-## Histórico de Versão
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do cenário para comparativo de gastos de candidatos no DivulgaCandContas | Tiago | — |
+
+## Tabela de Contribuição
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Tiago | Desenvolvimento integral do artefato |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
+</div>
+
 ---
+
 ## Cenário: Comparando Gastos de Campanha antes de Votar pela Primeira Vez
 
 **Atores:** Lucas Ferreira (estudante universitário)
@@ -21,21 +29,21 @@ Com os dois selecionados, o comparativo finalmente é gerado. A tela exibe tabel
 Ainda assim, Lucas percebe que um dos candidatos gastou significativamente mais em publicidade digital, o que desperta sua atenção. Satisfeito com a descoberta, ele copia o link da página para compartilhar com o grupo da turma, mas ao colar o link no chat percebe que ele não funciona — a URL não reflete a consulta realizada, impossibilitando o compartilhamento direto dos resultados. Lucas termina a noite com mais informação do que tinha antes, mas com a sensação de que o sistema poderia ter tornado toda aquela jornada muito mais simples e acessível.
 
 ---
-## Tabela de Contribuição
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Tiago | Desenvolvimento integral do artefato |
 
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
-</div>
-
----
-## Referência Bibliográfica
+## Bibliografia
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 > TRIBUNAL SUPERIOR ELEITORAL. **DivulgaCandContas: Sistema de Divulgação de Candidaturas e Prestação de Contas Eleitorais**. Disponível em: [https://divulgacandcontas.tse.jus.br/divulga/#/consulta-individual/divida-campanha/2045202024](https://divulgacandcontas.tse.jus.br/divulga/#/consulta-individual/divida-campanha/2045202024). Acesso em: 02 maio 2026.
 
 ---
+
+## Histórico de Versão
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 02/05/2026 | 1.0 | Criação do cenário para comparativo de gastos de candidatos no DivulgaCandContas | Tiago | — |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
+
+---
+
 ## Agradecimentos
 Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na redação e estruturação narrativa do cenário com base no perfil da persona definida pelo grupo. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.

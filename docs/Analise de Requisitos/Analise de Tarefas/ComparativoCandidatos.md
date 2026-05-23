@@ -3,11 +3,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do documento | Tiago Geovane | Nome do Revisor |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Tiago Geovane | Elaboração do documento integralmente |
+
+<div style="text-align: left">
+<p>Tabela 6: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
@@ -29,7 +33,6 @@ O fluxo analisado compreende as seguintes etapas macro:
 <div style="text-align: left">
 <p>Imagem 1: Print do site (Fonte: divulgacandcontas.tse.jus.br, 2026).</p>
 </div>
-
 
 Foram aplicadas três técnicas complementares, conforme descritas em Barbosa et al. (2021): a **Análise Hierárquica de Tarefas (HTA)**, o modelo **ConcurTaskTrees (CTT)** e o modelo **GOMS** na variante **CMN-GOMS**, com estimativa de tempo via **KLM**.
 
@@ -83,7 +86,6 @@ graph TD
     style 4_1 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
     style 4_2 fill:#e0e0e0,color:#1a1a1a,stroke:#757575
 ```
-
 
 > **Legenda:** Nós arredondados (azuis) = subobjetivos com plano; nós retangulares (cinza) = operações; nó amarelo = tarefa opcional/repetível.
 >
@@ -251,7 +253,6 @@ O modelo **GOMS** (*Goals, Operators, Methods, and Selection Rules*) descreve a 
 <p>Imagem 4: Referencia do livro (Fonte: Barbosa et AL, 2026).</p>
 </div>
 
-
 #### 3.1 Modelo CMN-GOMS
 
 ```
@@ -276,7 +277,6 @@ GOAL 0: Realizar comparativo de recursos de campanha entre candidatos
       OP. 1.B.5: Identificar e clicar no link oficial do TSE nos resultados
       OP. 1.B.6: Aguardar carregamento da página inicial
 
-
   GOAL 2: Selecionar o ano da eleição desejada
 
     METHOD 2.A: Seleção via dropdown/lista de anos
@@ -292,7 +292,6 @@ GOAL 0: Realizar comparativo de recursos de campanha entre candidatos
       OP. 2.B.1: Localizar os botões de ano disponíveis
       OP. 2.B.2: Identificar e clicar no botão do ano desejado
       OP. 2.B.3: Verificar que a interface atualizou refletindo o ano escolhido
-
 
   GOAL 3: Selecionar os candidatos para comparação
 
@@ -325,7 +324,6 @@ GOAL 0: Realizar comparativo de recursos de campanha entre candidatos
     (SEL. RULE: usuário deseja comparar mais de dois candidatos)
       [Repetir GOAL 3.1 para cada candidato adicional]
 
-
   GOAL 4: Visualizar e interpretar os dados comparativos
 
     METHOD 4.A: Leitura direta dos dados na tela
@@ -347,7 +345,6 @@ GOAL 0: Realizar comparativo de recursos de campanha entre candidatos
 
 ---
 
-
 ### 4. Síntese e Problemas Identificados
 
 Os principais problemas identificados nas três análises são:
@@ -359,24 +356,20 @@ Os principais problemas identificados nas três análises são:
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Tiago Geovane | Elaboração do documento integralmente |
-
-
-<div style="text-align: left">
-<p>Tabela 6: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 
 > TRIBUNAL SUPERIOR ELEITORAL. **DivulgaCandContas**. Disponível em: [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br). Acesso em: 02 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 02/05/2026 | 1.0 | Criação do documento | Tiago Geovane | Nome do Revisor |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

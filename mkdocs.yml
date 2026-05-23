@@ -44,24 +44,39 @@ nav:
   - Análise de Requisitos:
       - Perfil de Usuário: Analise de Requisitos/PerfilDeUsuario.md
       - Aspectos Éticos: Analise de Requisitos/AspectosEticos.md
-      - Cenários: Analise de Requisitos/Cenario/cenario_unificado.md
+      - Cenários:
+          - Cenários: Analise de Requisitos/cenarios.md
+          - Cenários Individuais:
+              - Cenário Unificado: Analise de Requisitos/Cenario/cenario_unificado.md
+              - Cenário Agendamento: Analise de Requisitos/Cenario/cenario_agendamento.md
+              - Cenário Alterar Local de Votação: Analise de Requisitos/Cenario/cenario_alterarlocaldevotacao.md
+              - Cenário Certidão Quitação Eleitoral: Analise de Requisitos/Cenario/cenario_certidaoquitacaoeleitoral.md
+              - Cenário Emissão 1º Título: Analise de Requisitos/Cenario/cenario_emissao_1titulo.md
+              - Cenário Lucas Ferreira: Analise de Requisitos/Cenario/cenario_LucasFerreira.md
+              - Cenário Mesário: Analise de Requisitos/Cenario/cenario_mesario.md
+              - Cenário Rafael Mendonça: Analise de Requisitos/Cenario/cenario_RafaelMendonca.md
       - Personas:
-          - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
-          - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
-          - Persona 4: Analise de Requisitos/Personas/persona_karina.md
-          - Persona 5: Analise de Requisitos/Personas/persona_FelixRyan.md
-          - Persona 6: Analise de Requisitos/Personas/persona_fernanda.md
-          - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
-          - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
-          - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
+          - Personas: Analise de Requisitos/personas.md
+          - Personas Individuais:
+              - Personas Unificado: Analise de Requisitos/Personas/personas_unificado.md
+              - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
+              - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
+              - Persona 4: Analise de Requisitos/Personas/persona_karina.md
+              - Persona 5: Analise de Requisitos/Personas/persona_FelixRyan.md
+              - Persona 6: Analise de Requisitos/Personas/persona_fernanda.md
+              - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
+              - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
+              - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
       - Análise de Tarefas:
-          - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
-          - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
-          - Análise de Tarefas para se voluntariar a mesário: Analise de Requisitos/Analise de Tarefas/Mesario.md
-          - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
-          - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
-          - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
-          - Análise de Tarefas para justificativa eleitoral online: Analise de Requisitos/Analise de Tarefas/JustificativaEleitoral.md
+          - Análise de Tarefas: Analise de Requisitos/analise_de_tarefas.md
+          - Análises Individuais:
+              - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
+              - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
+              - Análise de Tarefas para se voluntariar a mesário: Analise de Requisitos/Analise de Tarefas/Mesario.md
+              - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
+              - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
+              - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
+              - Análise de Tarefas para justificativa eleitoral online: Analise de Requisitos/Analise de Tarefas/JustificativaEleitoral.md
       - Metas de Usabilidade: Analise de Requisitos/MetasUsabilidade.md
       - Características da Plataforma: Analise de Requisitos/caracteristicas.md
       - Princípios Gerais do Projeto: Analise de Requisitos/PrincipiosGerais.md

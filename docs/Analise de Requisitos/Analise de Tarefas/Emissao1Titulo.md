@@ -4,11 +4,11 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Documentação da análise de tarefas da emissão do 1° titulo | Maria Luana | Guilherme |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Maria Luana | Elaboração integral das análises HTA, CTT e GOMS da emissão do 1° Título |
 
 ---
 
@@ -82,7 +82,6 @@ graph TD
 | **4.3 Anexar Comprovante** | **Ação:** Upload de conta residencial. **Problema:** Documentos com mais de 3 meses são inválidos. **Recomendação:** Alerta textual fácil de notar sobre o prazo de validade do comprovante. |
 | **5. Finalizar e salvar protocolo** | **Ação:** Confirmar dados e baixar PDF. **Feedback:** O sistema deve garantir que o PDF foi baixado antes de encerrar a sessão. |
 
-
 ---
 
 ## 2. ConcurTaskTrees (CTT)
@@ -136,7 +135,6 @@ O modelo GOMS descreve o conhecimento procedimental de um usuário competente, e
         *   OP. 4.1: Localizar arquivos no diretório
         *   OP. 4.2: Confirmar upload
 
-
 ---
 
 ## 4. Síntese e Problemas Identificados
@@ -149,17 +147,7 @@ A aplicação conjunta das técnicas permitiu identificar os seguintes pontos cr
 
 ---
 
----
-
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Maria Luana | Elaboração integral das análises HTA, CTT e GOMS da emissão do 1° Título |
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 >
@@ -167,13 +155,15 @@ A aplicação conjunta das técnicas permitiu identificar os seguintes pontos cr
 
 ---
 
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Documentação da análise de tarefas da emissão do 1° titulo | Maria Luana | Guilherme |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
+
+---
+
 ## Agradecimentos
 
 Agradecemos à IA Generativa **Gemini** pelo suporte na elaboração deste documento. A ferramenta foi utilizada para Revisar a estrutura para o formato md. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Gemini atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
-
-
-
-
-
-
-

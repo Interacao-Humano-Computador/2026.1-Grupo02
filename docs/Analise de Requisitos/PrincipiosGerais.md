@@ -14,20 +14,11 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 12/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
-
----
-
 ## Introdução
 
 Este artefato apresenta a análise do Portal do Tribunal Superior Eleitoral (TSE) / Tribunal Regional Eleitoral (TRE) à luz dos **Princípios Gerais do Projeto** em Interação Humano-Computador (IHC). Esses princípios orientam o design de interfaces centradas no usuário, estabelecendo diretrizes para garantir que sistemas interativos sejam eficazes, eficientes e satisfatórios.
 
 O presente documento é complementar à análise heurística realizada pelo grupo durante a fase planejamento com base nas 10 Heurísticas de Nielsen, aprofundando a avaliação da plataforma sob uma perspectiva de projeto. Enquanto as heurísticas identificam problemas pontuais de usabilidade, os Princípios Gerais do Projeto orientam decisões do grupo durante o projeto .
-
 
 ---
 
@@ -148,11 +139,20 @@ Este princípio estabelece que o sistema deve ser projetado para minimizar a oco
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. 
 
 >TRIBUNAL SUPERIOR ELEITORAL. *Portal do TSE.* Disponível em: https://www.tse.jus.br. Acesso em: mai. 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 12/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

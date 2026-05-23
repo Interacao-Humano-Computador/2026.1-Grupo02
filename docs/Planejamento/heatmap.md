@@ -3,15 +3,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 15/04/2026 | 1.0 | Criação do documento do heatmap de disponibilidade | Tiago | Lucas Fujimoto |
-| 11/05/2026 | 1.1 | Ajustando estrutura do artefato de acordo com o modelo de artefato | Tiago | Lucas Fujimoto |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -69,10 +60,21 @@ Abaixo está a representação visual do heatmap de disponibilidade da equipe:
 <p>Tabela 1: Heatmap de disponibilidade da equipe (Fonte: autor, 2026).</p>
 </div>
 
+---
 
-## Referência Bibliográfica
+## Bibliografia
 
 Não se aplica.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 15/04/2026 | 1.0 | Criação do documento do heatmap de disponibilidade | Tiago | Lucas Fujimoto |
+| 11/05/2026 | 1.1 | Ajustando estrutura do artefato de acordo com o modelo de artefato | Tiago | Lucas Fujimoto |
+| 23/05/2026 | 1.2 | Padronização do artefato conforme modelo | Tiago | - |
 
 ---
 

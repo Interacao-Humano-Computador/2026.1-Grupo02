@@ -19,16 +19,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 15/04/2026 | 1.0 | Criação da página "Sites Analisados" | [Luan Ludry](https://github.com/luanludry) | [Tiago](https://github.com/TiagoUNB) |
-| 15/04/2026 | 1.1 | Atualização com análises detalhadas | [Luan Ludry](https://github.com/luanludry) | [Tiago](https://github.com/TiagoUNB) |
-| 11/05/2026 | 1.2 | Padronização dos artefato de acordo com o modelo | [Tiago](https://github.com/TiagoUNB) | [Luan Ludry](https://github.com/luanludry) |
-
----
-
 ## Introdução
 
 Este documento apresenta os sites analisados pelo Grupo 02 no contexto da disciplina de Interação Humano-Computador. O objetivo das análises é identificar problemas de usabilidade e interação com base em critérios heurísticos, a fim de compreender as principais dificuldades enfrentadas pelos/as usuários/as e propor possíveis melhorias. Os sites foram escolhidos individualmente por cada integrante do grupo.
@@ -135,9 +125,20 @@ O site da Fundação Hemocentro de Brasília oferece informações sobre doaçã
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 Não se aplica.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 15/04/2026 | 1.0 | Criação da página "Sites Analisados" | [Luan Ludry](https://github.com/luanludry) | [Tiago](https://github.com/TiagoUNB) |
+| 15/04/2026 | 1.1 | Atualização com análises detalhadas | [Luan Ludry](https://github.com/luanludry) | [Tiago](https://github.com/TiagoUNB) |
+| 11/05/2026 | 1.2 | Padronização dos artefato de acordo com o modelo | [Tiago](https://github.com/TiagoUNB) | [Luan Ludry](https://github.com/luanludry) |
+| 23/05/2026 | 1.3 | Padronização do artefato conforme modelo | Tiago | - |
 
 ---
 

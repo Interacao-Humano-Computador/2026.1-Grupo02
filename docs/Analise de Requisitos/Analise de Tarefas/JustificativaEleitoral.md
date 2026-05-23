@@ -4,11 +4,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação do documento de análise de tarefas para justificativa eleitoral online | Luan Ludry | — |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Luan Ludry | Elaboração do documento integralmente |
+
+<div style="text-align: left">
+<p>Tabela 4: Tabela de contribuição (Fonte: autores, 2026).</p>
+</div>
 
 ---
 
@@ -312,7 +316,6 @@ GOAL 0: Justificar ausência eleitoral online e obter comprovante
       OP. 1.B.5: Identificar e clicar no link mais adequado nos resultados
       OP. 1.B.6: Ser redirecionado para o portal TRE-DF
 
-
   GOAL 2: Autenticar-se no sistema
 
     METHOD 2.A: Login com conta GOV.BR já existente
@@ -324,7 +327,6 @@ GOAL 0: Justificar ausência eleitoral online e obter comprovante
       OP. 2.A.5: Clicar em "Entrar"
       OP. 2.A.6: Aguardar validação automática dos dados eleitorais
       OP. 2.A.7: Verificar que o formulário foi exibido com dados preenchidos
-
 
   GOAL 3: Preencher e enviar o formulário de justificativa
 
@@ -356,7 +358,6 @@ GOAL 0: Justificar ausência eleitoral online e obter comprovante
         OP. 3.2.A.1: Clicar em "Enviar"
         OP. 3.2.A.2: Aguardar confirmação do sistema
 
-
   GOAL 4: Obter e salvar o comprovante
 
     METHOD 4.A: Download direto
@@ -381,25 +382,22 @@ Os principais problemas identificados nas três análises são:
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Luan Ludry | Elaboração do documento integralmente |
-
-<div style="text-align: left">
-<p>Tabela 4: Tabela de contribuição (Fonte: autores, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 
 > BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Cap. 6, pp. 192–205.
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Justificativa Eleitoral**. Disponível em: [https://www.tse.jus.br/eleitor/justificativa-eleitoral](https://www.tse.jus.br/eleitor/justificativa-eleitoral). Acesso em: 03 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Criação do documento de análise de tarefas para justificativa eleitoral online | Luan Ludry | — |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

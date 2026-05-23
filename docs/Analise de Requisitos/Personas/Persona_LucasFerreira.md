@@ -3,11 +3,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do documento | Tiago Geovane | — |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Tiago | Desenvolvimento integral do Artefato |
+
+<div style="text-align: left">
+<p>Tabela 2: Tabela de contribuição (Fonte: autores, 2026).</p>
+</div>
 
 ---
 
@@ -27,7 +31,6 @@ Abaixo se encontram os dados que foram definidos para a persona ficticia Lucas F
 <div style="text-align: left">
 <p>Imagem 1: Imagem da Lucas Ferreira (Fonte: Sousa, Tiago, 2026).</p>
 </div>
-
 
 **Dados demográficos**
 
@@ -75,21 +78,18 @@ Lucas espera um sistema com linguagem simples, fluxo direto e, principalmente, m
 
 ---
 
-## Tabela de Contribuição
+## Bibliografia
 
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Tiago | Desenvolvimento integral do Artefato |
-
-<div style="text-align: left">
-<p>Tabela 2: Tabela de contribuição (Fonte: autores, 2026).</p>
-</div>
+BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
 ---
 
-## Referência Bibliográfica
+## Histórico de Versão
 
-BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Elsevier, 2010.
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 02/05/2026 | 1.0 | Criação do documento | Tiago Geovane | — |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

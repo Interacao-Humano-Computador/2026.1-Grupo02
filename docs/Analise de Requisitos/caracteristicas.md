@@ -9,18 +9,9 @@
 |:----------:|:-------------|
 | Guilherme| Criação do artefato |
 
-
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
 </div>
-
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-|11/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
 
 ---
 
@@ -77,7 +68,6 @@ A seguir, são listadas as principais funcionalidades disponíveis no portal TSE
 - Emitir certidão de quitação eleitoral
 - Acessar notícias institucionais e calendário eleitoral
 - Navegar pelo mapa do site e utilizar atalhos de navegação
-  
 
 ---
 
@@ -128,11 +118,20 @@ A seguir, são listadas as características negativas identificadas na plataform
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE**. Disponível em: [https://www.tse.jus.br](https://www.tse.jus.br). Acesso em: maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+|11/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

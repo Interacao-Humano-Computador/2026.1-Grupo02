@@ -3,16 +3,18 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 10/04/2026 | 1.0 | Criação do documento | Guilherme | Samuel |
-| 15/04/2026 | 1.1 | Padronização do artefato | Tiago | Guilherme |
-| 23/04/2026 | 1.2 | Adição de anexos | Guilherme | Maria |
-| 23/04/2026 | 1.3 | Correção de anexos | Guilherme | Maria |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Guilherme | Elaboração do conteúdo sobre processos de design |
+| Samuel | Revisão do documento |
+| Tiago | Padronização do documento |
+| Guilherme | Adição de anexos|
 
-
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
@@ -95,34 +97,6 @@ Além disso, o modelo é especialmente adequado para equipes que ainda estão de
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Guilherme | Elaboração do conteúdo sobre processos de design |
-| Samuel | Revisão do documento |
-| Tiago | Padronização do documento |
-| Guilherme | Adição de anexos|
-
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
-
-BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
-
----
-
-## Agradecimentos
-
-Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na organização da estrutura e padronização do conteúdo em formato acadêmico. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
-
----
-
 ## Anexos
 
 ### Figura 1 - Seção introduzindo design 
@@ -172,3 +146,27 @@ Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Els
 ### Figura 12 - Seção sobre Engenharia de Usabilidade de Mayhew
 <img src="../img/processo_design/4.3.3-4.png"> <a id="imagem12"></a> \
 Fonte: BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010, p.111.
+
+---
+
+## Bibliografia
+
+BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 10/04/2026 | 1.0 | Criação do documento | Guilherme | Samuel |
+| 15/04/2026 | 1.1 | Padronização do artefato | Tiago | Guilherme |
+| 23/04/2026 | 1.2 | Adição de anexos | Guilherme | Maria |
+| 23/04/2026 | 1.3 | Correção de anexos | Guilherme | Maria |
+| 23/05/2026 | 1.4 | Padronização do artefato conforme modelo | Tiago | - |
+
+---
+
+## Agradecimentos
+
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na organização da estrutura e padronização do conteúdo em formato acadêmico. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.

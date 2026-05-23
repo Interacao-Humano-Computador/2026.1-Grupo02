@@ -1,13 +1,19 @@
 # Cenários
 ## Grupo 02
----
-## Histórico de Versão
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação do cenário | Guilherme | Maria Luana |
-| 03/05/2026 | 1.1 | Correção de erro no nome da persona | Guilherme | Maria Luana |
 
 ---
+
+## Tabela de Contribuição
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Guilherme | Desenvolvimento do cenário |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
+
+---
+
 ## Cenário: Tentando votar em local mais perto
 
 **Atores:** Luiz Ribeiro (estudante universitário)
@@ -37,21 +43,22 @@ Ele olha para a tela por alguns segundos. Não sabe se foi confirmado de verdade
 Luiz fecha o notebook satisfeito por ter terminado, mas com aquela sensação incômoda de quem não sabe se fez certo. Manda mensagem no grupo da turma: "Dá pra trocar o local de votação pelo site do TSE, mas a lista é enorme, vários locais estão bloqueados e você tem que adivinhar qual fica perto de onde você mora. Funcionou, acho vou descobrir depois."
 
 ---
-## Tabela de Contribuição
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Guilherme | Desenvolvimento do cenário |
 
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
-</div>
-
----
-## Referência Bibliográfica
+## Bibliografia
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Atualizar dados pessoais, endereço ou local de votação**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral]. Acesso em: 03 maio 2026.
 
 ---
+
+## Histórico de Versão
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Criação do cenário | Guilherme | Maria Luana |
+| 03/05/2026 | 1.1 | Correção de erro no nome da persona | Guilherme | Maria Luana |
+| 23/05/2026 | 1.2 | Padronização do artefato | Tiago | - |
+
+---
+
 ## Agradecimentos
 Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na redação e estruturação narrativa do cenário com base no perfil da persona definida pelo grupo. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.

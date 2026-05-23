@@ -7,7 +7,7 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Tiago | Criação do documento de storyboard |
+| Tiago | Criação do documento de storyboard e Padronização do artefato |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago, 2026).</p>

@@ -4,11 +4,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação do cenário de justificativa eleitoral online para Rafael Mendonça Alves | Luan Ludry | Lucas Fujimoto |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Luan Ludry | Desenvolvimento integral do artefato |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
+</div>
 
 ---
 
@@ -28,23 +32,20 @@ O sistema exibe a mensagem: *"Justificativa recebida com sucesso. Número de pro
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Luan Ludry | Desenvolvimento integral do artefato |
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Justificativa Eleitoral**. Disponível em: [https://www.tse.jus.br/eleitor/justificativa-eleitoral](https://www.tse.jus.br/eleitor/justificativa-eleitoral). Acesso em: 03 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Criação do cenário de justificativa eleitoral online para Rafael Mendonça Alves | Luan Ludry | Lucas Fujimoto |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

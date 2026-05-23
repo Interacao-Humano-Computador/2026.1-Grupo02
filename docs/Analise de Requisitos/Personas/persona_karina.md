@@ -3,11 +3,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 01/05/2026 | 1.0 | Criação da persona Karina | Lucas Fujimoto | Luan Ludry |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Lucas Fujimoto | Criação da persona |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
+</div>
 
 ---
 
@@ -17,7 +21,6 @@
 <div style="text-align: left">
 <p>Imagem 1: Imagem da Karina Heeres (Fonte: FUJIMOTO, Lucas, 2026).</p>
 </div>
-
 
 *   **Identidade:** Karina Heeres, 27 anos, mulher, solteira. Mora em Brasília-DF e trabalha como advogada em um escritório particular. Possui pós-graduação em Direito Tributário.
 
@@ -46,23 +49,22 @@
 
 *   **Expectativas:** Karina não espera uma experiência personalizada, mas sim eficiência. Ela acredita que deveria estar claro no site sobre onde encontrar cada serviço necessário e bastante intuitivo.
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Lucas Fujimoto | Criação da persona |
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
-</div>
-
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 >Imagem gerada no site This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 01 de maio. 2026. 
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 01/05/2026 | 1.0 | Criação da persona Karina | Lucas Fujimoto | Luan Ludry |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 
