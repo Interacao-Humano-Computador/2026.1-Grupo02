@@ -20,8 +20,10 @@ O planejamento de uma avaliação de Interação Humano-Computador (IHC) constit
 
 Este documento tem por objetivo planejar a avaliação do storyboard desenvolvido pelo Grupo 02, detalhando os objetivos da avaliação, as perguntas norteadoras, o método adotado, os critérios de seleção de participantes, o cronograma, os aspectos éticos envolvidos e o teste piloto. Para orientar esse planejamento de forma estruturada, adota-se o **Framework DECIDE**, proposto por Preece et al. (2002), amplamente utilizado em avaliações de IHC por sua capacidade de articular de forma iterativa todas as dimensões do planejamento avaliativo.
 
-> 📖 **Referência de imagem:** Inserir aqui figura ilustrativa de um storyboard — BARBOSA et al. (2021), Capítulo sobre Storyboards, p. 121 (índice remissivo).
-
+![elementosHTA](../img/ReferenciaLivro/Storyboard_Definicoes.png) 
+<div style="text-align: left">
+<p>Imagem 1: Definição de um StoryBoard(Fonte: Miro).</p>
+</div>
 ---
 
 ## Planejamento da Avaliação
@@ -30,7 +32,10 @@ Este documento tem por objetivo planejar a avaliação do storyboard desenvolvid
 
 O Framework DECIDE foi proposto por Preece et al. (2002) para orientar o planejamento, a execução e a análise de avaliações de IHC. As atividades do framework são interligadas e executadas de forma iterativa, à medida que o avaliador articula os objetivos da avaliação, os dados e os recursos disponíveis. Quando o avaliador identifica a necessidade de modificar os rumos da avaliação, as demais atividades são afetadas em cadeia (BARBOSA et al., 2021, p. 279–280).
 
-> 📖 **Referência de imagem:** Inserir aqui figura esquemática do Framework DECIDE — BARBOSA et al. (2021), p. 280, Capítulo 11 (Planejamento da Avaliação de IHC).
+![DECIDE](../img/ReferenciaLivro/DECIDE.png)
+<div style="text-align: left">
+<p>Imagem 2: Framewordk DECIDE (Fonte: BARBOSA et al. (2021, p. 280)).</p>
+</div>
 
 A tabela a seguir apresenta as etapas do framework e sua aplicação neste planejamento:
 
@@ -58,7 +63,11 @@ A avaliação do storyboard tem como objetivos gerais:
 
 Esses objetivos são importantes para a equipe de design, pois permitem validar as decisões tomadas até o momento antes de avançar para etapas de maior custo e esforço, como a prototipação de média ou alta fidelidade.
 
-> 📖 **Referência de imagem:** Inserir aqui tabela de objetivos de avaliação de IHC — BARBOSA et al. (2021), Capítulo 11, Tabela 11.1 (objetivos de avaliação de IHC e perguntas associadas).
+![PerguntasIHC](../img/ReferenciaLivro/ExemploPerguntaIHC.png)
+<div style="text-align: left">
+<p>Imagem 3: Exemplos de perguntas (Fonte: BARBOSA et al. (2021, p. 266)).</p>
+</div>
+
 
 ---
 
@@ -87,7 +96,10 @@ O método de avaliação selecionado é a **entrevista**, por sua capacidade de 
 
 A entrevista é especialmente adequada para a avaliação de storyboards, pois permite compreender não apenas a performance técnica do material, mas também as percepções, as emoções e as expectativas do público envolvido no projeto. As entrevistas serão conduzidas de forma **semiestruturada**, com base no roteiro de perguntas apresentado na seção anterior, permitindo ao entrevistador aprofundar tópicos relevantes que surjam durante a conversa.
 
-> 📖 **Referência de imagem:** Inserir aqui figura ou tabela comparativa dos métodos de avaliação de IHC — BARBOSA et al. (2021), Capítulo 12, Subseção 12.2.4 (comparação dos métodos de avaliação).
+![Comparação dos métodos de avaliação](../img/ReferenciaLivro/comparacaometodos.png)
+<div style="text-align: left">
+<p>Imagem 4: Comparação dos métodos de avaliação (Fonte: BARBOSA et al. (2021, p. 320)).</p>
+</div>
 
 ---
 
@@ -106,7 +118,10 @@ Para esta avaliação do storyboard, as metas de usabilidade priorizadas são:
 
 A razão da seleção dessas metas está diretamente relacionada ao estágio atual do projeto: como o storyboard é um artefato de baixa fidelidade voltado à comunicação de ideias, a facilidade de compreensão e a clareza da narrativa são os indicadores mais críticos a serem validados antes de avançar para etapas seguintes do design.
 
-> 📖 **Referência de imagem:** Inserir aqui figura com faixas de valores para indicadores de usabilidade — BARBOSA et al. (2021), p. 574, Figura 6.6 (Faixas de valores para indicadores de usabilidade).
+![Faixas de valores para indicadores de usabilidade](../img/ReferenciaLivro/faixasvalores.png)
+<div style="text-align: left">
+<p>Imagem 5: Faixas de valores para indicadores de usabilidade (Fonte: BARBOSA et al. (2021, p. 117)).</p>
+</div>
 
 #### Recrutamento e Perfil dos Participantes
 
@@ -147,7 +162,10 @@ Com base nos princípios éticos estabelecidos pela Resolução Nº 466/2012 do 
 - **Direito de retirada:** os participantes têm o direito de retirar seu consentimento e abandonar o estudo em qualquer fase, sem qualquer penalização.
 - **Gravação:** qualquer gravação de voz ou imagem será realizada somente com autorização explícita do participante, registrada no TCLE.
 
-> 📖 **Referência de imagem:** Inserir aqui exemplo de Termo de Consentimento Livre e Esclarecido — BARBOSA et al. (2021), Capítulo 7, Exemplo 7.1 (Termo de Consentimento para realização de entrevista).
+![Exemplo de Termo de Consentimento Livre e Esclarecido](../img/ReferenciaLivro/ExemploTermoConsentimento.png)
+<div style="text-align: left">
+<p>Imagem 6: Exemplo de Termo de Consentimento Livre e Esclarecido (Fonte: BARBOSA et al. (2021, p. 142)).</p>
+</div>
 
 ---
 
@@ -168,7 +186,10 @@ Os resultados serão consolidados por meio de análise interparticipante, buscan
 
 Antes da realização das entrevistas principais, será conduzido um **teste piloto**. O objetivo desse teste é avaliar o próprio planejamento e verificar se a avaliação, tal como planejada, produzirá os dados necessários para responder às questões e aos objetivos do estudo (BARBOSA et al., 2021, p. 276).
 
-> 📖 **Referência de imagem:** Inserir aqui trecho ou diagrama sobre teste piloto — BARBOSA et al. (2021), p. 276–278, Capítulo 11 (subseção sobre Recrutamento de Participantes e Teste-Piloto).
+![Exemplo de teste piloto](../img/ReferenciaLivro/exemplotestepiloto.png)
+<div style="text-align: left">
+<p>Imagem 7: Exemplo de Teste Piloto (Fonte: BARBOSA et al. (2021, p. 276)).</p>
+</div>
 
 Durante o teste piloto, o avaliador conduzirá a sessão como se fosse uma entrevista normal, verificando:
 
@@ -204,6 +225,8 @@ Os dados coletados no teste piloto serão **descartados**, pois podem estar cont
 > BARBOSA, Simone et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação — Leanpub, 2021.
 
 > BRASIL. Conselho Nacional de Saúde. **Resolução Nº 466, de 12 de dezembro de 2012**. Disponível em: [https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: DD mês 2026.
+
+> MIRO. **O que é um storyboard?**. Miro, [s.d.]. Disponível em: [https://miro.com/pt/storyboard/o-que-e-storyboard/](https://miro.com/pt/storyboard/o-que-e-storyboard/). Acesso em: 23 maio 2026.
 
 ---
 
