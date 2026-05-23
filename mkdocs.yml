@@ -67,21 +67,23 @@ nav:
       - Princípios Gerais do Projeto: Analise de Requisitos/PrincipiosGerais.md
       - Guia de Estilo: Analise de Requisitos/GuiadeEstilo.md
   - Design, Avaliação e Desenvolvimento:
-      - Análise de Tarefas:
-          - Planejamento da Avaliação da Análise de Tarefas: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_da_Análise_de_Tarefas.md
-          - Planejamento do Relato dos Resultados da Avaliação: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_AnaliseTarefas.md
-      - Storyboard:
-          - Planejamento:
+      - Planejamento:
+          - Análise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_da_Análise_de_Tarefas.md
+              - Planejamento do Relato dos Resultados da Avaliação: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_AnaliseTarefas.md
+          - Storyboard:
               - Planejamento da Avaliação da Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Storyboard.md
               - Planejamento do Relato dos Resultados da Avaliação do Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_StoryBoard.md
-          - Storyboards Unificados: DesignAvaliaçãoDesenvolvimento/storyboards.md  
-          - Storyboard Comparação de Candidatos: DesignAvaliaçãoDesenvolvimento/storyboards/ComparaçãoCand_StoryBoard.md
-          - Storyboard Ser Mesário: DesignAvaliaçãoDesenvolvimento/storyboards/SerMesario.md
-          - Storyboard Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/JustificativaEleitoral_StoryBoard.md
-          - Storyboard Certidão de Quitação Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/certidaoquitaçaoeleitor.md
-          - Storyboard Alterar Local de Votação: DesignAvaliaçãoDesenvolvimento/storyboards/alterarlocal.md
-          - Storyboard Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/storyboards/AgendamentoPres_StoryBoard.md
-          - Storyboard Emissão Primeiro Titulo: DesignAvaliaçãoDesenvolvimento/storyboards/Emissão1°Titulo.md
+      - Storyboard:
+          - Storyboards: DesignAvaliaçãoDesenvolvimento/storyboards.md
+          - Storyboards Individuais:
+              - Storyboard Comparação de Candidatos: DesignAvaliaçãoDesenvolvimento/storyboards/ComparaçãoCand_StoryBoard.md
+              - Storyboard Ser Mesário: DesignAvaliaçãoDesenvolvimento/storyboards/SerMesario.md
+              - Storyboard Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/JustificativaEleitoral_StoryBoard.md
+              - Storyboard Certidão de Quitação Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/certidaoquitaçaoeleitor.md
+              - Storyboard Alterar Local de Votação: DesignAvaliaçãoDesenvolvimento/storyboards/alterarlocal.md
+              - Storyboard Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/storyboards/AgendamentoPres_StoryBoard.md
+              - Storyboard Emissão Primeiro Titulo: DesignAvaliaçãoDesenvolvimento/storyboards/Emissão1°Titulo.md
   - Verificação:
       - Nosso Grupo:
           - Etapa 1: Avaliacao/Grupo02/Lista_de_Verificação_Entrega1.md
