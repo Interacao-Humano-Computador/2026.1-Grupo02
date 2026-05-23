@@ -11,18 +11,8 @@
 | Tiago | Criação inicial do artefato |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
-
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
-
----
 
 ## Introdução
 
@@ -86,7 +76,7 @@ Para cada objetivo definido, foram elaboradas perguntas específicas que operaci
 | Apropriação da Tecnologia | Cada quadro contribui de forma clara para alcançar os objetivos definidos no projeto? | Sim / Não |
 
 <div style="text-align: left">
-<p>Tabela 3: Roteiro de perguntas da avaliação (Fonte: autor, 2026).</p>
+<p>Tabela 3: Roteiro de perguntas da avaliação (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -140,7 +130,7 @@ Os critérios de seleção consideram: faixa etária compatível com o [Perfil d
 | Luan e Bryan | a definir | 12:40 | 13:00 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
-<p>Tabela 4: Cronograma das entrevistas (Fonte: autor, 2026).</p>
+<p>Tabela 4: Cronograma das entrevistas (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -197,12 +187,7 @@ Os dados coletados no teste piloto serão **descartados**, pois podem estar cont
 | Guilherme | Luan | 11:30 | 11:50 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
-<p>Tabela 5: Cronograma do teste piloto (Fonte: autor, 2026).</p>
-</div>
-
-
-<div style="text-align: left">
-<p>Tabela 5: Cronograma do teste piloto (Fonte: autor, 2026).</p>
+<p>Tabela 5: Cronograma do teste piloto (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ### Gravação do Teste Piloto
@@ -214,12 +199,24 @@ Os dados coletados no teste piloto serão **descartados**, pois podem estar cont
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação — Leanpub, 2021.
 
 > BRASIL. Conselho Nacional de Saúde. **Resolução Nº 466, de 12 de dezembro de 2012**. Disponível em: [https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: DD mês 2026.
 
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 18/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
+| 19/05/2026 | 1.1 | Padronização do artefato | Tiago| Lucas |
+
+<div style="text-align: left">
+<p>Tabela 6: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
+</div>
 ---
 
 ## Agradecimentos

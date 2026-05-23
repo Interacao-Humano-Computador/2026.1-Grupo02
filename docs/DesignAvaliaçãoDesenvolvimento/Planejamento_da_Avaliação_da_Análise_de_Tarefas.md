@@ -13,7 +13,7 @@
 
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -93,7 +93,7 @@ Para cada objetivo definido, foram elaboradas perguntas específicas que operaci
 | Geral | Você teria alguma sugestão de melhoria para as tarefas modeladas? | Aberta |
 
 <div style="text-align: left">
-<p>Tabela 3: Roteiro de perguntas da avaliação (Fonte: autor, 2026).</p>
+<p>Tabela 3: Roteiro de perguntas da avaliação (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -151,7 +151,7 @@ O perfil considerado é composto por pessoas na faixa etária compatível com os
 | Luan e Bryan | a definir | 12:40 | 13:00 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
-<p>Tabela 4: Cronograma das entrevistas (Fonte: autor, 2026).</p>
+<p>Tabela 4: Cronograma das entrevistas (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -211,7 +211,7 @@ Os dados coletados no teste piloto serão **descartados**, pois podem estar cont
 | Tiago | Bryan | 11:30 | 11:50 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
-<p>Tabela 5: Cronograma do teste piloto (Fonte: autor, 2026).</p>
+<p>Tabela 5: Cronograma do teste piloto (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ### Gravação do Teste Piloto
@@ -237,7 +237,7 @@ A tabela abaixo apresenta as questões de verificação aplicadas a este documen
 | 14 | A razão da seleção das metas de usabilidade? | ✅ Sim |
 
 <div style="text-align: left">
-<p>Tabela 6: Checklist de verificação do artefato (Fonte: autor, 2026).</p>
+<p>Tabela 6: Checklist de verificação do artefato (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -254,8 +254,13 @@ A tabela abaixo apresenta as questões de verificação aplicadas a este documen
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
-| 19/05/2026 | 1.1 | Adição das imagens | Lucas | --- |
+| 18/05/2026 | 1.0 | Criação do documento | Tiago | Luvas |
+| 19/05/2026 | 1.1 | Adição das imagens | Lucas | Tiago |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | Guilherme |
+
+<div style="text-align: left">
+<p>Tabela 7: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
+</div>
 
 ---
 

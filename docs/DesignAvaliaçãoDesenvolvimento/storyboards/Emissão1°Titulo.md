@@ -10,22 +10,10 @@
 | Maria Luana | Criação do documento de storyboard |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: LOPES, Maria Luana, 2026).</p>
 </div>
 
 ---
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/06 | 1.0 | Criação do documento de storyboard | Maria Luana | --- |
-
----
-<div style="text-align: left">
-<p>Tabela 2: Tabela de Histórico de Versão (Fonte: autor, 2026).</p>
-</div>
-
 
 ## Introdução
 
@@ -52,28 +40,44 @@ Cada storyboard contempla os seguintes elementos:
 Na figura 1, apresenta-se um storyboard no qual o usuário procura o local para conseguir obter e emitir seu primeiro título de eleitor.
 
 
-**Figura 1** — Storyboard: [Emissão do 1° Título de Eleitor]
-
 ![Comparar Candidatos storyboard feito no Papel](../../img/storyboard/EmissaoTitulo_storyboard_papel.jpeg)
+<div style="text-align: left">
+<p>Imagem 1: Storyboard: [Emissão do 1° Título de Eleitor] (Fonte: LOPES, Maria Luana, 2026).</p>
+</div>
 
 
 Na figura 2, apresenta-se um storyboard no qual o usuário procura o local para conseguir obter e emitir seu primeiro título de eleitor   feito em por um modelo de inteligencia artifical
 
 
 
-**Figura 2** — Storyboard: [Emissão do 1° Título de Eleitor]
-
 ![Comparar Candidatos storyboard feito por IA](../../img/storyboard/EmissaoTitulo_storyboard_IA.png)
+<div style="text-align: left">
+<p>Imagem 2: Storyboard: [Emissão do 1° Título de Eleitor] (Fonte: LOPES, Maria Luana, 2026).</p>
+</div>
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
 
 ---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/06 | 1.0 | Criação do documento de storyboard | Maria Luana | Tiago |
+| 23/05/2026 | 1.1 | Padronização do Artefato | Tiago | Guilherme |
+
+<div style="text-align: left">
+<p>Tabela 2: Histórico de Versão (Fonte: LOPES, Maria Luana, 2026).</p>
+</div>
+
+---
+
 
 ## Agradecimentos
 

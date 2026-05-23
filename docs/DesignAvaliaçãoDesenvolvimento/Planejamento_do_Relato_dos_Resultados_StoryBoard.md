@@ -12,19 +12,9 @@
 
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
 
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
-| 19/05/2026 | 1.1 | Ajustes na formatação das tabelas | Lucas | --- |
-
----
 
 ## Introdução
 
@@ -72,11 +62,8 @@ A Tabela 2 apresenta o cronograma planejado para as entrevistas de avaliação d
 | Guilherme, Maria Luana | a definir | 12:20 | 12:40 | 21/05/2026 | Presencial |
 | Luan e Bryan | a definir | 12:40 | 13:00 | 21/05/2026 | Presencial |
 
-Fonte: SOUSA, Tiago.
-
-
 <div style="text-align: left">
-<p>Tabela 2: Cronograma Planejado das Entrevistas (Fonte: autor, 2026).</p>
+<p>Tabela 2: Cronograma Planejado das Entrevistas (Fonte: SOUSA, Tiago).</p>
 </div>
 
 > **Nota:** O teste piloto não deve ser incluído nos resultados da avaliação, conforme critério de verificação definido para este artefato.
@@ -148,18 +135,29 @@ As sugestões levantadas durante a avaliação e as dificuldades identificadas p
 | Guilherme | 15:50 | 16:50 | 23/05/2026 |
 | Luan | 17:40 | 18:40 | 23/05/2026 |
 
-Fonte: SOUSA, Tiago.
-
-
 <div style="text-align: left">
-<p>Tabela 3: Cronograma de desenvolvimento de sugestão de reprojeto. (Fonte: autor, 2026).</p>
+<p>Tabela 3: Cronograma de desenvolvimento de sugestão de reprojeto. (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > <a id="REF1" href="#anchor_1">[1].</a> BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
+| 19/05/2026 | 1.1 | Ajustes na formatação das tabelas | Lucas | --- |
+| 23/05/2026 | 1.2 | Padronização do artefato | Tiago | Lucas |
+
+<div style="text-align: left">
+<p>Tabela 4: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
+</div>
 
 ---
 

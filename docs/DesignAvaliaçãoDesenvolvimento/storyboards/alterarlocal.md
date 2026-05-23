@@ -8,21 +8,19 @@
 |:----------:|:-------------|
 | Guilherme | Criação do documento de storyboard |
 
-Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
 
 ---
 
-## Histórico de Versão
+<div style="text-align: left">
+<p>Imagem 1: Storyboard — Tentando votar em local mais perto (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento de storyboard | Guilherme | Maria Luana |
-| 19/05/2026 | 1.1 | Correção da formatação | Guilherme | Maria Luana |
+A sequência de passos é baseada na análise de tarefas realizada na etapa de levantamento de requisitos e descreve os principais pontos de atenção no fluxo atual do processo. Destacam-se a ausência de resposta imediata, a existência de diversas opções de locais sem critério de ordenação e a presença de opções indisponíveis entre as alternativas exibidas, fatores que podem gerar confusão para o usuário.
 
 
-Tabela 2: Histórico de Versão (Fonte: CARVALHO, Guilherme, 2026).
-
----
 
 ## Introdução
 
@@ -48,17 +46,14 @@ Cada storyboard contempla os seguintes elementos:
 
 Na imagem 1, apresenta-se um storyboard no qual Luiz Ribeiro, estudante universitário, utiliza o Autoatendimento Eleitoral do TSE para tentar solicitar a troca do seu local de votação para um ponto mais próximo de onde mora, feito em papel.
 
-**Figura 1** — Storyboard: Tentando votar em local mais perto
-
 ![Storyboard feito em papel: Luiz tentando trocar o local de votação](../../img/storyboard/alterarlocal.png)
-
-*Imagem 1: Storyboard — Tentando votar em local mais perto (Fonte: [Guilherme](https://github.com/GuilhermeCarvalho2024), 2026).*
-
-A sequência de passos é baseada na análise de tarefas realizada na etapa de levantamento de requisitos e descreve os principais pontos de atenção no fluxo atual do processo. Destacam-se a ausência de resposta imediata, a existência de diversas opções de locais sem critério de ordenação e a presença de opções indisponíveis entre as alternativas exibidas, fatores que podem gerar confusão para o usuário.
+<div style="text-align: left">
+<p>Imagem 2: Storyboard: Tentando votar em local mais perto (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > 1. KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
 
@@ -66,6 +61,19 @@ A sequência de passos é baseada na análise de tarefas realizada na etapa de l
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Atualizar dados pessoais, endereço ou local de votação**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral). Acesso em: 03 mai. 2026.
 
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/2026 | 1.0 | Criação do documento de storyboard | Guilherme | Maria Luana |
+| 19/05/2026 | 1.1 | Correção da formatação | Guilherme | Maria Luana |
+| 23/05/2026 | 1.2 | Criação de nova versão | Tiago | Guilherme |
+
+<div style="text-align: left">
+<p>Tabela 2: Histórico de Versão (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
 ---
 
 ## Agradecimentos

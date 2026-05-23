@@ -14,7 +14,7 @@
 
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -40,7 +40,7 @@ Os storyboards estão organizados por tarefa e podem ser acessados individualmen
 | 7 | Emissão 1° Titulo de Eleitor | Maria Luana | [Acessar](storyboards/Emissão1°Titulo.md) |
 
 <div style="text-align: left">
-<p>Tabela 2: Índice de storyboards do Grupo 02 (Fonte: SOUSA, Tiago 2026).</p>
+<p>Tabela 2: Índice de storyboards do Grupo 02 (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -63,6 +63,9 @@ Os storyboards estão organizados por tarefa e podem ser acessados individualmen
 | 19/05/2026 | 1.0 | Criação do documento de índice de storyboards | Tiago | Bryan |
 | 19/05/2026 | 1.1 | Alteração da legenda da tabela 2 | Tiago | Lucas |
 
+<div style="text-align: left">
+<p>Tabela 3: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
+</div>
 ---
 
 ## Agradecimentos
