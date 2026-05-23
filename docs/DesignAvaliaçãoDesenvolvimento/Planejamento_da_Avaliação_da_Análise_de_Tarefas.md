@@ -18,14 +18,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
-| 19/05/2026 | 1.1 | Adição das imagens | Lucas | --- |
-
----
 
 ## Introdução
 
@@ -250,11 +242,20 @@ A tabela abaixo apresenta as questões de verificação aplicadas a este documen
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação — Leanpub, 2021.
 
 > BRASIL. Conselho Nacional de Saúde. **Resolução Nº 466, de 12 de dezembro de 2012**. Disponível em: [https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: DD mês 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
+| 19/05/2026 | 1.1 | Adição das imagens | Lucas | --- |
 
 ---
 
