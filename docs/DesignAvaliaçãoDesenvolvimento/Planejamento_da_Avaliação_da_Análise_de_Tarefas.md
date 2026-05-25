@@ -12,6 +12,7 @@
 | Lucas | Adição das imagens |
 
 
+
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
@@ -21,14 +22,9 @@
 
 ## Introdução
 
-A análise de tarefas é um instrumento fundamental no processo de design centrado no usuário. Segundo Barbosa et al. (2021, p. 177), ela é utilizada para compreender qual é o trabalho dos usuários, como eles o realizam e por quê, definindo esse trabalho em termos dos objetivos que os usuários querem ou precisam atingir. Em IHC, a análise de tarefas pode ser aplicada para examinar a situação atual, apoiar o redesign de um sistema ou avaliar o resultado de uma intervenção que inclua a introdução de um novo sistema computacional.
+A análise de tarefas é um instrumento fundamental no processo de design centrado no usuário. Segundo Barbosa et al. (2021, p. 177), ela é utilizada para compreender qual é o trabalho dos usuários, como eles o realizam e por quê, definindo esse trabalho em termos dos objetivos que os usuários querem ou precisam atingir. Em IHC, a análise de tarefas pode ser aplicada para examinar a situação atual, apoiar o redesign de um sistema ou avaliar o resultado de uma intervenção que inclua a introdução de um novo sistema computacional.[¹](#imagem1)
 
 Este documento tem por objetivo planejar a avaliação da análise de tarefas produzida pelo Grupo 02, detalhando de forma estruturada os objetivos da avaliação, as perguntas norteadoras, o método adotado, os critérios de seleção de participantes, o cronograma, as questões éticas envolvidas e a realização de um teste piloto. Todo o planejamento é conduzido com base no **Framework DECIDE** (Preece et al., 2002), que orienta de forma iterativa e interligada todas as dimensões do planejamento de uma avaliação de IHC.
-
-![elementosHTA](../img/ReferenciaLivro/elementosHTA.png)
-<div style="text-align: left">
-<p>Imagem 1: Elementos de um diagrama HTA (Fonte: BARBOSA et al. (2021, p. 179)).</p>
-</div>
 
 ---
 
@@ -36,12 +32,7 @@ Este documento tem por objetivo planejar a avaliação da análise de tarefas pr
 
 ### O Framework DECIDE
 
-O Framework DECIDE foi proposto por Preece et al. (2002) para orientar o planejamento, a execução e a análise de avaliações de IHC. Suas atividades são interligadas e executadas de forma iterativa: quando o avaliador identifica a necessidade de ajustar os rumos da avaliação, as demais atividades são afetadas em cadeia (BARBOSA et al., 2021, p. 279–280).
-
-![DECIDE](../img/ReferenciaLivro/DECIDE.png)
-<div style="text-align: left">
-<p>Imagem 2: Framewordk DECIDE (Fonte: BARBOSA et al. (2021, p. 280)).</p>
-</div>
+O Framework DECIDE foi proposto por Preece et al. (2002) para orientar o planejamento, a execução e a análise de avaliações de IHC. Suas atividades são interligadas e executadas de forma iterativa: quando o avaliador identifica a necessidade de ajustar os rumos da avaliação, as demais atividades são afetadas em cadeia (BARBOSA et al., 2021, p. 279–280).[²](#imagem2)
 
 | **Letra** | **Etapa** | **Descrição** |
 |:---------:|:----------|:--------------|
@@ -66,12 +57,7 @@ A questão fundamental de qualquer avaliação de IHC é definir quais são seus
 2. **Identificar problemas na interação e na interface** — detectar inconsistências, lacunas ou representações inadequadas no modelo de tarefas que possam comprometer a qualidade da solução de IHC projetada.
 3. **Verificar a conformidade com padrões** — avaliar se a análise de tarefas segue as convenções e os métodos estabelecidos, garantindo coerência e alinhamento com o contexto de uso.
 
-Esses objetivos são relevantes para a equipe de design pois, ao validar a análise de tarefas com usuários reais, é possível identificar precocemente falhas de modelagem antes que estas se propaguem para etapas mais custosas do processo de design.
-
-![PerguntasIHC](../img/ReferenciaLivro/ExemploPerguntaIHC.png)
-<div style="text-align: left">
-<p>Imagem 3: Exemplos de perguntas (Fonte: BARBOSA et al. (2021, p. 266)).</p>
-</div>
+Esses objetivos são relevantes para a equipe de design pois, ao validar a análise de tarefas com usuários reais, é possível identificar precocemente falhas de modelagem antes que estas se propaguem para etapas mais custosas do processo de design.[³](#imagem3)
 
 ---
 
@@ -102,12 +88,7 @@ Para cada objetivo definido, foram elaboradas perguntas específicas que operaci
 
 O método de avaliação selecionado é a **entrevista semiestruturada**. A escolha se deve à capacidade desse método de extrair percepções aprofundadas e detalhadas diretamente dos participantes, permitindo ao entrevistador explorar respostas inesperadas e aprofundar tópicos relevantes que surjam durante a conversa. Segundo Barbosa et al. (2021, p. 280), o avaliador deve escolher os métodos mais adequados para responder às perguntas e atingir os objetivos esperados, levando em conta prazo, orçamento, equipamentos disponíveis e o grau de conhecimento dos avaliadores.
 
-A entrevista é especialmente adequada para a avaliação da análise de tarefas, pois permite verificar se o modelo elaborado pela equipe corresponde à realidade dos usuários — algo que métodos sem participação direta dos usuários não conseguem capturar. As entrevistas serão conduzidas com base no roteiro da seção anterior, sendo apresentado ao participante o modelo de tarefas para que ele possa comentar sobre sua clareza, correção e completude.
-
-![Comparação dos métodos de avaliação](../img/ReferenciaLivro/comparacaometodos.png)
-<div style="text-align: left">
-<p>Imagem 4: Comparação dos métodos de avaliação (Fonte: BARBOSA et al. (2021, p. 320)).</p>
-</div>
+A entrevista é especialmente adequada para a avaliação da análise de tarefas, pois permite verificar se o modelo elaborado pela equipe corresponde à realidade dos usuários — algo que métodos sem participação direta dos usuários não conseguem capturar. As entrevistas serão conduzidas com base no roteiro da seção anterior, sendo apresentado ao participante o modelo de tarefas para que ele possa comentar sobre sua clareza, correção e completude.[⁴](#imagem4)
 
 ---
 
@@ -122,12 +103,7 @@ Para esta avaliação da análise de tarefas, as metas de usabilidade priorizada
 - **Facilidade de aprendizado:** os modelos de tarefas devem ser compreensíveis por usuários sem formação técnica em IHC, de modo que os participantes consigam interpretar o fluxo representado sem necessidade de explicações extensas.
 - **Eficácia:** as tarefas modeladas devem representar com precisão os caminhos que levam o usuário a atingir seus objetivos, sem omissões ou desvios que comprometam a completude da análise.
 
-A razão para a seleção dessas metas é o estágio atual do projeto: a análise de tarefas é um artefato de modelagem que serve de base para decisões de design subsequentes. Falhas de compreensão ou de cobertura das tarefas nesta fase podem impactar toda a cadeia de design, tornando crítico validá-las com representantes reais do público-alvo antes de avançar.
-
-![Faixas de valores para indicadores de usabilidade](../img/ReferenciaLivro/faixasvalores.png)
-<div style="text-align: left">
-<p>Imagem 5: Faixas de valores para indicadores de usabilidade (Fonte: BARBOSA et al. (2021, p. 117)).</p>
-</div>
+A razão para a seleção dessas metas é o estágio atual do projeto: a análise de tarefas é um artefato de modelagem que serve de base para decisões de design subsequentes. Falhas de compreensão ou de cobertura das tarefas nesta fase podem impactar toda a cadeia de design, tornando crítico validá-las com representantes reais do público-alvo antes de avançar.[⁵](#imagem5)
 
 #### Perfil dos Participantes e Recrutamento
 
@@ -164,12 +140,7 @@ Sempre que usuários são envolvidos numa avaliação, o avaliador deve tomar os
 - **Transparência:** os objetivos da avaliação, os procedimentos a serem realizados, o tempo estimado e o uso que será feito das informações coletadas serão explicados ao participante antes do início da entrevista. Qualquer dúvida será prontamente esclarecida.
 - **Anonimato e confidencialidade:** os dados brutos serão acessíveis apenas aos membros da equipe de avaliação. Os resultados divulgados não conterão informações que identifiquem os participantes. Nomes fictícios ou identificadores numéricos serão utilizados nos relatos.
 - **Direito de retirada:** os participantes têm o direito de retirar seu consentimento e abandonar a avaliação em qualquer momento, sem qualquer penalização ou consequência negativa.
-- **Gravação:** qualquer gravação de voz ou imagem será realizada somente mediante autorização explícita do participante, registrada no TCLE.
-
-![Exemplo de Termo de Consentimento Livre e Esclarecido](../img/ReferenciaLivro/ExemploTermoConsentimento.png)
-<div style="text-align: left">
-<p>Imagem 6: Exemplo de Termo de Consentimento Livre e Esclarecido (Fonte: BARBOSA et al. (2021, p. 142)).</p>
-</div>
+- **Gravação:** qualquer gravação de voz ou imagem será realizada somente mediante autorização explícita do participante, registrada no TCLE.[⁶](#imagem6)
 
 ---
 
@@ -188,12 +159,7 @@ Os resultados consolidados serão apresentados em relatório contendo: os objeti
 
 ## Teste Piloto
 
-Antes da realização das entrevistas principais, será conduzido um **teste piloto**. O objetivo desse teste é avaliar o próprio planejamento e verificar se a avaliação, tal como planejada, produzirá os dados necessários para responder às questões e aos objetivos do estudo. O avaliador deve conduzir o teste piloto como se fosse uma sessão normal de avaliação (BARBOSA et al., 2021, p. 276).
-
-![Exemplo de teste piloto](../img/ReferenciaLivro/exemplotestepiloto.png)
-<div style="text-align: left">
-<p>Imagem 7: Exemplo de Teste Piloto (Fonte: BARBOSA et al. (2021, p. 276)).</p>
-</div>
+Antes da realização das entrevistas principais, será conduzido um **teste piloto**. O objetivo desse teste é avaliar o próprio planejamento e verificar se a avaliação, tal como planejada, produzirá os dados necessários para responder às questões e aos objetivos do estudo. O avaliador deve conduzir o teste piloto como se fosse uma sessão normal de avaliação (BARBOSA et al., 2021, p. 276).[⁷](#imagem7)
 
 Durante o teste piloto, serão verificados:
 
@@ -256,7 +222,9 @@ A tabela abaixo apresenta as questões de verificação aplicadas a este documen
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 18/05/2026 | 1.0 | Criação do documento | Tiago | Luvas |
 | 19/05/2026 | 1.1 | Adição das imagens | Lucas | Tiago |
-| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | Guilherme |
+| 23/05/2026 | 1.2 | Padronização do artefato | Tiago | Guilherme |
+| 23/05/2026 | 1.3 | Criando anexo para imagens| Guilherme | Maria Luana |
+
 
 <div style="text-align: left">
 <p>Tabela 7: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
@@ -267,3 +235,35 @@ A tabela abaixo apresenta as questões de verificação aplicadas a este documen
 ## Agradecimentos
 
 Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação do conteúdo segundo o Framework DECIDE, na formatação das tabelas, na organização das seções e na revisão da redação. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
+
+---
+
+## Anexos
+
+### Figura 1 — Elementos de um diagrama HTA
+![Elementos de um diagrama HTA](../img/ReferenciaLivro/elementosHTA.png) <a id="imagem1"></a> 
+Fonte: BARBOSA et al. (2021, p. 179).
+
+### Figura 2 — Framework DECIDE 
+![Framework DECIDE](../img/ReferenciaLivro/DECIDE.png) <a id="imagem2"></a> 
+Fonte: BARBOSA et al. (2021, p. 280).
+
+### Figura 3 — Exemplos de perguntas em avaliações de IHC
+![Exemplos de perguntas em avaliações de IHC](../img/ReferenciaLivro/ExemploPerguntaIHC.png) <a id="imagem3"></a>  
+Fonte: BARBOSA et al. (2021, p. 266).
+
+### Figura 4 — Comparação dos métodos de avaliação
+![Comparação dos métodos de avaliação](../img/ReferenciaLivro/comparacaometodos.png) <a id="imagem4"></a> 
+Fonte: BARBOSA et al. (2021, p. 320).
+
+### Figura 5 — Faixas de valores para indicadores de usabilidade
+![Faixas de valores para indicadores de usabilidade](../img/ReferenciaLivro/faixasvalores.png) <a id="imagem5"></a> 
+Fonte: BARBOSA et al. (2021, p. 117).
+
+### Figura 6 — Exemplo de Termo de Consentimento Livre e Esclarecido
+![Exemplo de Termo de Consentimento Livre e Esclarecido](../img/ReferenciaLivro/ExemploTermoConsentimento.png) <a id="imagem6"></a> 
+Fonte: BARBOSA et al. (2021, p. 142).
+
+### Figura 7 — Exemplo de Teste Piloto
+![Exemplo de Teste Piloto](../img/ReferenciaLivro/exemplotestepiloto.png) <a id="imagem7"></a> 
+Fonte: BARBOSA et al. (2021, p. 276).
