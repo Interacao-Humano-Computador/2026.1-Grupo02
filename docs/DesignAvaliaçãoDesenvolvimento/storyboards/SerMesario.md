@@ -66,7 +66,7 @@ Na figura 2, apresenta-se um storyboard no qual o usuário pesquisa os dados de 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 19/05/06 | 1.0 | Criação do documento de storyboard | Bryan | Tiago |
-| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | --- |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | Bryan |
 
 <div style="text-align: left">
 <p>Tabela 2: Histórico de Versão (Fonte: CAVALCANTE, Bryan, 2026).</p>
