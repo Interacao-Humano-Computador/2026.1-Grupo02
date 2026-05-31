@@ -140,7 +140,7 @@ Não foram registrados comentários espontâneos críticos ou sugestões não pr
 
 Ambas as tarefas avaliadas — **Emissão da 1ª via do Título de Eleitor** e **Transferência do Local de Votação** — foram validadas com êxito pelo participante. O participante compreendeu e avaliou positivamente todos os aspectos verificados: objetivos, operações, sequência de ações, nível de decomposição, decisões modeladas, conformidade com o método e elementos visuais. Nenhum problema estrutural foi identificado e nenhuma sugestão de melhoria foi levantada.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui para assistir à gravação</a></p>
+<p style="text-align: center"><a href="https://youtu.be/cdX21f932FE&t=2m33s" target="blanket">Clique aqui para assistir à gravação</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: Maria Luana, Guilherme.</p></font>
 
