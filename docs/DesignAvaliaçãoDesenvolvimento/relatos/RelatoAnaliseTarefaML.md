@@ -68,7 +68,7 @@ O participante se enquadra no [perfil de usuário](../analise-de-requisitos/perf
 <p>Tabela 3: Cronograma realizado da entrevista (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
 </div>
 
-Antes do início da entrevista, o participante foi informado sobre os objetivos da avaliação, os procedimentos, o tempo estimado e o uso das informações coletadas. O participante assinou o **Termo de Consentimento Livre e Esclarecido (TCLE)**, autorizando sua participação e a gravação da sessão, conforme os princípios éticos estabelecidos no planejamento e na Resolução Nº 466/2012 do Conselho Nacional de Saúde.
+Antes do início da entrevista, o participante foi informado sobre os objetivos da avaliação, os procedimentos, o tempo estimado e o uso das informações coletadas. O participante assinou o **Termo de Consentimento Livre e Esclarecido (TCLE)**, autorizando sua participação e a gravação da sessão, conforme os princípios éticos estabelecidos no planejamento.
 
 ---
 
@@ -198,8 +198,6 @@ Recomenda-se, como próximo passo, ampliar a avaliação com participantes de pe
 
 > BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
-> BRASIL. Conselho Nacional de Saúde. **Resolução Nº 466, de 12 de dezembro de 2012**. Disponível em: [https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: maio 2026.
-
 ---
 
 ## Histórico de Versão
@@ -207,6 +205,7 @@ Recomenda-se, como próximo passo, ampliar a avaliação com participantes de pe
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 31/05/2026 | 1.0 | Elaboração do relato dos resultados da avaliação da análise de tarefas | Maria Luana | Guilherme |
+| 31/05/2026 | 1.1 | Correção na bibliografia e no texto | Maria Luana | Guilherme |
 
 <div style="text-align: left">
 <p>Tabela 7: Histórico de Versão (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
