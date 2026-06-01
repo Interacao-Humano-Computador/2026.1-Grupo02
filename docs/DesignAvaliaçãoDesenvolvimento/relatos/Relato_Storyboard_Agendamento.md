@@ -8,6 +8,7 @@
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Lucas Fujimoto | Elaboração no resultados da avaliação da análise de tarefas para o agendamento presencial |
+| Luan | Revisão do documento |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
