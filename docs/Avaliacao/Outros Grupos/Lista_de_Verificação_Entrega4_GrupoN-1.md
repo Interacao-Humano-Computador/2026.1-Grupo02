@@ -1,14 +1,5 @@
 # Lista de Verificação — Entrega 4
-## Grupo 02 - Inspeção Grupo 01
-
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
-| 19/05/2026 | 1.1 | Respondida a lista do grupo n-1 | Lucas | Tiago |
+## Grupo 02
 
 ---
 
@@ -116,13 +107,22 @@ Os artefatos avaliados nesta entrega são: Storyboards, Planejamento da Avaliaç
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
 > KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
 
 > UNIVERSIDADE DE BRASÍLIA. **Plano de Ensino — Interação Humano-Computador**. Faculdade UnB Gama, 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
+| 19/05/2026 | 1.1 | Respondida a lista do grupo n-1 | Lucas | Tiago |
 
 ---
 

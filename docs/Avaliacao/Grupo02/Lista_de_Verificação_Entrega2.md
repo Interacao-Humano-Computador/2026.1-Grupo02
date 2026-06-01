@@ -3,14 +3,21 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação do documento | Tiago | Luan |
-| 03/05/2026 | 1.1 | Adição de nvos itens na lista | Guilherme | Maria Luana |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Tiago | Criação do Documento e Elaboração dos items E1,E2 |
+| Guiherme | Elaboração dos itens C17,C18,C19,C20 |
+| Luan | Elaboração dos itens E3,E4  |
+| Maria Luana | Elaboração dos itens E5,E6  |
+| Lucas Fujimoto | Elaboração dos itens E7,E8  |
+| Bryan | Elaboração dos itens E9,E10  |
+| Samuel | Elaboração dos itens C21,C22  |
 
-
+<div style="text-align: left">
+<p>Tabela 4: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
@@ -79,9 +86,6 @@ Os artefatos avaliados nesta entrega são: coleta de dados (entrevista, question
 | C21 | Personas | Foram estabelecidos os objetivos da persona de forma abrangente, extrapolando a interação direta com o produto? | | |
 | C22 | Personas | Foram detalhadas as habilidades e competências da persona, abrangendo sua formação e especialidade técnica? | | |
 
-
-
-
 <div style="text-align: left">
 <p>Tabela 2: Itens de conteúdo da disciplina — Entrega 2 (Fonte: autores, 2026).</p>
 </div>
@@ -111,29 +115,20 @@ Os artefatos avaliados nesta entrega são: coleta de dados (entrevista, question
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Tiago | Criação do Documento e Elaboração dos items E1,E2 |
-| Guiherme | Elaboração dos itens C17,C18,C19,C20 |
-| Luan | Elaboração dos itens E3,E4  |
-| Maria Luana | Elaboração dos itens E5,E6  |
-| Lucas Fujimoto | Elaboração dos itens E7,E8  |
-| Bryan | Elaboração dos itens E9,E10  |
-| Samuel | Elaboração dos itens C21,C22  |
-
-<div style="text-align: left">
-<p>Tabela 4: Tabela de contribuição (Fonte: autor, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
 > UNIVERSIDADE DE BRASÍLIA. **Plano de Ensino — Interação Humano-Computador**. Faculdade UnB Gama, 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Criação do documento | Tiago | Luan |
+| 03/05/2026 | 1.1 | Adição de nvos itens na lista | Guilherme | Maria Luana |
 
 ---
 
