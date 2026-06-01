@@ -1,0 +1,134 @@
+# Relato dos Resultados da Análise de Tarefas
+## Grupo 02
+
+---
+
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Bryan | Condução da sessão de avaliação, criação e redação do relato de resultados |
+|  | Revisão do relato dos resultados |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: SMITH, Bryan, 2026).</p>
+</div>
+
+---
+
+## Introdução
+
+Este artefato tem como objetivo documentar o relato dos resultados obtidos pela avaliação da Análise de Tarefas desenvolvida pelo grupo. A análise de tarefas foi elaborada para compreender o trabalho dos usuários, descrevendo suas atividades, passos e objetivos ao interagir com as funcionalidades do site do TSE (Tribunal Superior Eleitoral). A avaliação buscou verificar se os modelos produzidos estão em concordância com a realidade de uso, verificar a conformidade com as metodologias (HTA, GOMS, CTT) e identificar eventuais problemas na estruturação e sequenciamento dessas atividades.
+
+---
+
+## Resultados da Avaliação
+
+### Objetivo e Escopo da Avaliação
+
+A finalidade da avaliação foi verificar a apropriação da tecnologia pelos usuários, garantindo que as tarefas modeladas refletem adequadamente os objetivos reais e o contexto de uso, além de identificar falhas, lacunas, inconsistências na sequência de ações e verificar se os níveis de decomposição representavam bem a complexidade da interação proposta pela equipe de design.
+
+As modelagens de análise de tarefas apresentadas ao participante durante a avaliação correspondem às seguintes funcionalidades:
+
+- Agendamento presencial
+- Mesário voluntário
+- Justificar ausência eleitoral
+- Quitação de débito eleitoral
+- Alterar local de votação
+- Emitir título de eleitor
+- Comparação de gastos entre 2 candidatos
+
+### Método de Avaliação
+
+O método de avaliação escolhido foi a entrevista semiestruturada. Antes do início da entrevista, foi apresentado ao participante o Termo de Consentimento Livre e Esclarecido, no qual foram descritos o caráter voluntário da participação, a realização de gravação da sessão em vídeo/áudio e o direito incondicional de retirada do consentimento a qualquer momento. O participante concordou com os termos e consentiu em participar.
+
+A Tabela 2 exibe as informações da sessão de avaliação realizada.
+
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
+|:-------------:|:------------:|:-----------------:|:--------------:|:----:|:----------------:|
+| Bryan | Tiago Emanuel | 18:10 | 18:25 | 30/05/2026 | Residência do Entrevistador |
+
+<div style="text-align: left">
+<p>Tabela 2: Cronograma executado (Fonte: SMITH, Bryan, 2026).</p>
+</div>
+
+### Seleção dos Participantes
+
+O participante selecionado, Tiago Emanuel, foi escolhido com base no Perfil de Usuário anteriormente definido pelo grupo durante a análise de requisitos. O entrevistado demonstrou possuir um perfil compatível com o público-alvo do sistema, tendo familiaridade com o contexto de uso representado nos diagramas.
+
+### Problemas e Dificuldades Encontradas
+
+Durante a entrevista e na análise posterior dos resultados, não foi identificado nenhum problema grave de modelagem, falta de consistência ou lacunas nos diagramas (HTA, CTT e GOMS). O participante considerou a sequência das ações com uma lógica bastante clara e coerente, além de afirmar que as decisões e decomposições foram adequadas para o contexto avaliado.
+
+### Sugestões de Melhoria
+
+O participante não apresentou sugestões de melhoria ou alterações necessárias aos artefatos e diagramas propostos, destacando em sua fala que pelo que foi apresentado, os modelos de análise de tarefas estavam muito bem representados ("ficou bacana").
+
+### Feedback dos Usuários
+
+De modo geral, o feedback fornecido pelo participante foi bastante positivo. Ele demonstrou facilidade em compreender os diagramas e modelos propostos, destacando a clareza e a facilidade de entendimento das representações. O usuário sentiu-se confortável com as tarefas e relatou que a lógica das ações e decisões segue muito bem a realidade do contexto do sistema.
+
+### Análise e Interpretação dos Resultados
+
+A partir dos dados e respostas obtidas, é possível concluir que a modelagem da análise de tarefas foi bem executada pela equipe, apresentando validade ecológica e coerência. A ausência de problemas e o feedback positivo demonstram que o nível de decomposição das tarefas e as metodologias adotadas (HTA, GOMS, CTT) representaram fielmente a complexidade das interações, alinhando-se aos objetivos dos usuários.
+
+### Sumário dos Principais Resultados
+
+A Tabela 3 apresenta o sumário das perguntas elaboradas no planejamento e as respectivas respostas fornecidas pelo participante durante a sessão de avaliação.
+
+| Pergunta | Resposta |
+|:---------|:--------:|
+| Os objetivos das tarefas modeladas correspondem aos objetivos reais dos usuários ao utilizar o sistema? | Sim |
+| As operações descritas na análise de tarefas são compatíveis com a forma como os usuários realizam suas atividades na prática? | Sim |
+| O modelo de tarefas reflete adequadamente o contexto em que os usuários realizam suas atividades? | Sim |
+| A sequência das ações no modelo segue uma lógica clara e coerente com o fluxo real de uso? | Sim |
+| O nível de decomposição das tarefas é adequado para representar a complexidade das interações? | Sim |
+| O modelo identifica corretamente as decisões e alternativas que o usuário pode enfrentar durante a tarefa? | Sim |
+| O modelo de tarefas apresenta alguma falha grave na estruturação das atividades? | Não |
+| A análise de tarefas está de acordo com o método utilizado (HTA, GOMS ou CTT), sem inconsistências estruturais? | Sim |
+| Os elementos visuais e simbólicos do modelo seguem as convenções do método adotado? | Sim |
+| Você teria alguma sugestão de melhoria para as tarefas modeladas? | Nenhuma sugestão (Não) |
+
+<div style="text-align: left">
+<p>Tabela 3: Sumário de perguntas — Avaliação da Análise de Tarefas (Fonte: SMITH, Bryan, 2026).</p>
+</div>
+
+A gravação da sessão deve está disponibilizada abaixo:
+
+<p style="text-align: center"><a href="https://youtu.be/sWx91wgFd78" target="blanket">Clique aqui para assistir à gravação</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: SMITH, Bryan, 2026.</p></font>
+
+### Teste Piloto
+
+O teste piloto foi realizado antes da avaliação. Foi feito com o proposito de checar se o equipamento utilizado estava em condições de funcionamento, como a camera e a luz para iluminação e se as perguntas estavam claras para serem feitas ao entrevistado.
+
+A gravação do Teste Piloto está disponibilizada abaixo:
+
+<p style="text-align: center"><a href="https://youtu.be/Y6mcnouhMbI" target="blanket">Clique aqui para assistir à gravação</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: SMITH, Bryan, 2026.</p></font>
+
+### Planejamento de Reprojeto
+
+Dadas as respostas coletadas na avaliação, os resultados positivos de validação do participante e a total ausência de problemas e sugestões levantadas, não há necessidade de reprojeto para a modelagem da análise de tarefas (HTA, GOMS e CTT) avaliada nesta iteração. Todos os artefatos podem ser mantidos e considerados validados para sua versão atual, e prontos para as etapas seguintes do design de interação.
+
+---
+
+## Bibliografia
+
+> BARBOSA, Simone et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação — Leanpub, 2021.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 31/05/2026 | 1.0 | Criação do documento | Bryan |  |
+
+---
+
+## Agradecimentos
+
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para estruturar o documento conforme o modelo obrigatório do grupo, formatar as tabelas de cronograma e sumário de perguntas, e auxiliar na redação do relato a partir da transcrição da entrevista realizada com o participante Davi Carneiro. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
