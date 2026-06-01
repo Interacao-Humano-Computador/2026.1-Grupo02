@@ -8,7 +8,7 @@
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Maria Luana | Participação na entrevista e elaboração do relato dos resultados da análise de tarefas |
-| Guilherme | Criação do documento, realização da entrevista e análise do relato |
+| Guilherme | Realização da entrevista |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
@@ -207,6 +207,8 @@ Recomenda-se, como próximo passo, ampliar a avaliação com participantes de pe
 | 31/05/2026 | 1.0 | Elaboração do relato dos resultados da avaliação da análise de tarefas | Maria Luana | Guilherme |
 | 31/05/2026 | 1.1 | Correção na bibliografia e no texto | Maria Luana | Guilherme |
 | 31/05/2026 | 1.2 | Padronização da tabela de respostas e tabela de contribuição | Maria Luana | Guilherme |
+| 31/05/2026 | 1.3 | Correção da tabela de contribuição | Guilherme | Maria Luana |
+
 
 <div style="text-align: left">
 <p>Tabela 7: Histórico de Versão (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
