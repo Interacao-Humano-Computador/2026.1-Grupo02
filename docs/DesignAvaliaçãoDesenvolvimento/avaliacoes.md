@@ -31,7 +31,7 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_03.md) |
 | 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_04.md) |
 | 5 | Relato da Avaliação 06 e 07 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_06-07.md) |
-| 6 | Relato da Avaliação 07 | [Acessar](Avaliacoes/Relato_Avaliacao_AnaliseTarefas_07.md) |
+| 6 | Relato da Avaliação 08 | [Acessar](Avaliacoes/Relato_Avaliacao_AnaliseTarefas_07.md) |
 
 <div style="text-align: left">
 <p>Tabela 2: Índice de relatos da avaliação da Análise de Tarefas (Fonte: Autores, 2026).</p>
@@ -47,7 +47,7 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_Storyboard_02.md) |
 | 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_Storyboard_03.md) |
 | 4 | Relato da Avaliação 06 e 07 | [Acessar](Avaliacoes/Relato_Avaliacao_Storyboard_06-07.md) |
-| 5 | Relato da Avaliação 07 | [Acessar](Avaliacoes/Relato_Avaliacao_StoryBoard_07.md) |
+| 5 | Relato da Avaliação 08 | [Acessar](Avaliacoes/Relato_Avaliacao_StoryBoard_07.md) |
 
 <div style="text-align: left">
 <p>Tabela 3: Índice de relatos da avaliação dos Storyboards (Fonte: Autores, 2026).</p>
@@ -65,7 +65,9 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 31/05/2026 | 1.0 | Criação do documento de índice de avaliações | Tiago | A definir |
+| 31/05/2026 | 1.0 | Criação do documento de índice de avaliações | Tiago | Guilherme |
+| 31/05/2026 | 1.1 | Correção da numeração | Tiago | Guilherme |
+
 
 <div style="text-align: left">
 <p>Tabela 4: Histórico de Versão (Fonte: SOUSA, Tiago, 2026).</p>
