@@ -37,17 +37,17 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 
 | Nº | Questão | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação |
 |:--:|:--------|:---------------------------------:|:--------------------------------:|
-| 1 | O histórico de versão está padronizado? | | |
-| 2 | O(s) autor(es) e o(s) revisor(es) estão indicados em cada artefato? | | |
-| 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? | | |
-| 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | | |
-| 5 | Há um texto de introdução em todos os artefatos? | | |
-| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | | |
-| 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | | |
-| 8 | A gravação da reunião do grupo está disponível e acessível? | | |
-| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | | |
-| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | | |
-| 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | | |
+| 1 | O histórico de versão está padronizado? | Sim | 1.0 |
+| 2 | O(s) autor(es) e o(s) revisor(es) estão indicados em cada artefato? | Sim | 1.0 |
+| 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? | Sim | 1.0 |
+| 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | Sim | 1.0 |
+| 5 | Há um texto de introdução em todos os artefatos? | Sim | 1.0 |
+| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | Incompleto | 1.0 |
+| 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | Sim | 1.0 |
+| 8 | A gravação da reunião do grupo está disponível e acessível? | Sim  | 1.0 |
+| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | Sim | 1.0 |
+| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | Sim | 1.0 |
+| 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | Sim | 1.0 |
 
 <div style="text-align: left">
 <p>Tabela 2: Itens do desenvolvimento do projeto (Fonte: Plano de Ensino da Disciplina, 2026).</p>
@@ -61,16 +61,16 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 
 | Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
 |:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
-| L1 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato descreve os objetivos da avaliação e uma breve explicação do método empregado? | p. 298 | | | Tiago |
-| L2 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato apresenta detalhes sobre o número, características e perfil dos participantes e avaliadores envolvidos? | p. 298 | | | Tiago |
-| L3 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato consolida e lista todos os dados, comportamentos observados ou problemas encontrados durante a execução da avaliação? | p. 298 | | | Tiago |
-| L4 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O documento apresenta indicações, propostas e sugestões para melhorias no sistema ou no design com base nos dados analisados? | p. 298 | | | Tiago |
-| L5 | Planejamento da Avaliação do Protótipo de Papel | O planejamento utiliza o framework DECIDE (ou outra estrutura análoga de IHC) para guiar a condução do estudo de forma iterativa? | p. 279 | | | Guilherme |
-| L6 | Planejamento da Avaliação do Protótipo de Papel | O planejamento descreve com clareza as perguntas específicas que a avaliação pretende responder (passo E do DECIDE)? | p. 280 | | | Luan |
-| L7 | Planejamento da Avaliação do Protótipo de Papel | O planejamento aborda questões práticas, identificando equipamentos necessários, cenários de tarefas, papéis (ex: computador humano, observador) e cronogramas? | p. 282 | | | Maria Luana |
-| L8 | Planejamento da Avaliação do Protótipo de Papel | O planejamento prevê a realização de um teste piloto prévio para ajustar o processo antes das sessões principais? | p. 283 | | | Lucas Fujimoto |
-| L9 | Planejamento da Avaliação do Protótipo de Papel | O planejamento orienta a equipe sobre a preparação das telas em papel e dos componentes adicionais dinâmicos necessários para o uso do método? | p. 317 | | | Bryan |
-| L10| Planejamento do Relato (Protótipo de Papel) | O planejamento do relato prevê a contextualização da avaliação, a consolidação dos problemas observados e as sugestões de reprojeto? | p. 298 | | | Samuel |
+| L1 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato descreve os objetivos da avaliação e uma breve explicação do método empregado? | p. 298 | Sim | 1.0 | Tiago |
+| L2 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato apresenta detalhes sobre o número, características e perfil dos participantes e avaliadores envolvidos? | p. 298 | Sim | 1.0 | Tiago |
+| L3 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato consolida e lista todos os dados, comportamentos observados ou problemas encontrados durante a execução da avaliação? | p. 298 | Sim | 1.0 | Tiago |
+| L4 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O documento apresenta indicações, propostas e sugestões para melhorias no sistema ou no design com base nos dados analisados? | p. 298 | Sim | 1.0 | Tiago |
+| L5 | Planejamento da Avaliação do Protótipo de Papel | O planejamento utiliza o framework DECIDE (ou outra estrutura análoga de IHC) para guiar a condução do estudo de forma iterativa? | p. 279 | Sim | 1.0 | Guilherme |
+| L6 | Planejamento da Avaliação do Protótipo de Papel | O planejamento descreve com clareza as perguntas específicas que a avaliação pretende responder (passo E do DECIDE)? | p. 280 | Sim | 1.0 | Luan |
+| L7 | Planejamento da Avaliação do Protótipo de Papel | O planejamento aborda questões práticas, identificando equipamentos necessários, cenários de tarefas, papéis (ex: computador humano, observador) e cronogramas? | p. 282 | Sim | 1.0 | Maria Luana |
+| L8 | Planejamento da Avaliação do Protótipo de Papel | O planejamento prevê a realização de um teste piloto prévio para ajustar o processo antes das sessões principais? | p. 283 | Sim | 1.0 | Lucas Fujimoto |
+| L9 | Planejamento da Avaliação do Protótipo de Papel | O planejamento orienta a equipe sobre a preparação das telas em papel e dos componentes adicionais dinâmicos necessários para o uso do método? | p. 317 | Sim | 1.0 | Bryan |
+| L10| Planejamento do Relato (Protótipo de Papel) | O planejamento do relato prevê a contextualização da avaliação, a consolidação dos problemas observados e as sugestões de reprojeto? | p. 298 | Sim | 1.0 | Samuel |
 
 <div style="text-align: left">
 <p>Tabela 3: Itens com base na literatura (Fonte: autores, 2026).</p>
@@ -90,7 +90,8 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 31/05/2026 | 1.0 | Criação do documento | Tiago | A definir |
+| 31/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
+| 31/05/2026 | 1.0 | Preenchimento da lista | Lucas | Tiago| 
 
 ---
 
