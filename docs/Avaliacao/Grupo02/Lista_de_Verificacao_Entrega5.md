@@ -42,7 +42,7 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 | 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? | Sim | 1.0 |
 | 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | Sim | 1.0 |
 | 5 | Há um texto de introdução em todos os artefatos? | Sim | 1.0 |
-| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | Incompleto | 1.0 |
+| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | Sim | 1.1 |
 | 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | Sim | 1.0 |
 | 8 | A gravação da reunião do grupo está disponível e acessível? | Sim  | 1.0 |
 | 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | Sim | 1.0 |
@@ -91,7 +91,8 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 31/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
-| 31/05/2026 | 1.0 | Preenchimento da lista | Lucas | Tiago| 
+| 31/05/2026 | 1.1 | Preenchimento da lista | Lucas | Tiago| 
+| 31/05/2026 | 1.2 | Correção pós análise | Lucas | Samuel |
 
 ---
 
