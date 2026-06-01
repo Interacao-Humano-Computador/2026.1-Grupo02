@@ -24,7 +24,7 @@ Este artefato tem como objetivo documentar o relato dos resultados obtidos pela 
 
 ## Resultados da Avaliação
 
-### Objetivo e Âmbito da Avaliação
+### Objetivo e Escopo da Avaliação
 
 A finalidade da avaliação foi verificar a apropriação da tecnologia pelos usuários, garantindo que as tarefas modeladas refletem adequadamente os objetivos reais e o contexto de uso, além de identificar falhas, lacunas, inconsistências na sequência de ações e verificar se os níveis de decomposição representavam bem a complexidade da interação proposta pela equipe de design.
 
@@ -52,11 +52,27 @@ A Tabela 2 exibe as informações da sessão de avaliação realizada.
 <p>Tabela 2: Cronograma executado (Fonte: SOUSA, Tiago, 2026).</p>
 </div>
 
-### Seleção do Participante
+### Seleção dos Participantes
 
 O participante selecionado, Davi Carneiro, foi escolhido com base no Perfil de Usuário anteriormente definido pelo grupo durante a análise de requisitos. O entrevistado demonstrou possuir um perfil compatível com o público-alvo do sistema, tendo familiaridade com o contexto de uso representado nos diagramas.
 
-### Registro da Avaliação
+### Problemas e Dificuldades Encontradas
+
+Durante a entrevista e na análise posterior dos resultados, não foi identificado nenhum problema grave de modelagem, falta de consistência ou lacunas nos diagramas (HTA, CTT e GOMS). O participante considerou a sequência das ações com uma lógica bastante clara e coerente, além de afirmar que as decisões e decomposições foram adequadas para o contexto avaliado.
+
+### Sugestões de Melhoria
+
+O participante não apresentou sugestões de melhoria ou alterações necessárias aos artefatos e diagramas propostos, destacando em sua fala que pelo que foi apresentado, os modelos de análise de tarefas estavam muito bem representados ("ficou bacana").
+
+### Feedback dos Usuários
+
+De modo geral, o feedback fornecido pelo participante foi bastante positivo. Ele demonstrou facilidade em compreender os diagramas e modelos propostos, destacando a clareza e a facilidade de entendimento das representações. O usuário sentiu-se confortável com as tarefas e relatou que a lógica das ações e decisões segue muito bem a realidade do contexto do sistema.
+
+### Análise e Interpretação dos Resultados
+
+A partir dos dados e respostas obtidas, é possível concluir que a modelagem da análise de tarefas foi bem executada pela equipe, apresentando validade ecológica e coerência. A ausência de problemas e o feedback positivo demonstram que o nível de decomposição das tarefas e as metodologias adotadas (HTA, GOMS, CTT) representaram fielmente a complexidade das interações, alinhando-se aos objetivos dos usuários.
+
+### Sumário dos Principais Resultados
 
 A Tabela 3 apresenta o sumário das perguntas elaboradas no planejamento e as respectivas respostas fornecidas pelo participante durante a sessão de avaliação.
 
@@ -77,13 +93,11 @@ A Tabela 3 apresenta o sumário das perguntas elaboradas no planejamento e as re
 <p>Tabela 3: Sumário de perguntas — Avaliação da Análise de Tarefas (Fonte: SOUSA, Tiago, 2026).</p>
 </div>
 
-### Listagem de Problemas Encontrados
+A gravação da sessão deve está disponibilizada abaixo:
 
-Durante a entrevista e na análise posterior dos resultados, não foi identificado nenhum problema grave de modelagem, falta de consistência ou lacunas nos diagramas (HTA, CTT e GOMS). O participante considerou a sequência das ações com uma lógica bastante clara e coerente, além de afirmar que as decisões e decomposições foram adequadas para o contexto avaliado.
+<p style="text-align: center"><a href="https://youtu.be/0WF59HPVBRo?si=DQ7K763TxnIhI-ey" target="blanket">Clique aqui para assistir à gravação</a></p>
 
-### Sugestões de Melhoria
-
-O participante não apresentou sugestões de melhoria ou alterações necessárias aos artefatos e diagramas propostos, destacando em sua fala que pelo que foi apresentado, os modelos de análise de tarefas estavam muito bem representados ("ficou bacana").
+<font size="3"><p style="text-align: center">Fonte: SOUSA, Tiago, 2026.</p></font>
 
 ### Planejamento de Reprojeto
 

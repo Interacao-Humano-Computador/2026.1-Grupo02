@@ -24,7 +24,7 @@ Este artefato tem como objetivo documentar o relato dos resultados obtidos pela 
 
 ## Resultados da Avaliação
 
-### Objetivo e Âmbito da Avaliação
+### Objetivo e Escopo da Avaliação
 
 A finalidade da avaliação foi verificar a concordância entre os Storyboards desenvolvidos e o fluxo real de interações dos usuários com o site do TSE, ao mesmo tempo em que foram identificadas oportunidades de aprimoramento visando proporcionar representações mais eficientes e fiéis às tarefas dos usuários.
 
@@ -52,11 +52,27 @@ A Tabela 2 exibe as informações da sessão de avaliação realizada.
 <p>Tabela 2: Cronograma executado (Fonte: SOUSA, Tiago, 2026).</p>
 </div>
 
-### Seleção do Participante
+### Seleção dos Participantes
 
 O participante selecionado, Davi Carneiro, foi escolhido com base no Perfil de Usuário anteriormente definido pelo grupo. O entrevistado demonstrou familiaridade com tecnologia e perfil compatível com o público-alvo do sistema avaliado. A participação foi voluntária e precedida pela apresentação e assinatura do Termo de Consentimento.
 
-### Registro da Avaliação
+### Problemas e Dificuldades Encontradas
+
+Durante a entrevista e na análise posterior dos resultados, nenhum problema foi identificado nos storyboards avaliados. O participante considerou os artefatos claros, bem estruturados e condizentes com as funcionalidades representadas, afirmando que cada quadro contribui de forma clara para alcançar os objetivos descritos.
+
+### Sugestões de Melhoria
+
+O participante não apresentou sugestões de melhoria para os storyboards avaliados, destacando que a apresentação visual e a narrativa dos quadros estavam adequadas ao propósito de cada tarefa.
+
+### Feedback dos Usuários
+
+O feedback do participante sobre os storyboards foi muito positivo. Ele ressaltou que as narrativas foram bem construídas e fáceis de compreender. O entrevistado expressou que a visualização da jornada passo a passo foi eficaz para transmitir a intenção de cada interação, não havendo dificuldades ou confusões durante a leitura dos quadros.
+
+### Análise e Interpretação dos Resultados
+
+A partir da análise dos dados, nota-se que a elaboração dos storyboards foi bem sucedida. Como o participante não encontrou falhas de narrativa, transições ilógicas ou discrepâncias com o fluxo esperado, conclui-se que o grupo atingiu o objetivo de representar adequadamente o contexto de uso das funcionalidades, garantindo boa usabilidade e forte alinhamento com a realidade das tarefas propostas.
+
+### Sumário dos Principais Resultados
 
 A Tabela 3 apresenta o sumário das perguntas realizadas durante a avaliação dos storyboards e as respectivas respostas fornecidas pelo participante.
 
@@ -73,13 +89,13 @@ A Tabela 3 apresenta o sumário das perguntas realizadas durante a avaliação d
 <p>Tabela 3: Sumário de perguntas — Avaliação dos Storyboards (Fonte: SOUSA, Tiago, 2026).</p>
 </div>
 
-### Listagem de Problemas Encontrados
+A gravação da sessão deve está disponibilizada abaixo:
 
-Durante a entrevista e na análise posterior dos resultados, nenhum problema foi identificado nos storyboards avaliados. O participante considerou os artefatos claros, bem estruturados e condizentes com as funcionalidades representadas, afirmando que cada quadro contribui de forma clara para alcançar os objetivos descritos.
+<p style="text-align: center"><a href="https://youtu.be/0WF59HPVBRo?si=DQ7K763TxnIhI-ey" target="blanket">Clique aqui para assistir à gravação</a></p>
 
-### Sugestões de Melhoria
+<p style="text-align: center"><iframe width="560" height="315" src=""></iframe></p>
 
-O participante não apresentou sugestões de melhoria para os storyboards avaliados, destacando que a apresentação visual e a narrativa dos quadros estavam adequadas ao propósito de cada tarefa.
+<font size="3"><p style="text-align: center">Fonte: SOUSA, Tiago, 2026.</p></font>
 
 ### Planejamento de Reprojeto
 
