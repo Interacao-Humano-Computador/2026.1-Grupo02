@@ -8,7 +8,7 @@
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Bryan | Condução da sessão de avaliação, criação e redação do relato de resultados |
-|  | Revisão do relato dos resultados |
+| Luan | Revisão do relato dos resultados |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: SMITH, Bryan, 2026).</p>
@@ -83,7 +83,6 @@ A Tabela 3 apresenta o sumário das perguntas elaboradas no planejamento e as re
 | O modelo de tarefas reflete adequadamente o contexto em que os usuários realizam suas atividades? | Sim |
 | A sequência das ações no modelo segue uma lógica clara e coerente com o fluxo real de uso? | Sim |
 | O nível de decomposição das tarefas é adequado para representar a complexidade das interações? | Sim |
-| O modelo identifica corretamente as decisões e alternativas que o usuário pode enfrentar durante a tarefa? | Sim |
 | O modelo de tarefas apresenta alguma falha grave na estruturação das atividades? | Não |
 | A análise de tarefas está de acordo com o método utilizado (HTA, GOMS ou CTT), sem inconsistências estruturais? | Sim |
 | Os elementos visuais e simbólicos do modelo seguem as convenções do método adotado? | Sim |
@@ -125,7 +124,7 @@ Dadas as respostas coletadas na avaliação, os resultados positivos de validaç
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 31/05/2026 | 1.0 | Criação do documento | Bryan |  |
+| 31/05/2026 | 1.0 | Criação do documento | Bryan | Luan |
 
 ---
 
