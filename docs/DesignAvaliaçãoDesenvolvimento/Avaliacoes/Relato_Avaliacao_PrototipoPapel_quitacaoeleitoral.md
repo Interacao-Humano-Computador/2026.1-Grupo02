@@ -1,4 +1,4 @@
-# Relato dos Resultados do Storyboard
+# Relato dos Resultados do Protótipo de Papel
 ## Grupo 02
 
 ---
@@ -18,7 +18,7 @@
 
 ## Introdução
 
-Este artefato tem como objetivo documentar o relato dos resultados obtidos pela avaliação dos Storyboards desenvolvidos pelo grupo. Os storyboards foram elaborados para representar o fluxo de interação dos usuários com as funcionalidades do site do TSE (Tribunal Superior Eleitoral). A avaliação buscou verificar se os artefatos produzidos estão em concordância com a realidade de uso, além de identificar eventuais problemas e oportunidades de melhoria.
+Este artefato tem como objetivo documentar o relato dos resultados obtidos pela avaliação dos Protótipos de papel desenvolvidos pelo grupo. Os protótipos de papel foram elaborados para que o usuário simule a navegação da funcionalidade escolhida do site do TSE (Tribunal Superior Eleitoral). A avaliação buscou verificar se os artefatos produzidos estão em concordância com a realidade de uso, além de identificar eventuais problemas e oportunidades de melhoria.
 
 ---
 
@@ -26,17 +26,11 @@ Este artefato tem como objetivo documentar o relato dos resultados obtidos pela 
 
 ### Objetivo e Escopo da Avaliação
 
-A finalidade da avaliação foi verificar a concordância entre os Storyboards desenvolvidos e o fluxo real de interações dos usuários com o site do TSE, ao mesmo tempo em que foram identificadas oportunidades de aprimoramento visando proporcionar representações mais eficientes e fiéis às tarefas dos usuários.
+A finalidade da avaliação foi verificar a concordância entre os Protótipos de papel desenvolvidos e o fluxo real de interações dos usuários com o site do TSE, ao mesmo tempo em que foram identificadas oportunidades de aprimoramento visando proporcionar representações mais eficientes e fiéis às tarefas dos usuários.
 
-Os storyboards apresentados ao participante durante a avaliação correspondem às seguintes funcionalidades:
+O protótipo de papel apresentado a participante durante a avaliação correspondem à seguinte funcionalidades:
 
-- Agendamento presencial
-- Mesário voluntário
-- Justificar ausência eleitoral
 - Quitação de débito eleitoral
-- Alterar local de votação
-- Emitir título de eleitor
-- Comparação de gastos entre 2 candidatos
 
 ### Método de Avaliação
 
@@ -46,7 +40,7 @@ A Tabela 2 exibe as informações da sessão de avaliação realizada.
 
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim | Data | Local/Plataforma |
 |:-------------:|:------------:|:-----------------:|:--------------:|:----:|:----------------:|
-| Samuel Felipe | Kelly Fernandes | 14:30 | 15:00 | 30/05/2026 |  |
+| Samuel Felipe | Kelly Fernandes | 14:30 | 15:00 | 06/06/2026 |  |
 
 <div style="text-align: left">
 <p>Tabela 2: Cronograma executado (Fonte: SOUZA, Samuel Felipe, 2026).</p>
@@ -58,35 +52,37 @@ A participante selecionada, Kelly Fernandes, foi escolhida com base no Perfil de
 
 ### Problemas e Dificuldades Encontradas
 
-Durante a entrevista e na análise posterior dos resultados, nenhum problema foi identificado nos storyboards avaliados. A participante considerou os artefatos claros, bem estruturados e condizentes com as funcionalidades representadas, afirmando que cada quadro contribui de forma clara para alcançar os objetivos descritos.
+Durante a entrevista e na análise posterior dos resultados, nenhum problema foi identificado no protótipo de papel avaliado. A participante considerou os artefatos claros, bem estruturados e condizentes com as funcionalidades representadas, afirmando que cada quadro contribui de forma clara para alcançar os objetivos descritos.
 
 ### Sugestões de Melhoria
 
-A participante não apresentou sugestões de melhoria para os storyboards avaliados, destacando que a apresentação visual e a narrativa dos quadros estavam adequadas ao propósito de cada tarefa.
+A participante  apresentou sugestões de melhoria para o protótipo de papel avaliado, indicando que falta orientações visiveis sobre qual certidão foi emitida.
 
 ### Feedback dos Usuários
 
-O feedback da participante sobre os storyboards foi positivo. Ela ressaltou que as narrativas foram bem construídas e fáceis de compreender, expressando que a visualização da jornada passo a passo foi eficente em transmitir a intenção de cada interação, não havendo dificuldades durante a leitura dos quadros.
+O feedback da participante sobre o protótipo de papel foi positivo. Ela ressaltou que os protótipos das interfaces foram bem construídas e fáceis de compreender, expressando que a visualização da jornada passo a passo foi eficente em transmitir a intenção de cada interação, não havendo dificuldades durante a leitura dos quadros.
 
 ### Análise e Interpretação dos Resultados
 
-A partir da análise dos dados, nota-se que a elaboração dos storyboards foi bem sucedida. Como a participante não encontrou falhas de narrativa, transições ilógicas ou discrepâncias com o fluxo esperado, conclui-se que o grupo atingiu o objetivo de representar adequadamente o contexto de uso das funcionalidades, garantindo boa usabilidade e forte alinhamento com a realidade das tarefas propostas.
+A partir da análise dos dados, nota-se que a elaboração do protótipo de papel foi bem sucedida. Como a participante não encontrou falhas de navegação, transições ilógicas ou discrepâncias com o fluxo esperado, conclui-se que o grupo atingiu o objetivo de representar adequadamente o contexto de uso das funcionalidades, garantindo boa usabilidade e forte alinhamento com a realidade das tarefas propostas.
 
 ### Sumário dos Principais Resultados
 
-A Tabela 3 apresenta o sumário das perguntas realizadas durante a avaliação dos storyboards e as respectivas respostas fornecidas pela participante.
+A Tabela 3 apresenta o sumário das perguntas realizadas durante a avaliação do protótipo de papel e as respectivas respostas fornecidas pela participante.
 
 | Pergunta | Resposta |
-|:---------|:--------:|
-| O storyboard é claro e fácil de entender? | Sim |
-| Os elementos visuais do storyboard ajudam a transmitir a mensagem da interação? | Sim |
-| As transições entre os quadros estão coerentes e seguem uma lógica narrativa? | Sim |
-| O storyboard apresenta alguma falha grave na narrativa ou no design dos quadros? | Não |
-| O storyboard reflete bem os objetivos do projeto e o contexto de uso? | Sim |
-| Cada quadro contribui de forma clara para alcançar os objetivos definidos no projeto? | Sim |
+| :---------: | :--------: |
+| O usuário consegue operar o protótipo sem auxílio externo? | Sim |
+| Ele atinge seu objetivo? | Sim |
+| Com quanta eficiência? | Máxima |
+| Em quanto tempo? | 7 minutos |
+| Após cometer quantos erros? | 1 erro |
+| Que parte da interface e da interação o deixa insatisfeito ou o desmotiva a explorar novas funcionalidades? | Falta de indicação de qual certidão está sendo solicitada após página de autenticação. |
+| Foi entendido o que significa e para que serve cada elemento de interface? | Sim |
+| Qual problema pode dificultar ou impedir o usuário de alcançar seus objetivos? | Falta de orientação sobre os documentos que estão sendo solicitados. |
 
 <div style="text-align: left">
-<p>Tabela 3: Sumário de perguntas — Avaliação dos Storyboards (Fonte: SOUZA, Samuel Felipe, 2026).</p>
+<p>Tabela 3: Sumário de perguntas — Avaliação do Protótipo de papel (Fonte: SOUZA, Samuel Felipe, 2026).</p>
 </div>
 
 A gravação da sessão deve está disponibilizada abaixo:
