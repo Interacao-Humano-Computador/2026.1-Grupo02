@@ -3,17 +3,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 10/04/2026 | 1.0 | Criação do documento contendo as ferramentas | Maria Luana | Tiago Geovane |
-| 15/04/2026 | 1.1 | Correção das imagens das ferramentas | Lucas Fujimoto | Maria Luana|
-| 15/04/2026 | 1.2 | Adição de novas ferramentas e indicação das utilizadas em cada etapa | Maria Luana | Guilherme |
-| 15/04/2026 | 1.3 | Ajustando estrutura do documento e imagens | Tiago | Maria Luana |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -92,9 +81,10 @@ Durante a etapa 2 do projeto, foram utilizadas as seguintes ferramentas:
 
 - Outras ferramentas:
   - Github
+
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 GITHUB. **GitHub**. Disponível em: <https://github.com/>. Acesso em: 10 abr. 2026.
 
@@ -109,6 +99,18 @@ GOOGLE. **Google Sheets**. Disponível em: <https://www.google.com/sheets/about/
 GOOGLE. **Google Docs**. Disponível em: <https://www.google.com/docs/about/>. Acesso em: 10 abr. 2026.
 
 YOUTUBE. **YouTube**. Disponível em: <https://www.youtube.com/>. Acesso em: 10 abr. 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 10/04/2026 | 1.0 | Criação do documento contendo as ferramentas | Maria Luana | Tiago Geovane |
+| 15/04/2026 | 1.1 | Correção das imagens das ferramentas | Lucas Fujimoto | Maria Luana|
+| 15/04/2026 | 1.2 | Adição de novas ferramentas e indicação das utilizadas em cada etapa | Maria Luana | Guilherme |
+| 15/04/2026 | 1.3 | Ajustando estrutura do documento e imagens | Tiago | Maria Luana |
+| 23/05/2026 | 1.4 | Padronização do artefato conforme modelo | Tiago | - |
 
 ---
 

@@ -3,15 +3,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 15/04/2026 | 1.0 | Criação e padronização do documento de seleção do site | Samuel e Tiago Geovane | Guilherme |
-| 11/05/2026 | 1.1 | Ajustando estrutura do artefato de acordo com o modelo de artefato | Tiago | Samuel |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -132,6 +123,8 @@ Abaixo se encontra uma imagem (Imagem 1) que é contem uma print do livro de ond
 </div>
 **Imagem 1:** Heurísticas de Nielsen (Fonte: Barbosa et al. (2021, p. 282)).
 
+---
+
 ## Quadro-Resumo das Heurísticas
 
 | Heurística | Observação no Portal TSE/TRE | Funcionalidade Afetada | Status |
@@ -149,6 +142,7 @@ Abaixo se encontra uma imagem (Imagem 1) que é contem uma print do livro de ond
 > **Tabela 2:** Análise heurística do Portal TSE/TRE (Fonte: autores, 2026).
 
 ---
+
 ## Satisfação do Usuário
 
 A satisfação do usuário, conforme definida por Nielsen (1994c) e discutida por Barbosa et al. (2021, p. 37), refere-se à avaliação subjetiva do efeito do uso do sistema sobre as emoções e sentimentos do usuário. No contexto do portal TSE/TRE, essa satisfação é impactada de forma mista, refletindo tanto aspectos positivos quanto limitações identificadas na análise heurística.
@@ -174,7 +168,7 @@ Abaixo se encontra uma imagem (Imagem 2) que é contem uma print do livro que fa
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. *Interação Humano-Computador e Experiência do Usuário.* Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 
@@ -183,6 +177,16 @@ NIELSEN, J. *Usability Engineering.* San Francisco: Morgan Kaufmann, 1994c.
 NIELSEN, J. Heuristic evaluation. In: NIELSEN, J.; MACK, R. L. (Ed.). *Usability Inspection Methods.* New York: John Wiley & Sons, 1994b. p. 25–62.
 
 TRIBUNAL SUPERIOR ELEITORAL. *Portal do TSE.* Disponível em: https://www.tse.jus.br. Acesso em: abr. 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 15/04/2026 | 1.0 | Criação e padronização do documento de seleção do site | Samuel e Tiago Geovane | Guilherme |
+| 11/05/2026 | 1.1 | Ajustando estrutura do artefato de acordo com o modelo de artefato | Tiago | Samuel |
+| 23/05/2026 | 1.2 | Padronização do artefato conforme modelo | Tiago | - |
 
 ---
 

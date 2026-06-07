@@ -7,26 +7,14 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
+| Tiago  | Padronização do artefato |
 | Luan Ludry | Criação do documento de storyboard |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUZA, Luan, 2026).</p>
 </div>
 
 ---
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento de storyboard | Luan Ludry | Bryan Smith |
-
----
-
-<div style="text-align: left">
-<p>Tabela 2: Tabela de Histórico de Versão (Fonte: autor, 2026).</p>
-</div>
-
 
 ## Introdução
 
@@ -52,39 +40,43 @@ Cada storyboard contempla os seguintes elementos:
 
 Na figura 1, apresenta-se um storyboard no qual o usuário percebe que faltou à eleição e realiza a justificativa eleitoral online pelo portal do TSE, feito em papel.
 
-<center>
-
-**Figura 1** — Storyboard: [Justificativa Eleitoral Online]
-
 ![Justificativa Eleitoral storyboard feito no Papel](../../img/storyboard/JustificativaEleitoral_Papel.png)
 <div style="text-align: left">
-<p>Imagem 1: Storyboard — Justificativa Eleitoral Online feito no papel (Fonte: LUDRY, Luan, 2026).</p>
+<p>Imagem 1: Storyboard: [Justificativa Eleitoral Online] (Fonte: SOUZA, Luan, 2026).</p>
 </div>
-
-</center>
 
 Na figura 2, apresenta-se um storyboard no qual o usuário percebe que faltou à eleição e realiza a justificativa eleitoral online pelo portal do TSE, feito por um modelo de inteligência artificial.
 
-<center>
-
-**Figura 2** — Storyboard: [Justificativa Eleitoral Online]
-
 ![Justificativa Eleitoral storyboard feito por IA](../../img/storyboard/JustificativaEleitoral_IA.png)
 <div style="text-align: left">
-<p>Imagem 2: Storyboard — Justificativa Eleitoral Online feito por IA (Fonte: LUDRY, Luan, 2026).</p>
+<p>Imagem 2: Storyboard: [Justificativa Eleitoral Online] (Fonte: SOUZA, Luan, 2026).</p>
 </div>
-
-</center>
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
 
 > <a id="REF2" href="#anchor_2">2.</a> BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
 
 ---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/2026 | 1.0 | Criação do documento de storyboard | Luan Ludry | Bryan Smith |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | Luan |
+
+<div style="text-align: left">
+<p>Tabela 2: Histórico de Versão (Fonte: SOUZA, Luan, 2026).</p>
+</div>
+
+
+---
+
+
 
 ## Agradecimentos
 

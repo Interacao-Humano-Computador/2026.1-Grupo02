@@ -9,18 +9,9 @@
 |:----------:|:-------------|
 | Guilherme| Criação do artefato |
 
-
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
 </div>
-
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-|11/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
 
 ---
 
@@ -77,7 +68,6 @@ A seguir, são listadas as principais funcionalidades disponíveis no portal TSE
 - Emitir certidão de quitação eleitoral
 - Acessar notícias institucionais e calendário eleitoral
 - Navegar pelo mapa do site e utilizar atalhos de navegação
-  
 
 ---
 
@@ -100,39 +90,20 @@ Por meio da análise do código-fonte da página inicial do portal (opção "Vis
 
 ---
 
-## Características Positivas da Plataforma
-
-A seguir, são listadas as características positivas identificadas na plataforma:
-
-- O portal possui **design responsivo**, adaptando-se a diferentes tamanhos de tela, incluindo dispositivos móveis e tablets.
-- O portal é **compatível com os principais navegadores** do mercado (Chrome, Firefox, Edge, Safari, Opera), atendendo à exigência de alcance amplo de um serviço público.
-- Os fluxos do **Autoatendimento ao Eleitor** apresentam **indicadores de progresso**, mantendo o usuário informado sobre sua posição no processo.
-- Os formulários do Autoatendimento realizam **validação em tempo real** em campos críticos (como CEP, data de nascimento e número do título eleitoral), contribuindo para a prevenção de erros antes da submissão.
-- O portal faz uso de **ícones acompanhados de rótulos textuais**, facilitando o reconhecimento das funcionalidades sem exigir memorização por parte do usuário.
-- Estão disponíveis recursos de **acessibilidade** como mapa do site e atalhos de navegação para usuários com maior familiaridade tecnológica.
-- O portal não exige cadastro prévio para o acesso à maioria dos serviços de consulta, reduzindo a barreira de entrada para o cidadão.
-
----
-
-## Características Negativas da Plataforma
-
-A seguir, são listadas as características negativas identificadas na plataforma:
-
-- A **página inicial apresenta excesso de elementos visuais** (banners, notícias, alertas e atalhos sobrepostos), prejudicando o foco nas funcionalidades principais e aumentando a carga cognitiva do usuário.
-- O portal faz uso de **terminologia jurídico-eleitoral especializada** (como "domicílio eleitoral" e "certidão de quitação eleitoral") sem oferecer explicações acessíveis ao cidadão leigo, dificultando a compreensão.
-- Há **inconsistências visuais e estruturais entre os subportais** (TSE, TRE e DivulgaCandContas apresentam cores, menus e nomenclaturas distintas), aumentando a carga cognitiva e dificultando a orientação do usuário.
-- No módulo **DivulgaCandContas**, não há opção clara para limpar filtros aplicados, obrigando o usuário a reiniciar o fluxo para reverter seleções.
-- As **mensagens de erro são genéricas** e não indicam claramente a causa do problema nem orientam o usuário para a solução.
-- A **ajuda disponível não é contextualizada** dentro dos fluxos de uso, e a seção de perguntas frequentes não está integrada às tarefas em andamento.
-- A **usabilidade em dispositivos móveis** é prejudicada pela densidade de informações da interface, mesmo com o design responsivo presente.
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE**. Disponível em: [https://www.tse.jus.br](https://www.tse.jus.br). Acesso em: maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+|11/05/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

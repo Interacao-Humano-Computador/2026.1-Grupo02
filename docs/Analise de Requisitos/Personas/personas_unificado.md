@@ -4,14 +4,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 01/05/2026 | 1.0 | Criação do documento| Guilherme | Maria Luana |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -443,7 +435,7 @@ Este documento reúne as personas definidas pelo Grupo 02 a partir dos dados col
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 
@@ -452,6 +444,15 @@ Este documento reúne as personas definidas pelo Grupo 02 a partir dos dados col
 > TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE: Serviços ao Eleitor**. Disponível em: https://www.tse.jus.br. Acesso em: 02 maio 2026.
 
 > This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 01 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 01/05/2026 | 1.0 | Criação do documento| Guilherme | Maria Luana |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

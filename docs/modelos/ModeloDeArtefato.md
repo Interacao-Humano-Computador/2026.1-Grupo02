@@ -19,15 +19,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| DD/MM/AAAA | 1.0 | Criação do documento | Nome do Autor | Nome do Revisor |
-
----
-
-
 
 ## Introdução
 
@@ -43,10 +34,20 @@
 
 Conteúdo da subseção.
 
+> **Tabelas e imagens:** Todas as tabelas, imagens e outros objetos que serão inseridos devem possuir uma legenda no seguinte formato:
+
+<div style="text-align: left">
+<p>Tabela X:"DECRIÇÃO DA TABELA OU IMAGEM" (Fonte: autor, 2026).</p>
+</div>
+
+> **Tabelas e imagens:** Todas as tabelas, imagens e outros objetos que serão inseridos devem possuir uma legenda e o titulo da tabela "Tabela X" deve ser chamado no texto
+
+
+
 ---
 
 
-## Referência Bibliográfica
+## Bibliografia
 
 > **Instruções:** Liste todas as fontes consultadas na elaboração deste artefato, seguindo as normas da ABNT. Inclua livros, artigos, sites, normas técnicas e quaisquer outros materiais referenciados no texto. Caso nenhuma fonte externa tenha sido utilizada, mantenha a seção com a indicação "Não se aplica."
 
@@ -55,6 +56,15 @@ Conteúdo da subseção.
 > AUTOR. **Título do documento online**. Disponível em: [URL](URL). Acesso em: DD mês AAAA.
 
 ---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| DD/MM/AAAA | `1.X` | Criação do documento | Nome do Autor | Nome do Revisor |
+
+---
+
 
 ## Agradecimentos
 

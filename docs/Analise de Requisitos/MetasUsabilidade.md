@@ -5,7 +5,6 @@
 
 ## Tabela de Contribuição
 
-
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Lucas Fujimoto | Desenvolvimento das metas de usabilidade |
@@ -16,17 +15,11 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 11/05/2026 | 1.0 | Criação do documento | Lucas Fujimoto | Luan Ludry |
-
----
-
 ## Introdução
 
 As metas de usabilidade funcionam como critérios para avaliar se um produto interativo permite que o usuário alcance seus objetivos com eficácia, eficiência, segurança, utilidade, facilidade de aprendizado e memorização. Na literatura de IHC, elas ajudam a transformar características abstratas da usabilidade em perguntas concretas de avaliação. A análise a seguir aplica esse olhar ao portal do TSE, observando sua organização pública, os serviços disponíveis e os recursos de acessibilidade divulgados no site.
+
+---
 
 ## Metodologia
 
@@ -38,6 +31,7 @@ A metodologia escolhida foi separar em seis metas de usabilidade: eficácia, efi
 </div>
 
 ---
+
 ## Análise das Metas de Usabilidade
 
 A seguir, apresentamos uma análise detalhada das metas de usabilidade aplicadas ao portal do TSE, considerando os serviços existentes e as funcionalidades abordadas neste projeto.
@@ -99,11 +93,20 @@ Com base nas metas de usabilidade, o site do TSE pode ser considerado funcional 
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interação. Capítulo 1 O Que é Design de Interação?
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE – Serviços ao Eleitor**. Disponível em: [https://www.tse.jus.br](https://www.tse.jus.br). Acesso em: 02 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 11/05/2026 | 1.0 | Criação do documento | Lucas Fujimoto | Luan Ludry |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

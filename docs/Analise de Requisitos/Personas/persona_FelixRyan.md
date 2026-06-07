@@ -2,6 +2,10 @@
 
 ---
 
+## Grupo 02
+
+---
+
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -16,7 +20,6 @@
 <div style="text-align: left">
 <p>Imagem 1: Imagem do Felix Ryan (Fonte: This Person Doesn't Exist).</p>
 </div>
-
 
 *   **Identidade:** Felix Ryan, 35 anos, homem, casado. Mora em Brasília-DF e trabalha como servidor público no TCU. Possui graduação em Matemática.
 
@@ -41,14 +44,23 @@
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 >Imagem gerada no site This Person Doesn't Exist. Disponível em: https://this-person-does-not-exist.com/pt. Acesso em: 01 de maio. 2026. 
 
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
+
+---
 
 ## Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 03/05/2026 | 1.0 | Criação da persona  | Samuel Felipe |  |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
+
+---
+
+## Agradecimentos
+
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação e padronização do artefato. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; a IA atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.

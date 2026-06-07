@@ -1,1 +1,6 @@
 venv/
+refs/
+.antigrativycli/
+__pycache__/
+.antigravitycli/9369c231-c8e7-40da-9559-0ec13e381d49.json
+.venv/

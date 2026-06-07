@@ -11,26 +11,14 @@
 | Tiago | Criação inicial do artefato |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
-
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 18/05/2026 | 1.0 | Criação do documento | Tiago | --- |
-
----
 
 ## Introdução
 
-O planejamento de uma avaliação de Interação Humano-Computador (IHC) constitui etapa fundamental para garantir a qualidade e a eficácia dos artefatos produzidos ao longo do processo de design. Entre esses artefatos, o storyboard ocupa papel central na comunicação visual das ideias e fluxos de interação propostos pela equipe, representando, por meio de quadros sequenciais, como o usuário interage com o sistema em diferentes situações de uso.
+O planejamento de uma avaliação de Interação Humano-Computador (IHC) constitui etapa fundamental para garantir a qualidade e a eficácia dos artefatos produzidos ao longo do processo de design. Entre esses artefatos, o storyboard ocupa papel central na comunicação visual das ideias e fluxos de interação propostos pela equipe, representando, por meio de quadros sequenciais, como o usuário interage com o sistema em diferentes situações de uso.[¹](#imagem1)
 
 Este documento tem por objetivo planejar a avaliação do storyboard desenvolvido pelo Grupo 02, detalhando os objetivos da avaliação, as perguntas norteadoras, o método adotado, os critérios de seleção de participantes, o cronograma, os aspectos éticos envolvidos e o teste piloto. Para orientar esse planejamento de forma estruturada, adota-se o **Framework DECIDE**, proposto por Preece et al. (2002), amplamente utilizado em avaliações de IHC por sua capacidade de articular de forma iterativa todas as dimensões do planejamento avaliativo.
-
-> 📖 **Referência de imagem:** Inserir aqui figura ilustrativa de um storyboard — BARBOSA et al. (2021), Capítulo sobre Storyboards, p. 121 (índice remissivo).
 
 ---
 
@@ -38,9 +26,7 @@ Este documento tem por objetivo planejar a avaliação do storyboard desenvolvid
 
 ### O Framework DECIDE
 
-O Framework DECIDE foi proposto por Preece et al. (2002) para orientar o planejamento, a execução e a análise de avaliações de IHC. As atividades do framework são interligadas e executadas de forma iterativa, à medida que o avaliador articula os objetivos da avaliação, os dados e os recursos disponíveis. Quando o avaliador identifica a necessidade de modificar os rumos da avaliação, as demais atividades são afetadas em cadeia (BARBOSA et al., 2021, p. 279–280).
-
-> 📖 **Referência de imagem:** Inserir aqui figura esquemática do Framework DECIDE — BARBOSA et al. (2021), p. 280, Capítulo 11 (Planejamento da Avaliação de IHC).
+O Framework DECIDE foi proposto por Preece et al. (2002) para orientar o planejamento, a execução e a análise de avaliações de IHC. As atividades do framework são interligadas e executadas de forma iterativa, à medida que o avaliador articula os objetivos da avaliação, os dados e os recursos disponíveis. Quando o avaliador identifica a necessidade de modificar os rumos da avaliação, as demais atividades são afetadas em cadeia (BARBOSA et al., 2021, p. 279–280).[²](#imagem2)
 
 A tabela a seguir apresenta as etapas do framework e sua aplicação neste planejamento:
 
@@ -66,9 +52,7 @@ A avaliação do storyboard tem como objetivos gerais:
 1. **Verificar a apropriação da tecnologia** — avaliar se o storyboard representa adequadamente o contexto de uso e os objetivos do projeto, identificando se a narrativa visual comunica de forma eficaz a proposta de solução.
 2. **Identificar problemas de interação e interface** — detectar inconsistências, ambiguidades ou falhas na sequência narrativa do storyboard que possam comprometer a compreensão do fluxo de interação pelo usuário.
 
-Esses objetivos são importantes para a equipe de design, pois permitem validar as decisões tomadas até o momento antes de avançar para etapas de maior custo e esforço, como a prototipação de média ou alta fidelidade.
-
-> 📖 **Referência de imagem:** Inserir aqui tabela de objetivos de avaliação de IHC — BARBOSA et al. (2021), Capítulo 11, Tabela 11.1 (objetivos de avaliação de IHC e perguntas associadas).
+Esses objetivos são importantes para a equipe de design, pois permitem validar as decisões tomadas até o momento antes de avançar para etapas de maior custo e esforço, como a prototipação de média ou alta fidelidade.[³](#imagem3)
 
 ---
 
@@ -86,7 +70,7 @@ Para cada objetivo definido, foram elaboradas perguntas específicas que operaci
 | Apropriação da Tecnologia | Cada quadro contribui de forma clara para alcançar os objetivos definidos no projeto? | Sim / Não |
 
 <div style="text-align: left">
-<p>Tabela 3: Roteiro de perguntas da avaliação (Fonte: autor, 2026).</p>
+<p>Tabela 3: Roteiro de perguntas da avaliação (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -95,9 +79,7 @@ Para cada objetivo definido, foram elaboradas perguntas específicas que operaci
 
 O método de avaliação selecionado é a **entrevista**, por sua capacidade de extrair percepções aprofundadas diretamente dos participantes. Segundo Barbosa et al. (2021), o avaliador deve escolher os métodos mais adequados para responder às perguntas e atingir os objetivos esperados, considerando também o prazo, o orçamento, os equipamentos disponíveis e o grau de conhecimento dos avaliadores (p. 280).
 
-A entrevista é especialmente adequada para a avaliação de storyboards, pois permite compreender não apenas a performance técnica do material, mas também as percepções, as emoções e as expectativas do público envolvido no projeto. As entrevistas serão conduzidas de forma **semiestruturada**, com base no roteiro de perguntas apresentado na seção anterior, permitindo ao entrevistador aprofundar tópicos relevantes que surjam durante a conversa.
-
-> 📖 **Referência de imagem:** Inserir aqui figura ou tabela comparativa dos métodos de avaliação de IHC — BARBOSA et al. (2021), Capítulo 12, Subseção 12.2.4 (comparação dos métodos de avaliação).
+A entrevista é especialmente adequada para a avaliação de storyboards, pois permite compreender não apenas a performance técnica do material, mas também as percepções, as emoções e as expectativas do público envolvido no projeto. As entrevistas serão conduzidas de forma **semiestruturada**, com base no roteiro de perguntas apresentado na seção anterior, permitindo ao entrevistador aprofundar tópicos relevantes que surjam durante a conversa.[⁴](#imagem4)
 
 ---
 
@@ -114,15 +96,13 @@ Para esta avaliação do storyboard, as metas de usabilidade priorizadas são:
 - **Facilidade de aprendizado:** o storyboard deve comunicar o fluxo de interação de forma que qualquer participante compreenda a proposta sem necessidade de explicação prévia detalhada.
 - **Eficiência:** a narrativa visual deve permitir que o avaliador e o participante identifiquem rapidamente os pontos centrais da interação proposta.
 
-A razão da seleção dessas metas está diretamente relacionada ao estágio atual do projeto: como o storyboard é um artefato de baixa fidelidade voltado à comunicação de ideias, a facilidade de compreensão e a clareza da narrativa são os indicadores mais críticos a serem validados antes de avançar para etapas seguintes do design.
-
-> 📖 **Referência de imagem:** Inserir aqui figura com faixas de valores para indicadores de usabilidade — BARBOSA et al. (2021), p. 574, Figura 6.6 (Faixas de valores para indicadores de usabilidade).
+A razão da seleção dessas metas está diretamente relacionada ao estágio atual do projeto: como o storyboard é um artefato de baixa fidelidade voltado à comunicação de ideias, a facilidade de compreensão e a clareza da narrativa são os indicadores mais críticos a serem validados antes de avançar para etapas seguintes do design.[⁵](#imagem5)
 
 #### Recrutamento e Perfil dos Participantes
 
 Os participantes serão selecionados com base no [Perfil de Usuario](<../Analise de Requisitos/PerfilDeUsuario.md>) definido durante a análise de requisitos do projeto, priorizando indivíduos que representem o público-alvo do sistema. Serão recrutados **3 participantes** para as sessões de avaliação. Segundo Krug (apud BARBOSA et al., 2021), é possível identificar a maior parte dos problemas de usabilidade com três ou quatro participantes.
 
-Os critérios de seleção consideram: faixa etária compatível com o [Perfil de Usuario](<../Analise de Requisitos/PerfilDeUsuario.md>)  levantado, familiaridade com o contexto de uso representado no storyboard e disponibilidade de tempo para a entrevista. Sempre que possível, o avaliador deve evitar selecionar conhecidos próximos ou pessoas com quem possua relação que possa influenciar os dados coletados (BARBOSA et al., 2021, p. 277).
+Os critérios de seleção consideram: faixa etária compatível com o [Perfil de Usuario](<../Analise de Requisitos/PerfilDeUsuario.md>) levantado, familiaridade com o contexto de uso representado no storyboard e disponibilidade de tempo para a entrevista. Sempre que possível, o avaliador deve evitar selecionar conhecidos próximos ou pessoas com quem possua relação que possa influenciar os dados coletados (BARBOSA et al., 2021, p. 277).
 
 #### Equipamentos Necessários
 
@@ -140,7 +120,7 @@ Os critérios de seleção consideram: faixa etária compatível com o [Perfil d
 | Luan e Bryan | a definir | 12:40 | 13:00 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
-<p>Tabela 4: Cronograma das entrevistas (Fonte: autor, 2026).</p>
+<p>Tabela 4: Cronograma das entrevistas (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -155,9 +135,7 @@ Com base nos princípios éticos estabelecidos pela Resolução Nº 466/2012 do 
 - **Princípio da beneficência e não maleficência:** serão apresentados aos participantes os objetivos da avaliação, os procedimentos a serem realizados, o tempo estimado e o uso que será feito das informações coletadas. Qualquer dúvida será prontamente esclarecida.
 - **Confidencialidade e anonimato:** os dados brutos coletados serão compartilhados apenas entre os membros da equipe de avaliação. Os resultados divulgados não conterão informações que identifiquem os participantes.
 - **Direito de retirada:** os participantes têm o direito de retirar seu consentimento e abandonar o estudo em qualquer fase, sem qualquer penalização.
-- **Gravação:** qualquer gravação de voz ou imagem será realizada somente com autorização explícita do participante, registrada no TCLE.
-
-> 📖 **Referência de imagem:** Inserir aqui exemplo de Termo de Consentimento Livre e Esclarecido — BARBOSA et al. (2021), Capítulo 7, Exemplo 7.1 (Termo de Consentimento para realização de entrevista).
+- **Gravação:** qualquer gravação de voz ou imagem será realizada somente com autorização explícita do participante, registrada no TCLE.[⁶](#imagem6)
 
 ---
 
@@ -176,9 +154,7 @@ Os resultados serão consolidados por meio de análise interparticipante, buscan
 
 ## Teste Piloto
 
-Antes da realização das entrevistas principais, será conduzido um **teste piloto**. O objetivo desse teste é avaliar o próprio planejamento e verificar se a avaliação, tal como planejada, produzirá os dados necessários para responder às questões e aos objetivos do estudo (BARBOSA et al., 2021, p. 276).
-
-> 📖 **Referência de imagem:** Inserir aqui trecho ou diagrama sobre teste piloto — BARBOSA et al. (2021), p. 276–278, Capítulo 11 (subseção sobre Recrutamento de Participantes e Teste-Piloto).
+Antes da realização das entrevistas principais, será conduzido um **teste piloto**. O objetivo desse teste é avaliar o próprio planejamento e verificar se a avaliação, tal como planejada, produzirá os dados necessários para responder às questões e aos objetivos do estudo (BARBOSA et al., 2021, p. 276).[⁷](#imagem7)
 
 Durante o teste piloto, o avaliador conduzirá a sessão como se fosse uma entrevista normal, verificando:
 
@@ -189,7 +165,6 @@ Durante o teste piloto, o avaliador conduzirá a sessão como se fosse uma entre
 
 Os dados coletados no teste piloto serão **descartados**, pois podem estar contaminados por problemas identificados durante o próprio piloto. Caso problemas sejam detectados, o planejamento e os materiais de apoio serão corrigidos antes das entrevistas definitivas.
 
-
 ### Cronograma do Teste Piloto
 
 | **Avaliador(es)** | **Participante** | **Horário de Início** | **Horário de Fim** | **Data** | **Local** |
@@ -197,12 +172,7 @@ Os dados coletados no teste piloto serão **descartados**, pois podem estar cont
 | Guilherme | Luan | 11:30 | 11:50 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
-<p>Tabela 5: Cronograma do teste piloto (Fonte: autor, 2026).</p>
-</div>
-
-
-<div style="text-align: left">
-<p>Tabela 5: Cronograma do teste piloto (Fonte: autor, 2026).</p>
+<p>Tabela 5: Cronograma do teste piloto (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ### Gravação do Teste Piloto
@@ -211,17 +181,63 @@ Os dados coletados no teste piloto serão **descartados**, pois podem estar cont
 
 ---
 
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação — Leanpub, 2021.
 
 > BRASIL. Conselho Nacional de Saúde. **Resolução Nº 466, de 12 de dezembro de 2012**. Disponível em: [https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: DD mês 2026.
+
+> MIRO. **O que é um storyboard?**. Miro, [s.d.]. Disponível em: [https://miro.com/pt/storyboard/o-que-e-storyboard/](https://miro.com/pt/storyboard/o-que-e-storyboard/). Acesso em: 23 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 18/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
+| 19/05/2026 | 1.1 | Padronização do artefato | Tiago | Lucas |
+| 23/05/2026 | 1.2 | Criando anexo para imagens| Guilherme | Maria Luana |
+
+
+<div style="text-align: left">
+<p>Tabela 6: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
+</div>
 
 ---
 
 ## Agradecimentos
 
 Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação do conteúdo, formatação das tabelas, organização das seções segundo o Framework DECIDE e revisão da redação. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
+
+---
+
+## Anexos
+
+### Figura 1 — Definição de um Storyboard
+![Definição de um Storyboard](../img/ReferenciaLivro/Storyboard_Definicoes.png) <a id="imagem1"></a> 
+Fonte: Miro.
+
+### Figura 2 — Framework DECIDE
+![Framework DECIDE](../img/ReferenciaLivro/DECIDE.png) <a id="imagem2"></a> 
+Fonte: BARBOSA et al. (2021, p. 280).
+
+### Figura 3 — Exemplos de perguntas em avaliações de IHC
+![Exemplos de perguntas em avaliações de IHC](../img/ReferenciaLivro/ExemploPerguntaIHC.png) <a id="imagem3"></a> 
+Fonte: BARBOSA et al. (2021, p. 266).
+
+### Figura 4 — Comparação dos métodos de avaliação
+![Comparação dos métodos de avaliação](../img/ReferenciaLivro/comparacaometodos.png) <a id="imagem4"></a> 
+Fonte: BARBOSA et al. (2021, p. 320).
+
+### Figura 5 — Faixas de valores para indicadores de usabilidade
+![Faixas de valores para indicadores de usabilidade](../img/ReferenciaLivro/faixasvalores.png) <a id="imagem5"></a> 
+Fonte: BARBOSA et al. (2021, p. 117).
+
+### Figura 6 — Exemplo de Termo de Consentimento Livre e Esclarecido
+![Exemplo de Termo de Consentimento Livre e Esclarecido](../img/ReferenciaLivro/ExemploTermoConsentimento.png) <a id="imagem6"></a> 
+Fonte: BARBOSA et al. (2021, p. 142).
+
+### Figura 7 — Exemplo de Teste Piloto
+![Exemplo de Teste Piloto](../img/ReferenciaLivro/exemplotestepiloto.png) <a id="imagem7"></a> 
+Fonte: BARBOSA et al. (2021, p. 276).

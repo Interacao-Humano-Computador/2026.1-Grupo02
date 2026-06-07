@@ -3,12 +3,18 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 10/04/2026 | 1.0 | Criação do cronograma do projeto | Lucas Fujimoto | Luan Ludry |
-| 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | Luan Ludry |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Lucas Fujimoto | Elaboração do cronograma |
+| Luan Ludry | Revisão do documento |
+| Luan Ludry | Padronização do documento |
+| Demais integrantes | Apoio na definição das atividades |
+
+<div style="text-align: left">
+<p>Tabela 7: Tabela de contribuição (Fonte: autor, 2026).</p>
+</div>
 
 ---
 
@@ -89,7 +95,7 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Análise de tarefas | Início: 01/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Aspectos éticos | Início: 01/05<br>Fim: 03/05 | Guilherme | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Gravar vídeo de apresentação | Início: 01/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 03/05<br>Fim: 03/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
-| Correção após feedback |  |  |  |  |
+| Correção após feedback | Início: 03/05<br>Fim: 12/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 13/05<br>Fim: 13/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 
 <div style="text-align: left">
 <p>Tabela 4: Perfil do usuário (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -118,12 +124,12 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
-| Princípios gerais de projeto |  |  |  |  |
-| Metas de usabilidade |  |  |  |  |
-| Guia de estilo |  |  |  |  |
-| Características da plataforma |  |  |  |  |
-| Gravar vídeo de apresentação |  |  |  |  |
-| Correção após feedback |  |  |  |  |
+| Princípios gerais de projeto | Início: 10/05<br>Fim: 11/05 | Tiago e Luan| Início: 11/05<br>Fim: 11/05 | Tiago |
+| Metas de usabilidade | Início: Início: 10/05<br>Fim: 11/05 | Lucas e Bryan | Início: 11/05<br>Fim: 11/05 | Maria Luana e Lucas |
+| Guia de estilo | Início: 10/05<br>Fim: 11/05 | Guilherme e Maria Luana | Início: 11/05<br>Fim: 11/05 | Samuel |
+| Características da plataforma | Início: 10/05<br>Fim: 11/05 | Samuel | Início: 11/05<br>Fim: 11/05 | Guilherme |
+| Gravar vídeo de apresentação | Início: 11/05<br>Fim: 11/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 12/05<br>Fim: 12/05 | Luan |
+| Correção após feedback | Início: 15/05<br>Fim: 16/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 17/05<br>Fim: 18/05 | Bryan |
 
 <div style="text-align: left">
 <p>Tabela 6: Análise de requisitos (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -131,24 +137,76 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 
 ---
 
-## Tabela de Contribuição
+### Entrega 4 - Storyboard e planejamento (19/05)
 
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Lucas Fujimoto | Elaboração do cronograma |
-| Luan Ludry | Revisão do documento |
-| Luan Ludry | Padronização do documento |
-| Demais integrantes | Apoio na definição das atividades |
+#### Planejado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Planejamento da Avaliação do Storyboard | Início: 17/05<br>Fim: 18/05 | Lucas e Luan | Início: 18/05<br>Fim: 18/05 | Tiago |
+| Análise de tarefas | Início: 17/05<br>Fim: 18/05 | Bryan e Tiago | Início: 18/05<br>Fim: 18/05 | Maria Luana e Lucas |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 18/05 | Guilherme e Maria Luana | Início: 18/05<br>Fim: 18/05 | Samuel |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Início: 17/05<br>Fim: 18/05 | Samuel | Início: 18/05<br>Fim: 18/05 | Guilherme |
+| Gravar vídeo de apresentação | Início: 17/05<br>Fim: 18/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 18/05<br>Fim: 18/05 | Luan |Início: 21/05<br>Fim: 25/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 22/05<br>Fim: 22/05 | Bryan |
 
 <div style="text-align: left">
-<p>Tabela 7: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 7: Storyboard e planejamento (Fonte: FUJIMOTO, Lucas, 2026).</p>
 </div>
+
+#### Executado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Planejamento da Avaliação do Storyboard | Início: 17/05<br>Fim: 18/05 | Tiago e Lucas | Início: 18/05<br>Fim: 18/05 | Tiago |
+| Análise de tarefas | Início: 17/05<br>Fim: 18/05 | Bryan e Luan | Início: 18/05<br>Fim: 18/05 | Maria Luana e Lucas |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 18/05 | Guilherme e Maria Luana | Início: 18/05<br>Fim: 18/05 | Samuel |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Início: 17/05<br>Fim: 18/05 | Samuel | Início: 18/05<br>Fim: 18/05 | Guilherme |
+| Gravar vídeo de apresentação | Início: 17/05<br>Fim: 18/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 18/05<br>Fim: 18/05 | Luan |Início: 21/05<br>Fim: 25/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 22/05<br>Fim: 22/05 | Bryan |
+
+<div style="text-align: left">
+<p>Tabela 8: Storyboard e planejamento (Fonte: FUJIMOTO, Lucas, 2026).</p>
+</div>
+
+## Entrega 5 - Protótipo de papel - Data: 31/05
+
+#### Planejado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados do StoryBoard | Início: 20/05<br>Fim: 27/05 | Tiago | Início: 27/05<br>Fim: 28/05 | Maria Luana |
+| Relato dos resultados da Análise de tarefas | Início: 20/05<br>Fim: 27/05 | Guilherme e Lucas | Início: 27/05<br>Fim: 28/05 | Bryan e Samuel |
+| Planejamento da Avaliação do Protótipo de papel | Início: 20/05<br>Fim: 25/05 | Samuel e Luan | Início: 26/05<br>Fim: 27/05 | Guilherme e Maria Luana |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: 25/05<br>Fim: 29/05 | Bryan e Maria Luana | Início: 30/05<br>Fim: 30/05 | Luan e Lucas |
+| Gravar vídeo de apresentação | Início: 30/05<br>Fim: 30/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Luan |
+| Correção após feedback | Início: 03/06<br>Fim: 04/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 05/06<br>Fim: 06/06 | Samuel |
+
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Protótipo de papel (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+#### Executado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados do StoryBoard | Início: 29/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Relato dos resultados da Análise de tarefas | Início: 29/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Planejamento da Avaliação do Protótipo de papel |  Início: 29/05<br>Fim: 31/05| Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel |  Início: 29/05<br>Fim: 31/05| Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Gravar vídeo de apresentação | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Correção após feedback |   |  |  |  |
+
+## Bibliografia
+
+SALES, André Barros. **Plano de ensino da disciplina**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
 
 ---
 
-## Referência Bibliográfica
+## Histórico de Versão
 
-SALES, André Barros. **Plano de ensino da disciplina**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 10/04/2026 | 1.0 | Criação do cronograma do projeto | Lucas Fujimoto | Luan Ludry |
+| 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | Luan Ludry |
+| 23/05/2026 | 1.2 | Padronização do artefato conforme modelo | Tiago | Lucas |
+| 31/05/2026 | 1.3 | Ajuste nas entregas deletadas | Lucas | Bryan |
 
 ---
 

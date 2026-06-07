@@ -3,15 +3,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 10/04/2026 | 1.0 | Criação da lista de verificação original | Bryan Smith | Tiago |
-| 18/05/2026 | 1.1 | Padronização, inclusão completa dos itens do Plano de Ensino e itens de conteúdo com referência bibliográfica | Tiago | Bryan Smith |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -115,11 +106,20 @@ A lista reúne os critérios de avaliação das **Entregas 1**, organizados no s
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > SALES, André Barros. **Plano de Ensino da disciplina de Interação Humano-Computador**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
 
 > BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação, 2021. ISBN: 978-65-00-19677-1.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 10/04/2026 | 1.0 | Criação da lista de verificação original | Bryan Smith | Tiago |
+| 18/05/2026 | 1.1 | Padronização, inclusão completa dos itens do Plano de Ensino e itens de conteúdo com referência bibliográfica | Tiago | Bryan Smith |
 
 ---
 

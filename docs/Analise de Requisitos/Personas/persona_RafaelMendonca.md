@@ -4,11 +4,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 03/05/2026 | 1.0 | Criação da persona Rafael Mendonça Alves | Luan Ludry | — |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Luan Ludry | Criação da persona com base na atividade avaliativa de IHC |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
+</div>
 
 ---
 
@@ -93,23 +97,20 @@ Rafael acredita que um portal governamental deve funcionar como qualquer outro s
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Luan Ludry | Criação da persona com base na atividade avaliativa de IHC |
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autores, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Cap. 6, pp. 176–181.
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE – Serviços ao Eleitor**. Disponível em: https://www.tse.jus.br. Acesso em: 03 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 03/05/2026 | 1.0 | Criação da persona Rafael Mendonça Alves | Luan Ludry | — |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

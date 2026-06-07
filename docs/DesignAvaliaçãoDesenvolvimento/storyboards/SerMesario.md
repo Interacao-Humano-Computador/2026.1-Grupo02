@@ -2,30 +2,18 @@
 
 ---
 
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
+| Tiago  | Padronização do artefato |
 | Bryan | Criação do documento de storyboard |
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: CAVALCANTE, Bryan, 2026).</p>
 </div>
 
 ---
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/06 | 1.0 | Criação do documento de storyboard | Bryan | Tiago |
-
----
-<div style="text-align: left">
-<p>Tabela 2: Tabela de Histórico de Versão (Fonte: autor, 2026).</p>
-</div>
-
 
 ## Introdução
 
@@ -49,7 +37,7 @@ Cada storyboard contempla os seguintes elementos:
 
 ### Tarefa 1: Se voluntariar como Mesário
 
-Na figura 1, apresenta-se um storyboard no qual o usuario procura o espaço para se cadastrar como mesário 
+Na figura 1, apresenta-se um storyboard no qual o usuário procura o espaço para se cadastrar como mesário.
 
 
 
@@ -57,9 +45,10 @@ Na figura 1, apresenta-se um storyboard no qual o usuario procura o espaço para
 
 ![SerMesariostoryboardfeitonoPapel](../../img/storyboard/sermesario_PAPEL.jpeg)
 <div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
+<p>Imagem 1: Storyboard: [Se cadastrar para ser Mesário Voluntario] (Fonte: CAVALCANTE, Bryan, 2026).</p>
 </div>
 
+Na figura 2, apresenta-se um storyboard no qual o usuário pesquisa os dados de gastos e receita de dois candidatos para se informar e decidir em quem votar, feito por um modelo de inteligência artificial.
 
 <p>Fonte: <a href="https://github.com/Bryan70897">Bryan</a> (2026).</p>
 
@@ -73,7 +62,7 @@ Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 ![SerMesariostoryboardfeitoporIA](../../img/storyboard/sermesario_IA.jpeg)
 <div style="text-align: left">
-<p>Imagem 1: Referencia do livro (Fonte: ROGERS, Y.; SHARP, H.; PREECE, J.).</p>
+<p>Imagem 2: Storyboard: [Se cadastrar para ser Mesário Voluntario] (Fonte: CAVALCANTE, Bryan, 2026).</p>
 </div>
 
 <p>Fonte: <a href="https://github.com/Bryan70897">Bryan</a> (2026).</p>
@@ -82,11 +71,24 @@ Na figura 2, apresenta-se um storyboard no qual o usuario pesquisa os dados de g
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
-> <a id="REF1" href="#anchor_1">1.</a> KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
+> 1. KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
+> 2. BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/06 | 1.0 | Criação do documento de storyboard | Bryan | Tiago |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | Bryan |
+
+<div style="text-align: left">
+<p>Tabela 2: Histórico de Versão (Fonte: CAVALCANTE, Bryan, 2026).</p>
+</div>
 
 ---
 

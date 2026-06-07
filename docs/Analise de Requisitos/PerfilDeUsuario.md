@@ -3,19 +3,22 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
-| 02/05/2026 | 1.1 | Adicionando dados obtidos pela entrevista | Tiago | ------ |
-| 03/05/2026 | 1.2 | Adição parcial dos dados obtidos pela Análise de Documentos | Samuel Felipe | ----- |
-| 03/05/2026 | 1.3 | Adição dos dados obtidos pela Análise de Documentos | Bryan Smith| ----- |
-| 03/05/2026 | 1.4 | Adição dos dados obtidos pelo questionário | Guilherme| Maria Luana |
-| 03/05/2026 | 1.5 | Conslidação do perfil do usuário | Maria Luana | Guilherme |
-| 14/05/2026 | 1.6 | Inserção de planilhas, links e gráficos relacionados ao questionário | Maria Luana | Guilherme |
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Tiago | Criação da estrutura inicial do documento |
+| Tiago | Preenchimento parcial dos dados obtidos pela entrevista |
+| Samuel Felipe | Preenchimento parcial dos dados obitidos pela anásile de documentos |
+| Bryan Smith | Preenchimento dos dados obtidos pela Análise de documentos do TSE |
+| Guilherme | Participar da elaboração do questionario e adição de dados obtidos pelo questionário |
+| Maria Luana | Consolidação do perfil do usuário e participar da elaboração do questionário |
+| Luan | Participar da elaboração do questionario |
+| Lucas Fujimoto | Auxiliar na gravação da entrevista e anotação das respostas do entrevistado |
 
-
+<div style="text-align: left">
+<p>Tabela 5: Tabela de contribuição (Fonte: autores, 2026).</p>
+</div>
 
 ---
 
@@ -42,8 +45,6 @@ A entrevista é uma técnica qualitativa de coleta de dados que permite uma inve
 | 1 | 18-30 | Estudante de Engenharia de Software  | Ensino Superior Incompleto | Alta | Alta | [Video](https://www.youtube.com/watch?v=5bUXvwUHqDc) |
 | 2 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Nunca utilizou | Alta | [Video](https://www.youtube.com/watch?v=F9_WBQEnBqI) | 
 | 3 | 18-30 | Estudante de Engenharia de Software | Ensino Superior Incompleto | Média | Alta | [Video](https://youtu.be/MXrU4fCq7CE?si=AM6N78vQYXxWbihU) | 
-
-
 
 <div style="text-align: left">
 <p>Tabela 1: Perfil dos entrevistados (Fonte: autores, 2026).</p>
@@ -278,33 +279,27 @@ A consolidação dos dados das três técnicas aponta os seguintes pontos críti
 
 ---
 
-## Tabela de Contribuição
+## Bibliografia
 
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Tiago | Criação da estrutura inicial do documento |
-| Tiago | Preenchimento parcial dos dados obtidos pela entrevista |
-| Samuel Felipe | Preenchimento parcial dos dados obitidos pela anásile de documentos |
-| Bryan Smith | Preenchimento dos dados obtidos pela Análise de documentos do TSE |
-| Guilherme | Participar da elaboração do questionario e adição de dados obtidos pelo questionário |
-| Maria Luana | Consolidação do perfil do usuário e participar da elaboração do questionário |
-| Luan | Participar da elaboração do questionario |
-| Lucas Fujimoto | Auxiliar na gravação da entrevista e anotação das respostas do entrevistado |
-
-<div style="text-align: left">
-<p>Tabela 5: Tabela de contribuição (Fonte: autores, 2026).</p>
-</div>
+> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 ---
 
-## Referência Bibliográfica
+## Histórico de Versão
 
-> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 02/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
+| 02/05/2026 | 1.1 | Adicionando dados obtidos pela entrevista | Tiago | ------ |
+| 03/05/2026 | 1.2 | Adição parcial dos dados obtidos pela Análise de Documentos | Samuel Felipe | ----- |
+| 03/05/2026 | 1.3 | Adição dos dados obtidos pela Análise de Documentos | Bryan Smith| ----- |
+| 03/05/2026 | 1.4 | Adição dos dados obtidos pelo questionário | Guilherme| Maria Luana |
+| 03/05/2026 | 1.5 | Conslidação do perfil do usuário | Maria Luana | Guilherme |
+| 14/05/2026 | 1.6 | Inserção de planilhas, links e gráficos relacionados ao questionário | Maria Luana | Guilherme |
+| 23/05/2026 | 1.7 | Padronização do artefato | Tiago | - |
 
 ---
 
 ## Agradecimentos
 
 Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação do documento, formatação das tabelas e organização do conteúdo de acordo com o modelo estabelecido pelo grupo. Todo o conteúdo técnico — incluindo os dados coletados nas entrevistas, na análise de documentos e no questionário — e as decisões metodológicas foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.  
-
-

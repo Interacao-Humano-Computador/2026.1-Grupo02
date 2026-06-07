@@ -1,3 +1,5 @@
+markdown_extensions:
+  - md_in_html
 site_name: IHC - Grupo 02
 site_url: https://Interacao-Humano-Computador.github.io/2026.1-Grupo02
 repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo02
@@ -42,59 +44,115 @@ nav:
   - Análise de Requisitos:
       - Perfil de Usuário: Analise de Requisitos/PerfilDeUsuario.md
       - Aspectos Éticos: Analise de Requisitos/AspectosEticos.md
-      - Cenários: Analise de Requisitos/Cenario/cenario_unificado.md
+      - Cenários:
+          - Cenários: Analise de Requisitos/cenarios.md
+          - Cenários Individuais:
+              - Cenário Unificado: Analise de Requisitos/Cenario/cenario_unificado.md
+              - Cenário Agendamento: Analise de Requisitos/Cenario/cenario_agendamento.md
+              - Cenário Alterar Local de Votação: Analise de Requisitos/Cenario/cenario_alterarlocaldevotacao.md
+              - Cenário Certidão Quitação Eleitoral: Analise de Requisitos/Cenario/cenario_certidaoquitacaoeleitoral.md
+              - Cenário Emissão 1º Título: Analise de Requisitos/Cenario/cenario_emissao_1titulo.md
+              - Cenário Lucas Ferreira: Analise de Requisitos/Cenario/cenario_LucasFerreira.md
+              - Cenário Mesário: Analise de Requisitos/Cenario/cenario_mesario.md
+              - Cenário Rafael Mendonça: Analise de Requisitos/Cenario/cenario_RafaelMendonca.md
       - Personas:
-          - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
-          - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
-          - Persona 4: Analise de Requisitos/Personas/persona_karina.md
-          - Persona 5: Analise de Requisitos/Personas/persona_FelixRyan.md
-          - Persona 6: Analise de Requisitos/Personas/persona_fernanda.md
-          - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
-          - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
-          - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
+          - Personas: Analise de Requisitos/personas.md
+          - Personas Individuais:
+              - Personas Unificado: Analise de Requisitos/Personas/personas_unificado.md
+              - Persona 1: Analise de Requisitos/Personas/persona_LucasMendes.md
+              - Persona 3: Analise de Requisitos/Personas/persona_RafaelMendonca.md
+              - Persona 4: Analise de Requisitos/Personas/persona_karina.md
+              - Persona 5: Analise de Requisitos/Personas/persona_FelixRyan.md
+              - Persona 6: Analise de Requisitos/Personas/persona_fernanda.md
+              - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
+              - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
+              - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
       - Análise de Tarefas:
-          - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
-          - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
-          - Análise de Tarefas para se voluntariar a mesário: Analise de Requisitos/Analise de Tarefas/Mesario.md
-          - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
-          - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
-          - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
-          - Análise de Tarefas para justificativa eleitoral online: Analise de Requisitos/Analise de Tarefas/JustificativaEleitoral.md
+          - Análise de Tarefas: Analise de Requisitos/analise_de_tarefas.md
+          - Análises Individuais:
+              - Análise de Tarefas do comparativo de candidatos: Analise de Requisitos/Analise de Tarefas/ComparativoCandidatos.md
+              - Análise de Tarefas do agendamento presencial: Analise de Requisitos/Analise de Tarefas/AgendamentoPresencial.md
+              - Análise de Tarefas para se voluntariar a mesário: Analise de Requisitos/Analise de Tarefas/Mesario.md
+              - Análise de Tarefas para alterar local de votação: Analise de Requisitos/Analise de Tarefas/AlterarLocalVotacao.md
+              - Análise de Tarefas para certidão de quitação eleitoral: Analise de Requisitos/Analise de Tarefas/CertidaoQuitacaoEleitoral.md
+              - Análise de Tarefas para emissão de 1º título de eleitor: Analise de Requisitos/Analise de Tarefas/Emissao1Titulo.md
+              - Análise de Tarefas para justificativa eleitoral online: Analise de Requisitos/Analise de Tarefas/JustificativaEleitoral.md
       - Metas de Usabilidade: Analise de Requisitos/MetasUsabilidade.md
       - Características da Plataforma: Analise de Requisitos/caracteristicas.md
       - Princípios Gerais do Projeto: Analise de Requisitos/PrincipiosGerais.md
       - Guia de Estilo: Analise de Requisitos/GuiadeEstilo.md
   - Design, Avaliação e Desenvolvimento:
-      - Análise de Tarefas:
-          - Planejamento da Avaliação da Análise de Tarefas: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_da_Análise_de_Tarefas.md
-          - Planejamento do Relato dos Resultados da Avaliação: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_AnaliseTarefas.md
+      - Planejamento:
+          - Análise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_da_Análise_de_Tarefas.md
+              - Planejamento do Relato dos Resultados da Avaliação: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_AnaliseTarefas.md
+              - Avaliação da Análise de Tarefas:
+                  - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_01.md
+                  - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_02.md
+                  - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_03.md
+                  - Relato da Avaliação 04: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_04.md
+                  - Relato da Avaliação 05: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_AnaliseTarefas_07.md
+                  - Relato da Avaliação 06 e 07: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_06-07.md
+           
+          - Storyboard:
+              - Planejamento da Avaliação da Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Storyboard.md
+              - Planejamento do Relato dos Resultados da Avaliação do Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_StoryBoard.md
+              - Avaliações do Storyboard:
+                - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_01.md
+                - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_02.md
+                - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_03.md
+                - Relato da Avaliação 04: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_StoryBoard_07.md
+                - Relato da Avaliação 05 e 06: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_06-07.md
+          - Protótipo de Papel:
+              - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Protótipo_de_Papel.md
+              - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_Prototipo_Papel.md
+              - Avaliações do Protótipo de Papel:
+                - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoPapel_AlterarLocal.md
+                - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md
+      - Relatos de Avaliação: DesignAvaliaçãoDesenvolvimento/avaliacoes.md
+
+
+
+        
       - Storyboard:
-        - Planejamento:
-            - Planejamento da Avaliação da Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Storyboard.md
-            - Planejamento do Relato dos Resultados da Avaliação do Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_StoryBoard.md
-          - Storyboard Comparação de Candidatos: DesignAvaliaçãoDesenvolvimento/storyboards/ComparaçãoCand_StoryBoard.md
-          - Storyboard Ser Mesário: DesignAvaliaçãoDesenvolvimento/storyboards/SerMesario.md
-          - Storyboard Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/JustificativaEleitoral_StoryBoard.md
-          - Storyboard Certidão de Quitação Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/certidaoquitaçaoeleitor.md
-          - Storyboard Alterar Local de Votação: DesignAvaliaçãoDesenvolvimento/storyboards/alterarlocal.md
-          - Storyboard Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/storyboards/AgendamentoPres_StoryBoard.md
+          - Storyboards: DesignAvaliaçãoDesenvolvimento/storyboards.md
+          - Storyboards Individuais:
+              - Storyboard Comparação de Candidatos: DesignAvaliaçãoDesenvolvimento/storyboards/ComparaçãoCand_StoryBoard.md
+              - Storyboard Ser Mesário: DesignAvaliaçãoDesenvolvimento/storyboards/SerMesario.md
+              - Storyboard Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/JustificativaEleitoral_StoryBoard.md
+              - Storyboard Certidão de Quitação Eleitoral: DesignAvaliaçãoDesenvolvimento/storyboards/certidaoquitaçaoeleitor.md
+              - Storyboard Alterar Local de Votação: DesignAvaliaçãoDesenvolvimento/storyboards/alterarlocal.md
+              - Storyboard Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/storyboards/AgendamentoPres_StoryBoard.md
+              - Storyboard Emissão Primeiro Titulo: DesignAvaliaçãoDesenvolvimento/storyboards/Emissão1°Titulo.md
+      - Protótipo de Papel:
+              - Protótipo de Papel: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel.md
+              - Protótipos de Papel Individuais:
+                  - Protótipo de Papel Comparação de Candidatos: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
+                  - Protótipo de Papel Ser Mesário: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
+                  - Protótipo de Papel Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
+                  - Protótipo de Papel Certidão de Quitação Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/certidãoquitaçãoeleitor.md
+                  - Protótipo de Papel Alterar Local de Votação: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/alterarlocalvotacao.md
+                  - Protótipo de Papel Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
+                  - Protótipo de Papel Emissão Primeiro Titulo: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
   - Verificação:
       - Nosso Grupo:
           - Etapa 1: Avaliacao/Grupo02/Lista_de_Verificação_Entrega1.md
           - Etapa 2: Avaliacao/Grupo02/Lista_de_Verificação_Entrega2.md
           - Etapa 3: Avaliacao/Grupo02/Lista_de_Verificacao_Entrega3.md
           - Etapa 4: Avaliacao/Grupo02/Lista_de_Verificacao_Entrega4.md
+          - Etapa 5: Avaliacao/Grupo02/Lista_de_Verificacao_Entrega5.md
       - Grupo N+1/N-1:
-          - Etapa 1: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega1.md
-          - Etapa 2: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega2.md
-          - Etapa 3: Avaliacao/Outros Grupos/Lista_de_Verificacao_Entrega3.md
-          - Etapa 4: Avaliacao/Outros Grupos/Lista_de_Verificacao_Entrega4.md
+          - Etapa 1: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega1_GrupoN+1.md
+          - Etapa 2: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega2_GrupoN-1.md
+          - Etapa 3: Avaliacao/Outros Grupos/Lista_de_Verificacao_Entrega3_GrupoN+1.md
+          - Etapa 4: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega4_GrupoN-1.md
+          - Etapa 5: Avaliacao/Outros Grupos/Lista_de_Verificação_Entrega5_GrupoN+1.md
   - Reuniões:
       - Ata 09/04/26: Reunioes/Ata Reunião 09 04 26.md
       - Ata 11/04/26: Reunioes/Ata Reunião 11 04 26.md
       - Ata 23/04/26: Reunioes/Ata Reunião 23 04 26.md
       - Ata 30/04/26: Reunioes/Ata Reunião 30 04 26.md
-      - Ata 03/05/26: Reunioes/Ata Reunião 04 05 26.md
-      - Ata 04/05/26: Reunioes/Ata Reunião 03 05 26.md
+      - Ata 03/05/26: Reunioes/Ata Reunião 03 05 26.md
+      - Ata 04/05/26: Reunioes/Ata Reunião 04 05 26.md
       - Ata 14/05/26: Reunioes/Ata Reunião 14 05 26.md
       - Ata 17/05/26: Reunioes/Ata Reunião 17 05 26.md

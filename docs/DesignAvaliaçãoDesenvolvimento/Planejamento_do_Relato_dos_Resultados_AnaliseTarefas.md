@@ -12,19 +12,9 @@
 
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
 
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
-| 19/05/2026 | 1.1 | Ajustes na formatação das tabelas | Lucas | --- |
-
----
 
 ## Introdução
 
@@ -73,7 +63,7 @@ A Tabela 2 apresenta o cronograma planejado para as entrevistas de avaliação d
 | Luan e Bryan | a definir | 12:40 | 13:00 | 21/05/2026 | Presencial |
 
 <div style="text-align: left">
-<p>Tabela 3: Tabela de ccronograma planejado das entrevistas. (Fonte: autor, 2026).</p>
+<p>Tabela 2: Cronograma planejado das entrevistas. (Fonte: SOUSA, Tiago).</p>
 </div>
 
 > **Nota:** O teste piloto não deve ser incluído nos resultados da avaliação, conforme critério de verificação definido para este artefato.
@@ -146,14 +136,28 @@ As sugestões levantadas durante a avaliação e as dificuldades identificadas p
 
 
 <div style="text-align: left">
-<p>Tabela 3: Tabela de cronograma de reprojeto. (Fonte: autor, 2026).</p>
+<p>Tabela 3: Tabela de cronograma de reprojeto. (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. **Interação Humano-Computador e Experiência do Usuário**. Rio de Janeiro: Autopublicação, 2021.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas Fujimoto |
+| 19/05/2026 | 1.1 | Ajustes na formatação das tabelas | Lucas | Maria Luana |
+| 23/05/2026 | 1.2 | Padronização do artefato | Tiago | Lucas |
+
+<div style="text-align: left">
+<p>Tabela 4: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
+</div>
 
 ---
 

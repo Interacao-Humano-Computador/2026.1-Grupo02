@@ -6,11 +6,15 @@
 
 ---
 
-## Histórico de Versão
+## Tabela de Contribuição
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 02/05/2026 | 1.0 | Criação do documento | Bryan Smith | — |
+| Integrante | Contribuição |
+|:-----------|:-------------|
+| Bryan Smith | Elaboração do documento (HTA, CTT, GOMS, diagramas Mermaid) |
+
+<div style="text-align: left">
+<p>Tabela 6: Tabela de contribuição (Fonte: Bryan Smith, 2026).</p>
+</div>
 
 ---
 
@@ -335,7 +339,6 @@ GOAL 0: Voluntariar-se para trabalhar como mesário
       OP. 1.B.5: Identificar e clicar no link oficial do TSE
       OP. 1.B.6: Aguardar carregamento da página inicial
 
-
   GOAL 2: Localizar a funcionalidade "Ser Mesário"
   ⚠️ PONTO CRÍTICO: ESTA É A MAIOR DIFICULDADE DO FLUXO
 
@@ -362,7 +365,6 @@ GOAL 0: Voluntariar-se para trabalhar como mesário
       OP. 2.C.1: Digitar URL direta do serviço de mesário
       OP. 2.C.2: Pressionar Enter
 
-
   GOAL 3: Acessar página de instruções
 
     METHOD 3.A: Leitura das instruções
@@ -372,7 +374,6 @@ GOAL 0: Voluntariar-se para trabalhar como mesário
       OP. 3.A.3: Ler direitos e deveres do mesário
       OP. 3.A.4: SE concordar, prosseguir para GOAL 4
       OP. 3.A.5: SE não concordar, abandonar a tarefa
-
 
   GOAL 4: Preencher formulário de cadastro
 
@@ -405,7 +406,6 @@ GOAL 0: Voluntariar-se para trabalhar como mesário
       OP. 4.5.1: Ler os termos e condições (ou acessar link)
       OP. 4.5.2: Marcar checkbox de aceite
       OP. 4.5.3: Verificar se o botão "Enviar" foi habilitado
-
 
   GOAL 5: Enviar solicitação e aguardar confirmação
 
@@ -475,23 +475,20 @@ As recomendações prioritárias incluem: (1) criar um botão/card destacado na 
 
 ---
 
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:-----------|:-------------|
-| Bryan Smith | Elaboração do documento (HTA, CTT, GOMS, diagramas Mermaid) |
-
-<div style="text-align: left">
-<p>Tabela 6: Tabela de contribuição (Fonte: Bryan Smith, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
+## Bibliografia
 
 >BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário.** 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 
 >TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE - Serviços ao Eleitor.** Disponível em: https://www.tse.jus.br. Acesso em: 02 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 02/05/2026 | 1.0 | Criação do documento | Bryan Smith | — |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 

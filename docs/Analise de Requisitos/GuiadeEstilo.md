@@ -9,22 +9,10 @@
 |:----------:|:-------------|
 | Tiago | Desenvolvimento do artefato |
 
-
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
 </div>
 
----
-
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 13/05/2026 | 1.0 | Criação do Guia de Estilo | Tiago | Lucas Fujimoto |
-
-<div style="text-align: left">
-<p>Tabela 2: Historico de Versão (Fonte: autor, 2026).</p>
-</div>
 ---
 
 ## Introdução
@@ -213,13 +201,26 @@ O sistema deve manter um tom institucional, neutro e respeitoso em todas as mens
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 <a id="ref1"></a>[1] BARBOSA, S. D. J.; SILVA, B. S. da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
 <a id="ref2"></a>[2] BRASIL. Tribunal Superior Eleitoral. **Manual de Identidade Visual da Justiça Eleitoral**. Brasília: TSE, 2023. Disponível em: <https://www.tse.jus.br/institucional/catalogo-de-publicacoes/lista-do-catalogo-de-publicacoes/publicacoes/m/manual-de-identidade-da-justica-eleitoral>. Acesso em: 13 mai. 2026.
 
 <a id="ref3"></a>[3]  BRASIL. Site Tribunal Superior Eleitoral. Disponível em: <https://www.tse.jus.br/>.Acesso em: 13 mai. 2026. 
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 13/05/2026 | 1.0 | Criação do Guia de Estilo | Tiago | Lucas Fujimoto |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
+
+<div style="text-align: left">
+<p>Tabela 2: Historico de Versão (Fonte: autor, 2026).</p>
+</div>
 
 ---
 

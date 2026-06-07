@@ -4,11 +4,32 @@
 
 ---
 
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Lucas Fujimoto | Criação do arquivo de analise de tarefas |
+
+<div style="text-align: left">
+<p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
+</div>
+
+---
+
+## Bibliografia
+
+>BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+
+> TRIBUNAL SUPERIOR ELEITORAL. **AGENDAMENTO PARA ATENDIMENTO PRESENCIAL**. Disponível em: [https://www.tre-df.jus.br/servicos-eleitorais/agendamento/atendimento-presencial-agendamento-1](https://www.tre-df.jus.br/servicos-eleitorais/agendamento/atendimento-presencial-agendamento-1). Acesso em: 02 maio 2026.
+
+---
+
 ## Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 02/05/2026 | 1.0 | Criação da análise de tarefas para agendamento presensial do TSE | Lucas Fujimoto | Bryan Smith |
+| 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
 
 ---
 
@@ -46,24 +67,6 @@ Nessa parte, apresentamos o diagrama de árvore de tarefas concorrentes, a parti
 <div style="text-align: left">
 <p>Imagem 2: Imagem do diagrama CTT do agendamento presencial (Fonte: FUJIMOTO, Lucas, 2026).</p>
 </div>
-
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Lucas Fujimoto | Criação do arquivo de analise de tarefas |
-
-<div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
-
->BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
-
-> TRIBUNAL SUPERIOR ELEITORAL. **AGENDAMENTO PARA ATENDIMENTO PRESENCIAL**. Disponível em: [https://www.tre-df.jus.br/servicos-eleitorais/agendamento/atendimento-presencial-agendamento-1](https://www.tre-df.jus.br/servicos-eleitorais/agendamento/atendimento-presencial-agendamento-1). Acesso em: 02 maio 2026.
 
 ---
 

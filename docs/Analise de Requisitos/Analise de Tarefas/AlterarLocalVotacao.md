@@ -4,13 +4,33 @@
 
 ---
 
+## Tabela de Contribuição
+
+| Integrante | Contribuição |
+|:----------:|:-------------|
+| Guilherme | Criação do artefato|
+
+<div style="text-align: left">
+<p>Tabela 6: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
+
+---
+
+## Bibliografia
+
+> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. 
+
+> TRIBUNAL SUPERIOR ELEITORAL. **Atualizar dados pessoais, endereço ou local de votação**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral]. Acesso em: 03 maio 2026.
+
+---
+
 ## Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 03/05/2026 | 1.0 | Criação da análise de tarefas para alteração de local de votação no portal TSE | Guilherme | Maria Luana |
 | 03/05/2026 | 1.1 | Adiçaõ de agradecimentos | Guilherme | Maria Luana |
-
+| 23/05/2026 | 1.2 | Padronização do artefato | Tiago | - |
 
 ---
 
@@ -138,26 +158,6 @@ GOAL 0: Trocar local de votação
     OP 6.1: Revisar informações preenchidas
     OP 6.2: Clicar em "Enviar"
 ```
-
----
-
-## Tabela de Contribuição
-
-| Integrante | Contribuição |
-|:----------:|:-------------|
-| Guilherme | Criação do artefato|
-
-<div style="text-align: left">
-<p>Tabela 6: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p>
-</div>
-
----
-
-## Referência Bibliográfica
-
-> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. 
-
-> TRIBUNAL SUPERIOR ELEITORAL. **Atualizar dados pessoais, endereço ou local de votação**. Disponível em: [https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral]. Acesso em: 03 maio 2026.
 
 ---
 

@@ -2,14 +2,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 19/05/2026 | 1.0 | Criação do documento de índice de storyboards | Tiago | Bryan |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -18,10 +10,11 @@
 | Bryan | Adição do hyperlink para a atividade de mesario |
 | Samuel Felipe | Adição do hyperlink para a atividade de quitação eleitoral |
 | Lucas Fujimoto | Adição do hyperlink para a atividade de agendamento presencial |
+| Tiago | Adição do hyperlink para os demais storyboards |
 
 
 <div style="text-align: left">
-<p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
+<p>Tabela 1: Tabela de contribuição (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
@@ -44,20 +37,35 @@ Os storyboards estão organizados por tarefa e podem ser acessados individualmen
 | 4 | Agendamento Presencial | Lucas Fujimoto | [Acessar](storyboards/AgendamentoPres_StoryBoard.md) |
 | 5 | Justificativa Eleitoral | Luan  Ludry| [Acessar](storyboards/JustificativaEleitoral_StoryBoard.md) |
 | 6 | Alterar local de voto | Guilherme | [Acessar](storyboards/alterarlocal.md) |
+| 7 | Emissão 1° Titulo de Eleitor | Maria Luana | [Acessar](storyboards/Emissão1°Titulo.md) |
 
 <div style="text-align: left">
-<p>Tabela 2: Índice de storyboards do Grupo 02 (Fonte: autor, 2026).</p>
+<p>Tabela 2: Índice de storyboards do Grupo 02 (Fonte: SOUSA, Tiago).</p>
 </div>
 
 ---
 
 
-## Referência Bibliográfica
+## Bibliográfia
 
 > <a id="REF1" href="#anchor_1">1.</a> PREECE, Jennifer; SHARP, Helen; ROGERS, Yvonne. **Interaction Design: beyond human-computer interaction**. John Wiley & Sons, 2015.
 
 > <a id="REF2" href="#anchor_2">2.</a> KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. Univ. Califórnia em Berkeley (Coursera). Disponível em: [https://www.youtube.com/watch?v=h2H3oIQtddU](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 19 mai. 2026.
 
+---
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 19/05/2026 | 1.0 | Criação do documento de índice de storyboards | Tiago | Bryan |
+| 19/05/2026 | 1.1 | Alteração da legenda da tabela 2 | Tiago | Lucas |
+
+<div style="text-align: left">
+<p>Tabela 3: Histórico de Versão (Fonte: SOUSA, Tiago).</p>
+</div>
 ---
 
 ## Agradecimentos

@@ -3,15 +3,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 12/05/2026 | 1.0 | Criação do documento | Lucas | Luan Ludry |
-| 14/05/2026 | 1.1 | Adição de items de verificação do grupo | Tiago | Lucas |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -119,14 +110,22 @@ Os artefatos avaliados nesta entrega são: Características da plataforma, princ
 
 ---
 
-
-## Referência Bibliográfica
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
 > ROGERS, Y.; SHARP, H.; PREECE, J. **Design de Interação**. Capítulo 1 O Que é Design de Interação?
 
 > UNIVERSIDADE DE BRASÍLIA. **Plano de Ensino — Interação Humano-Computador**. Faculdade UnB Gama, 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 12/05/2026 | 1.0 | Criação do documento | Lucas | Luan Ludry |
+| 14/05/2026 | 1.1 | Adição de items de verificação do grupo | Tiago | Lucas |
 
 ---
 

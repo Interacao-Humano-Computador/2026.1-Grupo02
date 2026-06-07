@@ -4,15 +4,6 @@
 
 ---
 
-## Histórico de Versão
-
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 01/05/2026 | 1.0 | Criação e desenvolvimento dos cenários | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Lucas Fujimoto |
-| 07/05/2026 | 1.1 | Unificação dos cenários em só um arquivo | Lucas Fujimoto | Luan Ludry |
-
----
-
 ## Tabela de Contribuição
 
 | Integrante | Contribuição |
@@ -32,6 +23,15 @@
 ---
 ##
 
+---
+
+## Introdução
+
+Este documento apresenta um **cenário de interação** referente ao objetivo de um cidadão se voluntariar para trabalhar como **mesário nas eleições**, utilizando o portal do Tribunal Superior Eleitoral (TSE). O cenário descreve uma situação realista de uso, identificando atores, contexto, tarefas, dificuldades e avaliação dos resultados, conforme orientam Barbosa et al. (2021).
+
+A criação deste cenário permite à equipe de design compreender as necessidades do usuário, antever problemas de usabilidade e validar soluções propostas antes da implementação.
+
+---
 
 ## Cenário 1: Agendamento Urgente para Regularização de Cliente
 
@@ -40,6 +40,7 @@
 É uma tarde de terça-feira e o escritório de Karina Heeres, advogada, está movimentado. Um de seus principais clientes, uma construtora, precisa urgentemente da Certidão de Quitação Eleitoral de um de seus sócios para participar de uma licitação importante, cujo prazo final é na próxima semana. Ao tentar emitir a certidão online, o sistema acusa uma pendência no título do sócio, impedindo a emissão. A única solução é o atendimento presencial para regularizar a situação, e o objetivo de Karina é agendar um horário para o dia seguinte. Sabendo que o tempo é crucial, ela acessa o site do TRE-DF, navega até a seção de agendamento e preenche o formulário com os dados do sócio. Para sua frustração, o sistema exibe um calendário sem horários disponíveis para o dia seguinte, nem para o resto da semana, com a primeira data livre sendo tarde demais para o prazo da licitação. O sistema também não oferece uma lista de espera ou notificação de novas vagas. Karina fica apreensiva e percebe que o caminho digital padrão não resolverá o problema devido à rigidez do sistema. Ela conclui que precisará ligar diretamente para o cartório eleitoral na manhã seguinte para explicar a urgência e tentar um encaixe, um plano B que o site não facilitou.
 
 ---
+
 ## Cenário 2: Comparando Gastos de Campanha antes de Votar pela Primeira Vez
 
 **Atores:** Lucas Ferreira (estudante universitário)
@@ -73,11 +74,6 @@ O sistema exibe a mensagem: *"Justificativa recebida com sucesso. Número de pro
 ---
 
 ## Cenário 4: Primeiro vonluntariado como mesário
-## Introdução
-
-Este documento apresenta um **cenário de interação** referente ao objetivo de um cidadão se voluntariar para trabalhar como **mesário nas eleições**, utilizando o portal do Tribunal Superior Eleitoral (TSE). O cenário descreve uma situação realista de uso, identificando atores, contexto, tarefas, dificuldades e avaliação dos resultados, conforme orientam Barbosa et al. (2021).
-
-A criação deste cenário permite à equipe de design compreender as necessidades do usuário, antever problemas de usabilidade e validar soluções propostas antes da implementação.
 
 ---
 
@@ -194,7 +190,7 @@ Motivada pelo incentivo familiar e pela pressão social dos colegas de escola, F
 
 ---
 
-## Referência Bibliográfica
+## Bibliografia
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
@@ -211,6 +207,17 @@ Motivada pelo incentivo familiar e pela pressão social dos colegas de escola, F
 > TRIBUNAL SUPERIOR ELEITORAL. **Portal do TSE – Serviços ao Eleitor**. Disponível em: [https://www.tse.jus.br](https://www.tse.jus.br). Acesso em: 02 maio 2026.
 
 > TRIBUNAL SUPERIOR ELEITORAL. **Justificativa Eleitoral**. Disponível em: [https://www.tse.jus.br/eleitor/justificativa-eleitoral](https://www.tse.jus.br/eleitor/justificativa-eleitoral). Acesso em: 03 maio 2026.
+
+---
+
+## Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+|:----:|:------:|:----------|:---------:|:-----------:|
+| 01/05/2026 | 1.0 | Criação e desenvolvimento dos cenários | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Lucas Fujimoto |
+| 07/05/2026 | 1.1 | Unificação dos cenários em só um arquivo | Lucas Fujimoto | Luan Ludry |
+| 23/05/2026 | 1.2 | Padronização do artefato | Tiago | - |
+
 ---
 
 ## Agradecimentos
