@@ -87,12 +87,13 @@ nav:
               - Planejamento da Avaliação da Análise de Tarefas: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_da_Análise_de_Tarefas.md
               - Planejamento do Relato dos Resultados da Avaliação: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_AnaliseTarefas.md
               - Avaliação da Análise de Tarefas:
-                - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_01.md
-                - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_02.md
-                - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_03.md
-                - Relato da Avaliação 04: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_04.md
-                - Relato da Avaliação 06 e 07: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_06-07.md
-                - Relato da Avaliação 08: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_AnaliseTarefas_07.md            
+                  - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_01.md
+                  - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_02.md
+                  - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_03.md
+                  - Relato da Avaliação 04: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_04.md
+                  - Relato da Avaliação 05: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_AnaliseTarefas_07.md
+                  - Relato da Avaliação 06 e 07: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Analise_Tarefas_06-07.md
+           
           - Storyboard:
               - Planejamento da Avaliação da Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Storyboard.md
               - Planejamento do Relato dos Resultados da Avaliação do Storyboard: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_StoryBoard.md
@@ -100,12 +101,19 @@ nav:
                 - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_01.md
                 - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_02.md
                 - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_03.md
-                - Relato da Avaliação 06 e 07: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_06-07.md
-                - Relato da Avaliação 08: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_StoryBoard_07.md
+                - Relato da Avaliação 04: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_StoryBoard_07.md
+                - Relato da Avaliação 05 e 06: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_Storyboard_06-07.md
           - Protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliação_do_Protótipo_de_Papel.md
               - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_Prototipo_Papel.md
+              - Avaliações do Protótipo de Papel:
+                - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoPapel_AlterarLocal.md
+                - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md
       - Relatos de Avaliação: DesignAvaliaçãoDesenvolvimento/avaliacoes.md
+
+
+
+        
       - Storyboard:
           - Storyboards: DesignAvaliaçãoDesenvolvimento/storyboards.md
           - Storyboards Individuais:
