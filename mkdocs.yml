@@ -109,6 +109,7 @@ nav:
               - Avaliações do Protótipo de Papel:
                 - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoPapel_AlterarLocal.md
                 - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md
+                - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoPapel_SerMesario.md
       - Relatos de Avaliação: DesignAvaliaçãoDesenvolvimento/avaliacoes.md
 
 
@@ -128,7 +129,7 @@ nav:
               - Protótipo de Papel: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel.md
               - Protótipos de Papel Individuais:
                   - Protótipo de Papel Comparação de Candidatos: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
-                  - Protótipo de Papel Ser Mesário: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
+                  - Protótipo de Papel Ser Mesário: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/sermesario.md
                   - Protótipo de Papel Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/
                   - Protótipo de Papel Certidão de Quitação Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/certidãoquitaçãoeleitor.md
                   - Protótipo de Papel Alterar Local de Votação: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/alterarlocalvotacao.md
