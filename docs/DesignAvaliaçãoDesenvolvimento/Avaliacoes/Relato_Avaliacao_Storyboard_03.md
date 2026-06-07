@@ -1,14 +1,15 @@
 # Relato dos Resultados — Avaliação do Storyboard (Agendamento Presencial)
+
 ## Grupo 02
 
 ---
 
 ## Tabela de Contribuição
 
-| Integrante | Contribuição |
-|:----------:|:-------------|
+|   Integrante   | Contribuição                                                                              |
+| :------------: | :---------------------------------------------------------------------------------------- |
 | Lucas Fujimoto | Elaboração no resultados da avaliação da análise de tarefas para o agendamento presencial |
-| Luan | Revisão do documento |
+|      Luan      | Revisão do documento                                                                      |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -18,7 +19,7 @@
 
 ## Introdução
 
-Este documento apresenta o relato dos resultados da avaliação do **Storyboard de Agendamento Presencial**. A estrutura adotada segue integralmente o que foi estabelecido no artefato *Planejamento do Relato dos Resultados*, no qual foram definidos os tópicos, os critérios e o método de registro das informações.
+Este documento apresenta o relato dos resultados da avaliação do **Storyboard de Agendamento Presencial**. A estrutura adotada segue integralmente o que foi estabelecido no artefato _Planejamento do Relato dos Resultados_, no qual foram definidos os tópicos, os critérios e o método de registro das informações.
 
 O storyboard avaliado representa a tarefa em que o usuário, ao perceber que precisa realizar sua biometria, decide resolver a situação por meio de um dispositivo móvel e agendar um atendimento presencial. A avaliação teve como base a interação dos participantes com o storyboard e a comparação entre o fluxo representado e a funcionalidade real.
 
@@ -67,10 +68,9 @@ Os problemas observados estão descritos a seguir, indicando a cena do storyboar
 
 Para cada problema identificado, registram-se abaixo as sugestões de melhoria propostas.
 
-| Problema | Contexto / ação | Resultado esperado × observado | Sugestão de melhoria |
-|:--------:|:----------------|:-------------------------------|:---------------------|
-| 1 | Storyboard no papel | Esperado: Leitura normal. Observado: Dificuldade na leitura. | Tirar outra foto, ou reforçar os traços no papel |
-
+| Problema | Contexto / ação     | Resultado esperado × observado                               | Sugestão de melhoria                             |
+| :------: | :------------------ | :----------------------------------------------------------- | :----------------------------------------------- |
+|    1     | Storyboard no papel | Esperado: Leitura normal. Observado: Dificuldade na leitura. | Tirar outra foto, ou reforçar os traços no papel |
 
 <div style="text-align: left">
 <p>Tabela 2: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -104,8 +104,7 @@ Nenhuma falha grave foi identificada no storyboard. O storyboard segue uma lógi
 
 O participante indicou que caso seja possível, haver uma pequena mudança para ficar mais fácil a leitura do storyboard.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui para assistir à gravação</a></p>
-
+<p style="text-align: center"><a href="https://youtu.be/hogmu7Wt-Pw" target="blanket">Clique aqui para assistir à gravação</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: FUJIMOTO, Lucas, 2026.</p></font>
 
@@ -117,9 +116,9 @@ As sugestões levantadas e as dificuldades identificadas serão consideradas no 
 
 **Tabela 3** — Cronograma de Reprojeto.
 
-| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
-|:------------------------:|:-----------------:|:--------------:|:----:|
-| Lucas | 20:30 | 21:30 | 03/06/2026 |
+| Executor(a) do Reprojeto | Horário de Início | Horário de Fim |    Data    |
+| :----------------------: | :---------------: | :------------: | :--------: |
+|          Lucas           |       20:30       |     21:30      | 03/06/2026 |
 
 <div style="text-align: left">
 <p>Tabela 3: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -137,9 +136,9 @@ As sugestões levantadas e as dificuldades identificadas serão consideradas no 
 
 ## Histórico de Versão
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 31/05/2026 | 1.0 | Criação do relato dos resultados | Lucas | Luan |
+|    Data    | Versão | Descrição                        | Autor(es) | Revisor(es) |
+| :--------: | :----: | :------------------------------- | :-------: | :---------: |
+| 31/05/2026 |  1.0   | Criação do relato dos resultados |   Lucas   |    Luan     |
 
 <div style="text-align: left">
 <p>Tabela 4: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
