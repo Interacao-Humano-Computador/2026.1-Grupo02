@@ -66,7 +66,9 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 |:-:|:-------------------|:----:|
 | 1 | Relato da Avaliação 01 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AlterarLocal.md) |
 | 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md) |
-| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AgendamentoPresencial.md) |
+| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_SerMesario.md) |
+| 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AgendamentoPresencial.md) |
+
 
 
 <div style="text-align: left">
@@ -88,6 +90,8 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 31/05/2026 | 1.0 | Criação do documento de índice de avaliações | Tiago | Guilherme |
 | 31/05/2026 | 1.1 | Correção da numeração | Tiago | Guilherme |
 | 07/06/2026 | 1.2 | Adição de tabelas e correções | Guilherme | Tiago |
+| 07/06/2026 | 1.3 | Adição de link na tabela 4 | Guilherme | Maria Luana |
+
 
 
 
