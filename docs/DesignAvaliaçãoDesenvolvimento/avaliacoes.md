@@ -68,6 +68,10 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md) |
 | 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_SerMesario.md) |
 | 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AgendamentoPresencial.md) |
+| 5 | Relato da Avaliação 05| [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_JustificativaEleitoral.md) |
+| 6 | Relato da Avaliação 06| [Acessar](Avaliacoes/Relato_Avaliação_PrototipoPapel_Emitir1Titulo.md) |
+
+
 
 
 
@@ -91,6 +95,8 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 31/05/2026 | 1.1 | Correção da numeração | Tiago | Guilherme |
 | 07/06/2026 | 1.2 | Adição de tabelas e correções | Guilherme | Tiago |
 | 07/06/2026 | 1.3 | Adição de link na tabela 4 | Guilherme | Maria Luana |
+| 07/06/2026 | 1.4 | Adição de link na tabela 4 | Guilherme | Maria Luana |
+
 
 
 
