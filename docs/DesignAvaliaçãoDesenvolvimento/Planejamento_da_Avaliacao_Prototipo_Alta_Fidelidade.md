@@ -8,6 +8,7 @@
 | Integrante | Contribuição |
 |:----------:|:-------------|
 | Guilherme | Criação do documento |
+| IA - Claude | Formatação e correções de erros |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme).</p>
@@ -235,6 +236,8 @@ As sugestões levantadas durante a avaliação e as dificuldades identificadas p
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 07/06/2026 | 1.0 | Criação do documento | Guilherme | Maria Luana |
+| 07/06/2026 | 1.1 | Adição da IA na tabela de contribuição | Guilherme | Maria Luana |
+
 
 <div style="text-align: left">
 <p>Tabela 5: Histórico de Versão (Fonte: CARVALHO, Guilherme).</p>
