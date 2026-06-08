@@ -32,7 +32,7 @@ Os protótipos de papel estão organizados por tarefa e podem ser acessados indi
 |  2  | Ser Mesário                           |      Bryan     | [Acessar](ProtótipoPapel/sermesario.md) |
 |  3  | Certidão de quitação eleitoral        |  Samuel Felipe | [Acessar](ProtótipoPapel/certidãoquitaçãoeleitor.md) |
 |  4  | Agendamento Presencial                | Lucas Fujimoto | [Acessar](ProtótipoPapel/agendamentopresencial.md) |
-|  5  | Justificativa Eleitoral               |   Luan Ludry   | |
+|  5  | Justificativa Eleitoral               |   Luan Ludry   | [Acessar](ProtótipoPapel/justificativaeleitoral.md)|
 |  6  | Alterar local de votação              |    Guilherme   | [Acessar](ProtótipoPapel/alterarlocalvotacao.md)  |
 |  7  | Emissão 1° Título de Eleitor          |   Maria Luana  | [Acessar](ProtótipoPapel/emissaoprimeirotitulo.md) |
 
@@ -57,6 +57,8 @@ Os protótipos de papel estão organizados por tarefa e podem ser acessados indi
 | 07/06/2026 |   1.0  | Criação do documento de índice de protótipos de papel |   Guilherme   |    Maria Luana    |
 | 07/06/2026 |   1.1  | Adição do documento de agendamento presenciaal |   Lucas   |    Bryan    |
 | 07/06/2026 |   1.2  | Adição dos links na tabela 2  |   Guilherme   |    Maria Luana    |
+| 07/06/2026 |   1.3  | Adição dos links na tabela 2  |   Guilherme   |    Maria Luana    |
+
 
 
 <div style="text-align: left">
