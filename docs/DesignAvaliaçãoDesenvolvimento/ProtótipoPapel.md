@@ -56,7 +56,7 @@ Os protótipos de papel estão organizados por tarefa e podem ser acessados indi
 | :--------: | :----: | :---------------------------------------------------- | :-------: | :---------: |
 | 07/06/2026 |   1.0  | Criação do documento de índice de protótipos de papel |   Guilherme   |    Maria Luana    |
 | 07/06/2026 |   1.1  | Adição do documento de agendamento presenciaal |   Lucas   |    Bryan    |
-| 07/06/2026 |   1.1  | Adição dos links na tabela 2  |   Guilherme   |    Maria Luana    |
+| 07/06/2026 |   1.2  | Adição dos links na tabela 2  |   Guilherme   |    Maria Luana    |
 
 
 <div style="text-align: left">
