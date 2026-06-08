@@ -7,6 +7,7 @@
 |   Integrante   | Contribuição                                                   |
 | :------------: | :------------------------------------------------------------- |
 |     Guiherme     | Criação do documento de índice de protótipos de papel          |
+|     Lucas Fujimoto     | Adição do documento de agendamento presencial          |
 
 
 <div style="text-align: left">
@@ -30,7 +31,7 @@ Os protótipos de papel estão organizados por tarefa e podem ser acessados indi
 |  1  | Comparação de gastos entre candidatos |      Tiago     |  |
 |  2  | Ser Mesário                           |      Bryan     |  |
 |  3  | Certidão de quitação eleitoral        |  Samuel Felipe | [Acessar](ProtótipoPapel/certidãoquitaçãoeleitor.md) |
-|  4  | Agendamento Presencial                | Lucas Fujimoto |  |
+|  4  | Agendamento Presencial                | Lucas Fujimoto | [Acessar](ProtótipoPapel/agendamentopresencial.md) |
 |  5  | Justificativa Eleitoral               |   Luan Ludry   |  |
 |  6  | Alterar local de votação              |    Guilherme   | [Acessar](ProtótipoPapel/alterarlocalvotacao.md)  |
 |  7  | Emissão 1° Título de Eleitor          |   Maria Luana  |  |
@@ -54,6 +55,7 @@ Os protótipos de papel estão organizados por tarefa e podem ser acessados indi
 |    Data    | Versão | Descrição                                             | Autor(es) | Revisor(es) |
 | :--------: | :----: | :---------------------------------------------------- | :-------: | :---------: |
 | 07/06/2026 |   1.0  | Criação do documento de índice de protótipos de papel |   Guilherme   |    Maria Luana    |
+| 07/06/2026 |   1.1  | Adição do documento de agendamento presenciaal |   Lucas   |    Bryan    |
 
 <div style="text-align: left">
 <p>Tabela 3: Histórico de Versão (Fonte: CARVALHO, Guilherme).</p>

@@ -66,6 +66,7 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 |:-:|:-------------------|:----:|
 | 1 | Relato da Avaliação 01 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AlterarLocal.md) |
 | 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md) |
+| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AgendamentoPresencial.md) |
 
 
 <div style="text-align: left">

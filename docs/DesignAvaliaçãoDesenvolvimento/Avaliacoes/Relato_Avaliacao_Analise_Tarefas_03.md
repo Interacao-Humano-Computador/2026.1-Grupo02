@@ -1,14 +1,15 @@
 # Relato dos Resultados — Avaliação da Análise de Tarefas (Agendamento Presencial)
+
 ## Grupo 02
 
 ---
 
 ## Tabela de Contribuição
 
-| Integrante | Contribuição |
-|:----------:|:-------------|
+|   Integrante   | Contribuição                                                                              |
+| :------------: | :---------------------------------------------------------------------------------------- |
 | Lucas Fujimoto | Elaboração no resultados da avaliação da análise de tarefas para o agendamento presencial |
-| Luan | Revisão do documento |
+|      Luan      | Revisão do documento                                                                      |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -18,9 +19,9 @@
 
 ## Introdução
 
-Este documento apresenta o relato dos resultados da avaliação da **Análise de Tarefas do Agendamento Presencial**. A estrutura adotada segue o que foi definido no artefato *Planejamento do Relato dos Resultados de Avaliação da Análise de Tarefas*, no qual foram estabelecidos os tópicos, os critérios e o método de registro das informações.
+Este documento apresenta o relato dos resultados da avaliação da **Análise de Tarefas do Agendamento Presencial**. A estrutura adotada segue o que foi definido no artefato _Planejamento do Relato dos Resultados de Avaliação da Análise de Tarefas_, no qual foram estabelecidos os tópicos, os critérios e o método de registro das informações.
 
-O artefato avaliado é a Análise Hierárquica de Tarefas (HTA) elaborada para a funcionalidade de agendamento presencial, que modela dois grandes objetivos: **agendar atendimento presencial** (informar dados pessoais, selecionar local, selecionar horário e data e confirmar) e **acompanhar agendamento** (informar dados pessoais, cancelar e visualizar). 
+O artefato avaliado é a Análise Hierárquica de Tarefas (HTA) elaborada para a funcionalidade de agendamento presencial, que modela dois grandes objetivos: **agendar atendimento presencial** (informar dados pessoais, selecionar local, selecionar horário e data e confirmar) e **acompanhar agendamento** (informar dados pessoais, cancelar e visualizar).
 
 ---
 
@@ -47,11 +48,9 @@ Ademais, o entrevistador apresentou o diagrama de HTA e CTT solicitou que o part
 
 ---
 
-
 ## Seleção do Participante
 
 O participante foi modelado de modo a refletir o [perfil de usuário](../../Analise de Requisitos/PerfilDeUsuario.md) definido no projeto, sendo eleitores do Distrito Federal, com idade entre 18 - 22 anos. Esse perfil é compatível com as [personas](../../Analise de Requisitos/personas.md) elaboradas pela equipe, que representam possíveis usuários do site.
-
 
 ---
 
@@ -62,7 +61,7 @@ Os problemas observados estão descritos a seguir, indicando a tarefa em que oco
 **Problema 1 — Ausência da subtarefa de seleção do serviço (Tarefa 1)**
 
 - **Tarefa:** 1. Agendar atendimento presencial.
-- **Ação do usuário:**  Usuário procurou uma etapa para escolher o **tipo de serviço** (por exemplo, coleta de biometria) antes de selecionar o local.
+- **Ação do usuário:** Usuário procurou uma etapa para escolher o **tipo de serviço** (por exemplo, coleta de biometria) antes de selecionar o local.
 - **Esperado × observado:** A HTA e CTT não modela a escolha do serviço/tipo de atendimento, partindo diretamente para a identificação.
 
 **Problema 2 — Acompanhamento exige dados pessoais em vez de protocolo (Tarefa 2)**
@@ -83,11 +82,11 @@ Os problemas observados estão descritos a seguir, indicando a tarefa em que oco
 
 Para cada problema identificado, registram-se abaixo as sugestões de melhoria propostas.
 
-| Problema | Contexto / ação | Resultado esperado × observado | Sugestão de melhoria |
-|:--------:|:----------------|:-------------------------------|:---------------------|
-| 1 | Falta de seleção de serviço | Esperado: escolher o tipo de atendimento. Observado: lacuna no modelo. | Incluir a subtarefa "Selecionar serviço/tipo de atendimento" |
-| 2 | Acompanhar exige dados pessoais | Esperado: localizar por protocolo. Observado: divergência do fluxo real. | Permitir a possibilidade de acompanhamento por número de protocolo, |
-| 3 | Notação de planos pouco clara | Esperado: distinguir sequência de escolha. Observado: ambiguidade no diagrama. | Detalhar os planos (sequencial, opcional, seleção) nos nós da HTA. |
+| Problema | Contexto / ação                 | Resultado esperado × observado                                                 | Sugestão de melhoria                                                |
+| :------: | :------------------------------ | :----------------------------------------------------------------------------- | :------------------------------------------------------------------ |
+|    1     | Falta de seleção de serviço     | Esperado: escolher o tipo de atendimento. Observado: lacuna no modelo.         | Incluir a subtarefa "Selecionar serviço/tipo de atendimento"        |
+|    2     | Acompanhar exige dados pessoais | Esperado: localizar por protocolo. Observado: divergência do fluxo real.       | Permitir a possibilidade de acompanhamento por número de protocolo, |
+|    3     | Notação de planos pouco clara   | Esperado: distinguir sequência de escolha. Observado: ambiguidade no diagrama. | Detalhar os planos (sequencial, opcional, seleção) nos nós da HTA.  |
 
 <div style="text-align: left">
 <p>Tabela 2: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -100,6 +99,7 @@ Para cada problema identificado, registram-se abaixo as sugestões de melhoria p
 De modo geral, o participante avaliou positivamente a **completude** do modelo de tarefas e a clara separação entre os objetivos de "agendar" e "acompanhar" o atendimento. Porém houve um pouco de dúvida na parte do entendimento dos símbolos e da lógica em si dos diagramas.
 
 ---
+
 ### Análise e Interpretação dos Resultados
 
 A partir das respostas coletadas e das percepções do participante durante a análise conjunta dos modelos, foram consolidados os seguintes achados.
@@ -120,8 +120,7 @@ Nenhuma falha grave foi identificada em nenhuma das duas análises de tarefas. O
 
 O participante indicou que caso seja possível, haver uma pequena mudança na parte de legenda dos diagramas para melhor entendimento.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui para assistir à gravação</a></p>
-
+<p style="text-align: center"><a href="https://youtu.be/She4F-A0TsQ" target="blanket">Clique aqui para assistir à gravação</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: FUJIMOTO, Lucas, 2026.</p></font>
 
@@ -133,9 +132,9 @@ As sugestões levantadas e as dificuldades identificadas serão consideradas no 
 
 **Tabela 3** — Cronograma de Reprojeto.
 
-| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
-|:------------------------:|:-----------------:|:--------------:|:----:|
-| Lucas | 20:30 | 21:30 | 03/06/2026 |
+| Executor(a) do Reprojeto | Horário de Início | Horário de Fim |    Data    |
+| :----------------------: | :---------------: | :------------: | :--------: |
+|          Lucas           |       20:30       |     21:30      | 03/06/2026 |
 
 <div style="text-align: left">
 <p>Tabela 3: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
@@ -153,9 +152,9 @@ As sugestões levantadas e as dificuldades identificadas serão consideradas no 
 
 ## Histórico de Versão
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-|:----:|:------:|:----------|:---------:|:-----------:|
-| 31/05/2026 | 1.0 | Criação do relato dos resultados | Lucas | Luan |
+|    Data    | Versão | Descrição                        | Autor(es) | Revisor(es) |
+| :--------: | :----: | :------------------------------- | :-------: | :---------: |
+| 31/05/2026 |  1.0   | Criação do relato dos resultados |   Lucas   |    Luan     |
 
 <div style="text-align: left">
 <p>Tabela 4: Tabela de contribuição (Fonte: FUJIMOTO, Lucas, 2026).</p>
