@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divulgação de Candidaturas e Contas Eleitorais</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="/static/candcontas.css">
+    <!-- FontAwesome for icons (prototype only) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Header Global -->
+    <header class="global-header">
+        <div class="header-left">
+            <span class="header-title">Divulgação de Candidaturas e Contas Eleitorais</span>
+            <i class="fas fa-edit" style="color: #ccc;"></i>
+            <select class="header-select">
+                <option>Eleições Federais 2022</option>
+                <option>Eleições Municipais 2024</option>
+                <option>Eleições Federais 2026</option>
+            </select>
+        </div>
+        <button class="menu-btn"><i class="fas fa-bars"></i></button>
+    </header>
+
+    <!-- PÁGINA 1: HOME -->
+    <div id="page-home">
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="hero-overlay">
+                <h2 id="hero-title">Eleições Federais 2022</h2>
+                <p>Divulgação de Candidaturas e Contas Eleitorais</p>
+                <small>Data da última atualização: 24/05/2026 15:30:00</small>
+            </div>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <span>Presidente</span>
+                    <span class="stat-badge">12</span>
+                </div>
+                <div class="stat-item">
+                    <span>Governador</span>
+                    <span class="stat-badge">223</span>
+                </div>
+                <div class="stat-item">
+                    <span>Senador</span>
+                    <span class="stat-badge">234</span>
+                </div>
+                <div class="stat-item">
+                    <span>Prefeito</span>
+                    <span class="stat-badge">0</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Consultas por Regiões Brasileiras -->
+        <section class="section-container">
+            <h3 class="section-title">Consultas por Regiões Brasileiras</h3>
+            <div class="regions-grid">
+                <div class="region-card">
+                    <i class="fas fa-globe-americas region-icon"></i>
+                    <h3>Brasil</h3>
+                    <p>Todos os estados</p>
+                </div>
+                <div class="region-card">
+                    <i class="fas fa-map-marker-alt region-icon"></i>
+                    <h3>Norte</h3>
+                    <p>AC, AP, AM, PA, RO, RR, TO</p>
+                </div>
+                <div class="region-card">
+                    <i class="fas fa-map-marker-alt region-icon"></i>
+                    <h3>Nordeste</h3>
+                    <p>AL, BA, CE, MA, PB, PE, PI, RN, SE</p>
+                </div>
+                <div class="region-card">
+                    <i class="fas fa-map-marker-alt region-icon"></i>
+                    <h3>Centro-Oeste</h3>
+                    <p>DF, GO, MT, MS</p>
+                </div>
+                <div class="region-card">
+                    <i class="fas fa-map-marker-alt region-icon"></i>
+                    <h3>Sudeste</h3>
+                    <p>ES, MG, RJ, SP</p>
+                </div>
+                <div class="region-card">
+                    <i class="fas fa-map-marker-alt region-icon"></i>
+                    <h3>Sul</h3>
+                    <p>PR, RS, SC</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Consultas Individuais / Contas Eleitorais -->
+        <section class="section-container">
+            <h3 class="section-title">Consultas Individuais / Contas Eleitorais</h3>
+            <div class="cards-grid">
+                <div class="action-card">
+                    <i class="fas fa-file-alt action-icon"></i>
+                    <h3>Atas de Convenção</h3>
+                    <p>Consulte as Atas de uma Eleição.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-credit-card action-icon"></i>
+                    <h3>Doadores e Fornecedores</h3>
+                    <p>Consulte aqui por Pessoas Físicas e jurídicas e suas contribuições.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-credit-card action-icon"></i>
+                    <h3>Limite de Gastos e de Contratação</h3>
+                    <p>Consulte aqui por limite de gastos de campanha e contratação de pessoal.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-money-bill-wave action-icon"></i>
+                    <h3>Sobra de Campanha</h3>
+                    <p>Consulte a Sobra de Campanha por Candidato, Direção Partidária ou Individual.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-calculator action-icon"></i>
+                    <h3>Dívida de Campanha</h3>
+                    <p>Consulte a Dívida de Campanha por Candidato, Direção Partidária ou Individual.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-users action-icon"></i>
+                    <h3>Financiamento Coletivo</h3>
+                    <p>Consulte os dados de doação encaminhados à Justiça Eleitoral pelas empresas de financiamento coletivo.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-chart-line action-icon"></i>
+                    <h3>Ranking de Doadores e Fornecedores</h3>
+                    <p>Relação de maiores doadores e fornecedores de bens e/ou serviços a candidatos e partidos políticos nas eleições.</p>
+                </div>
+                <!-- Interação Crítica: Comparativo entre Candidatos -->
+                <div class="action-card" id="card-comparativo">
+                    <i class="fas fa-balance-scale action-icon"></i>
+                    <h3>Comparativo entre Candidatos</h3>
+                    <p>Possibilita realizar comparativo entre candidatos sobre o total de recursos arrecadados e gastos de campanha.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-chart-pie action-icon"></i>
+                    <h3>Estatísticas de Candidaturas</h3>
+                    <p>Obtenha dados para a sua estatística de forma mais ágil.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-cloud-download-alt action-icon"></i>
+                    <h3>Portal de Dados Abertos do TSE</h3>
+                    <p>Obtenha dados para a sua estatística de forma mais ágil.</p>
+                </div>
+                <div class="action-card">
+                    <i class="far fa-calendar-check action-icon"></i>
+                    <h3>Prestações de Contas Esperadas</h3>
+                    <p>Consulte as prestações de contas esperadas de Direções Partidárias.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-camera action-icon"></i>
+                    <h3>Bem na Foto</h3>
+                    <p>Realize a validação da(s) foto(s) e dos dados do registro de candidatura que serão apresentados na urna.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-university action-icon"></i>
+                    <h3>Validação do Diploma</h3>
+                    <p>Realize a validação de um Diploma.</p>
+                </div>
+                <div class="action-card">
+                    <i class="fas fa-id-badge action-icon"></i>
+                    <h3>Candidaturas por Dados Pessoais</h3>
+                    <p>Consulte por candidaturas a partir dos dados pessoais.</p>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- PÁGINA 2: COMPARATIVO -->
+    <div id="page-comparativo" class="hidden">
+        <!-- Sub-header -->
+        <div class="sub-header">
+            Comparativo entre candidatos
+        </div>
+
+        <div class="page-content">
+            <div class="breadcrumbs">
+                <a href="/test" style="text-decoration: none; color: var(--color-primary, #004b87);">Página Inicial</a> / 
+                <span style="color: #666;">Comparativo Entre Candidatos</span>
+            </div>
+
+            <!-- Empty State -->
+            <div id="comparativo-empty">
+                <div class="comparativo-header">
+                    <h2 class="comparativo-title">Comparativo</h2>
+                    <button class="btn-add" id="btn-add"><i class="fas fa-plus"></i></button>
+                </div>
+                <div class="empty-state">
+                    <i class="fas fa-balance-scale empty-state-icon"></i>
+                    <p>Selecione candidatos de um mesmo cargo para iniciar o comparativo de gastos.</p>
+                </div>
+            </div>
+
+            <!-- Data State (Hidden initially) -->
+            <div id="comparativo-data" class="hidden">
+                <div class="comparativo-header">
+                    <h2 class="comparativo-title">Comparativo</h2>
+                    <div class="toolbar">
+                        <button class="btn-tool blue" title="Download"><i class="fas fa-download"></i></button>
+                        <button class="btn-tool blue" title="Gráfico"><i class="fas fa-chart-bar"></i></button>
+                        <button class="btn-tool red" id="btn-clear" title="Limpar"><i class="fas fa-times"></i></button>
+                        <button class="btn-tool green" id="btn-add-more" title="Adicionar Candidato"><i class="fas fa-plus"></i></button>
+                    </div>
+                </div>
+                
+                <div class="comparativo-table-container">
+                    <!-- Labels Column -->
+                    <div class="labels-column">
+                        <div class="col-header" style="border:none;">
+                            <!-- Espaço vazio na altura da foto e nome -->
+                        </div>
+                        
+                        <!-- Receitas Block -->
+                        <div style="display: flex;">
+                            <div class="label-group bg-blue">Receitas</div>
+                            <div style="flex:1;">
+                                <div class="data-row"><div class="label-cell bg-blue-light">FEFC</div></div>
+                                <div class="data-row"><div class="label-cell bg-blue-light">Fundo Partidário</div></div>
+                                <div class="data-row"><div class="label-cell bg-blue-light">Privados</div></div>
+                                <div class="data-row"><div class="label-cell bg-blue-light">Estimáveis</div></div>
+                            </div>
+                        </div>
+
+                        <!-- Despesas Block -->
+                        <div style="display: flex;">
+                            <div class="label-group bg-orange">Despesas</div>
+                            <div style="flex:1;">
+                                <div class="data-row"><div class="label-cell bg-orange-light">Gastos Financeiros</div></div>
+                                <div class="data-row"><div class="label-cell bg-orange-light">Gastos Estimáveis</div></div>
+                            </div>
+                        </div>
+
+                        <!-- Prestação Contas Block -->
+                        <div style="display: flex;">
+                            <div class="label-group bg-green">Prest. Contas</div>
+                            <div style="flex:1;">
+                                <div class="data-row"><div class="label-cell bg-green-light">Tipo</div></div>
+                                <div class="data-row"><div class="label-cell bg-green-light">Data de entrega</div></div>
+                            </div>
+                        </div>
+                        <div class="col-footer" style="border:none; background: transparent;"></div>
+                    </div>
+
+                    <!-- Dynamic Candidates injected here -->
+                    <div id="candidate-container" style="display:flex; gap:1rem;"></div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL SELEÇÃO DE CANDIDATO -->
+    <div id="modal-selecao" class="modal-overlay hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Selecione um candidato</h3>
+                <button class="btn-close close-modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Cargo*</label>
+                        <select class="form-control" id="select-cargo">
+                            <option value="">Selecione...</option>
+                            <option value="Presidente">Presidente</option>
+                            <option value="Governador">Governador</option>
+                            <option value="Senador">Senador</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>UF*</label>
+                        <select class="form-control" id="select-uf">
+                            <option value="BR">Brasil</option>
+                            <option value="AC">Acre</option>
+                            <option value="SP">São Paulo</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Município</label>
+                        <select class="form-control" id="select-municipio">
+                            <option value="">Todos</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group" style="width: 100%;">
+                        <label>Partido</label>
+                        <select class="form-control" id="select-partido">
+                            <option value="">Selecione...</option>
+                            <option value="PT">PT</option>
+                            <option value="PL">PL</option>
+                            <option value="MDB">MDB</option>
+                        </select>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem;">
+                    <button class="btn-search" id="btn-pesquisar">Pesquisar</button>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-secondary close-modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Global -->
+    <footer class="global-footer">
+        <div>TSE - Tribunal Superior Eleitoral</div>
+        <div>Versão 2.7.34</div>
+    </footer>
+
+    <!-- JS -->
+    <script src="/static/candcontas.js"></script>
+    <script src="/static/telemetry.js"></script>
+</body>
+</html>
