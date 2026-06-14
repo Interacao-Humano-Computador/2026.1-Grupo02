@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Justificativa Eleitoral Online — TSE</title>
+    <link rel="stylesheet" href="/static-je/justificativa.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Header Global -->
+    <header class="global-header">
+        <div class="header-brand">
+            <div class="header-logo-box">TSE</div>
+            <span class="header-title">Tribunal Superior Eleitoral</span>
+        </div>
+        <nav class="header-nav">
+            <a href="#">Atendimento</a>
+            <a href="#">Legislação</a>
+            <a href="#">Transparência</a>
+        </nav>
+    </header>
+
+    <!-- ====== PÁGINA 1: HOME ====== -->
+    <div id="page-home">
+        <div class="hero-bar">
+            <h2>Portal do Eleitor</h2>
+            <small>Acesse os serviços eleitorais online</small>
+        </div>
+
+        <div class="services-section">
+            <h3 class="section-title">Serviços Disponíveis</h3>
+            <div class="services-grid">
+
+                <div class="service-card">
+                    <div class="service-icon"><i class="fas fa-id-card"></i></div>
+                    <div class="service-info">
+                        <h3>Emissão do Título Eleitoral</h3>
+                        <p>Emita a 2ª via do seu título de eleitor em formato digital.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon"><i class="fas fa-map-marker-alt"></i></div>
+                    <div class="service-info">
+                        <h3>Consulta de Local de Votação</h3>
+                        <p>Verifique o endereço da sua seção eleitoral.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon"><i class="fas fa-calendar-check"></i></div>
+                    <div class="service-info">
+                        <h3>Agendamento Presencial</h3>
+                        <p>Agende um atendimento em um cartório eleitoral.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon"><i class="fas fa-certificate"></i></div>
+                    <div class="service-info">
+                        <h3>Certidão de Quitação Eleitoral</h3>
+                        <p>Comprove que está em situação regular com a Justiça Eleitoral.</p>
+                    </div>
+                </div>
+
+                <!-- Interação crítica -->
+                <div class="service-card highlight" id="card-justificativa">
+                    <div class="service-icon"><i class="fas fa-file-signature"></i></div>
+                    <div class="service-info">
+                        <h3>Justificativa Eleitoral Online</h3>
+                        <p>Justifique sua ausência nas eleições sem precisar ir ao cartório.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon"><i class="fas fa-exchange-alt"></i></div>
+                    <div class="service-info">
+                        <h3>Transferência de Domicílio</h3>
+                        <p>Solicite a transferência do seu domicílio eleitoral.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon"><i class="fas fa-hand-paper"></i></div>
+                    <div class="service-info">
+                        <h3>Voluntariado para Mesário</h3>
+                        <p>Candidate-se para ser mesário nas eleições.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-icon"><i class="fas fa-unlock-alt"></i></div>
+                    <div class="service-info">
+                        <h3>Regularização Eleitoral</h3>
+                        <p>Regularize pendências eleitorais: débitos de multas e ausências.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA 2: LOGIN GOV.BR ====== -->
+    <div id="page-login" class="hidden">
+        <div class="hero-bar">
+            <h2>Justificativa Eleitoral Online</h2>
+            <small>Autenticação necessária</small>
+        </div>
+
+        <div class="govbr-page">
+            <div class="govbr-box">
+                <div class="govbr-header">
+                    <div class="govbr-logo">gov.br</div>
+                    <span class="govbr-label">Acesso com sua conta gov.br</span>
+                </div>
+                <div class="govbr-body">
+                    <h3>Informe seu CPF para continuar</h3>
+                    <div class="form-group">
+                        <label for="input-cpf">CPF *</label>
+                        <input type="text" id="input-cpf" class="form-control" placeholder="000.000.000-00" maxlength="14">
+                    </div>
+                    <div class="form-group">
+                        <label for="input-senha">Senha *</label>
+                        <input type="password" id="input-senha" class="form-control" placeholder="Digite sua senha">
+                    </div>
+                    <button class="btn-primary" id="btn-entrar">Entrar</button>
+                    <span class="govbr-back" id="btn-back-login">← Voltar ao Portal do Eleitor</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA 3: FORMULÁRIO — PASSO 1 (Eleição e Motivo) ====== -->
+    <div id="page-form-step1" class="hidden">
+        <div class="hero-bar">
+            <h2>Justificativa Eleitoral Online</h2>
+        </div>
+
+        <div class="stepper-page">
+            <div class="page-card">
+                <div class="page-card-header">
+                    <i class="fas fa-file-signature"></i> Formulário de Justificativa
+                </div>
+                <div class="breadcrumb">
+                    <a id="bread-home-step1">Portal do Eleitor</a> / Justificativa Eleitoral
+                </div>
+
+                <!-- Steps -->
+                <div class="steps-bar">
+                    <div class="step active" id="step1-ind">
+                        <div class="step-circle">1</div>
+                        <div class="step-label">Eleição e Motivo</div>
+                    </div>
+                    <div class="step" id="step2-ind">
+                        <div class="step-circle">2</div>
+                        <div class="step-label">Documento Comprobatório</div>
+                    </div>
+                    <div class="step" id="step3-ind">
+                        <div class="step-circle">3</div>
+                        <div class="step-label">Confirmação</div>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h4>Dados da Eleição</h4>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Eleição *</label>
+                            <select class="form-control" id="select-eleicao">
+                                <option value="">Selecione...</option>
+                                <option value="1T-2026">1º Turno — Eleições Federais 2026</option>
+                                <option value="2T-2026">2º Turno — Eleições Federais 2026</option>
+                                <option value="1T-2024">1º Turno — Eleições Municipais 2024</option>
+                                <option value="2T-2024">2º Turno — Eleições Municipais 2024</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Zona Eleitoral *</label>
+                            <input type="text" class="form-control" id="input-zona" value="001ª ZE — Brasília/DF" readonly style="background:#f5f5f5;">
+                        </div>
+                    </div>
+
+                    <h4 style="margin-top:1rem;">Motivo da Ausência</h4>
+                    <div class="form-row">
+                        <div class="form-group" style="flex:100%;">
+                            <label>Motivo *</label>
+                            <select class="form-control" id="select-motivo">
+                                <option value="">Selecione o motivo...</option>
+                                <option value="doenca">Doença ou acidente</option>
+                                <option value="trabalho">Exercício de trabalho ou serviço</option>
+                                <option value="viagem">Viagem ou deslocamento</option>
+                                <option value="familiar">Falecimento ou urgência familiar</option>
+                                <option value="outro">Outro motivo</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group" style="flex:100%;">
+                            <label>Descrição do motivo *</label>
+                            <textarea class="form-control" id="input-descricao" rows="3" placeholder="Descreva brevemente o motivo da sua ausência..."></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button class="btn-outline" id="btn-cancelar-step1">Cancelar</button>
+                    <button class="btn-action" id="btn-prox-step1">Próximo <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA 4: FORMULÁRIO — PASSO 2 (Documento) ====== -->
+    <div id="page-form-step2" class="hidden">
+        <div class="hero-bar">
+            <h2>Justificativa Eleitoral Online</h2>
+        </div>
+
+        <div class="stepper-page">
+            <div class="page-card">
+                <div class="page-card-header">
+                    <i class="fas fa-file-signature"></i> Formulário de Justificativa
+                </div>
+                <div class="breadcrumb">
+                    <a id="bread-home-step2">Portal do Eleitor</a> / Justificativa Eleitoral
+                </div>
+
+                <div class="steps-bar">
+                    <div class="step done" id="step1-ind2">
+                        <div class="step-circle"><i class="fas fa-check" style="font-size:0.8rem;"></i></div>
+                        <div class="step-label">Eleição e Motivo</div>
+                    </div>
+                    <div class="step active" id="step2-ind2">
+                        <div class="step-circle">2</div>
+                        <div class="step-label">Documento Comprobatório</div>
+                    </div>
+                    <div class="step" id="step3-ind2">
+                        <div class="step-circle">3</div>
+                        <div class="step-label">Confirmação</div>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h4>Documento Comprobatório</h4>
+                    <p style="font-size:0.85rem;color:var(--color-text-secondary);margin-bottom:1rem;">
+                        Anexe um documento que comprove o motivo da sua ausência (ex: atestado médico, declaração de trabalho, comprovante de viagem). Formatos aceitos: PDF, JPG, PNG. Tamanho máximo: 5 MB.
+                    </p>
+
+                    <div class="upload-area" id="upload-area">
+                        <i class="fas fa-cloud-upload-alt"></i>
+                        <p>Clique aqui para selecionar o arquivo</p>
+                        <small>ou arraste e solte o documento nesta área</small>
+                        <input type="file" id="file-input" style="display:none;" accept=".pdf,.jpg,.jpeg,.png">
+                    </div>
+
+                    <div id="upload-done" class="hidden" style="margin-top:1rem; padding:1rem; background:#f0fff4; border:1px solid #a3d9a5; border-radius:6px; display:flex; align-items:center; gap:0.8rem;">
+                        <i class="fas fa-check-circle" style="color:var(--color-success); font-size:1.5rem;"></i>
+                        <div>
+                            <div style="font-weight:600; font-size:0.9rem;" id="upload-filename">documento.pdf</div>
+                            <div style="font-size:0.78rem; color:var(--color-text-secondary);">Arquivo anexado com sucesso</div>
+                        </div>
+                        <button id="btn-remover-arquivo" style="margin-left:auto; background:none; border:none; color:var(--color-danger); cursor:pointer; font-size:0.85rem;">
+                            <i class="fas fa-times"></i> Remover
+                        </button>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button class="btn-outline" id="btn-voltar-step2"><i class="fas fa-arrow-left"></i> Voltar</button>
+                    <button class="btn-action" id="btn-prox-step2">Próximo <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA 5: CONFIRMAÇÃO ====== -->
+    <div id="page-confirmacao" class="hidden">
+        <div class="hero-bar">
+            <h2>Justificativa Eleitoral Online</h2>
+        </div>
+
+        <div class="stepper-page">
+            <div class="page-card">
+                <div class="page-card-header">
+                    <i class="fas fa-file-signature"></i> Formulário de Justificativa
+                </div>
+                <div class="breadcrumb">
+                    <a id="bread-home-confirm">Portal do Eleitor</a> / Justificativa Eleitoral
+                </div>
+
+                <div class="steps-bar">
+                    <div class="step done">
+                        <div class="step-circle"><i class="fas fa-check" style="font-size:0.8rem;"></i></div>
+                        <div class="step-label">Eleição e Motivo</div>
+                    </div>
+                    <div class="step done">
+                        <div class="step-circle"><i class="fas fa-check" style="font-size:0.8rem;"></i></div>
+                        <div class="step-label">Documento Comprobatório</div>
+                    </div>
+                    <div class="step active">
+                        <div class="step-circle">3</div>
+                        <div class="step-label">Confirmação</div>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h4>Revise os dados antes de enviar</h4>
+
+                    <div class="review-block">
+                        <h5>Dados da Eleição</h5>
+                        <div class="review-row">
+                            <span>Eleição:</span>
+                            <span id="rev-eleicao">—</span>
+                        </div>
+                        <div class="review-row">
+                            <span>Zona Eleitoral:</span>
+                            <span>001ª ZE — Brasília/DF</span>
+                        </div>
+                    </div>
+
+                    <div class="review-block">
+                        <h5>Motivo da Ausência</h5>
+                        <div class="review-row">
+                            <span>Motivo:</span>
+                            <span id="rev-motivo">—</span>
+                        </div>
+                        <div class="review-row">
+                            <span>Descrição:</span>
+                            <span id="rev-descricao" style="text-align:right; max-width:400px;">—</span>
+                        </div>
+                    </div>
+
+                    <div class="review-block">
+                        <h5>Documento Comprobatório</h5>
+                        <div class="review-row">
+                            <span>Arquivo anexado:</span>
+                            <span id="rev-arquivo">—</span>
+                        </div>
+                    </div>
+
+                    <p style="font-size:0.82rem; color:var(--color-text-secondary); margin-top:0.5rem;">
+                        <i class="fas fa-info-circle"></i>
+                        Ao confirmar, sua justificativa será registrada junto à Justiça Eleitoral. O comprovante em PDF estará disponível para download imediatamente após o envio.
+                    </p>
+                </div>
+
+                <div class="form-actions">
+                    <button class="btn-outline" id="btn-voltar-confirm"><i class="fas fa-arrow-left"></i> Voltar</button>
+                    <button class="btn-action" id="btn-enviar">
+                        <i class="fas fa-paper-plane"></i> Confirmar e Enviar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA 6: SUCESSO ====== -->
+    <div id="page-sucesso" class="hidden">
+        <div class="hero-bar">
+            <h2>Justificativa Eleitoral Online</h2>
+        </div>
+
+        <div class="success-page">
+            <div class="success-icon">
+                <i class="fas fa-check"></i>
+            </div>
+            <h2>Justificativa Enviada com Sucesso!</h2>
+            <p>
+                Sua justificativa eleitoral foi registrada junto à Justiça Eleitoral.<br>
+                Guarde o comprovante abaixo para futuras consultas.
+            </p>
+
+            <div class="protocol-box">
+                <small>Número do Protocolo</small>
+                <strong id="num-protocolo">JE-2026-000000</strong>
+            </div>
+
+            <br>
+
+            <button class="btn-download" id="btn-baixar-pdf">
+                <i class="fas fa-file-pdf"></i> Baixar Comprovante em PDF
+            </button>
+
+            <span class="btn-home-link" id="btn-voltar-home">← Voltar ao Portal do Eleitor</span>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="global-footer">
+        <div>TSE — Tribunal Superior Eleitoral</div>
+        <div>Versão 3.1.0</div>
+    </footer>
+
+    <script src="/static-je/justificativa.js"></script>
+    <script src="/static/telemetry.js"></script>
+</body>
+</html>

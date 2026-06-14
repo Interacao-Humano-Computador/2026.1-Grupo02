@@ -10,7 +10,9 @@ from typing import List, Dict, Any
 app = FastAPI()
 
 app.mount("/static", StaticFiles(directory="../CandContas/static"), name="static")
+app.mount("/static-je", StaticFiles(directory="../JustificativaEleitoral/static"), name="static-je")
 templates = Jinja2Templates(directory="../CandContas/templates")
+templates_je = Jinja2Templates(directory="../JustificativaEleitoral/templates")
 
 os.makedirs("logs", exist_ok=True)
 
@@ -55,6 +57,14 @@ async def log_interaction(log: EventLog):
                 "key": event.get("key", "")
             })
     return {"status": "success"}
+
+@app.get("/justificativa", response_class=HTMLResponse)
+async def read_tcle_justificativa(request: Request):
+    return templates_je.TemplateResponse(request=request, name="tcle_justificativa.html")
+
+@app.get("/justificativa-eleitoral", response_class=HTMLResponse)
+async def read_justificativa(request: Request):
+    return templates_je.TemplateResponse(request=request, name="justificativa.html")
 
 if __name__ == "__main__":
     import uvicorn
