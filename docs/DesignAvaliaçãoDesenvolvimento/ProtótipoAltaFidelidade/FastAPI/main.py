@@ -32,6 +32,10 @@ async def read_tcle(request: Request):
 async def read_test(request: Request):
     return templates.TemplateResponse(request=request, name="candcontas.html")
 
+@app.get("/titulo-eleitor", response_class=HTMLResponse)
+async def read_titulo_eleitor(request: Request):
+    return templates.TemplateResponse(request=request, name="titulo_eleitor.html")
+
 @app.post("/api/log-interaction")
 async def log_interaction(log: EventLog):
     filename = f"logs/{log.participantId}.csv"
