@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agendamento Presencial — TSE</title>
+    <link rel="stylesheet" href="/static-ag/agendamento.css?v=2">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Navbar TSE  -->
+    <div class="tse-topbar">
+        <div class="tse-topbar-inner">
+            <a href="#">Acessibilidade</a>
+            <span class="sep">|</span>
+            <a href="#">Fale conosco / Ouvidoria</a>
+            <span class="sep">|</span>
+            <a href="#">Transparência e prestação de contas</a>
+            <span class="sep">|</span>
+            <a href="#" class="tse-info" title="Informações"><i class="fas fa-info-circle"></i></a>
+            <span class="sep">|</span>
+        </div>
+    </div>
+
+    <!-- Barra principal: logo + menu -->
+    <header class="tse-header">
+        <div class="tse-header-inner">
+            <a href="#" class="tse-brand" id="brand-home">
+                <img src="/static-ag/site_logo.png" alt="Tribunal Superior Eleitoral" class="tse-logo">
+            </a>
+            <nav class="tse-nav">
+                <a href="#" class="active">Serviços eleitorais</a>
+                <a href="#">Eleições</a>
+                <a href="#">Partidos</a>
+                <a href="#">Notícias</a>
+                <a href="#">Jurisprudência</a>
+                <a href="#">Legislação</a>
+                <a href="#">Serviços judiciais</a>
+                <a href="#">Institucional</a>
+                <a href="#" class="tse-search" title="Buscar"><i class="fas fa-search"></i></a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- pagina inicial -->
+    <div id="page-home">
+        <div class="hero-bar">
+            <h2>Agendamento de Atendimento Presencial</h2>
+            <small>Cartórios e Centrais de Atendimento ao Eleitor</small>
+        </div>
+
+        <div class="page-breadcrumb">
+            <a href="#">Portal do Eleitor</a> / Serviços Eleitorais / Agendamento Presencial
+        </div>
+
+        <div class="content-wrap">
+
+            <div class="layout-grid">
+
+                <!-- sidebar -->
+                <aside class="sidebar-card">
+                    <div class="sidebar-title">Serviços eleitorais</div>
+                    <ul class="sidebar-nav">
+                        <li class="active"><a href="#">Agendamento</a></li>
+                        <li><a href="#">Alterar Local de Votação</a></li>
+                        <li><a href="#">Emitir Certidão de Quitação Eleitoral</a></li>
+                        <li><a href="#">Comparativo De Candidatos</a></li>
+                        <li><a href="#">Emissão do 1º título</a></li>
+                        <li><a href="/justificativa-eleitoral">Justificativa eleitoral</a></li>
+                        <li><a href="#">Ser Mesário</a></li>
+                    </ul>
+                </aside>
+
+                <!-- card agendamento -->
+                <section class="main-card">
+                    <h3 class="main-title">Agendamento para Atendimento Presencial</h3>
+                    <p>
+                        <strong>ATENÇÃO:</strong> o atendimento presencial nas unidades da Justiça
+                        Eleitoral deve ser previamente agendado. Veja a seguir os serviços
+                        disponíveis:
+                    </p>
+                    <ul class="service-list">
+                        <li>1 - Emissão de certidões;</li>
+                        <li>2 - Segunda via do título eleitoral;</li>
+                        <li>3 - Emissão de multa eleitoral para pagamento;</li>
+                        <li>4 - Restabelecimento de direitos políticos suspensos.</li>
+                    </ul>
+                    <p>
+                        O Tribunal Regional Eleitoral informa que os atendimentos são realizados
+                        conforme agendamento prévio realizado pelas unidades da Justiça Eleitoral.
+                    </p>
+
+                    <!-- Botões principais no estilo da captura -->
+                    <div class="big-actions">
+                        <button class="big-btn" id="btn-agendar">
+                            <span class="big-btn-icon"><i class="fas fa-calendar-plus"></i></span>
+                            <span class="big-btn-text">Agendar<br>Atendimento</span>
+                        </button>
+                        <button class="big-btn" id="btn-acompanhar">
+                            <span class="big-btn-icon"><i class="fas fa-calendar-check"></i></span>
+                            <span class="big-btn-text">Acompanhar<br>Agendamento</span>
+                        </button>
+                    </div>
+
+                    <p style="margin-top:1.6rem;">
+                        Em caso de dúvidas, ligue para a Central de Atendimento ao Eleitor – CATE <strong>(61)3048-4000</strong>.
+                    </p>
+                </section>
+
+            </div>
+            <!-- Informações úteis -->
+            <h3 class="section-title">Informações úteis</h3>
+            <div class="info-grid">
+
+                <div class="info-card">
+                    <i class="fas fa-id-card"></i>
+                    <h4>Documentos</h4>
+                    <p>Leve um documento oficial de identificação com foto. Alguns serviços exigem comprovantes adicionais.</p>
+                </div>
+
+                <div class="info-card">
+                    <i class="fas fa-clock"></i>
+                    <h4>Horário de funcionamento</h4>
+                    <p>Atendimento de segunda a sexta-feira, das 12h às 19h, exceto feriados.</p>
+                </div>
+
+                <div class="info-card">
+                    <i class="fas fa-list-check"></i>
+                    <h4>Serviços disponíveis</h4>
+                    <p>Revisão de dados, regularização, biometria, transferência e demais serviços presenciais.</p>
+                </div>
+
+                <div class="info-card">
+                    <i class="fas fa-headset"></i>
+                    <h4>Dúvidas</h4>
+                    <p>Em caso de dúvidas, entre em contato com a Central de Atendimento pelo telefone 148.</p>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <!-- POPUP: AGENDAR (identificação do eleitor) -->
+    <div id="modal-agendar" class="modal-overlay hidden">
+        <div class="agendar-card" role="dialog" aria-modal="true" aria-labelledby="agendar-title">
+
+                <!-- Botão voltar no topo -->
+                <button class="back-link" id="btn-voltar-agendar">
+                    <i class="fas fa-arrow-left"></i> Voltar
+                </button>
+
+                <h2 class="agendar-title" id="agendar-title">Agendamento</h2>
+
+                <div id="agendar-step1">
+                    <p class="agendar-sub">Informe seus dados para iniciar o agendamento do atendimento presencial.</p>
+
+                    <div class="form-field">
+                        <label for="input-identificacao">Identificação do eleitor</label>
+                        <div class="id-input-group">
+                            <select id="select-tipo-id" class="id-select">
+                                <option value="cpf">CPF</option>
+                                <option value="titulo">Título</option>
+                            </select>
+                            <input type="text" id="input-identificacao" class="id-input"
+                                   placeholder="Digite o número do CPF" inputmode="numeric">
+                        </div>
+                    </div>
+
+                    <div class="recaptcha-box" id="recaptcha">
+                        <div class="recaptcha-check">
+                            <span class="recaptcha-checkbox" id="recaptcha-checkbox"></span>
+                            <span class="recaptcha-label">I'm not a robot</span>
+                        </div>
+                        <div class="recaptcha-brand">
+                            <i class="fas fa-shield-halved recaptcha-logo"></i>
+                            <div class="recaptcha-brand-text">
+                                <span>reCAPTCHA</span>
+                                <small>Privacy - Terms</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="agendar-actions">
+                        <button class="btn-secondary" id="btn-voltar-agendar2">Voltar</button>
+                        <button class="btn-confirmar" id="btn-confirmar-agendar">Confirmar</button>
+                    </div>
+                </div>
+
+                <div id="agendar-step2" class="hidden">
+                    <p class="agendar-sub">Escolha o local de atendimento e a data desejada.</p>
+
+                    <div class="form-field">
+                        <label for="select-local">Local de atendimento</label>
+                        <select id="select-local" class="form-control">
+                            <option value="">Selecione o local...</option>
+                            <option value="cartorio-plano-piloto">Cartório Eleitoral - Plano Piloto</option>
+                            <option value="cartorio-taguatinga">Cartório Eleitoral - Taguatinga</option>
+                            <option value="cartorio-ceilandia">Cartório Eleitoral - Ceilândia</option>
+                            <option value="cartorio-gama">Cartório Eleitoral - Gama</option>
+                            <option value="cate-central">Central de Atendimento ao Eleitor (CATE)</option>
+                        </select>
+                    </div>
+
+                    <div class="form-field">
+                        <label for="input-data">Data do atendimento</label>
+                        <input type="date" id="input-data" class="form-control">
+                    </div>
+
+                    <div class="form-field">
+                        <label for="select-horario">Horário do atendimento</label>
+                        <select id="select-horario" class="form-control">
+                            <option value="">Selecione o horário...</option>
+                            <option value="12:00">12:00</option>
+                            <option value="13:00">13:00</option>
+                            <option value="14:00">14:00</option>
+                            <option value="15:00">15:00</option>
+                            <option value="16:00">16:00</option>
+                            <option value="17:00">17:00</option>
+                            <option value="18:00">18:00</option>
+                        </select>
+                    </div>
+
+                    <div class="agendar-actions">
+                        <button class="btn-secondary" id="btn-voltar-step2">Voltar</button>
+                        <button class="btn-confirmar" id="btn-confirmar-step2">Confirmar</button>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+
+    <!-- POPUP: ACOMPANHAR (consulta de agendamento) -->
+    <div id="modal-acompanhar" class="modal-overlay hidden">
+        <div class="agendar-card" role="dialog" aria-modal="true" aria-labelledby="acompanhar-title">
+
+                <button class="back-link" id="btn-voltar-acompanhar">
+                    <i class="fas fa-arrow-left"></i> Voltar
+                </button>
+
+                <h2 class="agendar-title" id="acompanhar-title">Acompanhamento</h2>
+
+                <div id="acompanhar-step1">
+                    <p class="agendar-sub">Informe seus dados para consultar um agendamento existente.</p>
+
+                    <div class="form-field">
+                        <label for="input-acomp">Identificação</label>
+                        <div class="id-input-group">
+                            <select id="select-tipo-acomp" class="id-select">
+                                <option value="cpf">CPF</option>
+                                <option value="titulo">Título</option>
+                                <option value="protocolo">Protocolo</option>
+                            </select>
+                            <input type="text" id="input-acomp" class="id-input"
+                                   placeholder="Digite o número do CPF">
+                        </div>
+                    </div>
+
+                    <div class="recaptcha-box" id="recaptcha-acomp">
+                        <div class="recaptcha-check">
+                            <span class="recaptcha-checkbox" id="recaptcha-checkbox-acomp"></span>
+                            <span class="recaptcha-label">I'm not a robot</span>
+                        </div>
+                        <div class="recaptcha-brand">
+                            <i class="fas fa-shield-halved recaptcha-logo"></i>
+                            <div class="recaptcha-brand-text">
+                                <span>reCAPTCHA</span>
+                                <small>Privacy - Terms</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="agendar-actions">
+                        <button class="btn-secondary" id="btn-voltar-acomp2">Voltar</button>
+                        <button class="btn-confirmar" id="btn-confirmar-acomp">Consultar</button>
+                    </div>
+                </div>
+
+                <div id="acompanhar-choice" class="hidden">
+                    <p class="agendar-sub">Agendamento localizado. O que você deseja fazer?</p>
+
+                    <div class="choice-actions">
+                        <button class="choice-btn visualizar" id="btn-visualizar">
+                            <i class="fas fa-eye"></i> Visualizar
+                        </button>
+                        <button class="choice-btn cancelar" id="btn-cancelar-ag">
+                            <i class="fas fa-times-circle"></i> Cancelar
+                        </button>
+                    </div>
+
+                    <div class="agendar-actions">
+                        <button class="btn-secondary" id="btn-voltar-choice">Voltar</button>
+                    </div>
+                </div>
+
+                <div id="acompanhar-step2" class="hidden">
+                    <p class="agendar-sub">Agendamento encontrado:</p>
+
+                    <div class="resultado-box">
+                        <div class="resultado-row"><span>Protocolo:</span><strong>AG-2026-048213</strong></div>
+                        <div class="resultado-row"><span>Local:</span><strong>Cartório Eleitoral - Plano Piloto</strong></div>
+                        <div class="resultado-row"><span>Data:</span><strong>22/06/2026</strong></div>
+                        <div class="resultado-row"><span>Horário:</span><strong>14:00</strong></div>
+                        <div class="resultado-row"><span>Situação:</span><strong class="status-ok">Confirmado</strong></div>
+                    </div>
+
+                    <!-- Ações -->
+                    <div class="agendar-actions">
+                        <button class="btn-secondary" id="btn-voltar-acomp-step2">Voltar</button>
+                        <button class="btn-confirmar" id="btn-fechar-acomp">Fechar</button>
+                    </div>
+                </div>
+
+                <div id="acompanhar-cancel" class="hidden">
+                    <p class="agendar-sub">Tem certeza de que deseja cancelar este agendamento? Esta ação não pode ser desfeita.</p>
+
+                    <div class="resultado-box">
+                        <div class="resultado-row"><span>Protocolo:</span><strong>AG-2026-048213</strong></div>
+                        <div class="resultado-row"><span>Local:</span><strong>Cartório Eleitoral - Plano Piloto</strong></div>
+                        <div class="resultado-row"><span>Data:</span><strong>22/06/2026 às 14:00</strong></div>
+                    </div>
+
+                    <div class="agendar-actions">
+                        <button class="btn-secondary" id="btn-voltar-cancel">Voltar</button>
+                        <button class="btn-cancelar-confirm" id="btn-confirmar-cancel">Confirmar cancelamento</button>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="global-footer">
+        <div>TSE — Tribunal Superior Eleitoral</div>
+        <div>Versão 1.0.0 — Agendamento Presencial</div>
+    </footer>
+
+    <script src="/static-ag/agendamento.js?v=2"></script>
+    <script src="/static/telemetry.js"></script>
+</body>
+</html>

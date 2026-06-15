@@ -11,8 +11,10 @@ app = FastAPI()
 
 app.mount("/static", StaticFiles(directory="../CandContas/static"), name="static")
 app.mount("/static-je", StaticFiles(directory="../JustificativaEleitoral/static"), name="static-je")
+app.mount("/static-ag", StaticFiles(directory="../Agendamento/static"), name="static-ag")
 templates = Jinja2Templates(directory="../CandContas/templates")
 templates_je = Jinja2Templates(directory="../JustificativaEleitoral/templates")
+templates_ag = Jinja2Templates(directory="../Agendamento/templates")
 
 os.makedirs("logs", exist_ok=True)
 
@@ -65,6 +67,10 @@ async def read_tcle_justificativa(request: Request):
 @app.get("/justificativa-eleitoral", response_class=HTMLResponse)
 async def read_justificativa(request: Request):
     return templates_je.TemplateResponse(request=request, name="justificativa.html")
+
+@app.get("/agendamento", response_class=HTMLResponse)
+async def read_agendamento(request: Request):
+    return templates_ag.TemplateResponse(request=request, name="agendamento.html")
 
 if __name__ == "__main__":
     import uvicorn
