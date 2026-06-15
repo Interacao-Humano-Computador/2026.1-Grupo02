@@ -3,64 +3,113 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autoatendimento Eleitoral — Emissão do 1° Título</title>
+    <title>TSE — Autoatendimento Eleitoral</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="/static-emt/titulo_eleitor.css">
 </head>
 <body>
 
-<!-- ═══ HEADER GLOBAL ═══ -->
+<!-- ═══ HEADER GLOBAL ABC ═══ -->
 <header class="global-header">
-    <div class="header-left">
-        <span class="header-title">Autoatendimento Eleitoral</span>
+    <div class="top-bar-brand" onclick="goTo('page-portal')" style="cursor:pointer;">
+        <div class="brand-logo">TSE</div>
+        <div>
+            <div class="brand-name"></div>
+            <div class="brand-sub"></div>
+        </div>
     </div>
-    <button class="menu-btn"><i class="fas fa-bars"></i></button>
+    <nav class="nav-tabs">
+        <a class="nav-tab" onclick="goTo('page-home')">Serviço</a>
+        <a class="nav-tab" href="#" onclick="return false;">Eleição</a>
+        <a class="nav-tab" href="#" onclick="return false;">Partido</a>
+        <a class="nav-tab" href="#" onclick="return false;">Legislação</a>
+    </nav>
+    <button class="header-search-btn" title="Buscar"><i class="fas fa-search"></i></button>
 </header>
+
+<!-- ═══════════════════════════════════════════
+     PÁGINA 0 — PORTAL INICIAL (Notícias + Serviço)
+════════════════════════════════════════════ -->
+<div id="page-portal">
+    <div class="portal-container">
+        <a class="portal-card portal-news" href="#" onclick="return false;">
+            <i class="fas fa-newspaper"></i>
+            <h3>Notícia</h3>
+            <p>Confira as últimas notícias da Justiça Eleitoral.</p>
+        </a>
+        <div class="portal-card portal-services">
+            <h3 class="portal-services-title">Serviço</h3>
+            <ul class="portal-services-list">
+                <li><a href="#" onclick="return false;"><i class="fas fa-flag"></i> Partidos</a></li>
+                <li><a href="#" onclick="return false;"><i class="fas fa-balance-scale"></i> Legislação</a></li>
+                <li><a onclick="goTo('page-home')"><i class="fas fa-id-card"></i> Autoatendimento Eleitoral</a></li>
+                <li><a href="#" onclick="return false;"><i class="fas fa-gavel"></i> Jurisprudência</a></li>
+                <li><a href="#" onclick="return false;"><i class="fas fa-desktop"></i> Balcão Virtual</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
 
 <!-- ═══════════════════════════════════════════
      PÁGINA 1 — HOME / Serviços
 ════════════════════════════════════════════ -->
-<div id="page-home">
+<div id="page-home" class="hidden">
     <section class="hero-section">
-        <div class="hero-overlay">
+        <div class="hero-text">
             <h2>Autoatendimento do Eleitor</h2>
             <p>Realize serviços eleitorais de forma rápida e segura, sem sair de casa.</p>
-            <small>Tribunal Superior Eleitoral — tse.jus.br</small>
+            <small>TSE — Sistema de Autoatendimento</small>
         </div>
+
     </section>
 
     <section class="section-container">
         <h3 class="section-title">Serviços Disponíveis</h3>
         <div class="cards-grid">
-            <div class="action-card highlight" id="card-titulo-novo">
+            <div class="action-card" id="card-titulo-novo" onclick="goTo('page-documentos')">
                 <i class="fas fa-id-card action-icon"></i>
                 <h3>Tirar 1° Título</h3>
-                <p>Solicite seu primeiro título de eleitor de forma online pelo sistema Título Net.</p>
-            </div>
-            <div class="action-card">
-                <i class="fas fa-exchange-alt action-icon"></i>
-                <h3>Transferência de Domicílio</h3>
-                <p>Transfira seu título para outro município.</p>
-            </div>
-            <div class="action-card">
-                <i class="fas fa-edit action-icon"></i>
-                <h3>Revisão de Dados</h3>
-                <p>Atualize ou corrija seus dados cadastrais.</p>
-            </div>
-            <div class="action-card">
-                <i class="fas fa-file-invoice-dollar action-icon"></i>
-                <h3>Quitação de Débito Eleitoral</h3>
-                <p>Quite débitos e justifique ausências nas eleições.</p>
-            </div>
-            <div class="action-card">
-                <i class="fas fa-search action-icon"></i>
-                <h3>Consulta de Situação Eleitoral</h3>
-                <p>Verifique sua situação perante a Justiça Eleitoral.</p>
+                <p>Solicite seu primeiro título de eleitor online pelo sistema Título Net.</p>
             </div>
             <div class="action-card">
                 <i class="fas fa-print action-icon"></i>
-                <h3>Emissão de Certidões</h3>
-                <p>Emita certidões de quitação e outros documentos eleitorais.</p>
+                <h3>Emissão do título eleitoral</h3>
+                <p>Emita a 2ª via do seu título em formato digital.</p>
+            </div>
+            <div class="action-card">
+                <i class="fas fa-map-marker-alt action-icon"></i>
+                <h3>Consulta de local de votação</h3>
+                <p>Verifique o endereço da sua seção eleitoral.</p>
+            </div>
+            <div class="action-card">
+                <i class="fas fa-calendar-check action-icon"></i>
+                <h3>Agendamento presencial</h3>
+                <p>Agende um atendimento em um cartório eleitoral.</p>
+            </div>
+            <div class="action-card">
+                <i class="fas fa-file-invoice action-icon"></i>
+                <h3>Certidão de quitação eleitoral</h3>
+                <p>Comprove sua situação regular na Justiça Eleitoral.</p>
+            </div>
+            <div class="action-card">
+                <i class="fas fa-pen action-icon"></i>
+                <h3>Justificativa eleitoral online</h3>
+                <p>Justifique sua ausência sem ir ao cartório.</p>
+            </div>
+            <div class="action-card">
+                <i class="fas fa-exchange-alt action-icon"></i>
+                <h3>Transferência de domicílio</h3>
+                <p>Solicite a transferência do seu domicílio eleitoral.</p>
+            </div>
+            <div class="action-card">
+                <i class="fas fa-hand-paper action-icon"></i>
+                <h3>Voluntariado para mesário</h3>
+                <p>Candidate-se para ser mesário nas eleições.</p>
+            </div>
+            <div class="action-card">
+                <i class="fas fa-unlock action-icon"></i>
+                <h3>Regularização eleitoral</h3>
+                <p>Regularize débitos, multas e ausências.</p>
             </div>
         </div>
     </section>
@@ -70,13 +119,12 @@
      PÁGINA 2 — UPLOAD DE DOCUMENTOS
 ════════════════════════════════════════════ -->
 <div id="page-documentos" class="hidden">
-    <div class="sub-header"><i class="fas fa-id-card"></i> Tirar 1° Título de Eleitor</div>
+
     <div class="page-content">
         <div class="breadcrumbs">
             <a onclick="goTo('page-home')">Página Inicial</a> /
             <span>Anexo de Documentos</span>
         </div>
-        <!-- Stepper -->
         <div class="stepper">
             <div class="step active"><div class="step-circle">1</div><div class="step-label">Documentos</div></div>
             <div class="step-connector"></div>
@@ -96,8 +144,6 @@
                 <i class="fas fa-info-circle"></i>
                 <div>Envie os documentos abaixo em formato <strong>PDF, JPG ou PNG</strong>, com no máximo <strong>5 MB</strong> por arquivo. Certifique-se de que as imagens estejam nítidas e legíveis.</div>
             </div>
-
-            <!-- Selfie -->
             <div style="margin-bottom: 1.5rem;">
                 <label class="upload-label">1. Selfie segurando o documento de identidade <span class="req">*</span></label>
                 <div class="notice warn" style="margin-bottom: 0.8rem;">
@@ -105,8 +151,8 @@
                     <div>
                         <strong>Atenção ao enquadramento:</strong> A foto deve mostrar claramente seu rosto e o documento ao lado. Use boa iluminação e fundo neutro.
                         <br>
-                        <div class="selfie-guide" style="margin-top: 0.8rem; width: 60px; height: 60px;">
-                            <i class="fas fa-user" style="font-size: 1.8rem;"></i>
+                        <div class="selfie-guide" style="margin-top: 0.8rem;">
+                            <i class="fas fa-user"></i>
                         </div>
                     </div>
                 </div>
@@ -119,8 +165,6 @@
                     <div class="notice success" style="margin-top: 0.5rem;"><i class="fas fa-check-circle"></i><div>Selfie anexada com sucesso.</div></div>
                 </div>
             </div>
-
-            <!-- RG -->
             <div style="margin-bottom: 1.5rem;">
                 <label class="upload-label">2. Documento de identidade — frente e verso (RG, CNH ou equivalente) <span class="req">*</span></label>
                 <div class="upload-area" id="ua-rg" onclick="simulateUpload(this, 'ok-rg')">
@@ -132,8 +176,6 @@
                     <div class="notice success" style="margin-top: 0.5rem;"><i class="fas fa-check-circle"></i><div>Documento anexado com sucesso.</div></div>
                 </div>
             </div>
-
-            <!-- Comprovante de residência -->
             <div style="margin-bottom: 1.5rem;">
                 <label class="upload-label">3. Comprovante de residência <span class="req">*</span></label>
                 <div class="notice warn" style="margin-bottom: 0.8rem;">
@@ -149,7 +191,6 @@
                     <div class="notice success" style="margin-top: 0.5rem;"><i class="fas fa-check-circle"></i><div>Comprovante anexado com sucesso.</div></div>
                 </div>
             </div>
-
             <div class="btn-row">
                 <button class="btn btn-secondary" onclick="goTo('page-home')"><i class="fas fa-arrow-left"></i> Voltar</button>
                 <button class="btn btn-primary" onclick="avancarDocumentos()">Avançar <i class="fas fa-arrow-right"></i></button>
@@ -159,10 +200,10 @@
 </div>
 
 <!-- ═══════════════════════════════════════════
-     PÁGINA 2B — VERIFICAÇÃO DE DOCUMENTOS (PROCESSAMENTO)
+     PÁGINA 2B — VERIFICAÇÃO DE DOCUMENTOS
 ════════════════════════════════════════════ -->
 <div id="page-verificando" class="hidden">
-    <div class="sub-header"><i class="fas fa-file-upload"></i> Anexo de Documentos</div>
+
     <div class="page-content">
         <div class="form-card">
             <div class="verify-box" id="verify-loading">
@@ -188,18 +229,16 @@
 </div>
 
 <!-- ═══════════════════════════════════════════
-     PÁGINA 3 — AUTODECLARAÇÃO DE MULTA (Tela 2B)
+     PÁGINA 3 — SITUAÇÃO DE ALISTAMENTO
 ════════════════════════════════════════════ -->
 <div id="page-multa" class="hidden">
-    <div class="sub-header"><i class="fas fa-id-card"></i> Tirar 1° Título de Eleitor</div>
+
     <div class="page-content">
         <div class="breadcrumbs">
             <a onclick="goTo('page-home')">Página Inicial</a> /
             <a onclick="goTo('page-documentos')">Tirar 1° Título</a> /
             <span>Situação de Alistamento</span>
         </div>
-
-        <!-- Stepper -->
         <div class="stepper">
             <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Documentos</div></div>
             <div class="step-connector done"></div>
@@ -213,10 +252,8 @@
             <div class="step-connector"></div>
             <div class="step"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
         </div>
-
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-gavel"></i> Situação de Alistamento</div>
-
             <div class="notice warn">
                 <i class="fas fa-exclamation-triangle"></i>
                 <div>
@@ -227,7 +264,6 @@
                     </a>
                 </div>
             </div>
-
             <div class="form-group" style="max-width: 400px;">
                 <label>Você já completou 19 anos? <span class="req">*</span></label>
                 <div class="radio-group" style="margin-top: 0.8rem;">
@@ -241,26 +277,16 @@
                     </label>
                 </div>
             </div>
-
-            <!-- Resultado: isento -->
             <div id="multa-result-nao" class="hidden" style="margin-top: 1.2rem;">
                 <div class="notice success">
                     <i class="fas fa-check-circle"></i>
-                    <div>
-                        <strong>Você está dentro do prazo.</strong><br>
-                        Como você ainda não completou 19 anos, seu alistamento está no período regular. Não há multa a pagar. Prossiga com o preenchimento do formulário.
-                    </div>
+                    <div><strong>Você está dentro do prazo.</strong><br>Como você ainda não completou 19 anos, seu alistamento está no período regular. Não há multa a pagar. Prossiga com o preenchimento do formulário.</div>
                 </div>
             </div>
-
-            <!-- Resultado: multa devida -->
             <div id="multa-result-sim" class="hidden" style="margin-top: 1.2rem;">
                 <div class="notice danger">
                     <i class="fas fa-exclamation-circle"></i>
-                    <div>
-                        <strong>Multa por alistamento tardio identificada.</strong><br>
-                        Você declarou que seu alistamento está fora do prazo regular. É necessário quitar a multa antes de prosseguir com o requerimento.
-                    </div>
+                    <div><strong>Multa por alistamento tardio identificada.</strong><br>Você declarou que seu alistamento está fora do prazo regular. É necessário quitar a multa antes de prosseguir com o requerimento.</div>
                 </div>
                 <div class="gru-card" style="margin-top: 1rem;">
                     <h4><i class="fas fa-file-invoice-dollar"></i> Guia de Recolhimento da União (GRU)</h4>
@@ -276,15 +302,13 @@
                         <button class="pay-btn" onclick="selectPay(this)"><i class="fas fa-credit-card"></i> Cartão de Crédito</button>
                     </div>
                     <div style="margin-top: 1rem; font-size: 0.85rem; color: var(--color-text-secondary);">
-                        <i class="fas fa-info-circle"></i>
-                        Após efetuar o pagamento, clique em "Já paguei" para inserir o comprovante e prosseguir.
+                        <i class="fas fa-info-circle"></i> Após efetuar o pagamento, clique em "Já paguei" para inserir o comprovante e prosseguir.
                     </div>
                     <div style="margin-top: 0.8rem; display: flex; gap: 0.8rem; flex-wrap: wrap;">
                         <button class="btn btn-success" onclick="simularPagamento()"><i class="fas fa-download"></i> Gerar GRU e Pagar</button>
                         <button class="btn btn-secondary" onclick="jaPagei()"><i class="fas fa-upload"></i> Já paguei — inserir comprovante</button>
                     </div>
                 </div>
-                <!-- Comprovante upload (hidden) -->
                 <div id="comprovante-area" class="hidden" style="margin-top: 1rem;">
                     <div class="notice info">
                         <i class="fas fa-info-circle"></i>
@@ -304,7 +328,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="btn-row">
                 <button class="btn btn-secondary" onclick="goTo('page-documentos')"><i class="fas fa-arrow-left"></i> Voltar</button>
                 <button class="btn btn-primary" onclick="avancarDaMulta()">Continuar <i class="fas fa-arrow-right"></i></button>
@@ -317,14 +340,14 @@
      PÁGINA 4 — IDENTIFICAÇÃO
 ════════════════════════════════════════════ -->
 <div id="page-identificacao" class="hidden">
-    <div class="sub-header"><i class="fas fa-id-card"></i> Tirar 1° Título de Eleitor</div>
+
     <div class="page-content">
         <div class="breadcrumbs">
             <a onclick="goTo('page-home')">Página Inicial</a> /
             <a onclick="goTo('page-documentos')">Tirar 1° Título</a> /
             <span>Dados de Identificação</span>
         </div>
-        <div class="stepper" id="stepper-ident">
+        <div class="stepper">
             <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Documentos</div></div>
             <div class="step-connector done"></div>
             <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Situação</div></div>
@@ -428,7 +451,17 @@
      PÁGINA 5 — ENDEREÇO
 ════════════════════════════════════════════ -->
 <div id="page-endereco" class="hidden">
-    <div class="sub-header"><i class="fas fa-id-card"></i> Tirar 1° Título de Eleitor</div>
+
+    <div class="sub-header-ident">
+        <div class="ident-user-block">
+            <div class="ident-avatar">SN</div>
+            <div>
+                <div class="ident-user-name">Regina Alvez</div>
+                <div class="ident-user-cpf">CPF: 123.456.789-10</div>
+            </div>
+        </div>
+        <div class="ident-badge"><i class="fas fa-check-circle"></i> Identidade verificada</div>
+    </div>
     <div class="page-content">
         <div class="breadcrumbs">
             <a onclick="goTo('page-home')">Página Inicial</a> /
@@ -501,7 +534,17 @@
      PÁGINA 6 — CONTATO
 ════════════════════════════════════════════ -->
 <div id="page-contato" class="hidden">
-    <div class="sub-header"><i class="fas fa-id-card"></i> Tirar 1° Título de Eleitor</div>
+
+    <div class="sub-header-ident">
+        <div class="ident-user-block">
+            <div class="ident-avatar">SN</div>
+            <div>
+                <div class="ident-user-name">Regina Alvez</div>
+                <div class="ident-user-cpf">CPF: 123.456.789-10</div>
+            </div>
+        </div>
+        <div class="ident-badge"><i class="fas fa-check-circle"></i> Identidade verificada</div>
+    </div>
     <div class="page-content">
         <div class="breadcrumbs">
             <a onclick="goTo('page-home')">Página Inicial</a> /
@@ -556,10 +599,20 @@
 </div>
 
 <!-- ═══════════════════════════════════════════
-     PÁGINA 8 — CONFIRMAÇÃO
+     PÁGINA 7 — CONFIRMAÇÃO
 ════════════════════════════════════════════ -->
 <div id="page-confirmacao" class="hidden">
-    <div class="sub-header"><i class="fas fa-id-card"></i> Tirar 1° Título de Eleitor</div>
+
+    <div class="sub-header-ident">
+        <div class="ident-user-block">
+            <div class="ident-avatar">SN</div>
+            <div>
+               <div class="ident-user-name">Regina Alvez</div>
+                <div class="ident-user-cpf">CPF: 123.456.789-10</div>
+            </div>
+        </div>
+        <div class="ident-badge"><i class="fas fa-check-circle"></i> Identidade verificada</div>
+    </div>
     <div class="page-content">
         <div class="breadcrumbs">
             <a onclick="goTo('page-home')">Página Inicial</a> /
@@ -579,14 +632,12 @@
             <div class="step-connector done"></div>
             <div class="step active"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
         </div>
-
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-clipboard-check"></i> Revisão dos Dados Inseridos</div>
             <div class="notice info" style="margin-bottom: 1.5rem;">
                 <i class="fas fa-info-circle"></i>
                 <div>Confira seus dados antes de enviar. Após a confirmação, não será possível alterar as informações por este canal.</div>
             </div>
-
             <div style="font-size: 0.85rem; font-weight: 700; color: var(--color-primary-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.8rem;">Identificação</div>
             <div class="summary-grid" style="margin-bottom: 1.5rem;">
                 <div class="summary-item"><label>Nome completo</label><span id="s-nome">—</span></div>
@@ -594,7 +645,6 @@
                 <div class="summary-item"><label>CPF</label><span id="s-cpf">—</span></div>
                 <div class="summary-item"><label>Nome da mãe</label><span id="s-mae">—</span></div>
             </div>
-
             <div style="font-size: 0.85rem; font-weight: 700; color: var(--color-primary-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.8rem;">Endereço</div>
             <div class="summary-grid" style="margin-bottom: 1.5rem;">
                 <div class="summary-item"><label>CEP</label><span id="s-cep">—</span></div>
@@ -602,25 +652,21 @@
                 <div class="summary-item"><label>Bairro</label><span id="s-bairro">—</span></div>
                 <div class="summary-item"><label>Município / UF</label><span id="s-mun">—</span></div>
             </div>
-
             <div style="font-size: 0.85rem; font-weight: 700; color: var(--color-primary-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.8rem;">Contato</div>
             <div class="summary-grid" style="margin-bottom: 1.5rem;">
                 <div class="summary-item"><label>E-mail</label><span id="s-email">—</span></div>
                 <div class="summary-item"><label>Telefone</label><span id="s-tel">—</span></div>
             </div>
-
             <div style="font-size: 0.85rem; font-weight: 700; color: var(--color-primary-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.8rem;">Documentos</div>
             <div class="summary-grid" style="margin-bottom: 1.5rem;">
                 <div class="summary-item"><label>Selfie com documento</label><span style="color: var(--color-green);"><i class="fas fa-check-circle"></i> Anexado</span></div>
                 <div class="summary-item"><label>Documento de identidade</label><span style="color: var(--color-green);"><i class="fas fa-check-circle"></i> Anexado</span></div>
                 <div class="summary-item"><label>Comprovante de residência</label><span style="color: var(--color-green);"><i class="fas fa-check-circle"></i> Anexado</span></div>
             </div>
-
             <label class="checkbox-opt" style="margin-bottom: 1.2rem;">
                 <input type="checkbox" id="check-declaro">
                 Declaro que as informações prestadas são verdadeiras e que os documentos apresentados são autênticos, estando ciente de que a prestação de informações falsas constitui crime eleitoral.
             </label>
-
             <div class="btn-row">
                 <button class="btn btn-secondary" onclick="goTo('page-documentos')"><i class="fas fa-arrow-left"></i> Voltar e Revisar</button>
                 <button class="btn btn-success" onclick="confirmar()"><i class="fas fa-paper-plane"></i> Confirmar e Enviar Requerimento</button>
@@ -630,7 +676,7 @@
 </div>
 
 <!-- ═══════════════════════════════════════════
-     PÁGINA 9 — PROTOCOLO FINAL
+     PÁGINA 8 — PROTOCOLO FINAL
 ════════════════════════════════════════════ -->
 <div id="page-protocolo" class="hidden">
     <div class="sub-header"><i class="fas fa-check-circle"></i> Requerimento Enviado com Sucesso</div>
@@ -639,8 +685,8 @@
             <div class="protocol-box">
                 <div class="protocol-icon"><i class="fas fa-check-circle"></i></div>
                 <h2>Requerimento enviado!</h2>
-                <p>Seu pedido de emissão do 1° título de eleitor foi recebido pelo sistema do TSE.<br>Guarde o número de protocolo abaixo para acompanhar o andamento.</p>
-                <div class="protocol-number" id="num-protocolo">TRE-2026-000001</div>
+                <p>Seu pedido de emissão do 1° título de eleitor foi recebido pelo sistema TSE.<br>Guarde o número de protocolo abaixo para acompanhar o andamento.</p>
+                <div class="protocol-number" id="num-protocolo">TSE-2026-000001</div>
                 <p style="margin-bottom: 1.5rem; font-size: 0.88rem;">
                     <i class="fas fa-clock" style="color: var(--color-yellow);"></i>
                     Seu pedido será analisado em até <strong>30 dias úteis</strong>. Você receberá atualizações no e-mail cadastrado.
@@ -663,8 +709,8 @@
 
 <!-- ═══ FOOTER ═══ -->
 <footer class="global-footer">
-    <div>TSE — Tribunal Superior Eleitoral</div>
-    <div>Autoatendimento Eleitoral — Protótipo de Alta Fidelidade</div>
+    <div>TSE — Sistema de Autoatendimento</div>
+    <div>Protótipo de Alta Fidelidade</div>
 </footer>
 
 <script src="/static-emt/titulo_eleitor.js"></script>
@@ -673,5 +719,3 @@
 <script src="/static/telemetry.js"></script>
 </body>
 </html>
-
-

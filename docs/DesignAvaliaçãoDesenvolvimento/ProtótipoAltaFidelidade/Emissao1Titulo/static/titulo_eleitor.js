@@ -1,12 +1,16 @@
-// ── Navegação entre páginas ──
 function goTo(pageId) {
     document.querySelectorAll('[id^="page-"]').forEach(p => p.classList.add('hidden'));
     document.getElementById(pageId).classList.remove('hidden');
     window.scrollTo(0, 0);
     if (pageId === 'page-confirmacao') preencherSumario();
+
+    // Marca a aba "Serviço" como ativa em todas as telas, exceto no portal inicial
+    const servicoTab = document.querySelector('.nav-tab[onclick*="page-home"]');
+    if (servicoTab) {
+        servicoTab.classList.toggle('active', pageId !== 'page-portal');
+    }
 }
 
-// ── Lógica da tela de multa ──
 function handleMulta(val) {
     document.getElementById('multa-result-nao').classList.add('hidden');
     document.getElementById('multa-result-sim').classList.add('hidden');
@@ -29,15 +33,12 @@ function selectPay(btn) {
     btn.classList.add('selected');
 }
 
-function jaPagei() {
-    document.getElementById('comprovante-area').classList.remove('hidden');
-}
+function jaPagei() { document.getElementById('comprovante-area').classList.remove('hidden'); }
 
 function simularPagamento() {
     alert('Em um sistema real, aqui seria aberta a página de pagamento da GRU. Para este protótipo, clique em "Já paguei" para simular a inserção do comprovante.');
 }
 
-// ── Upload simulado ──
 function simulateUpload(area, okId) {
     setTimeout(() => {
         area.classList.add('uploaded');
@@ -46,18 +47,15 @@ function simulateUpload(area, okId) {
     }, 600);
 }
 
-// ── Busca CEP simulada ──
 function buscarCEP() {
     const cep = document.getElementById('cep').value.replace(/\D/g,'');
     if (cep.length < 8) { alert('Digite um CEP válido.'); return; }
-    // Simula preenchimento
     document.getElementById('logradouro').value = 'SQN 210 Bloco G';
     document.getElementById('bairro').value = 'Asa Norte';
     document.getElementById('municipio').value = 'Brasília';
     document.getElementById('uf-end').value = 'DF';
 }
 
-// ── Sumário na confirmação ──
 function preencherSumario() {
     const v = (id) => document.getElementById(id)?.value || '—';
     document.getElementById('s-nome').textContent  = v('nome') || '—';
@@ -72,18 +70,15 @@ function preencherSumario() {
     document.getElementById('s-tel').textContent   = v('tel') || '—';
 }
 
-// ── Confirmação final ──
 function confirmar() {
     if (!document.getElementById('check-declaro').checked) {
         alert('É necessário marcar a declaração de veracidade das informações para prosseguir.');
         return;
     }
-    // Protocolo fixo do fluxo
-    document.getElementById('num-protocolo').textContent = 'TRE-2026-000001';
+    document.getElementById('num-protocolo').textContent = 'ABC-2026-000001';
     goTo('page-protocolo');
 }
 
-// ── Máscaras ──
 function maskCPF(el) {
     let v = el.value.replace(/\D/g,'');
     if (v.length > 11) v = v.slice(0,11);
@@ -106,10 +101,6 @@ function maskTel(el) {
     el.value = v;
 }
 
-// ── Card home ──
-document.getElementById('card-titulo-novo').addEventListener('click', () => goTo('page-documentos'));
-
-// ── Avançar da tela de upload de documentos para a verificação simulada ──
 function avancarDocumentos() {
     const okSelfie = !document.getElementById('ok-selfie').classList.contains('hidden');
     const okRg = !document.getElementById('ok-rg').classList.contains('hidden');
@@ -122,9 +113,7 @@ function avancarDocumentos() {
     iniciarVerificacaoDocumentos();
 }
 
-// ── Animação fictícia de análise/verificação dos documentos ──
 function iniciarVerificacaoDocumentos() {
-    // Reseta estado da tela
     document.getElementById('verify-loading').classList.remove('hidden');
     document.getElementById('verify-success').classList.add('hidden');
     ['vchk-1','vchk-2','vchk-3'].forEach(id => {
@@ -132,7 +121,6 @@ function iniciarVerificacaoDocumentos() {
         li.classList.remove('checked');
         li.innerHTML = '<i class="fas fa-circle-notch fa-spin"></i> ' + li.textContent.trim();
     });
-
     const itens = ['vchk-1','vchk-2','vchk-3'];
     itens.forEach((id, i) => {
         setTimeout(() => {
@@ -141,8 +129,6 @@ function iniciarVerificacaoDocumentos() {
             li.innerHTML = '<i class="fas fa-check-circle"></i> ' + li.textContent.trim();
         }, 700 * (i + 1));
     });
-
-    // Após a "análise", exibe a confirmação de sucesso
     setTimeout(() => {
         document.getElementById('verify-loading').classList.add('hidden');
         document.getElementById('verify-success').classList.remove('hidden');
