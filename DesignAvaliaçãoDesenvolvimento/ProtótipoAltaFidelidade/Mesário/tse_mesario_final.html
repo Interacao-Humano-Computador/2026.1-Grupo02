@@ -1,0 +1,1138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TSE — Protótipo Mesário Voluntário</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.44.0/tabler-icons.min.css">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', Arial, sans-serif; background: #f0f2f5; }
+.screen { display: none; }
+.screen.active { display: block; }
+
+/* ── LOGO SVG embutido ── */
+.tse-logo-svg-inline {
+  height: 46px;
+  width: auto;
+  display: block;
+}
+
+/* ── TOPBAR ── */
+.tse-topbar {
+  background: #0d1f35;
+  padding: 5px 28px;
+  font-size: 11px;
+  display: flex; gap: 0;
+  color: #9ab4cc;
+  justify-content: flex-end;
+  align-items: center;
+}
+.tse-topbar a { color: #9ab4cc; cursor: default; text-decoration: none; }
+.tse-topbar .sep { color: #2d5a8a; margin: 0 8px; }
+.tse-topbar .lang { display: flex; gap: 10px; margin-left: 12px; align-items: center; }
+.tse-topbar .lang span { display: flex; align-items: center; gap: 3px; font-weight: 600; cursor: default; }
+.tse-topbar .info-icon {
+  width: 16px; height: 16px; border-radius: 50%;
+  background: #2d5a8a; color: white;
+  font-size: 9px; font-weight: 700;
+  display: inline-flex; align-items: center; justify-content: center;
+  margin: 0 6px; flex-shrink: 0;
+}
+
+/* ── NAV ── */
+.tse-nav-row {
+  display: flex; align-items: center;
+  padding: 8px 28px;
+  background: white;
+  border-bottom: 1px solid #dde4ee;
+  gap: 0;
+}
+.tse-logo { display: flex; align-items: center; margin-right: 28px; flex-shrink: 0; }
+.tse-nav {
+  display: flex; gap: 0; flex: 1;
+  font-size: 13px; color: #2d4a6a; font-weight: 500;
+  align-items: stretch;
+}
+.tse-nav span {
+  cursor: default; padding: 8px 14px;
+  display: flex; align-items: center;
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+}
+.tse-nav span:hover, .tse-nav span.anav { border-bottom: 2px solid #1a3a5c; color: #1a3a5c; }
+.tse-search-icon { margin-left: auto; color: #2d4a6a; font-size: 20px; padding: 8px; cursor: default; }
+
+/* ─────────────────────────────────────────
+   TELA 1 — HOMEPAGE (fiel ao TSE real)
+───────────────────────────────────────── */
+.hp-bg { background: #cdd9e5; padding: 20px 28px 0; }
+
+/* Grid principal: notícias + sidebar */
+.hp-main-grid {
+  display: grid;
+  grid-template-columns: 1fr 290px;
+  gap: 20px;
+  align-items: start;
+}
+
+/* Hero */
+.hp-hero-wrap {
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  height: 300px;
+  cursor: default;
+}
+.hp-hero-photo {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.hp-hero-photo-bg {
+  width: 100%; height: 100%;
+  background: linear-gradient(135deg, #2c4a72 0%, #1a3a5c 40%, #3a6296 100%);
+  display: flex; align-items: center; justify-content: center;
+  position: relative;
+}
+/* Silhueta de pessoas em plenário */
+.hp-hero-photo-bg svg { opacity: 0.22; }
+.hp-hero-caption {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  padding: 20px 22px 18px;
+  background: linear-gradient(transparent, rgba(8,20,40,0.90) 40%);
+}
+.hp-badge-noticia {
+  background: #c0392b; color: white;
+  font-size: 9px; font-weight: 800; letter-spacing: 1.2px;
+  padding: 3px 9px; border-radius: 3px;
+  display: inline-block; margin-bottom: 9px; text-transform: uppercase;
+}
+.hp-hero-title {
+  color: white; font-size: 18px; font-weight: 700; line-height: 1.4;
+}
+
+/* Miniaturas */
+.hp-thumbs {
+  display: grid; grid-template-columns: 1fr 1fr 1fr;
+  gap: 12px; margin-top: 14px;
+}
+.hp-thumb {
+  background: white; border-radius: 7px; overflow: hidden; cursor: default;
+}
+.hp-thumb-photo {
+  height: 95px;
+  display: flex; align-items: center; justify-content: center;
+  position: relative; overflow: hidden;
+}
+.hp-thumb-photo.b1 { background: linear-gradient(135deg, #2c5282, #3a7bd5); }
+.hp-thumb-photo.b2 { background: linear-gradient(135deg, #1a4a2c, #2a8a4c); }
+.hp-thumb-photo.b3 { background: linear-gradient(135deg, #5c1a2c, #a03060); }
+.hp-thumb-photo svg { opacity: 0.22; }
+.hp-thumb-cap { padding: 9px 11px 11px; }
+.hp-badge-sm {
+  background: #c0392b; color: white;
+  font-size: 8px; font-weight: 800;
+  padding: 2px 7px; border-radius: 2px;
+  display: inline-block; margin-bottom: 5px; text-transform: uppercase;
+}
+.hp-thumb-cap p { font-size: 11.5px; color: #1a3a5c; font-weight: 600; line-height: 1.4; }
+
+/* SIDEBAR */
+.hp-sidebar { display: flex; flex-direction: column; gap: 14px; }
+.sidebar-box { background: white; border-radius: 8px; overflow: hidden; }
+.sidebar-title {
+  padding: 11px 16px;
+  font-size: 13.5px; font-weight: 700; color: #1a3a5c;
+  border-bottom: 1px solid #e8eef5;
+  display: flex; align-items: center; gap: 7px;
+}
+.sidebar-links { list-style: none; }
+.sidebar-links li {
+  font-size: 13px; padding: 10px 16px;
+  border-bottom: 1px solid #f0f4f8;
+  color: #2d6aad; cursor: default;
+}
+.sidebar-links li:last-child { border-bottom: none; }
+.sidebar-links li.hl-yellow {
+  background: #f5c518; color: #1a1a00; font-weight: 700; cursor: pointer;
+}
+.sidebar-links li.hl-yellow:hover { background: #e6b800; }
+
+/* ── Ticker de notícias ── */
+.hp-ticker-row {
+  background: white;
+  margin: 16px 0 0;
+  border-radius: 8px;
+  display: flex;
+  overflow: hidden;
+}
+.hp-ticker-news {
+  flex: 1; padding: 0;
+}
+.hp-ticker-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 11px 18px;
+  border-bottom: 1px solid #f0f4f8;
+  font-size: 12.5px; color: #2d4a6a; cursor: default;
+}
+.hp-ticker-item:last-child { border-bottom: none; }
+.hp-ticker-dash { color: #1a3a5c; font-weight: 700; flex-shrink: 0; }
+.hp-ticker-media {
+  border-left: 1px solid #e8eef5;
+  padding: 8px 14px;
+  display: flex; flex-direction: column; gap: 0;
+  justify-content: center; min-width: 100px;
+}
+.hp-ticker-media a {
+  display: flex; align-items: center; gap: 7px;
+  font-size: 12px; color: #2d4a6a; cursor: default;
+  padding: 8px 4px; border-bottom: 1px solid #f0f4f8; text-decoration: none;
+}
+.hp-ticker-media a:last-child { border-bottom: none; }
+.hp-ticker-media i { font-size: 16px; }
+
+/* ── Cards de seção (Eleições / Perfis / Sessões) ── */
+.hp-section-cards {
+  display: grid; grid-template-columns: 1fr 1fr 1fr;
+  gap: 14px; margin-top: 16px;
+}
+.hp-sec-card { background: white; border-radius: 8px; overflow: hidden; }
+.hp-sec-card-title {
+  padding: 12px 16px;
+  border-bottom: 1px solid #e8eef5;
+  display: flex; align-items: center; gap: 10px;
+  font-size: 14px; font-weight: 700; color: #1a3a5c;
+}
+.hp-sec-icon { font-size: 22px; color: #2d6aad; }
+.hp-sec-links { list-style: none; padding: 4px 0; }
+.hp-sec-links li {
+  padding: 9px 16px;
+  font-size: 12.5px; color: #2d6aad; cursor: default;
+  border-bottom: 1px solid #f4f7fb;
+  display: flex; align-items: center; gap: 6px;
+}
+.hp-sec-links li:last-child { border-bottom: none; }
+.hp-sec-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #c8d8e8; flex-shrink: 0;
+}
+
+/* ── Carrossel de temas ── */
+.hp-carousel-wrap {
+  background: white;
+  margin-top: 16px;
+  padding: 20px 28px;
+}
+.hp-carousel-grid {
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+}
+.hp-carousel-item {
+  display: flex; flex-direction: column; align-items: center;
+  padding: 16px 12px;
+  border-right: 1px solid #f0f4f8; cursor: default;
+  text-align: center;
+}
+.hp-carousel-item:last-child { border-right: none; }
+.hp-carousel-icon { font-size: 46px; margin-bottom: 10px; }
+.hp-carousel-label { font-size: 13px; font-weight: 700; color: #1a3a5c; line-height: 1.35; }
+.hp-carousel-dots {
+  display: flex; justify-content: center; gap: 6px; margin-top: 14px;
+}
+.hp-dot { width: 10px; height: 10px; border-radius: 50%; background: #cdd9e5; cursor: default; }
+.hp-dot.active { background: #1a3a5c; }
+
+/* ── Canais ── */
+.hp-channels { padding: 28px 28px 20px; background: #cdd9e5; text-align: center; }
+.hp-channels h2 { font-size: 18px; font-weight: 700; color: #1a3a5c; margin-bottom: 16px; }
+.hp-channels-row {
+  background: white; border-radius: 8px;
+  display: flex; align-items: center; justify-content: center; gap: 0;
+  overflow: hidden;
+}
+.hp-channel-item {
+  flex: 1; padding: 16px 8px;
+  display: flex; align-items: center; justify-content: center;
+  border-right: 1px solid #f0f4f8; cursor: default;
+}
+.hp-channel-item:last-child { border-right: none; }
+.hp-channel-icon {
+  width: 36px; height: 36px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 17px; color: white; font-weight: 700;
+}
+.ic-fb { background: #1877f2; }
+.ic-x  { background: #000; }
+.ic-ig { background: radial-gradient(circle at 30% 110%, #f09433, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888); }
+.ic-yt { background: #ff0000; }
+.ic-fk { background: #ff0084; }
+.ic-tt { background: #000; }
+.ic-li { background: #0a66c2; }
+.ic-go { background: #34a853; }
+
+/* ── FOOTER ── */
+.hp-footer {
+  background: #0d1f35;
+  padding: 30px 40px 20px;
+}
+.hp-footer-inner {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 30px; align-items: start; margin-bottom: 24px;
+}
+.hp-footer-address { color: #cdd9e5; font-size: 13px; line-height: 1.8; }
+.hp-footer-address .footer-logo { margin-bottom: 14px; filter: brightness(0) invert(1); opacity: 0.85; }
+.hp-footer-address strong { color: white; }
+.hp-footer-address .addr-icon { display: flex; gap: 10px; align-items: flex-start; margin-bottom: 10px; }
+.hp-footer-address .addr-icon i { color: #7aadcc; font-size: 16px; flex-shrink: 0; margin-top: 2px; }
+.hp-footer-address .clock-icon { display: flex; gap: 10px; align-items: flex-start; }
+.hp-footer-address .clock-icon i { color: #7aadcc; font-size: 16px; flex-shrink: 0; margin-top: 2px; }
+.hp-footer-right { display: flex; flex-direction: column; gap: 10px; }
+.hp-footer-social {
+  display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 4px;
+}
+.hp-footer-social-icon {
+  width: 34px; height: 34px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 16px; color: white; cursor: default;
+}
+.hp-footer-link {
+  border: 1px solid #2d4a6a; border-radius: 5px;
+  padding: 10px 16px;
+  color: #cdd9e5; font-size: 12.5px; cursor: default;
+  display: flex; align-items: center; gap: 9px;
+}
+.hp-footer-link i { font-size: 16px; color: #7aadcc; }
+.hp-footer-nav {
+  background: #0a1828;
+  padding: 10px 40px;
+  display: flex; gap: 0; align-items: center;
+}
+.hp-footer-nav a {
+  color: #7aadcc; font-size: 11.5px; cursor: default;
+  padding: 6px 14px; border-right: 1px solid #1a3a5c; text-decoration: none;
+}
+.hp-footer-nav a:last-child { border-right: none; }
+
+/* ── TELA 2 — AUTOATENDIMENTO ── */
+.auto-bg { background: #cdd9e5; padding: 18px 28px; }
+.auto-banner {
+  background: #1a3a5c; border-radius: 8px;
+  padding: 24px 32px; margin-bottom: 18px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.auto-banner-text h2 { color: #aac4e0; font-size: 12px; font-weight: 500; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 3px; }
+.auto-banner-text h1 { color: white; font-size: 26px; font-weight: 800; }
+.auto-banner-badge { background: #3ab06e; color: white; font-size: 12px; font-weight: 700; padding: 8px 16px; border-radius: 4px; letter-spacing: 1px; text-transform: uppercase; }
+.auto-search { background: white; border-radius: 6px; padding: 10px 16px; display: flex; align-items: center; gap: 8px; border: 1px solid #c8d8e8; margin-bottom: 18px; }
+.auto-search i { color: #7a9ab8; font-size: 18px; }
+.auto-search span { color: #a0b4c8; font-size: 14px; }
+.cards-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 13px; margin-bottom: 13px; }
+.service-card { background: white; border-radius: 10px; padding: 16px 18px; }
+.service-card.c-blue { border-top: 4px solid #1a3a5c; }
+.service-card.c-orange { border-top: 4px solid #e07c30; }
+.service-card.c-yellow { border-top: 4px solid #e6b800; }
+.service-card.c-red { border-top: 4px solid #d43a3a; background: #fff9f9; position: relative; }
+.service-card.c-green { border-top: 4px solid #3ab06e; }
+.service-card.c-purple { border-top: 4px solid #7c5cbf; }
+.card-title { font-size: 13.5px; font-weight: 700; color: #1a3a5c; margin-bottom: 11px; display: flex; align-items: center; gap: 7px; }
+.card-title i { font-size: 17px; }
+.card-links { list-style: none; }
+.card-links li { font-size: 12px; color: #2d6aad; padding: 3.5px 0; border-bottom: 1px solid #f0f4f8; cursor: default; }
+.card-links li:last-child { border-bottom: none; }
+.card-links li::before { content: '› '; color: #5a9ad8; }
+.cta-mesario-btn { margin-top: 11px; background: #d43a3a; color: white; font-size: 12px; font-weight: 700; padding: 8px 12px; border-radius: 5px; border: none; width: 100%; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px; }
+.cta-mesario-btn:hover { background: #b82e2e; }
+.badge-destaque { position: absolute; top: 12px; right: 12px; background: #d43a3a; color: white; font-size: 8px; font-weight: 700; padding: 2px 7px; border-radius: 10px; letter-spacing: 0.5px; text-transform: uppercase; }
+
+/* ── TELA 3 — FORMULÁRIO ── */
+.form-page { background: #cdd9e5; padding: 18px 28px; }
+.breadcrumb { font-size: 12px; color: #5a7a9a; margin-bottom: 14px; display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+.breadcrumb span { color: #8aacca; }
+.breadcrumb a { color: #2d6aad; cursor: default; }
+.breadcrumb strong { color: #2d4a6a; }
+.form-header { background: #1a3a5c; border-radius: 8px 8px 0 0; padding: 18px 26px; color: white; }
+.form-header h1 { font-size: 20px; font-weight: 700; }
+.form-header p { font-size: 12.5px; color: #aac4e0; margin-top: 4px; }
+.form-body { background: white; border-radius: 0 0 8px 8px; padding: 22px 26px; }
+.form-section { border: 1px solid #dde4ee; border-radius: 7px; margin-bottom: 16px; overflow: hidden; }
+.form-section-title { background: #f0f5fb; padding: 9px 14px; font-size: 12.5px; font-weight: 700; color: #1a3a5c; border-bottom: 1px solid #dde4ee; display: flex; align-items: center; gap: 7px; }
+.form-section-body { padding: 14px; }
+.form-row { display: flex; gap: 10px; margin-bottom: 10px; }
+.form-row:last-child { margin-bottom: 0; }
+.f { flex: 1; } .f2 { flex: 2; } .f3 { flex: 3; }
+.form-field label { display: block; font-size: 10.5px; font-weight: 700; color: #5a7a9a; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px; }
+.form-field label .req { color: #d43a3a; }
+.form-input { width: 100%; padding: 7px 9px; border: 1px solid #c8d8e8; border-radius: 5px; font-size: 12.5px; color: #2d4a6a; background: white; }
+select.form-input { background: white; }
+.radio-row { display: flex; gap: 18px; padding: 6px 0; }
+.radio-row label { display: flex; align-items: center; gap: 5px; font-size: 12.5px; color: #2d4a6a; cursor: default; }
+.radio-row input { accent-color: #1a3a5c; }
+.chk-group label { display: flex; align-items: flex-start; gap: 8px; font-size: 12px; color: #2d4a6a; margin-bottom: 10px; line-height: 1.55; cursor: default; }
+.chk-group label:last-child { margin-bottom: 0; }
+.chk-group input { accent-color: #1a3a5c; margin-top: 2px; flex-shrink: 0; }
+.alert-info { background: #e8f3fd; border: 1px solid #b5d4f4; border-radius: 6px; padding: 11px 14px; font-size: 12px; color: #1a3a5c; margin-bottom: 16px; display: flex; gap: 9px; align-items: flex-start; }
+.alert-info i { color: #2d6aad; font-size: 17px; flex-shrink: 0; margin-top: 1px; }
+.btn-submit { background: #1a3a5c; color: white; font-size: 14px; font-weight: 700; padding: 13px 32px; border-radius: 6px; border: none; cursor: pointer; width: 100%; margin-top: 8px; }
+.btn-submit:hover { background: #0f2540; }
+
+/* ── TELA 4 — CONFIRMAÇÃO ── */
+.confirm-page { background: #cdd9e5; min-height: 520px; padding: 36px 28px; display: flex; justify-content: center; align-items: flex-start; }
+.confirm-card { background: white; border-radius: 12px; max-width: 600px; width: 100%; overflow: hidden; box-shadow: 0 2px 20px rgba(26,58,92,0.12); }
+.confirm-header { background: #1a3a5c; padding: 30px 34px; text-align: center; color: white; }
+.confirm-check { width: 56px; height: 56px; border-radius: 50%; background: #3ab06e; display: flex; align-items: center; justify-content: center; margin: 0 auto 14px; font-size: 26px; color: white; }
+.confirm-header h1 { font-size: 19px; font-weight: 700; }
+.confirm-header p { font-size: 12.5px; color: #aac4e0; margin-top: 5px; }
+.confirm-body { padding: 24px 32px; }
+.confirm-msg { font-size: 13.5px; color: #2d4a6a; line-height: 1.7; margin-bottom: 18px; }
+.confirm-details { background: #f4f8fc; border-radius: 7px; padding: 14px 18px; margin-bottom: 16px; }
+.confirm-details h3 { font-size: 11px; font-weight: 700; color: #5a7a9a; text-transform: uppercase; letter-spacing: 0.7px; margin-bottom: 10px; }
+.detail-row { display: flex; justify-content: space-between; padding: 5px 0; font-size: 12.5px; border-bottom: 1px solid #dde4ee; }
+.detail-row:last-child { border-bottom: none; }
+.dl { color: #7a9ab8; } .dv { color: #1a3a5c; font-weight: 600; }
+.email-notice { background: #e8f8ef; border: 1px solid #9fe1cb; border-radius: 6px; padding: 13px 15px; font-size: 12.5px; color: #0f5c3a; display: flex; gap: 9px; align-items: flex-start; margin-bottom: 18px; }
+.email-notice i { font-size: 17px; flex-shrink: 0; margin-top: 1px; }
+.next-steps { font-size: 12.5px; color: #5a7a9a; line-height: 1.65; margin-bottom: 22px; }
+.next-steps strong { color: #2d4a6a; }
+.confirm-btns { display: flex; gap: 10px; }
+.btn-outline { background: white; color: #1a3a5c; border: 1.5px solid #1a3a5c; border-radius: 6px; padding: 9px 20px; font-size: 12.5px; font-weight: 600; cursor: pointer; }
+.btn-primary-sm { background: #1a3a5c; color: white; border: none; border-radius: 6px; padding: 9px 20px; font-size: 12.5px; font-weight: 600; cursor: pointer; }
+
+/* ── STEPPER ── */
+.stepper { display: flex; justify-content: center; gap: 6px; padding: 10px 0 3px; background: #f4f7fb; border-bottom: 1px solid #e0e8f0; }
+.step-pill { display: flex; align-items: center; gap: 5px; font-size: 10.5px; padding: 4px 11px; border-radius: 20px; color: #7a9ab8; background: #edf2f8; border: 1px solid #d8e4ee; cursor: pointer; }
+.step-pill.current { background: #1a3a5c; color: white; border-color: #1a3a5c; }
+.step-pill.done { background: #e0f5eb; color: #1a7a3c; border-color: #9fe1cb; }
+.step-dot { width: 5px; height: 5px; border-radius: 50%; background: currentColor; }
+</style>
+</head>
+<body>
+
+<!-- STEPPER de navegação -->
+<div class="stepper">
+  <div class="step-pill" id="p1" onclick="go(1)"><div class="step-dot"></div>Página inicial</div>
+  <div class="step-pill" id="p2" onclick="go(2)"><div class="step-dot"></div>Autoatendimento</div>
+  <div class="step-pill" id="p3" onclick="go(3)"><div class="step-dot"></div>Inscrição</div>
+  <div class="step-pill" id="p4" onclick="go(4)"><div class="step-dot"></div>Confirmação</div>
+</div>
+
+<!-- ══════════════════════════════════════
+     TELA 1 — HOMEPAGE (fiel ao TSE real)
+══════════════════════════════════════ -->
+<div id="s1" class="screen">
+
+  <!-- Topbar -->
+  <div class="tse-topbar">
+    <a>Acessibilidade</a><span class="sep">|</span>
+    <a>Ouvidoria</a><span class="sep">|</span>
+    <a>Transparência e prestação de contas</a>
+    <span class="info-icon">i</span>
+    <span class="sep">|</span>
+    <div class="lang">
+      <span>🇬🇧 ENG</span>
+      <span>🇪🇸 ESP</span>
+    </div>
+  </div>
+
+  <!-- Navbar -->
+  <div class="tse-nav-row">
+    <div class="tse-logo">
+      <!-- Logo SVG do TSE embutido -->
+      <svg class="tse-logo-svg-inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 102">
+        <defs><style>.cls-1{fill:#fcc200;fill-rule:evenodd}.cls-2{fill:#fff;fill-rule:evenodd}.cls-3{fill:#577372;fill-rule:evenodd}.cls-5{fill:#1d1d1b}.cls-4{fill:#5c719c;fill-rule:evenodd}</style></defs>
+        <path class="cls-4" d="M32.43,7.27c19.22-5.27,38.99,6.41,44.14,26.08,5.15,19.67-6.26,39.9-25.49,45.17-19.22,5.27-38.99-6.41-44.14-26.08C1.79,32.77,13.2,12.54,32.43,7.27h0Z"/>
+        <path class="cls-1" d="M36.24,95.77h-5.37v-15.2c6.56,1.99,13.73,2.22,20.82.27,20.48-5.62,32.64-27.17,27.15-48.13-2.21-8.43-6.94-15.48-13.14-20.54h29.26v49.68l-58.73,33.91h0Z"/>
+        <polygon class="cls-3" points="94.97 95.77 41.37 95.77 94.97 64.83 94.97 95.77 94.97 95.77"/>
+        <polygon class="cls-2" points="49.25 27.95 50.06 29.24 51.51 28.84 50.56 30.03 51.38 31.31 49.99 30.76 49.05 31.95 49.13 30.42 47.73 29.87 49.18 29.48 49.25 27.95 49.25 27.95"/>
+        <polygon class="cls-2" points="12.97 44.65 13.78 45.93 15.22 45.53 14.28 46.72 15.1 48 13.7 47.45 12.76 48.65 12.84 47.12 11.45 46.57 12.89 46.18 12.97 44.65 12.97 44.65"/>
+        <polygon class="cls-2" points="19.03 57.32 19.85 58.61 21.29 58.21 20.35 59.4 21.16 60.68 19.77 60.13 18.83 61.32 18.91 59.79 17.51 59.24 18.96 58.85 19.03 57.32 19.03 57.32"/>
+        <polygon class="cls-2" points="33.38 64.91 34.19 66.2 35.64 65.8 34.7 66.99 35.51 68.27 34.12 67.72 33.18 68.91 33.26 67.38 31.86 66.84 33.31 66.44 33.38 64.91 33.38 64.91"/>
+        <polygon class="cls-2" points="45.59 58.05 46.41 59.34 47.85 58.94 46.91 60.13 47.73 61.41 46.33 60.86 45.39 62.05 45.47 60.52 44.07 59.97 45.52 59.58 45.59 58.05 45.59 58.05"/>
+        <polygon class="cls-2" points="67.35 48.29 68.16 49.58 69.61 49.18 68.66 50.36 69.48 51.65 68.08 51.09 67.15 52.29 67.23 50.76 65.83 50.21 67.27 49.82 67.35 48.29 67.35 48.29"/>
+        <polygon class="cls-2" points="62.51 57.49 63.06 58.36 64.04 58.09 63.4 58.89 63.96 59.76 63.01 59.39 62.37 60.2 62.43 59.16 61.48 58.79 62.46 58.52 62.51 57.49 62.51 57.49"/>
+        <polygon class="cls-2" points="54.26 60.59 54.81 61.46 55.79 61.19 55.15 62 55.7 62.87 54.76 62.49 54.12 63.3 54.18 62.27 53.23 61.9 54.21 61.63 54.26 60.59 54.26 60.59"/>
+        <path class="cls-5" d="M111.21,32.26V15.96h-5.82v-3.32h15.59v3.32h-5.81v16.3h-3.97ZM125.09,32.26h-3.76v-14.21h3.49v2.02c.6-.95,1.14-1.58,1.61-1.89.48-.3,1.02-.46,1.63-.46.86,0,1.68.24,2.48.71l-1.16,3.28c-.63-.41-1.22-.61-1.76-.61s-.97.14-1.34.43c-.37.29-.65.81-.86,1.57-.21.76-.32,2.35-.32,4.76v4.39h0ZM131.65,16.12v-3.48h3.76v3.48h-3.76ZM131.65,32.26v-14.21h3.76v14.21h-3.76ZM138.6,32.26V12.64h3.76v7.07c1.16-1.32,2.53-1.98,4.12-1.98,1.73,0,3.16.63,4.3,1.88,1.13,1.25,1.7,3.05,1.7,5.4s-.58,4.3-1.74,5.61c-1.16,1.31-2.56,1.96-4.21,1.96-.81,0-1.61-.2-2.4-.61-.79-.41-1.47-1.01-2.04-1.8v2.09h-3.49ZM142.33,24.84c0,1.47.23,2.56.69,3.27.65,1,1.52,1.5,2.6,1.5.83,0,1.53-.36,2.12-1.06.58-.71.88-1.83.88-3.35,0-1.62-.3-2.8-.89-3.51-.58-.72-1.34-1.08-2.26-1.08s-1.65.35-2.25,1.05c-.6.7-.9,1.76-.9,3.19h0ZM164.35,32.26v-2.13c-.52.76-1.2,1.36-2.04,1.8-.85.43-1.74.65-2.67.65s-1.81-.21-2.57-.63c-.76-.42-1.31-1.01-1.65-1.77-.34-.76-.51-1.81-.51-3.15v-8.99h3.76v6.53c0,2,.07,3.23.21,3.68.14.45.39.8.75,1.07.37.27.83.39,1.39.39.64,0,1.22-.17,1.73-.53.51-.36.85-.79,1.04-1.31.19-.53.28-1.8.28-3.84v-5.99h3.76v14.21h-3.49ZM184.16,32.26h-3.76v-7.25c0-1.53-.08-2.53-.24-2.98-.16-.45-.42-.8-.79-1.05-.36-.25-.8-.37-1.3-.37-.65,0-1.24.18-1.75.53-.52.36-.87.83-1.06,1.42-.19.59-.29,1.68-.29,3.27v6.44h-3.76v-14.21h3.49v2.09c1.24-1.61,2.8-2.41,4.69-2.41.83,0,1.59.15,2.27.45.69.3,1.21.68,1.56,1.15.35.47.6.99.74,1.58.14.59.21,1.43.21,2.53v8.83h0ZM190.27,22.38l-3.41-.62c.38-1.37,1.04-2.39,1.98-3.05.94-.66,2.33-.99,4.18-.99,1.68,0,2.93.2,3.75.6.82.4,1.4.9,1.73,1.51.33.61.5,1.73.5,3.37l-.04,4.39c0,1.25.06,2.17.18,2.76.12.59.35,1.23.68,1.9h-3.72c-.1-.25-.22-.62-.36-1.11-.06-.22-.11-.37-.13-.44-.64.63-1.33,1.09-2.06,1.41-.73.31-1.51.47-2.34.47-1.46,0-2.62-.4-3.46-1.19-.84-.79-1.27-1.8-1.27-3.02,0-.8.19-1.52.58-2.15.38-.63.92-1.11,1.61-1.44.69-.33,1.69-.63,2.99-.88,1.75-.33,2.97-.64,3.65-.92v-.37c0-.73-.18-1.24-.53-1.55-.36-.31-1.03-.46-2.02-.46-.67,0-1.19.13-1.57.4-.37.26-.68.72-.91,1.38h0ZM195.3,25.43c-.48.16-1.24.35-2.29.58-1.04.22-1.72.44-2.05.65-.49.35-.74.79-.74,1.32s.2.98.59,1.37c.39.38.89.58,1.5.58.68,0,1.32-.22,1.94-.67.46-.34.75-.75.9-1.25.1-.32.15-.93.15-1.83v-.75h0ZM202.2,32.26V12.64h3.76v19.62h-3.76ZM105.79,57.59l3.86-.38c.23,1.3.7,2.25,1.41,2.85.71.6,1.66.91,2.87.91,1.27,0,2.24-.27,2.88-.81.65-.54.97-1.17.97-1.89,0-.47-.14-.86-.41-1.18-.27-.33-.74-.61-1.43-.85-.46-.16-1.52-.45-3.17-.86-2.12-.53-3.61-1.17-4.47-1.94-1.21-1.08-1.81-2.39-1.81-3.95,0-1,.28-1.93.85-2.81.57-.87,1.38-1.53,2.45-1.99,1.07-.45,2.35-.68,3.86-.68,2.47,0,4.32.54,5.56,1.62,1.24,1.08,1.9,2.52,1.96,4.33l-3.96.17c-.17-1.01-.53-1.74-1.09-2.17-.56-.44-1.39-.66-2.51-.66s-2.06.23-2.7.71c-.42.3-.63.71-.63,1.22,0,.47.2.86.59,1.19.5.42,1.71.86,3.64,1.31,1.93.46,3.35.93,4.28,1.41.92.49,1.64,1.15,2.17,2,.52.84.78,1.89.78,3.12,0,1.12-.31,2.18-.94,3.16-.63.98-1.51,1.71-2.65,2.19-1.14.48-2.57.72-4.27.72-2.48,0-4.39-.57-5.71-1.72-1.33-1.15-2.12-2.82-2.38-5.01h0ZM133.9,63.97v-2.13c-.52.76-1.2,1.36-2.04,1.8-.85.43-1.74.65-2.67.65s-1.81-.21-2.57-.63c-.76-.42-1.31-1.01-1.65-1.77-.34-.76-.51-1.81-.51-3.15v-8.99h3.76v6.53c0,2,.07,3.23.21,3.68.14.45.39.8.75,1.07.37.27.83.39,1.39.39.64,0,1.22-.17,1.73-.53.51-.36.85-.79,1.04-1.31.19-.53.28-1.8.28-3.84v-5.99h3.76v14.21h-3.49ZM106.8,95.68v-19.62h14.54v3.32h-10.58v4.35h9.85v3.3h-9.85v5.34h10.96v3.31h-14.92ZM124.54,95.68v-19.62h3.76v19.62h-3.76Z"/>
+      </svg>
+    </div>
+    <div class="tse-nav">
+      <span>Serviços eleitorais</span>
+      <span>Eleições</span>
+      <span>Partidos</span>
+      <span>Comunicação</span>
+      <span>Jurisprudência</span>
+      <span>Legislação</span>
+      <span>Serviços judiciais</span>
+      <span>Institucional</span>
+    </div>
+    <i class="ti ti-search tse-search-icon"></i>
+  </div>
+
+  <!-- Conteúdo principal -->
+  <div class="hp-bg">
+    <div class="hp-main-grid">
+      <!-- Coluna de notícias -->
+      <div>
+        <!-- Hero -->
+        <div class="hp-hero-wrap">
+          <div class="hp-hero-photo-bg">
+            <!-- Silhueta de plenário com pessoas -->
+            <svg width="700" height="300" viewBox="0 0 700 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <!-- Mesa principal (tribuna) -->
+              <rect x="50" y="160" width="600" height="8" rx="2" fill="white"/>
+              <!-- Pessoas sentadas na mesa -->
+              <ellipse cx="120" cy="140" rx="18" ry="22" fill="white"/>
+              <rect x="103" y="158" width="34" height="30" rx="3" fill="white"/>
+              <ellipse cx="200" cy="135" rx="18" ry="22" fill="white"/>
+              <rect x="183" y="153" width="34" height="30" rx="3" fill="white"/>
+              <ellipse cx="280" cy="132" rx="20" ry="24" fill="white"/>
+              <rect x="261" y="152" width="38" height="30" rx="3" fill="white"/>
+              <ellipse cx="360" cy="128" rx="22" ry="26" fill="white"/>
+              <rect x="339" y="150" width="42" height="30" rx="3" fill="white"/>
+              <ellipse cx="440" cy="132" rx="20" ry="24" fill="white"/>
+              <rect x="421" y="152" width="38" height="30" rx="3" fill="white"/>
+              <ellipse cx="520" cy="136" rx="18" ry="22" fill="white"/>
+              <rect x="503" y="154" width="34" height="30" rx="3" fill="white"/>
+              <ellipse cx="590" cy="140" rx="17" ry="21" fill="white"/>
+              <rect x="574" y="157" width="32" height="30" rx="3" fill="white"/>
+              <!-- Microfones -->
+              <rect x="112" y="120" width="3" height="25" rx="1" fill="white" opacity="0.7"/>
+              <ellipse cx="113.5" cy="118" rx="5" ry="7" fill="white" opacity="0.7"/>
+              <rect x="352" y="108" width="4" height="28" rx="1" fill="white" opacity="0.9"/>
+              <ellipse cx="354" cy="106" rx="6" ry="8" fill="white" opacity="0.9"/>
+              <!-- Bandeiras ao fundo -->
+              <rect x="580" y="60" width="6" height="100" rx="1" fill="white" opacity="0.4"/>
+              <rect x="582" y="60" width="40" height="26" rx="1" fill="white" opacity="0.3"/>
+              <rect x="605" y="60" width="6" height="100" rx="1" fill="white" opacity="0.4"/>
+              <rect x="607" y="60" width="40" height="26" rx="1" fill="white" opacity="0.3"/>
+              <!-- Fundo do auditório -->
+              <rect x="50" y="200" width="600" height="3" rx="1" fill="white" opacity="0.2"/>
+            </svg>
+          </div>
+          <div class="hp-hero-caption">
+            <div class="hp-badge-noticia">Notícia</div>
+            <p class="hp-hero-title">Presidente do TSE defende o fortalecimento da coordenação da Justiça Eleitoral</p>
+          </div>
+        </div>
+
+        <!-- Miniaturas de notícias -->
+        <div class="hp-thumbs">
+          <div class="hp-thumb">
+            <div class="hp-thumb-photo b1">
+              <svg width="140" height="95" viewBox="0 0 140 95" fill="none">
+                <ellipse cx="42" cy="38" rx="15" ry="19" fill="white"/>
+                <rect x="28" y="55" width="28" height="38" rx="3" fill="white"/>
+                <ellipse cx="98" cy="42" rx="13" ry="17" fill="white"/>
+                <rect x="86" y="57" width="24" height="36" rx="3" fill="white"/>
+                <ellipse cx="68" cy="36" rx="14" ry="18" fill="white"/>
+                <rect x="55" y="52" width="26" height="40" rx="3" fill="white"/>
+              </svg>
+            </div>
+            <div class="hp-thumb-cap">
+              <div class="hp-badge-sm">Notícia</div>
+              <p>Flávio Dino toma posse como ministro substituto do TSE</p>
+            </div>
+          </div>
+          <div class="hp-thumb">
+            <div class="hp-thumb-photo b2">
+              <svg width="140" height="95" viewBox="0 0 140 95" fill="none">
+                <rect x="30" y="18" width="80" height="54" rx="5" fill="white"/>
+                <rect x="36" y="24" width="68" height="42" rx="3" fill="white" opacity="0.5"/>
+                <circle cx="70" cy="45" r="14" fill="white" opacity="0.9"/>
+                <rect x="56" y="59" width="28" height="4" rx="2" fill="white" opacity="0.6"/>
+              </svg>
+            </div>
+            <div class="hp-thumb-cap">
+              <div class="hp-badge-sm">Notícia</div>
+              <p>Eleições 2026: Senado inspeciona códigos-fonte dos sistemas eleitorais no TSE</p>
+            </div>
+          </div>
+          <div class="hp-thumb">
+            <div class="hp-thumb-photo b3">
+              <svg width="140" height="95" viewBox="0 0 140 95" fill="none">
+                <ellipse cx="50" cy="36" rx="16" ry="20" fill="white"/>
+                <rect x="35" y="54" width="30" height="38" rx="3" fill="white"/>
+                <ellipse cx="96" cy="38" rx="15" ry="19" fill="white"/>
+                <rect x="82" y="55" width="28" height="38" rx="3" fill="white"/>
+                <!-- toga/toga -->
+                <path d="M38 54 Q50 48 62 54" stroke="white" stroke-width="2" fill="none" opacity="0.6"/>
+                <path d="M84 55 Q96 49 108 55" stroke="white" stroke-width="2" fill="none" opacity="0.6"/>
+              </svg>
+            </div>
+            <div class="hp-thumb-cap">
+              <div class="hp-badge-sm">Notícia</div>
+              <p>Ministro Dias Toffoli toma posse como integrante efetivo do TSE</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SIDEBAR -->
+      <div class="hp-sidebar">
+        <div class="sidebar-box">
+          <div class="sidebar-title">
+            <i class="ti ti-layout-grid" style="font-size:16px"></i> Serviços
+          </div>
+          <ul class="sidebar-links">
+            <li class="hl-yellow" onclick="go(2)">Autoatendimento Eleitoral</li>
+            <li>Certidão de quitação</li>
+            <li>Validar documentos</li>
+            <li>Situação eleitoral</li>
+            <li>Local de votação</li>
+            <li>Declaração de Trabalhos Eleitorais (DTE)</li>
+          </ul>
+        </div>
+        <div class="sidebar-box">
+          <div class="sidebar-title">
+            <i class="ti ti-scale" style="font-size:16px"></i> Consultas jurídicas
+          </div>
+          <ul class="sidebar-links">
+            <li>Diário da Justiça Eletrônico (DJE)</li>
+            <li>Acesso ao Processo Judicial Eletrônico (PJE)</li>
+            <li>Consulta Pública PJE</li>
+            <li>Balcão Virtual</li>
+            <li>Jurisprudência</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Ticker de notícias secundárias -->
+    <div class="hp-ticker-row">
+      <div class="hp-ticker-news">
+        <div class="hp-ticker-item">
+          <span class="hp-ticker-dash">—</span>
+          <span>Defesa da urna eletrônica e do voto livre marca 1º mês do ministro Kassio Nunes Marques na Presidência do TSE</span>
+        </div>
+        <div class="hp-ticker-item">
+          <span class="hp-ticker-dash">—</span>
+          <span>TSE cria comissão permanente para orientar uso de IA nas eleições</span>
+        </div>
+        <div class="hp-ticker-item">
+          <span class="hp-ticker-dash">—</span>
+          <span>Colégio de Presidentes dos TREs elege nova liderança nacional</span>
+        </div>
+      </div>
+      <div class="hp-ticker-media">
+        <a><i class="ti ti-device-tv" style="color:#2d6aad"></i> TV</a>
+        <a><i class="ti ti-chart-bar" style="color:#2d6aad"></i> Rádio</a>
+        <a><i class="ti ti-news" style="color:#2d6aad"></i> Notícias</a>
+      </div>
+    </div>
+
+    <!-- Cards: Eleições / Perfis / Sessões -->
+    <div class="hp-section-cards">
+      <div class="hp-sec-card">
+        <div class="hp-sec-card-title">
+          <i class="ti ti-users hp-sec-icon"></i> Eleições
+        </div>
+        <ul class="hp-sec-links">
+          <li><div class="hp-sec-dot"></div>Eleições 2026</li>
+          <li><div class="hp-sec-dot"></div>Pesquisas eleitorais</li>
+          <li><div class="hp-sec-dot"></div>Calendário eleitoral</li>
+          <li><div class="hp-sec-dot"></div>Requerimento de Declaração de Elegibilidade (RDE)</li>
+        </ul>
+      </div>
+      <div class="hp-sec-card">
+        <div class="hp-sec-card-title">
+          <i class="ti ti-id-badge hp-sec-icon"></i> Perfis
+        </div>
+        <ul class="hp-sec-links">
+          <li><div class="hp-sec-dot"></div>Partido político</li>
+          <li><div class="hp-sec-dot"></div>Advogado(a)</li>
+          <li><div class="hp-sec-dot"></div>Tribunal Regional Eleitoral</li>
+          <li><div class="hp-sec-dot"></div>Candidato(a)</li>
+        </ul>
+      </div>
+      <div class="hp-sec-card">
+        <div class="hp-sec-card-title">
+          <i class="ti ti-gavel hp-sec-icon"></i> Sessões
+        </div>
+        <ul class="hp-sec-links">
+          <li><div class="hp-sec-dot"></div>Pautas de julgamento</li>
+          <li><div class="hp-sec-dot"></div>Sessão plenária ao vivo</li>
+          <li><div class="hp-sec-dot"></div>Informações para advogados(as)</li>
+          <li><div class="hp-sec-dot"></div>Decisões publicadas TSE/TRE</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Carrossel de temas rápidos -->
+  <div class="hp-carousel-wrap">
+    <div class="hp-carousel-grid">
+      <div class="hp-carousel-item">
+        <div class="hp-carousel-icon">🗳️</div>
+        <div class="hp-carousel-label">Tudo sobre o Título Eleitoral</div>
+      </div>
+      <div class="hp-carousel-item">
+        <div class="hp-carousel-icon">🔐</div>
+        <div class="hp-carousel-label">Urna Eletrônica</div>
+      </div>
+      <div class="hp-carousel-item">
+        <div class="hp-carousel-icon">👥</div>
+        <div class="hp-carousel-label">Mesária ou mesário</div>
+      </div>
+      <div class="hp-carousel-item">
+        <div class="hp-carousel-icon">✅</div>
+        <div class="hp-carousel-label">Teste Público da Urna</div>
+      </div>
+    </div>
+    <div class="hp-carousel-dots">
+      <div class="hp-dot active"></div>
+      <div class="hp-dot"></div>
+      <div class="hp-dot"></div>
+      <div class="hp-dot"></div>
+      <div class="hp-dot"></div>
+      <div class="hp-dot"></div>
+      <div class="hp-dot"></div>
+      <div class="hp-dot"></div>
+      <div class="hp-dot"></div>
+    </div>
+  </div>
+
+  <!-- Canais -->
+  <div class="hp-channels">
+    <h2>Acompanhe nossos canais</h2>
+    <div class="hp-channels-row">
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-fb">f</div></div>
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-x">𝕏</div></div>
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-ig"><i class="ti ti-brand-instagram" style="font-size:18px"></i></div></div>
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-yt"><i class="ti ti-brand-youtube" style="font-size:18px"></i></div></div>
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-fk"><i class="ti ti-brand-flickr" style="font-size:18px"></i></div></div>
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-tt"><i class="ti ti-brand-tiktok" style="font-size:18px"></i></div></div>
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-li"><i class="ti ti-brand-linkedin" style="font-size:18px"></i></div></div>
+      <div class="hp-channel-item"><div class="hp-channel-icon ic-go" style="font-size:14px; font-weight:800;">G</div></div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="hp-footer">
+    <div class="hp-footer-inner">
+      <div class="hp-footer-address">
+        <div class="addr-icon">
+          <i class="ti ti-map-pin"></i>
+          <div>
+            Setor de Administração Federal Sul <strong>(SAFS)</strong><br>
+            Quadra 7, Lotes 1/2, Brasília/DF – 70095-901<br>
+            Telefone: (61) 3030-7000
+          </div>
+        </div>
+        <br>
+        <div class="clock-icon">
+          <i class="ti ti-clock"></i>
+          <div>
+            Funcionamento dos protocolos <strong>administrativo e judiciário</strong>: segunda a sexta, das 11h às 19h.<br>
+            <br>
+            <a style="color:#7aadcc; cursor:default; text-decoration:underline">Horário de funcionamento</a> de outros serviços e mais informações
+          </div>
+        </div>
+      </div>
+      <div class="hp-footer-right">
+        <div class="hp-footer-social">
+          <div class="hp-footer-social-icon ic-fb">f</div>
+          <div class="hp-footer-social-icon ic-x" style="font-size:12px">𝕏</div>
+          <div class="hp-footer-social-icon ic-ig"><i class="ti ti-brand-instagram" style="font-size:15px"></i></div>
+          <div class="hp-footer-social-icon ic-yt"><i class="ti ti-brand-youtube" style="font-size:15px"></i></div>
+          <div class="hp-footer-social-icon ic-fk"><i class="ti ti-brand-flickr" style="font-size:15px"></i></div>
+          <div class="hp-footer-social-icon ic-tt"><i class="ti ti-brand-tiktok" style="font-size:15px"></i></div>
+          <div class="hp-footer-social-icon ic-li"><i class="ti ti-brand-linkedin" style="font-size:15px"></i></div>
+          <div class="hp-footer-social-icon ic-go" style="font-size:12px; font-weight:800;">G</div>
+        </div>
+        <div class="hp-footer-link"><i class="ti ti-message-circle"></i> Ouvidoria</div>
+        <div class="hp-footer-link"><i class="ti ti-shield-check"></i> Termos de uso e privacidade</div>
+        <div class="hp-footer-link"><i class="ti ti-settings"></i> Configurações de cookies</div>
+        <div class="hp-footer-link"><i class="ti ti-mood-smile"></i> Como foi sua navegação?</div>
+      </div>
+    </div>
+  </div>
+  <div class="hp-footer-nav">
+    <a>Carta de serviços</a>
+    <a>Glossário Eleitoral</a>
+    <a>Guia de Recolhimento da União (GRU)</a>
+    <a>Situação dos sistemas</a>
+    <a>Meu Espaço</a>
+  </div>
+</div>
+<!-- fim tela 1 -->
+
+<!-- ══════════════════════════════════════
+     TELA 2 — AUTOATENDIMENTO
+══════════════════════════════════════ -->
+<div id="s2" class="screen">
+  <div class="tse-topbar">
+    <a>Acessibilidade</a><span class="sep">|</span>
+    <a>Ouvidoria</a><span class="sep">|</span>
+    <a>Transparência e prestação de contas</a>
+  </div>
+  <div class="tse-nav-row">
+    <div class="tse-logo">
+      <svg class="tse-logo-svg-inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 102">
+        <defs><style>.t2c1{fill:#fcc200;fill-rule:evenodd}.t2c2{fill:#fff;fill-rule:evenodd}.t2c3{fill:#577372;fill-rule:evenodd}.t2c5{fill:#1d1d1b}.t2c4{fill:#5c719c;fill-rule:evenodd}</style></defs>
+        <path class="t2c4" d="M32.43,7.27c19.22-5.27,38.99,6.41,44.14,26.08,5.15,19.67-6.26,39.9-25.49,45.17-19.22,5.27-38.99-6.41-44.14-26.08C1.79,32.77,13.2,12.54,32.43,7.27h0Z"/>
+        <path class="t2c1" d="M36.24,95.77h-5.37v-15.2c6.56,1.99,13.73,2.22,20.82.27,20.48-5.62,32.64-27.17,27.15-48.13-2.21-8.43-6.94-15.48-13.14-20.54h29.26v49.68l-58.73,33.91h0Z"/>
+        <polygon class="t2c3" points="94.97 95.77 41.37 95.77 94.97 64.83 94.97 95.77 94.97 95.77"/>
+        <path class="t2c5" d="M111.21,32.26V15.96h-5.82v-3.32h15.59v3.32h-5.81v16.3h-3.97ZM106.8,95.68v-19.62h14.54v3.32h-10.58v4.35h9.85v3.3h-9.85v5.34h10.96v3.31h-14.92ZM124.54,95.68v-19.62h3.76v19.62h-3.76Z"/>
+      </svg>
+    </div>
+    <div class="tse-nav">
+      <span class="anav">Serviços eleitorais</span>
+      <span>Eleições</span><span>Partidos</span><span>Comunicação</span>
+      <span>Jurisprudência</span><span>Legislação</span><span>Serviços judiciais</span>
+    </div>
+    <i class="ti ti-search tse-search-icon"></i>
+  </div>
+
+  <div class="auto-bg">
+    <div class="auto-banner">
+      <div class="auto-banner-text">
+        <h2>Autoatendimento</h2>
+        <h1>ELEITORAL</h1>
+      </div>
+      <div class="auto-banner-badge">TÍTULO NET</div>
+    </div>
+    <div class="auto-search">
+      <i class="ti ti-search"></i>
+      <span>Busque um serviço</span>
+    </div>
+    <div class="cards-grid">
+      <div class="service-card c-blue">
+        <div class="card-title"><i class="ti ti-user" style="color:#1a3a5c"></i>Eleitora/Eleitor</div>
+        <ul class="card-links">
+          <li>Tirar primeiro título</li>
+          <li>Transferir título eleitoral</li>
+          <li>Atualizar dados pessoais</li>
+          <li>Regularizar título cancelado</li>
+          <li>Emitir 2ª via do título eleitoral</li>
+          <li>Transferência temporária de local</li>
+        </ul>
+      </div>
+      <div class="service-card c-orange">
+        <div class="card-title"><i class="ti ti-search" style="color:#e07c30"></i>Consultas</div>
+        <ul class="card-links">
+          <li>Solicitações, justificativas e transferências</li>
+          <li>Número do título</li>
+          <li>Situação do título</li>
+          <li>Débitos eleitorais</li>
+          <li>Onde votar</li>
+          <li>Verificar autenticidade de documento</li>
+        </ul>
+      </div>
+      <div class="service-card c-yellow">
+        <div class="card-title"><i class="ti ti-file-certificate" style="color:#9e7a00"></i>Certidões</div>
+        <ul class="card-links">
+          <li>Certidão de quitação eleitoral</li>
+          <li>Certidão de crimes eleitorais</li>
+          <li>Certidão negativa de alistamento</li>
+          <li>Certidão simplificada de dados e biometria</li>
+          <li>Declaração de Trabalhos Eleitorais</li>
+        </ul>
+      </div>
+      <div class="service-card c-red">
+        <div class="badge-destaque">destaque</div>
+        <div class="card-title"><i class="ti ti-speakerphone" style="color:#d43a3a"></i>Mesária/Mesário</div>
+        <ul class="card-links">
+          <li>Consultar convocação</li>
+          <li>Declaração de Trabalhos Eleitorais – DTE</li>
+          <li>Portal da Mesária e do Mesário</li>
+        </ul>
+        <button class="cta-mesario-btn" onclick="go(3)">
+          <i class="ti ti-heart-handshake"></i> Ser Mesário Voluntário →
+        </button>
+      </div>
+      <div class="service-card c-green">
+        <div class="card-title"><i class="ti ti-circle-check" style="color:#3ab06e"></i>Justificativa Eleitoral</div>
+        <ul class="card-links">
+          <li>Justificar ausência</li>
+          <li>Consultar justificativas</li>
+        </ul>
+      </div>
+      <div class="service-card c-purple">
+        <div class="card-title"><i class="ti ti-building-community" style="color:#7c5cbf"></i>Unidades da Justiça</div>
+        <ul class="card-links">
+          <li>Consultar zonas eleitorais</li>
+          <li>Consultar cartórios eleitorais</li>
+          <li>Consultar centrais de atendimento</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════
+     TELA 3 — FORMULÁRIO
+══════════════════════════════════════ -->
+<div id="s3" class="screen">
+  <div class="tse-topbar">
+    <a>Acessibilidade</a><span class="sep">|</span>
+    <a>Ouvidoria</a><span class="sep">|</span>
+    <a>Transparência e prestação de contas</a>
+  </div>
+  <div class="tse-nav-row">
+    <div class="tse-logo">
+      <svg class="tse-logo-svg-inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 102">
+        <defs><style>.t3c1{fill:#fcc200;fill-rule:evenodd}.t3c3{fill:#577372;fill-rule:evenodd}.t3c5{fill:#1d1d1b}.t3c4{fill:#5c719c;fill-rule:evenodd}</style></defs>
+        <path class="t3c4" d="M32.43,7.27c19.22-5.27,38.99,6.41,44.14,26.08,5.15,19.67-6.26,39.9-25.49,45.17-19.22,5.27-38.99-6.41-44.14-26.08C1.79,32.77,13.2,12.54,32.43,7.27h0Z"/>
+        <path class="t3c1" d="M36.24,95.77h-5.37v-15.2c6.56,1.99,13.73,2.22,20.82.27,20.48-5.62,32.64-27.17,27.15-48.13-2.21-8.43-6.94-15.48-13.14-20.54h29.26v49.68l-58.73,33.91h0Z"/>
+        <polygon class="t3c3" points="94.97 95.77 41.37 95.77 94.97 64.83 94.97 95.77 94.97 95.77"/>
+        <path class="t3c5" d="M111.21,32.26V15.96h-5.82v-3.32h15.59v3.32h-5.81v16.3h-3.97ZM106.8,95.68v-19.62h14.54v3.32h-10.58v4.35h9.85v3.3h-9.85v5.34h10.96v3.31h-14.92ZM124.54,95.68v-19.62h3.76v19.62h-3.76Z"/>
+      </svg>
+    </div>
+    <div class="tse-nav">
+      <span class="anav">Serviços eleitorais</span>
+      <span>Eleições</span><span>Partidos</span><span>Comunicação</span>
+      <span>Jurisprudência</span>
+    </div>
+  </div>
+
+  <div class="form-page">
+    <div class="breadcrumb">
+      <i class="ti ti-home" style="font-size:13px"></i>
+      <span>/</span><a>Serviços eleitorais</a>
+      <span>/</span><a>Autoatendimento eleitoral</a>
+      <span>/</span><strong>Ser Mesário Voluntário</strong>
+    </div>
+    <div class="alert-info">
+      <i class="ti ti-info-circle"></i>
+      <div>Inscrição para <strong>Mesário Voluntário — Eleições 2026</strong>. O eleitor deve estar inscrito no Distrito Federal. Após o envio, você receberá um e-mail de confirmação com o número de protocolo.</div>
+    </div>
+    <div class="form-header">
+      <h1>Cadastro de Mesário Voluntário</h1>
+      <p>Preencha seus dados para participar das Eleições 2026 como mesário voluntário</p>
+    </div>
+    <div class="form-body">
+      <div class="form-section">
+        <div class="form-section-title"><i class="ti ti-user"></i> Dados pessoais</div>
+        <div class="form-section-body">
+          <div class="form-row">
+            <div class="form-field f3">
+              <label>Nome completo <span class="req">*</span></label>
+              <input class="form-input" type="text" placeholder="Conforme título de eleitor">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-field f">
+              <label>CPF <span class="req">*</span></label>
+              <input class="form-input" type="text" placeholder="000.000.000-00">
+            </div>
+            <div class="form-field f">
+              <label>Título de eleitor <span class="req">*</span></label>
+              <input class="form-input" type="text" placeholder="Número do título">
+            </div>
+            <div class="form-field f">
+              <label>Data de nascimento <span class="req">*</span></label>
+              <input class="form-input" type="text" placeholder="DD/MM/AAAA">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-field f">
+              <label>CEP</label>
+              <input class="form-input" type="text" placeholder="00000-000">
+            </div>
+            <div class="form-field f2">
+              <label>Endereço</label>
+              <input class="form-input" type="text" placeholder="Rua, Quadra, SQN...">
+            </div>
+            <div class="form-field f">
+              <label>Número</label>
+              <input class="form-input" type="text" placeholder="Nº">
+            </div>
+            <div class="form-field f">
+              <label>Complemento</label>
+              <input class="form-input" type="text" placeholder="Apto, Bloco...">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-field f">
+              <label>Bairro</label>
+              <input class="form-input" type="text" placeholder="Bairro">
+            </div>
+            <div class="form-field f">
+              <label>Município</label>
+              <input class="form-input" type="text" placeholder="Brasília">
+            </div>
+            <div class="form-field" style="flex:0 0 60px">
+              <label>UF</label>
+              <input class="form-input" type="text" value="DF">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-field f">
+              <label>Tel. fixo</label>
+              <input class="form-input" type="text" placeholder="(61) 0000-0000">
+            </div>
+            <div class="form-field f">
+              <label>Tel. celular <span class="req">*</span></label>
+              <input class="form-input" type="text" placeholder="(61) 90000-0000">
+            </div>
+            <div class="form-field f2">
+              <label>E-mail <span class="req">*</span></label>
+              <input class="form-input" type="text" placeholder="seu@email.com.br">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-section">
+        <div class="form-section-title"><i class="ti ti-school"></i> Escolaridade</div>
+        <div class="form-section-body">
+          <div class="form-row">
+            <div class="form-field f2">
+              <label>Grau de instrução</label>
+              <select class="form-input">
+                <option>Selecione</option>
+                <option>Ensino médio completo</option>
+                <option>Ensino superior incompleto</option>
+                <option>Ensino superior completo</option>
+                <option>Pós-graduação</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-field">
+            <label>Possui formação em TI ou trabalha diretamente com tecnologia?</label>
+            <div class="radio-row">
+              <label><input type="radio" name="ti"> Sim</label>
+              <label><input type="radio" name="ti" checked> Não</label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-section">
+        <div class="form-section-title"><i class="ti ti-briefcase"></i> Dados do trabalho</div>
+        <div class="form-section-body">
+          <div class="form-row">
+            <div class="form-field f">
+              <label>Vínculo profissional</label>
+              <select class="form-input">
+                <option>Selecione</option>
+                <option>Servidor público</option>
+                <option>Empregado de empresa privada</option>
+                <option>Autônomo / profissional liberal</option>
+                <option>Estudante</option>
+                <option>Aposentado</option>
+              </select>
+            </div>
+            <div class="form-field f2">
+              <label>Ocupação</label>
+              <input class="form-input" type="text" placeholder="Cargo ou função atual">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-section">
+        <div class="form-section-title"><i class="ti ti-list-check"></i> Informações adicionais</div>
+        <div class="form-section-body">
+          <div class="form-field" style="margin-bottom:12px">
+            <label>Aceita ser mesário em local diferente do seu local de votação?</label>
+            <div class="radio-row">
+              <label><input type="radio" name="local" checked> Sim</label>
+              <label><input type="radio" name="local"> Não</label>
+            </div>
+          </div>
+          <div class="form-field" style="margin-bottom:12px">
+            <label>Tem conhecimento em Libras?</label>
+            <div class="radio-row">
+              <label><input type="radio" name="libras"> Sim</label>
+              <label><input type="radio" name="libras" checked> Não</label>
+            </div>
+          </div>
+          <div class="form-field">
+            <label>Possui alguma deficiência?</label>
+            <div class="radio-row">
+              <label><input type="radio" name="def"> Sim</label>
+              <label><input type="radio" name="def" checked> Não</label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-section">
+        <div class="form-section-title"><i class="ti ti-clipboard-text"></i> Declarações e consentimento</div>
+        <div class="form-section-body">
+          <div class="chk-group">
+            <label><input type="checkbox"> Autorizo o envio de mensagens eletrônicas (WhatsApp / e-mail) pelo TSE referentes ao processo eleitoral.</label>
+            <label><input type="checkbox"> Declaro não incorrer em qualquer dos impedimentos legais relacionados ao alistamento e que não sou menor de 18 anos, candidato(a) ou seu(sua) parente, membro de diretório de partido que exerça função executiva, autoridade ou agente policial.</label>
+            <label><input type="checkbox"> Concordo com os Termos de Uso e Política de Privacidade.</label>
+          </div>
+        </div>
+      </div>
+      <button class="btn-submit" onclick="go(4)">Quero ser mesário voluntário</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════
+     TELA 4 — CONFIRMAÇÃO
+══════════════════════════════════════ -->
+<div id="s4" class="screen">
+  <div class="tse-topbar">
+    <a>Acessibilidade</a><span class="sep">|</span>
+    <a>Ouvidoria</a><span class="sep">|</span>
+    <a>Transparência e prestação de contas</a>
+  </div>
+  <div class="tse-nav-row">
+    <div class="tse-logo">
+      <svg class="tse-logo-svg-inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 102">
+        <defs><style>.t4c1{fill:#fcc200;fill-rule:evenodd}.t4c3{fill:#577372;fill-rule:evenodd}.t4c5{fill:#1d1d1b}.t4c4{fill:#5c719c;fill-rule:evenodd}</style></defs>
+        <path class="t4c4" d="M32.43,7.27c19.22-5.27,38.99,6.41,44.14,26.08,5.15,19.67-6.26,39.9-25.49,45.17-19.22,5.27-38.99-6.41-44.14-26.08C1.79,32.77,13.2,12.54,32.43,7.27h0Z"/>
+        <path class="t4c1" d="M36.24,95.77h-5.37v-15.2c6.56,1.99,13.73,2.22,20.82.27,20.48-5.62,32.64-27.17,27.15-48.13-2.21-8.43-6.94-15.48-13.14-20.54h29.26v49.68l-58.73,33.91h0Z"/>
+        <polygon class="t4c3" points="94.97 95.77 41.37 95.77 94.97 64.83 94.97 95.77 94.97 95.77"/>
+        <path class="t4c5" d="M111.21,32.26V15.96h-5.82v-3.32h15.59v3.32h-5.81v16.3h-3.97ZM106.8,95.68v-19.62h14.54v3.32h-10.58v4.35h9.85v3.3h-9.85v5.34h10.96v3.31h-14.92ZM124.54,95.68v-19.62h3.76v19.62h-3.76Z"/>
+      </svg>
+    </div>
+    <div class="tse-nav">
+      <span class="anav">Serviços eleitorais</span>
+      <span>Eleições</span><span>Partidos</span><span>Comunicação</span>
+      <span>Jurisprudência</span>
+    </div>
+  </div>
+
+  <div class="confirm-page">
+    <div class="confirm-card">
+      <div class="confirm-header">
+        <div class="confirm-check"><i class="ti ti-check"></i></div>
+        <h1>Inscrição realizada com sucesso!</h1>
+        <p>Eleições 2026 — Cadastro de Mesário Voluntário</p>
+      </div>
+      <div class="confirm-body">
+        <p class="confirm-msg">
+          Sua inscrição como <strong>Mesário Voluntário</strong> foi registrada no sistema da Justiça Eleitoral do Distrito Federal. Agradecemos sua disposição em contribuir com a democracia brasileira!
+        </p>
+        <div class="confirm-details">
+          <h3>Dados da inscrição</h3>
+          <div class="detail-row"><span class="dl">Protocolo</span><span class="dv">MV2026-DF-00847193</span></div>
+          <div class="detail-row"><span class="dl">Data da inscrição</span><span class="dv">14/06/2026 — 13:32</span></div>
+          <div class="detail-row"><span class="dl">Situação</span><span class="dv" style="color:#1a7a3c">✔ Inscrito — aguardando convocação</span></div>
+          <div class="detail-row"><span class="dl">Eleição</span><span class="dv">Eleições Gerais 2026 — 1º turno</span></div>
+        </div>
+        <div class="email-notice">
+          <i class="ti ti-mail"></i>
+          <div>Um <strong>e-mail de confirmação</strong> foi enviado para o endereço cadastrado com o número do protocolo, instruções sobre a convocação e os próximos passos. Verifique também a pasta de spam.</div>
+        </div>
+        <p class="next-steps">
+          <strong>O que acontece agora?</strong><br>
+          Você poderá ser convocado(a) pela zona eleitoral da sua área. O TRE-DF entrará em contato com antecedência para informar o local, horário e orientações de treinamento. Você também pode <strong>consultar sua convocação</strong> a qualquer momento pelo portal da Mesária/Mesário.
+        </p>
+        <div class="confirm-btns">
+          <button class="btn-outline" onclick="go(3)">← Voltar ao formulário</button>
+          <button class="btn-primary-sm" onclick="go(1)">Ir à página inicial</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function go(n) {
+  for (var i = 1; i <= 4; i++) {
+    document.getElementById('s' + i).classList.remove('active');
+    var p = document.getElementById('p' + i);
+    p.classList.remove('current', 'done');
+    if (i < n) p.classList.add('done');
+    else if (i === n) p.classList.add('current');
+  }
+  document.getElementById('s' + n).classList.add('active');
+  window.scrollTo(0, 0);
+}
+go(1);
+</script>
+</body>
+</html>
