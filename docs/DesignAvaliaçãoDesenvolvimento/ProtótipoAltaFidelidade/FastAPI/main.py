@@ -11,8 +11,10 @@ app = FastAPI()
 
 app.mount("/static", StaticFiles(directory="../CandContas/static"), name="static")
 app.mount("/static-je", StaticFiles(directory="../JustificativaEleitoral/static"), name="static-je")
+app.mount("/static-alv", StaticFiles(directory="../AlterarLocalVotacao/static"), name="static-alv")
 templates = Jinja2Templates(directory="../CandContas/templates")
 templates_je = Jinja2Templates(directory="../JustificativaEleitoral/templates")
+templates_alv = Jinja2Templates(directory="../AlterarLocalVotacao/templates")
 
 os.makedirs("logs", exist_ok=True)
 
@@ -65,6 +67,14 @@ async def read_tcle_justificativa(request: Request):
 @app.get("/justificativa-eleitoral", response_class=HTMLResponse)
 async def read_justificativa(request: Request):
     return templates_je.TemplateResponse(request=request, name="justificativa.html")
+
+@app.get("/alterar-local-tcle", response_class=HTMLResponse)
+async def read_tcle_alterar_local(request: Request):
+    return templates_alv.TemplateResponse(request=request, name="tcle_alterarlocal.html")
+
+@app.get("/alterar-local", response_class=HTMLResponse)
+async def read_alterar_local(request: Request):
+    return templates_alv.TemplateResponse(request=request, name="alterarlocal.html")
 
 if __name__ == "__main__":
     import uvicorn
