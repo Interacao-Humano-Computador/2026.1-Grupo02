@@ -28,6 +28,43 @@ function avancarDaMulta() {
     goTo('page-identificacao');
 }
 
+// ── Local de Votação ──
+let localVotacaoSelecionado = null;
+
+function selecionarLocalVotacao(row) {
+    document.querySelectorAll('.votacao-row').forEach(r => {
+        r.classList.remove('selected');
+        r.querySelector('input[type="radio"]').checked = false;
+    });
+    row.classList.add('selected');
+    row.querySelector('input[type="radio"]').checked = true;
+    localVotacaoSelecionado = {
+        nome: row.dataset.nome,
+        endereco: row.dataset.endereco
+    };
+}
+
+function filtrarLocaisVotacao() {
+    const termo = document.getElementById('busca-local-votacao').value.toLowerCase().trim();
+    const linhas = document.querySelectorAll('.votacao-row');
+    let visiveis = 0;
+    linhas.forEach(row => {
+        const texto = (row.dataset.nome + ' ' + row.dataset.endereco).toLowerCase();
+        const match = texto.includes(termo);
+        row.classList.toggle('hidden', !match);
+        if (match) visiveis++;
+    });
+    document.getElementById('votacao-empty').classList.toggle('hidden', visiveis !== 0);
+}
+
+function avancarLocalVotacao() {
+    if (!localVotacaoSelecionado) {
+        alert('Selecione um local de votação antes de continuar.');
+        return;
+    }
+    goTo('page-contato');
+}
+
 function selectPay(btn) {
     document.querySelectorAll('.pay-btn').forEach(b => b.classList.remove('selected'));
     btn.classList.add('selected');
@@ -66,6 +103,8 @@ function preencherSumario() {
     document.getElementById('s-log').textContent   = (v('logradouro') + ', ' + v('numero')).replace(', —','') || '—';
     document.getElementById('s-bairro').textContent= v('bairro') || '—';
     document.getElementById('s-mun').textContent   = (v('municipio') + ' / ' + v('uf-end')).replace(' / —','') || '—';
+    document.getElementById('s-local-votacao-nome').textContent     = localVotacaoSelecionado?.nome || '—';
+    document.getElementById('s-local-votacao-endereco').textContent = localVotacaoSelecionado?.endereco || '—';
     document.getElementById('s-email').textContent = v('email') || '—';
     document.getElementById('s-tel').textContent   = v('tel') || '—';
 }

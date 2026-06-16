@@ -134,9 +134,11 @@
             <div class="step-connector"></div>
             <div class="step"><div class="step-circle">4</div><div class="step-label">Endereço</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">5</div><div class="step-label">Contato</div></div>
+            <div class="step"><div class="step-circle">5</div><div class="step-label">Local de Votação</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
+            <div class="step"><div class="step-circle">6</div><div class="step-label">Contato</div></div>
+            <div class="step-connector"></div>
+            <div class="step"><div class="step-circle">7</div><div class="step-label">Confirmação</div></div>
         </div>
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-file-upload"></i> Anexo de Documentos</div>
@@ -248,9 +250,11 @@
             <div class="step-connector"></div>
             <div class="step"><div class="step-circle">4</div><div class="step-label">Endereço</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">5</div><div class="step-label">Contato</div></div>
+            <div class="step"><div class="step-circle">5</div><div class="step-label">Local de Votação</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
+            <div class="step"><div class="step-circle">6</div><div class="step-label">Contato</div></div>
+            <div class="step-connector"></div>
+            <div class="step"><div class="step-circle">7</div><div class="step-label">Confirmação</div></div>
         </div>
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-gavel"></i> Situação de Alistamento</div>
@@ -356,9 +360,11 @@
             <div class="step-connector"></div>
             <div class="step"><div class="step-circle">4</div><div class="step-label">Endereço</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">5</div><div class="step-label">Contato</div></div>
+            <div class="step"><div class="step-circle">5</div><div class="step-label">Local de Votação</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
+            <div class="step"><div class="step-circle">6</div><div class="step-label">Contato</div></div>
+            <div class="step-connector"></div>
+            <div class="step"><div class="step-circle">7</div><div class="step-label">Confirmação</div></div>
         </div>
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-user"></i> Dados de Identificação — Passo 1 de 3</div>
@@ -477,9 +483,11 @@
             <div class="step-connector done"></div>
             <div class="step active"><div class="step-circle">4</div><div class="step-label">Endereço</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">5</div><div class="step-label">Contato</div></div>
+            <div class="step"><div class="step-circle">5</div><div class="step-label">Local de Votação</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
+            <div class="step"><div class="step-circle">6</div><div class="step-label">Contato</div></div>
+            <div class="step-connector"></div>
+            <div class="step"><div class="step-circle">7</div><div class="step-label">Confirmação</div></div>
         </div>
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-map-marker-alt"></i> Endereço — Passo 2 de 3</div>
@@ -524,7 +532,111 @@
             </div>
             <div class="btn-row">
                 <button class="btn btn-secondary" onclick="goTo('page-identificacao')"><i class="fas fa-arrow-left"></i> Voltar</button>
-                <button class="btn btn-primary" onclick="goTo('page-contato')">Próximo <i class="fas fa-arrow-right"></i></button>
+                <button class="btn btn-primary" onclick="goTo('page-local-votacao')">Próximo <i class="fas fa-arrow-right"></i></button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     PÁGINA 5B — LOCAL DE VOTAÇÃO
+════════════════════════════════════════════ -->
+<div id="page-local-votacao" class="hidden">
+
+    <div class="sub-header-ident">
+        <div class="ident-user-block">
+            <div class="ident-avatar">SN</div>
+            <div>
+                <div class="ident-user-name">Regina Alvez</div>
+                <div class="ident-user-cpf">CPF: 123.456.789-10</div>
+            </div>
+        </div>
+        <div class="ident-badge"><i class="fas fa-check-circle"></i> Identidade verificada</div>
+    </div>
+    <div class="page-content">
+        <div class="breadcrumbs">
+            <a onclick="goTo('page-home')">Página Inicial</a> /
+            <a onclick="goTo('page-documentos')">Tirar 1° Título</a> /
+            <span>Local de Votação</span>
+        </div>
+        <div class="stepper">
+            <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Documentos</div></div>
+            <div class="step-connector done"></div>
+            <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Situação</div></div>
+            <div class="step-connector done"></div>
+            <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Identificação</div></div>
+            <div class="step-connector done"></div>
+            <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Endereço</div></div>
+            <div class="step-connector done"></div>
+            <div class="step active"><div class="step-circle">5</div><div class="step-label">Local de Votação</div></div>
+            <div class="step-connector"></div>
+            <div class="step"><div class="step-circle">6</div><div class="step-label">Contato</div></div>
+            <div class="step-connector"></div>
+            <div class="step"><div class="step-circle">7</div><div class="step-label">Confirmação</div></div>
+        </div>
+        <div class="form-card">
+            <div class="form-card-title"><i class="fas fa-map-marker-alt"></i> Escolha o Local de Votação</div>
+            <div class="notice info">
+                <i class="fas fa-info-circle"></i>
+                <div>Com base no seu endereço, sugerimos os locais de votação mais próximos. Selecione a opção desejada ou utilize a busca para encontrar outros locais.</div>
+            </div>
+
+            <div class="votacao-search">
+                <i class="fas fa-search"></i>
+                <input type="text" id="busca-local-votacao" placeholder="Pesquise por endereço, bairro ou nome do local..." oninput="filtrarLocaisVotacao()">
+            </div>
+
+            <table class="votacao-table" id="votacao-table">
+                <tbody>
+                    <tr class="votacao-row" onclick="selecionarLocalVotacao(this)" data-nome="Escola Municipal Anísio Teixeira" data-endereco="SQN 308 Bloco D, Asa Norte — Brasília/DF">
+                        <td class="votacao-radio-cell"><input type="radio" name="local-votacao"></td>
+                        <td>
+                            <div class="votacao-nome">Escola Municipal Anísio Teixeira</div>
+                            <div class="votacao-endereco">SQN 308 Bloco D, Asa Norte — Brasília/DF</div>
+                        </td>
+                    </tr>
+                    <tr class="votacao-row" onclick="selecionarLocalVotacao(this)" data-nome="Centro de Ensino Fundamental 02" data-endereco="SQN 306 Bloco K, Asa Norte — Brasília/DF">
+                        <td class="votacao-radio-cell"><input type="radio" name="local-votacao"></td>
+                        <td>
+                            <div class="votacao-nome">Centro de Ensino Fundamental 02</div>
+                            <div class="votacao-endereco">SQN 306 Bloco K, Asa Norte — Brasília/DF</div>
+                        </td>
+                    </tr>
+                    <tr class="votacao-row" onclick="selecionarLocalVotacao(this)" data-nome="Colégio Estadual Dom Bosco" data-endereco="SQN 209 Bloco A, Asa Norte — Brasília/DF">
+                        <td class="votacao-radio-cell"><input type="radio" name="local-votacao"></td>
+                        <td>
+                            <div class="votacao-nome">Colégio Estadual Dom Bosco</div>
+                            <div class="votacao-endereco">SQN 209 Bloco A, Asa Norte — Brasília/DF</div>
+                        </td>
+                    </tr>
+                    <tr class="votacao-row" onclick="selecionarLocalVotacao(this)" data-nome="Escola Classe 102 Norte" data-endereco="SQN 102 Bloco F, Asa Norte — Brasília/DF">
+                        <td class="votacao-radio-cell"><input type="radio" name="local-votacao"></td>
+                        <td>
+                            <div class="votacao-nome">Escola Classe 102 Norte</div>
+                            <div class="votacao-endereco">SQN 102 Bloco F, Asa Norte — Brasília/DF</div>
+                        </td>
+                    </tr>
+                    <tr class="votacao-row" onclick="selecionarLocalVotacao(this)" data-nome="Centro Educacional 01 do Guará" data-endereco="QE 11, Área Especial — Guará I, Brasília/DF">
+                        <td class="votacao-radio-cell"><input type="radio" name="local-votacao"></td>
+                        <td>
+                            <div class="votacao-nome">Centro Educacional 01 do Guará</div>
+                            <div class="votacao-endereco">QE 11, Área Especial — Guará I, Brasília/DF</div>
+                        </td>
+                    </tr>
+                    <tr class="votacao-row" onclick="selecionarLocalVotacao(this)" data-nome="Escola Classe 01 do Cruzeiro" data-endereco="Área Especial 01, Cruzeiro Novo — Brasília/DF">
+                        <td class="votacao-radio-cell"><input type="radio" name="local-votacao"></td>
+                        <td>
+                            <div class="votacao-nome">Escola Classe 01 do Cruzeiro</div>
+                            <div class="votacao-endereco">Área Especial 01, Cruzeiro Novo — Brasília/DF</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p id="votacao-empty" class="votacao-empty hidden">Nenhum local encontrado para a busca informada.</p>
+
+            <div class="btn-row">
+                <button class="btn btn-secondary" onclick="goTo('page-endereco')"><i class="fas fa-arrow-left"></i> Voltar</button>
+                <button class="btn btn-primary" onclick="avancarLocalVotacao()">Próximo <i class="fas fa-arrow-right"></i></button>
             </div>
         </div>
     </div>
@@ -560,9 +672,11 @@
             <div class="step-connector done"></div>
             <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Endereço</div></div>
             <div class="step-connector done"></div>
-            <div class="step active"><div class="step-circle">5</div><div class="step-label">Contato</div></div>
+            <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Local de Votação</div></div>
+            <div class="step-connector done"></div>
+            <div class="step active"><div class="step-circle">6</div><div class="step-label">Contato</div></div>
             <div class="step-connector"></div>
-            <div class="step"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
+            <div class="step"><div class="step-circle">7</div><div class="step-label">Confirmação</div></div>
         </div>
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-envelope"></i> Dados de Contato — Passo 3 de 3</div>
@@ -591,7 +705,7 @@
                 </div>
             </div>
             <div class="btn-row">
-                <button class="btn btn-secondary" onclick="goTo('page-endereco')"><i class="fas fa-arrow-left"></i> Voltar</button>
+                <button class="btn btn-secondary" onclick="goTo('page-local-votacao')"><i class="fas fa-arrow-left"></i> Voltar</button>
                 <button class="btn btn-primary" onclick="goTo('page-confirmacao')">Próximo <i class="fas fa-arrow-right"></i></button>
             </div>
         </div>
@@ -628,9 +742,11 @@
             <div class="step-connector done"></div>
             <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Endereço</div></div>
             <div class="step-connector done"></div>
+            <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Local de Votação</div></div>
+            <div class="step-connector done"></div>
             <div class="step done"><div class="step-circle"><i class="fas fa-check"></i></div><div class="step-label">Contato</div></div>
             <div class="step-connector done"></div>
-            <div class="step active"><div class="step-circle">6</div><div class="step-label">Confirmação</div></div>
+            <div class="step active"><div class="step-circle">7</div><div class="step-label">Confirmação</div></div>
         </div>
         <div class="form-card">
             <div class="form-card-title"><i class="fas fa-clipboard-check"></i> Revisão dos Dados Inseridos</div>
@@ -651,6 +767,11 @@
                 <div class="summary-item"><label>Logradouro</label><span id="s-log">—</span></div>
                 <div class="summary-item"><label>Bairro</label><span id="s-bairro">—</span></div>
                 <div class="summary-item"><label>Município / UF</label><span id="s-mun">—</span></div>
+            </div>
+            <div style="font-size: 0.85rem; font-weight: 700; color: var(--color-primary-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.8rem;">Local de Votação</div>
+            <div class="summary-grid" style="margin-bottom: 1.5rem;">
+                <div class="summary-item"><label>Local selecionado</label><span id="s-local-votacao-nome">—</span></div>
+                <div class="summary-item"><label>Endereço do local</label><span id="s-local-votacao-endereco">—</span></div>
             </div>
             <div style="font-size: 0.85rem; font-weight: 700; color: var(--color-primary-dark); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.8rem;">Contato</div>
             <div class="summary-grid" style="margin-bottom: 1.5rem;">
