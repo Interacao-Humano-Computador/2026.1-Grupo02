@@ -17,7 +17,7 @@
 
 ## Introdução
 
-Este documento apresenta o relato dos resultados da avaliação do Protótipo de Alta Fidelidade referente à funcionalidade de **Justificativa Eleitoral Online** do portal do Tribunal Superior Eleitoral (TSE), desenvolvida no âmbito da disciplina de Interação Humano-Computador da Universidade de Brasília. Os resultados aqui registrados foram obtidos por meio de teste de usabilidade com observação de uso, conforme planejamento previamente definido pela equipe.
+Este documento apresenta o relato dos resultados da avaliação do Protótipo de Alta Fidelidade referente à funcionalidade de **Ser Mesário** do portal do Tribunal Superior Eleitoral (TSE), desenvolvida no âmbito da disciplina de Interação Humano-Computador da Universidade de Brasília. Os resultados aqui registrados foram obtidos por meio de teste de usabilidade com observação de uso, conforme planejamento previamente definido pela equipe.
 
 ---
 
@@ -93,7 +93,7 @@ De forma geral, os resultados são positivos: o fluxo em múltiplos passos mostr
 
 
 <div style="text-align: left">
-<p>Tabela 3: Sumário dos principais resultados. (Fonte: LUDRY, Luan, 2026).</p>
+<p>Tabela 3: Sumário dos principais resultados. (Fonte: SMITH, Bryan, 2026).</p>
 </div>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=QaF2IdzLewk" target="blanket">Clique aqui para assistir à gravação</a></p>
