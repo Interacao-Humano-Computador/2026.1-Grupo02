@@ -33,32 +33,37 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 
 | Nº | Artefato | Questão | Referência (Barbosa & Silva, 2010) | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Autor |
 |:--:|:--------:|:--------|:----------------------------------:|:-----------------------------:|:-------------------:|:-----:|
-| **L1** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato descreve os **objetivos e o escopo** da avaliação do protótipo de papel? | **p. 312:**  | | | Bryan |
-| **L2** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato especifica a **forma como a avaliação foi realizada**, incluindo o método de avaliação empregado (ex: prototipação em papel)? | **p. 312:**  | | | Bryan |
-| **L3** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato apresenta o **número e o perfil dos participantes e avaliadores** que participaram da avaliação do protótipo de papel? | **p. 312:**  | | | Bryan |
-| **L4** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato contém uma **lista detalhada dos problemas encontrados** durante a avaliação, com descrição e localização? | **p. 312:**  / **p. 319:**  | | | Bryan |
-| **L5** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento segue o **Framework DECIDE**, contemplando as etapas D-E-C-I-D-E? | **p. 312-313:** | | | Guilherme |
-| **L6** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento define o **método de avaliação** a ser utilizado (ex: teste de usabilidade em laboratório, avaliação heurística)? | **p. 301-303:**  | | | Luan |
-| **L7** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento descreve as **questões práticas**: recrutamento, perfil e quantidade de participantes, local, equipamentos, prazos e mão-de-obra? | **p. 313** | | | Maria Luana |
-| **L8** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento aborda as **questões éticas** (consentimento dos participantes, confidencialidade, anonimato, direito de desistência)? | **p. 313**  / **p. 139-141:** | | | Lucas Fujimoto |
-| **L9** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de um **sumário dos dados coletados**? | **p. 312:**  | | | Tiago |
-| **L10** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de **recomendações de melhoria e um planejamento para o reprojeto** do sistema com base nos resultados? | **p. 312:**  | | | Samuel |
+| **L1** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato descreve os **objetivos e o escopo** da avaliação do protótipo de papel? | **p. 312:**  | **Sim** |  | Bryan |
+| **L2** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato especifica a **forma como a avaliação foi realizada**, incluindo o método de avaliação empregado (ex: prototipação em papel)? | **p. 312:**  | **Sim** |  | Bryan |
+| **L3** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato apresenta o **número e o perfil dos participantes e avaliadores** que participaram da avaliação do protótipo de papel? | **p. 312:**  | **Sim** |  | Bryan |
+| **L4** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato contém uma **lista detalhada dos problemas encontrados** durante a avaliação, com descrição e localização? | **p. 312:**  / **p. 319:**  | **Sim** |  | Bryan |
+| **L5** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento segue o **Framework DECIDE**, contemplando as etapas D-E-C-I-D-E? | **p. 312-313:** | **Sim** |  | Guilherme |
+| **L6** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento define o **método de avaliação** a ser utilizado (ex: teste de usabilidade em laboratório, avaliação heurística)? | **p. 301-303:**  | **Sim** |  | Luan |
+| **L7** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento descreve as **questões práticas**: recrutamento, perfil e quantidade de participantes, local, equipamentos, prazos e mão-de-obra? | **p. 313** | **Sim** |  | Maria Luana |
+| **L8** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento aborda as **questões éticas** (consentimento dos participantes, confidencialidade, anonimato, direito de desistência)? | **p. 313**  / **p. 139-141:** | **Sim** |  | Lucas Fujimoto |
+| **L9** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de um **sumário dos dados coletados**? | **p. 312:**  | **Sim** |  | Tiago |
+| **L10** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de **recomendações de melhoria e um planejamento para o reprojeto** do sistema com base nos resultados? | **p. 312:**  | **Sim** |  | Samuel |
 
 ---
 
-## Referência Bibliográfica (Formato ABNT)
+## Contabilização dos Itens Analisados
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Editora Campus, 2010. 384 p.
+Foram analisados **10 itens** (L1 a L10), distribuídos entre os dois artefatos avaliados: Relato dos Resultados do Protótipo de Baixa Fidelidade (L1–L4) e Planejamento da Avaliação/Relato do Protótipo de Alta Fidelidade (L5–L10).
+
+| Resposta | Quantidade | Percentual |
+|:--------:|:----------:|:----------:|
+| **Sim** | 10 | 100% |
+| **Não** | 0 | 0% |
+| **Incompleto** | 0 | 0% |
+| **Total** | **10** | **100%** |
+
 
 ---
 
-## Legenda de Preenchimento
+## Referência Bibliográfica 
 
-| Símbolo | Significado |
-|:---|:---|
-| **Sim** | O item foi atendido completamente |
-| **Não** | O item não foi atendido |
-| **Incompleto** | O item foi atendido parcialmente |
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. 1. ed. Rio de Janeiro: Editora Campus, 2010.
+
 
 ---
 
@@ -66,7 +71,8 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-C
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 07/06/2026 | 1.0 | Criação do documento complementar  | Bryan | — |
+| 07/06/2026 | 1.0 | Criação do documento complementar | Bryan | — |
+| 16/06/2026 | 1.1 | Preenchimento das respostas de verificação (Sim) e inclusão da contabilização dos itens analisados | Guilherme | Maria Luana |
 
 ---
 

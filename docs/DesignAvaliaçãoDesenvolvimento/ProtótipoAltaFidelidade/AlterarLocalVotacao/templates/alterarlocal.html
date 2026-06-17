@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alterar Local de Votação — TSE</title>
+    <link rel="stylesheet" href="/static-alv/alterarlocal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Header Global -->
+    <header class="global-header">
+        <div class="header-brand">
+            <div class="header-logo-box">TSE</div>
+            <span class="header-title">Tribunal Superior Eleitoral</span>
+        </div>
+        <nav class="header-nav">
+            <a href="#">Atendimento</a>
+            <a href="#">Legislação</a>
+            <a href="#">Transparência</a>
+        </nav>
+    </header>
+
+    <!-- ====== PÁGINA 1: HOME / MENU ELEITOR ====== -->
+    <div id="page-home">
+        <div class="hero-bar">
+            <h2>Portal do Eleitor</h2>
+            <small>Autoatendimento Eleitoral</small>
+        </div>
+
+        <div class="eleitor-menu">
+            <h2><i class="fas fa-user-circle"></i> Eleitor</h2>
+            <ul>
+                <li>› Tirar primeiro título</li>
+                <li>› Transferir título eleitoral</li>
+                <li class="active-link" id="card-trocar-local">› Atualizar dados pessoais, endereço ou local de votação</li>
+                <li>› Regularizar título cancelado</li>
+                <li>› Emitir 2ª via do título eleitoral</li>
+                <li>› Fazer transferência temporária de local de votação</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- ====== MODAL: O QUE VOCÊ DESEJA ATUALIZAR? ====== -->
+    <div id="modal-tipo-atualizacao" class="modal-overlay hidden">
+        <div class="modal-content modal-small">
+            <div class="modal-header">
+                <h3>O que você deseja atualizar?</h3>
+                <button class="btn-close close-modal-tipo">&times;</button>
+            </div>
+            <div class="modal-body" style="text-align:center;">
+                <p class="modal-subtitle">Mais de uma opção pode ser selecionada.</p>
+                <div class="tipo-opcoes">
+                    <div class="tipo-opcao" data-tipo="dados">Dados<br>pessoais</div>
+                    <div class="tipo-opcao" data-tipo="endereco">Endereço</div>
+                    <div class="tipo-opcao" id="opcao-local" data-tipo="local">Local de<br>votação</div>
+                </div>
+                <button class="btn-continuar-tipo" id="btn-continuar-tipo" disabled>Continuar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA 2: AUTENTICAÇÃO ====== -->
+    <div id="page-auth" class="hidden">
+        <div class="auth-container">
+            <div class="auth-box">
+                <div class="auth-header">
+                    <h3>Autenticação</h3>
+                    <button class="btn-close" id="btn-close-auth">&times;</button>
+                </div>
+                <div class="auth-body">
+                    <p class="auth-welcome">Olá, seja bem-vindo.</p>
+
+                    <div id="auth-error" class="auth-error hidden"></div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="input-identificacao" placeholder="CPF (000.000.000-00)" inputmode="numeric" maxlength="14">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="input-nascimento" placeholder="Data de nascimento (dd/mm/aaaa)" inputmode="numeric" maxlength="10">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="label-verde">Opção de filiação (conforme o cadastro na Justiça Eleitoral)</label>
+                        <select class="form-control select-verde" id="select-filiacao">
+                            <option>NOME DE MÃE E NOME DE PAI</option>
+                            <option>NOME DA MÃE</option>
+                            <option>NOME DO PAI</option>
+                        </select>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="input-mae" placeholder="Nome da mãe">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="input-pai" placeholder="Nome do pai">
+                        </div>
+                    </div>
+
+                    <div class="auth-actions">
+                        <button class="btn-outline" id="btn-voltar-auth">Voltar</button>
+                        <button class="btn-accent" id="btn-entrar-auth">Entrar</button>
+                    </div>
+
+                    <div class="auth-alt">
+                        <p>outra forma de autenticação</p>
+                        <button class="btn-etitulo" id="btn-etitulo"><i class="fas fa-mobile-alt"></i> Entrar com e-Título</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA 3: WIZARD (Documentos / Local / Complementares / Contatos) ====== -->
+    <div id="page-wizard" class="hidden">
+        <div class="wizard-page">
+
+            <div class="breadcrumb">Trocar local votação / <span id="breadcrumb-step">Documentos</span></div>
+
+            <div class="user-bar">
+                <div class="user-info">
+                    <i class="fas fa-user-circle"></i>
+                    Eleitor / Eleitora com CPF nº <strong>857.338.850-17</strong>,
+                    <a href="#">(Não sou este eleitor)</a>
+                </div>
+                <i class="fas fa-sign-out-alt"></i>
+            </div>
+
+            <div class="steps-bar">
+                <div class="step active" id="step-ind-1">
+                    <div class="step-circle">1</div>
+                    <div class="step-label">Documentos</div>
+                </div>
+                <div class="step" id="step-ind-2">
+                    <div class="step-circle">2</div>
+                    <div class="step-label">Local de votação</div>
+                </div>
+                <div class="step" id="step-ind-3">
+                    <div class="step-circle">3</div>
+                    <div class="step-label">Dados complementares</div>
+                </div>
+                <div class="step" id="step-ind-4">
+                    <div class="step-circle">4</div>
+                    <div class="step-label">Contatos</div>
+                </div>
+            </div>
+
+            <!-- ===== ETAPA 1: DOCUMENTOS ===== -->
+            <div class="step-content" id="step-content-1">
+                <div class="card-box">
+                    <p class="atencao-text">
+                        <strong>Atenção!</strong> Esta solicitação web não garante a emissão do título ou a regularização da
+                        sua situação eleitoral. Para dar continuidade a esse atendimento, os documentos abaixo devem ser
+                        anexados, para que a Justiça Eleitoral possa analisar sua solicitação.
+                    </p>
+                    <p class="limite-text">
+                        Fique atento ao limite de 5MB para cada arquivo e aos formatos aceitos: .PNG .JPG .JPEG .PDF.
+                        <br><strong>Novidade:</strong> agora você também pode usar a câmera do seu dispositivo para tirar a
+                        foto na hora, sem precisar de um arquivo pronto.
+                    </p>
+
+                    <table class="doc-table">
+                        <thead>
+                            <tr>
+                                <th>Tipo de documento</th>
+                                <th>Obrigatoriedade</th>
+                                <th>Anexo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <strong>FOTO SEGURANDO UM DOCUMENTO</strong>
+                                    <p>
+                                        Inclua uma foto de seu rosto (selfie) segurando o seu documento de identificação, com o
+                                        lado da foto para frente. Não serão aceitas: foto com óculos escuros, chapéu ou boné;
+                                        foto com outras pessoas; foto cortada, desfocada ou imprópria; foto de corpo inteiro.
+                                    </p>
+                                </td>
+                                <td><span class="badge-obrigatorio">Obrigatório</span></td>
+                                <td>
+                                    <div class="anexo-actions">
+                                        <button class="btn-anexo" onclick="document.getElementById('file-selfie').click()">
+                                            <i class="fas fa-paperclip"></i> Selecionar arquivo
+                                        </button>
+                                        <button class="btn-anexo btn-camera" onclick="openCamera('selfie')">
+                                            <i class="fas fa-camera"></i> Tirar foto agora
+                                        </button>
+                                        <input type="file" id="file-selfie" class="hidden-file" accept=".png,.jpg,.jpeg,.pdf" onchange="handleFileAttach(this,'selfie')">
+                                        <div class="anexo-status" id="status-selfie"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <strong>DOCUMENTO DE IDENTIFICAÇÃO</strong>
+                                    <p>
+                                        Cópia digitalizada ou foto do seu documento de identificação (até 5 arquivos), por
+                                        exemplo: RG; Carteira de Trabalho; Carteira profissional (OAB, CREA, CRM etc.);
+                                        Passaporte (somente com filiação).
+                                    </p>
+                                </td>
+                                <td><span class="badge-obrigatorio">Obrigatório</span></td>
+                                <td>
+                                    <div class="anexo-actions">
+                                        <button class="btn-anexo" onclick="document.getElementById('file-documento').click()">
+                                            <i class="fas fa-paperclip"></i> Selecionar arquivo
+                                        </button>
+                                        <button class="btn-anexo btn-camera" onclick="openCamera('documento')">
+                                            <i class="fas fa-camera"></i> Tirar foto agora
+                                        </button>
+                                        <input type="file" id="file-documento" class="hidden-file" accept=".png,.jpg,.jpeg,.pdf" multiple onchange="handleFileAttach(this,'documento')">
+                                        <div class="anexo-status" id="status-documento"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <strong>COMPROVANTE DE VÍNCULO (RESIDENCIAL, AFETIVO OU PROFISSIONAL)</strong>
+                                    <p>
+                                        Comprovante de vínculo com o município, emitido no mínimo nos 3 meses anteriores, em
+                                        nome do solicitante ou de seus pais, como: conta de luz, água ou telefone; envelope de
+                                        correspondência; contrato de trabalho; escritura do imóvel; título ou boleto de
+                                        mensalidade em clube social.
+                                    </p>
+                                </td>
+                                <td><span class="badge-opcional">Opcional</span></td>
+                                <td>
+                                    <div class="anexo-actions">
+                                        <button class="btn-anexo" onclick="document.getElementById('file-comprovante').click()">
+                                            <i class="fas fa-paperclip"></i> Selecionar arquivo
+                                        </button>
+                                        <input type="file" id="file-comprovante" class="hidden-file" accept=".png,.jpg,.jpeg,.pdf" onchange="handleFileAttach(this,'comprovante')">
+                                        <div class="anexo-status" id="status-comprovante"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <strong>CERTIDÃO DE NASCIMENTO OU CASAMENTO</strong>
+                                    <p>
+                                        Exigidas para os casos de alteração de nome civil, inclusão ou alteração de filiação.
+                                        Irão prevalecer no cadastro eleitoral as informações contidas nos documentos mais
+                                        recentes.
+                                    </p>
+                                </td>
+                                <td><span class="badge-opcional">Opcional</span></td>
+                                <td>
+                                    <div class="anexo-actions">
+                                        <button class="btn-anexo" onclick="document.getElementById('file-certidao').click()">
+                                            <i class="fas fa-paperclip"></i> Selecionar arquivo
+                                        </button>
+                                        <input type="file" id="file-certidao" class="hidden-file" accept=".png,.jpg,.jpeg,.pdf" onchange="handleFileAttach(this,'certidao')">
+                                        <div class="anexo-status" id="status-certidao"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <strong>OUTROS DOCUMENTOS</strong>
+                                    <p>Outros documentos ou comprovantes (até 5 arquivos): declarações ou certidões.</p>
+                                </td>
+                                <td><span class="badge-opcional">Opcional</span></td>
+                                <td>
+                                    <div class="anexo-actions">
+                                        <button class="btn-anexo" onclick="document.getElementById('file-outros').click()">
+                                            <i class="fas fa-paperclip"></i> Selecionar arquivo
+                                        </button>
+                                        <input type="file" id="file-outros" class="hidden-file" accept=".png,.jpg,.jpeg,.pdf" multiple onchange="handleFileAttach(this,'outros')">
+                                        <div class="anexo-status" id="status-outros"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <div class="form-actions">
+                        <button class="btn-outline" id="btn-cancelar-1">Cancelar</button>
+                        <button class="btn-accent" id="btn-proximo-1" disabled>Próximo</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== ETAPA 2: LOCAL DE VOTAÇÃO ===== -->
+            <div class="step-content hidden" id="step-content-2">
+                <div class="card-box">
+                    <p class="info-text">
+                        Aqui você pode escolher outro local de votação que faça parte do seu município
+                        <strong>LUZIÂNIA/GO</strong>, Zona 019.
+                    </p>
+                    <p class="info-text">
+                        Este é seu local de votação atual: <strong>CMEI PATRICIA PRADO MONTEIRO SEIXO DE BRITO, AV. ALAMEDA
+                        SANTA MARIA ESQUINA COM RUA DELFINO CURADO, SETOR FUMAL</strong>.
+                    </p>
+                    <p class="info-text-muted">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <strong>Novidade:</strong> os locais abaixo já estão ordenados pela distância em relação ao seu
+                        endereço atual (do mais próximo para o mais distante) e somente locais com vagas disponíveis são
+                        exibidos.
+                    </p>
+
+                    <div class="search-row">
+                        <input type="text" id="pesquisar-local" class="form-control" placeholder="Pesquisar por nome, endereço ou bairro">
+                        <i class="fas fa-search"></i>
+                    </div>
+
+                    <label class="checkbox-row">
+                        <input type="checkbox" id="check-acessibilidade">
+                        Deseja votar em uma seção com acessibilidade?
+                    </label>
+
+                    <table class="local-table" id="local-table">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>NOME</th>
+                                <th>ENDEREÇO</th>
+                                <th>BAIRRO</th>
+                                <th>DISTÂNCIA</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr data-nome="ESCOLA MUNICIPAL CARLOS ALBERTO BRANDÃO FERREIRA (PE TETO)"
+                                data-endereco="RUA ELIZEU DE MELO, QD.NMJ, LT.01 - ÁREA ESPECIAL"
+                                data-bairro="SETOR FUMAL"
+                                data-distancia="0,6">
+                                <td><input type="radio" name="local-votacao"></td>
+                                <td>ESCOLA MUNICIPAL CARLOS ALBERTO BRANDÃO FERREIRA (PE TETO)</td>
+                                <td>RUA ELIZEU DE MELO, QD.NMJ, LT.01 - ÁREA ESPECIAL</td>
+                                <td>SETOR FUMAL</td>
+                                <td class="distancia-cell">0,6 km</td>
+                            </tr>
+                            <tr data-nome="CEPI - FRANCISCO MACHADO DE ARAUJO"
+                                data-endereco="ALAMEDA SANTA MARIA, QD.01, LT.04"
+                                data-bairro="SETOR AEROPORTO"
+                                data-distancia="1,4">
+                                <td><input type="radio" name="local-votacao"></td>
+                                <td>CEPI - FRANCISCO MACHADO DE ARAUJO</td>
+                                <td>ALAMEDA SANTA MARIA, QD.01, LT.04</td>
+                                <td>SETOR AEROPORTO</td>
+                                <td class="distancia-cell">1,4 km</td>
+                            </tr>
+                            <tr data-nome="CEMEB - PROFESSOR JOAQUIM GILBERTO"
+                                data-endereco="RUA 09 DE JULHO, ÁREA ESPECIAL (AO LADO DO GINÁSIO)"
+                                data-bairro="JARDIM INGÁ"
+                                data-distancia="2,3">
+                                <td><input type="radio" name="local-votacao"></td>
+                                <td>CEMEB - PROFESSOR JOAQUIM GILBERTO</td>
+                                <td>RUA 09 DE JULHO, ÁREA ESPECIAL (AO LADO DO GINÁSIO)</td>
+                                <td>JARDIM INGÁ</td>
+                                <td class="distancia-cell">2,3 km</td>
+                            </tr>
+                            <tr data-nome="CEMEB - NATALIA APARECIDA LOUZADA ALVES - MINGONE II"
+                                data-endereco="PARQUE INDUSTRIAL MINGONE II, AV.03, PRAÇA III - ÁREA ESPECIAL"
+                                data-bairro="PARQUE MINGONE II"
+                                data-distancia="3,1">
+                                <td><input type="radio" name="local-votacao"></td>
+                                <td>CEMEB - NATALIA APARECIDA LOUZADA ALVES - MINGONE II</td>
+                                <td>PARQUE INDUSTRIAL MINGONE II, AV.03, PRAÇA III - ÁREA ESPECIAL</td>
+                                <td>PARQUE MINGONE II</td>
+                                <td class="distancia-cell">3,1 km</td>
+                            </tr>
+                            <tr data-nome="CENTRO COMUNITÁRIO PADRE BERNARDO"
+                                data-endereco="RUA DR JOAO TEIXEIRA, SN"
+                                data-bairro="CENTRO"
+                                data-distancia="4,0">
+                                <td><input type="radio" name="local-votacao"></td>
+                                <td>CENTRO COMUNITÁRIO PADRE BERNARDO</td>
+                                <td>RUA DR JOAO TEIXEIRA, SN</td>
+                                <td>CENTRO</td>
+                                <td class="distancia-cell">4,0 km</td>
+                            </tr>
+                            <tr data-nome="CENTRO COMUNITÁRIO DO CRUZEIRO"
+                                data-endereco="REGIÃO DE ÁGUAS CLARAS"
+                                data-bairro="ZONA RURAL"
+                                data-distancia="8,7">
+                                <td><input type="radio" name="local-votacao"></td>
+                                <td>CENTRO COMUNITÁRIO DO CRUZEIRO</td>
+                                <td>REGIÃO DE ÁGUAS CLARAS</td>
+                                <td>ZONA RURAL</td>
+                                <td class="distancia-cell">8,7 km</td>
+                            </tr>
+                            <tr data-nome="CENTRO COMUNITÁRIO CEDRO"
+                                data-endereco="REGIÃO DO CEDRO"
+                                data-bairro="ZONA RURAL"
+                                data-distancia="9,5">
+                                <td><input type="radio" name="local-votacao"></td>
+                                <td>CENTRO COMUNITÁRIO CEDRO</td>
+                                <td>REGIÃO DO CEDRO</td>
+                                <td>ZONA RURAL</td>
+                                <td class="distancia-cell">9,5 km</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <div class="form-actions">
+                        <button class="btn-outline" id="btn-cancelar-2">Cancelar</button>
+                        <button class="btn-outline" id="btn-anterior-2">Anterior</button>
+                        <button class="btn-accent" id="btn-proximo-2" disabled>Próximo</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== ETAPA 3: DADOS COMPLEMENTARES ===== -->
+            <div class="step-content hidden" id="step-content-3">
+                <div class="card-box">
+                    <h4>Dados complementares</h4>
+                    <p class="limite-text">
+                        Confirme ou atualize as informações complementares do seu cadastro eleitoral.
+                    </p>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Profissão</label>
+                            <input type="text" class="form-control" id="input-profissao" placeholder="Ex.: Estudante, Autônomo(a)...">
+                        </div>
+                        <div class="form-group">
+                            <label>Grau de instrução</label>
+                            <select class="form-control" id="select-instrucao">
+                                <option value="">Selecione...</option>
+                                <option>Ensino Fundamental</option>
+                                <option>Ensino Médio</option>
+                                <option>Ensino Superior</option>
+                                <option>Pós-graduação</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Nome social (opcional)</label>
+                        <input type="text" class="form-control" id="input-nome-social" placeholder="Caso deseje utilizar nome social">
+                    </div>
+
+                    <div class="form-actions">
+                        <button class="btn-outline" id="btn-cancelar-3">Cancelar</button>
+                        <button class="btn-outline" id="btn-anterior-3">Anterior</button>
+                        <button class="btn-accent" id="btn-proximo-3">Próximo</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== ETAPA 4: CONTATOS ===== -->
+            <div class="step-content hidden" id="step-content-4">
+                <div class="card-box">
+                    <h4>Contatos</h4>
+                    <p class="limite-text">
+                        Informe um telefone e um e-mail para receber atualizações sobre o andamento da sua solicitação.
+                    </p>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Telefone celular *</label>
+                            <input type="text" class="form-control" id="input-telefone" placeholder="(00) 00000-0000" inputmode="numeric" maxlength="15">
+                        </div>
+                        <div class="form-group">
+                            <label>E-mail *</label>
+                            <input type="email" class="form-control" id="input-email" placeholder="seuemail@exemplo.com">
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <button class="btn-outline" id="btn-cancelar-4">Cancelar</button>
+                        <button class="btn-outline" id="btn-anterior-4">Anterior</button>
+                        <button class="btn-accent" id="btn-enviar-4">Enviar solicitação</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- ====== MODAL: TIRAR FOTO (CÂMERA) ====== -->
+    <div id="modal-camera" class="modal-overlay hidden">
+        <div class="modal-content modal-small">
+            <div class="modal-header">
+                <h3><i class="fas fa-camera"></i> Tirar foto</h3>
+                <button class="btn-close" id="btn-close-camera">&times;</button>
+            </div>
+            <div class="modal-body camera-body">
+                <video id="camera-video" autoplay playsinline></video>
+                <canvas id="camera-canvas" class="hidden"></canvas>
+                <p class="camera-hint" id="camera-hint">Posicione o item dentro do quadro e clique em capturar.</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-outline hidden" id="btn-retake">Tirar novamente</button>
+                <button class="btn-accent" id="btn-capture">Capturar foto</button>
+                <button class="btn-accent hidden" id="btn-use-photo">Usar esta foto</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== MODAL: CONFIRMAÇÃO FINAL ====== -->
+    <div id="modal-confirmacao" class="modal-overlay hidden">
+        <div class="modal-content modal-small">
+            <div class="modal-header">
+                <h3>Confirmar solicitação</h3>
+                <button class="btn-close" id="btn-close-confirm">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>Você está solicitando a alteração do seu local de votação para:</p>
+                <div class="resumo-local">
+                    <strong id="resumo-nome">—</strong>
+                    <span id="resumo-endereco">—</span>
+                    <span id="resumo-bairro">—</span>
+                    <span class="resumo-distancia" id="resumo-distancia">—</span>
+                </div>
+                <p class="aviso-vaga">
+                    <i class="fas fa-info-circle"></i>
+                    A escolha do local de votação será efetivada apenas se houver vaga disponível no momento da
+                    conclusão do atendimento pela Justiça Eleitoral.
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-outline" id="btn-cancelar-confirm">Cancelar</button>
+                <button class="btn-accent" id="btn-confirmar-final">Confirmar solicitação</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ====== PÁGINA DE SUCESSO ====== -->
+    <div id="page-sucesso" class="hidden">
+        <div class="hero-bar">
+            <h2>Solicitação enviada</h2>
+            <small>Alterar local de votação</small>
+        </div>
+        <div class="success-page">
+            <div class="success-icon"><i class="fas fa-check"></i></div>
+            <h2>Solicitação enviada com sucesso!</h2>
+            <p>
+                Sua solicitação de alteração de local de votação foi registrada junto à Justiça Eleitoral.
+                Você receberá atualizações sobre o andamento por e-mail e SMS.
+            </p>
+            <div class="protocol-box">
+                <small>Número do Protocolo</small>
+                <strong id="num-protocolo">ALV-2026-000000</strong>
+            </div>
+            <br>
+            <span class="btn-home-link" id="btn-voltar-home">← Voltar ao Portal do Eleitor</span>
+        </div>
+    </div>
+
+    <!-- Footer Global -->
+    <footer class="global-footer">
+        <div>TSE — Tribunal Superior Eleitoral</div>
+        <div>Versão 3.1.0</div>
+    </footer>
+
+    <!-- ====== BOTÃO FLUTUANTE DE AJUDA ====== -->
+    <button id="btn-ajuda-flutuante" title="Ajuda do teste">
+        <i class="fas fa-question"></i>
+    </button>
+
+    <!-- ====== MODAL DE AJUDA / CENÁRIO ====== -->
+    <div id="modal-ajuda" class="modal-overlay hidden">
+        <div class="modal-content modal-ajuda-content">
+            <div class="modal-header">
+                <h3><i class="fas fa-clipboard-list" style="margin-right:0.5rem;color:var(--color-primary)"></i> Informações do Teste</h3>
+                <button class="btn-close" id="btn-close-ajuda">&times;</button>
+            </div>
+            <div class="modal-body">
+
+                <div class="ajuda-section">
+                    <h4 class="ajuda-section-title"><i class="fas fa-map-marked-alt"></i> Cenário</h4>
+                    <p class="ajuda-section-body">
+                        Seu local de votação atual ficou bem longe da sua nova casa, e você gostaria de trocá-lo pelo
+                        local <strong>mais próximo possível</strong> do seu novo endereço, para não precisar se
+                        deslocar tanto no dia da eleição.
+                    </p>
+                </div>
+
+                <div class="ajuda-section">
+                    <h4 class="ajuda-section-title"><i class="fas fa-tasks"></i> Objetivo da tarefa</h4>
+                    <ol class="ajuda-ol">
+                        <li>Encontrar a opção de <strong>atualizar o local de votação</strong> no portal;</li>
+                        <li>Fazer a <strong>autenticação</strong> com os dados abaixo;</li>
+                        <li><strong>Anexar os documentos</strong> solicitados (upload ou câmera);</li>
+                        <li>Escolher na lista o local <strong>mais próximo</strong> do seu endereço;</li>
+                        <li>Preencher os <strong>dados complementares e de contato</strong>;</li>
+                        <li><strong>Enviar a solicitação</strong> e confirmar no popup final.</li>
+                    </ol>
+                </div>
+
+                <div class="ajuda-section">
+                    <h4 class="ajuda-section-title"><i class="fas fa-id-card"></i> Dados para usar no teste</h4>
+                    <table class="ajuda-table">
+                        <tbody>
+                            <tr>
+                                <th>CPF</th>
+                                <td><code>857.338.850-17</code></td>
+                            </tr>
+                            <tr>
+                                <th>Data de nascimento</th>
+                                <td><code>10/03/2004</code></td>
+                            </tr>
+                            <tr>
+                                <th>Opção de filiação</th>
+                                <td>Manter padrão: <code>NOME DE MÃE E NOME DE PAI</code></td>
+                            </tr>
+                            <tr>
+                                <th>Nome da mãe</th>
+                                <td><code>MARIA SILVA</code></td>
+                            </tr>
+                            <tr>
+                                <th>Nome do pai</th>
+                                <td><code>MARIO SILVA</code></td>
+                            </tr>
+                            <tr>
+                                <th>Documentos</th>
+                                <td>Qualquer imagem utilizando a função de tirar foto pela câmera</td>
+                            </tr>
+                            <tr>
+                                <th>Profissão</th>
+                                <td><code>ESTUDANTE</code></td>
+                            </tr>
+                            <tr>
+                                <th>Grau de instrução</th>
+                                <td><code>ENSINO SUPERIOR</code></td>
+                            </tr>
+                            <tr>
+                                <th>Telefone celular</th>
+                                <td><code>(61) 99780-3450</code></td>
+                            </tr>
+                            <tr>
+                                <th>E-mail</th>
+                                <td><code>teste@gmail.com</code></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <p class="ajuda-dica">
+                    <i class="fas fa-lightbulb"></i>
+                    <strong>Dica:</strong> Os campos de CPF, data de nascimento e telefone são preenchidos
+                    automaticamente com a formatação correta enquanto você digita.
+                </p>
+
+            </div>
+            <div class="modal-footer">
+                <button class="btn-accent" id="btn-fechar-ajuda">Entendido, fechar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static-alv/alterarlocal.js"></script>
+    <script src="/static/telemetry.js"></script>
+</body>
+</html>

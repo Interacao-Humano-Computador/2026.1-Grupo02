@@ -17,6 +17,7 @@ templates = Jinja2Templates(directory="../CandContas/templates")
 templates_je = Jinja2Templates(directory="../JustificativaEleitoral/templates")
 templates_emt = Jinja2Templates(directory="../Emissao1Titulo/templates")
 templates_ag = Jinja2Templates(directory="../Agendamento/templates")
+templates_alv = Jinja2Templates(directory="../AlterarLocalVotacao/templates")
 
 
 os.makedirs("logs", exist_ok=True)
@@ -81,6 +82,9 @@ async def read_tcle_emissao_titulo(request: Request):
 @app.get("/agendamento", response_class=HTMLResponse)
 async def read_agendamento(request: Request):
     return templates_ag.TemplateResponse(request=request, name="agendamento.html")
+@app.get("/alterar-local", response_class=HTMLResponse)
+async def read_alterar_local(request: Request):
+    return templates_alv.TemplateResponse(request=request, name="alterarlocal.html")
 
 if __name__ == "__main__":
     import uvicorn
