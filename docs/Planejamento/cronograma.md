@@ -239,7 +239,7 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
-| Relato dos resultados do Protótipo de alta fidelidade | Início: 16/06<br>Fim: 16/06 | Maria Luana, Tiago, Bryan | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Relato dos resultados do Protótipo de alta fidelidade | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Gravar vídeo de apresentação | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Correção após feedback |  | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |  |  |
 
