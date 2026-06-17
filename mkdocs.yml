@@ -153,9 +153,10 @@ nav:
       - Protótipo de Alta Fidelidade:
           - Protótipos de Alta Fidelidade Unificados: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/Protótipo_Alta_Fidelidade.md
           - Protótipos de Alta Fidelidade Individuais:
-            - Protótipo de Alta Fidelidade Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/JustificativaEleitoral_AltaFidelidade.md
+            - Protótipo de Alta Fidelidade Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótioAltaFidelidade/JustificativaEleitoral_AltaFidelidade.md
             - Protótipo de Alta Fidelidade Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/Agendamento_AltaFidelidade.md
             - Protótipo de Alta Fidelidade Emissão do 1º Título: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/Emissao1Ttitulo_AltaFidelidade.md
+            - Protótipo de Alta Fidelidade Alterar Local Votação: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/AlterarLocalVotacao_AltaFidelidade.md
   - Verificação:
       - Listas de Verificação:
           - Etapa 1: Avaliacao/Lista/Lista_de_Verificação_Entrega1.md

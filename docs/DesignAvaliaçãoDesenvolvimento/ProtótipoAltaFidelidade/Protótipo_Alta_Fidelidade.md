@@ -29,7 +29,8 @@ Os protótipos de alta estão organizados por tarefa e podem ser acessados indiv
 | :-: | :------------------------------------ | :------------: | :---------------------------------------------------------: |
 |  1  | Justificativa Eleitoral               |   Luan Ludry   | [Acessar](JustificativaEleitoral_AltaFidelidade.md)|
 |  2  | Agendamento Presencial                | Lucas Fujimoto | [Acessar](Agendamento_AltaFidelidade.md) |
-| 3 | Emissão do 1º Título | Maria Luana | [Acessar](Emissao1Ttitulo_AltaFidelidade.md)
+| 3 | Emissão do 1º Título | Maria Luana | [Acessar](Emissao1Ttitulo_AltaFidelidade.md) |
+| 4 | Alterar local | Guilherme | [Acessar](AlterarLocalVotacao_AltaFidelidade.md) |
 <div style="text-align: left">
 <p>Tabela 2: Índice de protótipos de papel do Grupo 02 (Fonte: FUJIMOTO, Lucas).</p>
 </div>
