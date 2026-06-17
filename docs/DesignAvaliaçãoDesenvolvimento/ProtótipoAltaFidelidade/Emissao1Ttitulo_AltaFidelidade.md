@@ -1,4 +1,4 @@
-# Protótipo de Alta Fidelidade — Justificativa Eleitoral Online
+# Protótipo de Alta Fidelidade — Emissão de 1° Titulo de Eleitor
 
 ## Grupo 02
 
@@ -43,7 +43,7 @@ O fluxo modelado no protótipo contempla as seguintes etapas descritas na tabela
 | 1 | Encontrar o serviço de autoatendimento na tela inicial |
 | 2 | Encontrar o serviço de emissão de 1° Título de Eleitor na tela de autoatendimento|
 | 3 | Anexação dos documentos necessários |
-| 4 | Confimação sobre a idade para determinar a necessidade de pagar multa ou não |
+| 4 | Confimação sobre a idade para determinar a necessidade de pagar multa |
 | 5 | Preechimento dos dados necessários (nome,data de nascimento, endereço, etc) |
 | 6 | Escolha do Local de votação |
 | 7 | Preenchimento dos dados para contato |
@@ -69,7 +69,7 @@ Após iniciar o servidor, acesse:
 
 ## Persona Relacionada
 
-O protótipo foi desenvolvido com base na persona **Fernanda Ribeiro**, que representa um usuário que está buscando seu primeiro título de eleitor e não tem prévia experiencia com o processo. 
+O protótipo foi desenvolvido com base na persona **Fernanda Ribeiro**, que representa um usuário que está buscando seu primeiro título de eleitor e não tem prévia experiencia com o processo. Porém, no teste, o usuário assumirá a identidade de Karina, uma mulher de 19 anos que também está buscando seu primeiro título.
 
 ---
 
@@ -89,7 +89,7 @@ O protótipo foi desenvolvido com base na persona **Fernanda Ribeiro**, que repr
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 13/06/2026 | 1.0 | Criação do documento e do protótipo |  | |
+| 13/06/2026 | 1.0 | Criação do documento e do protótipo | Maria Luana | Samuel |
 
 <div style="text-align: left">
 <p>Tabela 3: Histórico de Versão (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
