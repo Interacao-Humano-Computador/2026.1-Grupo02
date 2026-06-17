@@ -33,16 +33,16 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 
 | Nº | Artefato | Questão | Referência (Barbosa & Silva, 2010) | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Autor |
 |:--:|:--------:|:--------|:----------------------------------:|:-----------------------------:|:-------------------:|:-----:|
-| **L1** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato descreve os **objetivos e o escopo** da avaliação do protótipo de papel? | **p. 312:**  | | | Bryan |
-| **L2** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato especifica a **forma como a avaliação foi realizada**, incluindo o método de avaliação empregado (ex: prototipação em papel)? | **p. 312:**  | | | Bryan |
-| **L3** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato apresenta o **número e o perfil dos participantes e avaliadores** que participaram da avaliação do protótipo de papel? | **p. 312:**  | | | Bryan |
-| **L4** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato contém uma **lista detalhada dos problemas encontrados** durante a avaliação, com descrição e localização? | **p. 312:**  / **p. 319:**  | | | Bryan |
-| **L5** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento segue o **Framework DECIDE**, contemplando as etapas D-E-C-I-D-E? | **p. 312-313:** | | | Guilherme |
-| **L6** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento define o **método de avaliação** a ser utilizado (ex: teste de usabilidade em laboratório, avaliação heurística)? | **p. 301-303:**  | | | Luan |
-| **L7** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento descreve as **questões práticas**: recrutamento, perfil e quantidade de participantes, local, equipamentos, prazos e mão-de-obra? | **p. 313** | | | Maria Luana |
-| **L8** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento aborda as **questões éticas** (consentimento dos participantes, confidencialidade, anonimato, direito de desistência)? | **p. 313**  / **p. 139-141:** | | | Lucas Fujimoto |
-| **L9** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de um **sumário dos dados coletados**? | **p. 312:**  | | | Tiago |
-| **L10** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de **recomendações de melhoria e um planejamento para o reprojeto** do sistema com base nos resultados? | **p. 312:**  | | | Samuel |
+| **L1** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato descreve os **objetivos e o escopo** da avaliação do protótipo de papel? | **p. 312:**  | Sim | 1.0 | Bryan |
+| **L2** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato especifica a **forma como a avaliação foi realizada**, incluindo o método de avaliação empregado (ex: prototipação em papel)? | **p. 312:**  | Sim | 1.0 | Bryan |
+| **L3** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato apresenta o **número e o perfil dos participantes e avaliadores** que participaram da avaliação do protótipo de papel? | **p. 312:**  | Sim | 1.0 | Bryan |
+| **L4** | Relato dos Resultados (Protótipo de Baixa Fidelidade) | O relato contém uma **lista detalhada dos problemas encontrados** durante a avaliação, com descrição e localização? | **p. 312:**  / **p. 319:**  | Sim | 1.0 | Bryan |
+| **L5** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento segue o **Framework DECIDE**, contemplando as etapas D-E-C-I-D-E? | **p. 312-313:** | Sim | 1.0 | Guilherme |
+| **L6** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento define o **método de avaliação** a ser utilizado (ex: teste de usabilidade em laboratório, avaliação heurística)? | **p. 301-303:**  | Sim | 1.0 | Luan |
+| **L7** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento descreve as **questões práticas**: recrutamento, perfil e quantidade de participantes, local, equipamentos, prazos e mão-de-obra? | **p. 313** | Sim | 1.0 | Maria Luana |
+| **L8** | Planejamento da Avaliação (Protótipo de Alta Fidelidade) | O planejamento aborda as **questões éticas** (consentimento dos participantes, confidencialidade, anonimato, direito de desistência)? | **p. 313**  / **p. 139-141:** | Sim | 1.0 | Lucas Fujimoto |
+| **L9** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de um **sumário dos dados coletados**? | **p. 312:**  | Sim | 1.0 | Tiago |
+| **L10** | Planejamento do Relato (Protótipo de Alta Fidelidade) | O planejamento do relato prevê a inclusão de **recomendações de melhoria e um planejamento para o reprojeto** do sistema com base nos resultados? | **p. 312:**  | Sim | 1.0 | Samuel |
 
 ---
 
