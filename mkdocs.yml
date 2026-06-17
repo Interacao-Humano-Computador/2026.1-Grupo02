@@ -117,11 +117,12 @@ nav:
           - Prototipo de Alta Fidelidade:
               - Planejamento da Avaliação do Protótipo de Alta Fidelidade: DesignAvaliaçãoDesenvolvimento/Planejamento_da_Avaliacao_Prototipo_Alta_Fidelidade.md
               - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: DesignAvaliaçãoDesenvolvimento/Planejamento_do_Relato_dos_Resultados_Prototipo_Alta_Fidelidade.md
-              - Protótipos de Alta Fidelidade Individuais:
-                  - Protótipo de Alta Fidelidade Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/JustificativaEleitoral_AltaFidelidade.md
               - Avaliações do Protótipo de Alta Fidelidade:
                   - Relato da Avaliação 01: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_JustificativaEleitoral.md
-
+                  - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Agendamento.md
+                  - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_CertidaoQuitacaoEleitoral.md
+                  - Relato da Avaliação 04: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_ComparacaoGastos.md
+                  - Relato da Avaliação 05: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Mesario.md
       - Relatos de Avaliação: DesignAvaliaçãoDesenvolvimento/avaliacoes.md
 
 
@@ -149,6 +150,9 @@ nav:
                   - Protótipo de Papel Emissão Primeiro Titulo: DesignAvaliaçãoDesenvolvimento/ProtótipoPapel/emissaoprimeirotitulo.md
       - Protótipo de Alta Fidelidade:
           - Protótipo de Alta Fidelidade: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/Protótipo_Alta_Fidelidade.md
+          - Protótipos de Alta Fidelidade Individuais:
+            - Protótipo de Alta Fidelidade Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/JustificativaEleitoral_AltaFidelidade.md
+            - Protótipo de Alta Fidelidade Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/Agendamento_AltaFidelidade.md
   - Verificação:
       - Listas de Verificação:
           - Etapa 1: Avaliacao/Lista/Lista_de_Verificação_Entrega1.md
