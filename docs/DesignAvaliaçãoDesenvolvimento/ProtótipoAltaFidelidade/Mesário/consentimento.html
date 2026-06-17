@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TCLE - Avaliação de Usabilidade - Ser Mesário TSE</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2540 0%, #1a3a5c 100%);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+
+    .tcle-container {
+      max-width: 850px;
+      width: 100%;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+      overflow: hidden;
+    }
+
+    /* Cabeçalho */
+    .tcle-header {
+      background: linear-gradient(135deg, #1a3a5c 0%, #0f2540 100%);
+      color: white;
+      padding: 25px 30px;
+      text-align: center;
+    }
+
+    .tcle-header h1 {
+      font-size: 22px;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+
+    .tcle-header .subtitle {
+      font-size: 14px;
+      opacity: 0.85;
+    }
+
+    .unb-logo {
+      margin-bottom: 15px;
+    }
+
+    .unb-logo svg {
+      width: 60px;
+      height: 60px;
+    }
+
+    /* Corpo */
+    .tcle-body {
+      padding: 30px;
+    }
+
+    .info-section {
+      background: #f0f5fb;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-left: 4px solid #1a3a5c;
+    }
+
+    .info-section h3 {
+      color: #1a3a5c;
+      font-size: 16px;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .info-section ul {
+      margin-left: 25px;
+      color: #2d4a6a;
+      line-height: 1.6;
+      font-size: 14px;
+    }
+
+    .info-section li {
+      margin-bottom: 6px;
+    }
+
+    /* Tarefa do Teste (destaque) */
+    .tarefa-box {
+      background: #fff9e8;
+      border: 2px solid #f5c518;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 25px;
+    }
+
+    .tarefa-box h3 {
+      color: #b8860b;
+      font-size: 16px;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .tarefa-box p {
+      color: #2d4a6a;
+      line-height: 1.7;
+      font-size: 14px;
+      margin-bottom: 15px;
+    }
+
+    .tarefa-steps {
+      background: #f5f5f0;
+      border-radius: 8px;
+      padding: 12px 20px;
+      margin-top: 10px;
+    }
+
+    .tarefa-steps ol {
+      margin-left: 20px;
+      color: #2d4a6a;
+      line-height: 1.8;
+      font-size: 13.5px;
+    }
+
+    .tarefa-steps li {
+      margin-bottom: 5px;
+    }
+
+    /* Botões */
+    .buttons {
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .btn {
+      padding: 12px 30px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: none;
+    }
+
+    .btn-primary {
+      background: #1a3a5c;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #0f2540;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(26,58,92,0.3);
+    }
+
+    .btn-secondary {
+      background: #e0e0e0;
+      color: #5a5a5a;
+    }
+
+    .btn-secondary:hover {
+      background: #cccccc;
+    }
+
+    /* Rodapé */
+    .tcle-footer {
+      background: #f5f5f5;
+      padding: 15px 30px;
+      text-align: center;
+      font-size: 11px;
+      color: #888;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    hr {
+      margin: 20px 0;
+      border: none;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    @media (max-width: 600px) {
+      .tcle-body {
+        padding: 20px;
+      }
+      .buttons {
+        flex-direction: column;
+      }
+      .btn {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="tcle-container">
+  <!-- CABEÇALHO -->
+  <div class="tcle-header">
+    <div class="unb-logo">
+      <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="50" cy="50" r="48" stroke="white" stroke-width="2" fill="none"/>
+        <text x="50" y="56" text-anchor="middle" fill="white" font-size="14" font-weight="bold">UnB</text>
+      </svg>
+    </div>
+    <h1>TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE)</h1>
+    <div class="subtitle">Interação Humano-Computador — Universidade de Brasília (UnB)</div>
+  </div>
+
+  <!-- CORPO -->
+  <div class="tcle-body">
+    <h2 style="color: #1a3a5c; font-size: 18px; margin-bottom: 15px; text-align: center;">Pesquisa: Perfil do Usuário e Avaliação de Funcionalidades do Site do TSE</h2>
+
+    <div class="info-section">
+      <h3>📋 Sobre a pesquisa</h3>
+      <ul>
+        <li>Somos estudantes da disciplina de Interação Humano-Computador da Universidade de Brasília e estamos realizando avaliações com o objetivo de identificar o perfil dos usuários e coletar opiniões sobre as funcionalidades do site do Tribunal Superior Eleitoral (TSE).</li>
+        <li>Solicitamos seu consentimento para a participação neste teste de usabilidade do nosso protótipo (duração estimada: <strong>30 minutos</strong>).</li>
+      </ul>
+    </div>
+
+    <div class="info-section">
+      <h3>🔒 Garantias ao participante</h3>
+      <ul>
+        <li><strong>Os dados coletados destinam-se estritamente a análise e desenvolvimento do projeto acadêmico.</strong></li>
+        <li><strong>O anonimato dos participantes será preservado</strong> em todos os documentos produzidos — nenhuma informação pessoal identificável será registrada.</li>
+        <li>A participação é <strong>voluntária</strong> e o consentimento pode ser retirado a qualquer momento, sem prejuízo.</li>
+        <li>O teste pode ser interrompido a qualquer momento, segundo sua disponibilidade e vontade, bastando fechar a janela do navegador.</li>
+        <li>Não há riscos significativos associados à participação nesta pesquisa.</li>
+      </ul>
+    </div>
+
+    <!-- TAREFA DO TESTE (ADAPTADA PARA SER MESÁRIO) -->
+    <div class="tarefa-box">
+      <h3>🎯 A Tarefa do Teste</h3>
+      <p>Você irá interagir com um <strong>proótipo de alta fidelidade do site do TSE</strong> que simula o fluxo de cadastro de <strong>Mesário Voluntário</strong> para as Eleições 2026.</p>
+      
+      <div class="tarefa-steps">
+        <strong>📌 Instruções para o teste:</strong>
+        <ol>
+          <li><strong>Navegue pela página inicial</strong> do protótipo e localize a opção para se tornar <strong>Mesário Voluntário</strong>.</li>
+          <li><strong>Acesse a página de instruções</strong> e leia os benefícios e requisitos para ser mesário.</li>
+          <li><strong>Preencha o formulário de cadastro</strong> com os dados fictícios solicitados (nome, CPF, data de nascimento, e-mail, disponibilidade de horário etc.).</li>
+          <li><strong>Envie sua solicitação</strong> e aguarde a mensagem de confirmação do sistema.</li>
+          <li><strong>Explore o fluxo</strong> e relate qualquer dificuldade encontrada durante a realização das tarefas.</li>
+        </ol>
+      </div>
+      <p style="margin-top: 12px; font-size: 12px; color: #b8860b; background: #fff3d6; padding: 8px 12px; border-radius: 6px;">
+        ⚠️ <strong>Importante:</strong> O teste é sobre o <strong>proótipo</strong> — não estamos testando você. Sinta-se à vontade para explorar, errar e dar sua opinião sincera sobre a experiência de cadastro como mesário voluntário.
+      </p>
+    </div>
+
+    <hr>
+
+    <div class="buttons">
+      <button class="btn btn-primary" onclick="aceitarTermo()">✅ Li e concordo, iniciar o teste</button>
+      <button class="btn btn-secondary" onclick="recusarTermo()">❌ Não concordo, cancelar</button>
+    </div>
+  </div>
+
+  <!-- RODAPÉ -->
+  <div class="tcle-footer">
+    <p>Universidade de Brasília — Faculdade UnB Gama (FGA) — Disciplina: Interação Humano-Computador</p>
+    <p style="margin-top: 5px;">Em caso de dúvidas, entre em contato com a equipe responsável pelo teste.</p>
+  </div>
+</div>
+
+<script>
+  function aceitarTermo() {
+    // Redireciona para a página final do protótipo do mesário
+    window.location.href = "tse_mesario_final.html";
+  }
+
+  function recusarTermo() {
+    // Fecha a janela ou redireciona para uma página de agradecimento
+    alert("Agradecemos seu interesse! A janela será fechada.");
+    window.close();
+    // Caso o window.close() não funcione (por restrições do navegador):
+    // document.body.innerHTML = '<div style="text-align:center; padding:50px;"><h2>Teste cancelado.</h2><p>Você pode fechar esta janela.</p></div>';
+  }
+</script>
+
+</body>
+</html>

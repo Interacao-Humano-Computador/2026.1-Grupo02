@@ -8,6 +8,7 @@
 |:----------:|:-------------|
 | Tiago | Criação do documento de índice de avaliações |
 | Guilherme | Adição de tabela 4 e correção da tabela 2 e 3 |
+| Lucas | Adição de tabela 5 |
 
 
 
@@ -71,12 +72,24 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 5 | Relato da Avaliação 05| [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_JustificativaEleitoral.md) |
 | 6 | Relato da Avaliação 06| [Acessar](Avaliacoes/Relato_Avaliação_PrototipoPapel_Emitir1Titulo.md) |
 
-
-
-
-
 <div style="text-align: left">
 <p>Tabela 4: Índice de relatos da avaliação dos Protótipos de Papel (Fonte: CARVALHO, Guilherme, 2026).</p>
+</div>
+
+---
+
+## Relatos da Avaliação dos Protótipos de Alta Fidelidade
+
+| # | Documento / Sessão | Link |
+|:-:|:-------------------|:----:|
+| 1 | Relato da Avaliação 01 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_JustificativaEleitoral.md) |
+| 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Agendamento.md) |
+| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_CertidaoQuitacaoEleitoral.md) |
+| 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_ComparacaoGastos.md) |
+| 5 | Relato da Avaliação 05| [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Mesario.md) |
+
+<div style="text-align: left">
+<p>Tabela 5: Índice de relatos da avaliação dos Protótipos de Alta Fidelidade (Fonte: FUJIMOTO, Lucas, 2026).</p>
 </div>
 
 ---
@@ -96,6 +109,7 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 07/06/2026 | 1.2 | Adição de tabelas e correções | Guilherme | Tiago |
 | 07/06/2026 | 1.3 | Adição de link na tabela 4 | Guilherme | Maria Luana |
 | 07/06/2026 | 1.4 | Adição de link na tabela 4 | Guilherme | Maria Luana |
+| 16/06/2026 | 1.5 | Adição de tabelas do protótipo de alta fidelidade | Lucas | Samuel |
 
 
 
