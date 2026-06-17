@@ -29,7 +29,29 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 
 ## Lista de Verificação
 
-### Itens com Base no Livro (Barbosa & Silva, 2010)
+### Seção 1 — Itens do Desenvolvimento do Projeto
+
+> Critérios padrão exigidos em todas as entregas do projeto. Avaliar: o próprio grupo e o Grupo +1.
+
+| Nº | Questão | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação |
+|:--:|:--------|:---------------------------------:|:--------------------------------:|
+| 1 | O histórico de versão está padronizado? | sim | |
+| 2 | O(s) autor(es) e o(s) revisor(es) estão indicados em cada artefato? | sim | |
+| 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? | sim | |
+| 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | sim | |
+| 5 | Há um texto de introdução em todos os artefatos? | sim | |
+| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | sim | |
+| 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | sim | |
+| 8 | A gravação da reunião do grupo está disponível e acessível? | sim | |
+| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | sim | |
+| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | sim | |
+| 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | sim | |
+
+<div style="text-align: left">
+<p>Tabela 2: Itens do desenvolvimento do projeto (Fonte: Plano de Ensino da Disciplina, 2026).</p>
+</div>
+
+### Seção 2 - Itens com Base no Livro (Barbosa & Silva, 2010)
 
 | Nº | Artefato | Questão | Referência (Barbosa & Silva, 2010) | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora | Autor |
 |:--:|:--------:|:--------|:----------------------------------:|:-----------------------------:|:-------------------:|:-----:|
