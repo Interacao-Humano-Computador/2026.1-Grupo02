@@ -13,6 +13,7 @@ app.mount("/static", StaticFiles(directory="../CandContas/static"), name="static
 app.mount("/static-je", StaticFiles(directory="../JustificativaEleitoral/static"), name="static-je")
 app.mount("/static-emt", StaticFiles(directory="../Emissao1Titulo/static"), name="static-emt")
 app.mount("/static-ag", StaticFiles(directory="../Agendamento/static"), name="static-ag")
+app.mount("/static-alv", StaticFiles(directory="../AlterarLocalVotacao/static"), name="static-alv")
 templates = Jinja2Templates(directory="../CandContas/templates")
 templates_je = Jinja2Templates(directory="../JustificativaEleitoral/templates")
 templates_emt = Jinja2Templates(directory="../Emissao1Titulo/templates")
