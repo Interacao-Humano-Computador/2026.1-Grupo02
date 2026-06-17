@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribunal Superior Eleitoral - Certificado de Quitação Eleitoral</title>
+    <link rel="stylesheet" href="../static/quitaçãoeleitoral.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="tse-topbar">
+        <div class="tse-topbar-inner">
+            <a href="#">Acessibilidade</a>
+            <span class="sep">|</span>
+            <a href="#">Fale conosco / Ouvidoria</a>
+            <span class="sep">|</span>
+            <a href="#">Transparência e prestação de contas</a>
+            <span class="sep">|</span>
+            <a href="#" class="tse-info" title="Informações"><i class="fas fa-info-circle"></i></a>
+            <span class="sep">|</span>
+        </div>
+    </div>
+
+    <header class="tse-header">
+        <div class="tse-header-inner">
+            <a href="#" class="tse-brand" id="brand-home">
+                <img src="/static-ag/site_logo.png" alt="Tribunal Superior Eleitoral" class="tse-logo">
+            </a>
+            <nav class="tse-nav">
+                <a href="#" class="active">Serviços eleitorais</a>
+                <a href="#">Eleições</a>
+                <a href="#">Partidos</a>
+                <a href="#">Notícias</a>
+                <a href="#">Jurisprudência</a>
+                <a href="#">Legislação</a>
+                <a href="#">Serviços judiciais</a>
+                <a href="#">Institucional</a>
+                <a href="#" class="tse-search" title="Buscar"><i class="fas fa-search"></i></a>
+            </nav>
+        </div>
+    </header>
+
+    <div id="page-home">
+        <div class="hero-bar">
+            <h2>Emissão de Certidão de Quitação Eleitoral</h2>
+        </div>
+
+        <div class="page-breadcrumb">
+            <a href="#">Portal do Eleitor</a> / Serviços Eleitorais / Emissão de Certidão de Quitação Eleitoral
+        </div>
+
+        <div class="content-wrap">
+
+            <div class="layout-grid">
+
+                <!-- sidebar -->
+                <aside class="sidebar-card">
+                    <div class="sidebar-title">Serviços eleitorais</div>
+                    <ul class="sidebar-nav">
+                        <li><a href="#">Agendamento</a></li>
+                        <li><a href="#">Alterar Local de Votação</a></li>
+                        <li  class="active"><a href="../templates/quitaçãoeleitoral.html">Emissão de Certidão de Quitação Eleitoral</a></li>
+                        <li><a href="#">Comparativo De Candidatos</a></li>
+                        <li><a href="#">Emissão do 1º título</a></li>
+                        <li><a href="#">Justificativa eleitoral</a></li>
+                        <li><a href="#">Ser Mesário</a></li>
+                    </ul>
+                </aside>
+
+                <!-- card agendamento -->
+                <section class="main-card">
+                    <h3 class="main-title">Emissão de Certidão de Quitação Eleitoral</h3>
+                    <p><strong>Autenticação</strong></p>
+                    <p>Olá, seja bem vindo.</p>
+                    <p>Informe seus dados para emitir sua certidão de quitação eleitoral:</p>
+
+                    <br>
+                    <div class="form-field">
+                        <label for="input-identificacao">Nome do eleitor:</label>
+                        <div class="id-input-group">
+                            <input type="text" id="input-identificacao" class="id-input"
+                                   placeholder="Nome do eleitor" inputmode="numeric">
+                        </div>
+                    </div>
+                    <div class="form-field">
+                        <label for="input-identificacao">Número do Título de eleitor ou CPF:</label>
+                        <div class="id-input-group">
+                            <input type="text" id="input-identificacao" class="id-input"
+                                   placeholder="Número do Título de eleitor ou CPF" inputmode="numeric">
+                        </div>
+                    </div>
+                    <div class="form-field">
+                        <label for="input-data">Data de nascimento</label>
+                        <input type="date" id="input-data" class="form-control">
+                    </div>
+                    <div class="form-field">
+                        <label for="input-filiacao">Opção de filiação (conforme o cadastro na Justiça Eleitoral)</label>
+                        <select id="select-tipo-filiacao" class="form-control">
+                            <option value=" "> </option>
+                            <option value="maeepai">Nome da mãe e pai</option>
+                            <option value="mae">Apenas nome da mãe</option>
+                            <option value="pai">Apenas nome do pai</option>
+                            <option value="maes">Nome de duas mães</option>
+                            <option value="pais">Nome de dois pais</option>
+                            <option value="maesepai">Nome de duas mães e um pai</option>
+                            <option value="maeepais">Nome de uma mãe e dois pais</option>
+                            <option value="maesepais">Nome de duas mães e dois pais</option>
+                            <option value="semregistro">Não há registro de filiação (pai ou mãe)</option>
+                        </select>
+                        <input type="text" id="input-filiacao" class="form-control"
+                               placeholder="Nome" inputmode="numeric">
+                    </div>
+                    <div class="opcao-actions">
+                        <button class="btn-secondary" id="btn-voltar-step2">Voltar</button>
+                        <button class="btn-confirmar" id="btn-confirmar-step2">Confirmar</button>
+                    </div>
+                </section>
+        </div>
+    </div>
+
+                <div id="certidao-choice" class="hidden">
+                    <p class="certidao-sub">Certidão de Quitação Eleitoral disponibilizada, deseja qual forma de visualização?</p>
+
+                    <div class="choice-actions">
+                        <button class="choice-btn visualizar via web" id="btn-visualizar via web">
+                            <i class="fas fa-eye"></i> Visualizar via web
+                        </button>
+                        <button class="choice-btn cancelar" id="btn-cancelar-ag">
+                            <i class="fas fa-times-circle"></i> Cancelar
+                        </button>
+                        <button class="choice-btn imprimir" id="btn-imprimir-ag">
+                            <i class=" "></i> Imprimir
+                        </button>
+                    </div>
+
+                    <div class="agendar-actions">
+                        <button class="btn-secondary" id="btn-voltar-choice">Voltar</button>
+                    </div>
+                </div>
+    <br>
+    <footer class="global-footer">
+        <div>TSE — Tribunal Superior Eleitoral</div>
+        <div>Versão 1.0.0 — Certidão de Quitação Eleitoral</div>
+    </footer>
+
+    <script src="/static-ag/quitacaoeleitoral.js?v=2"></script>
+    <script src="/static/telemetry.js"></script>
+</body>
+</html>

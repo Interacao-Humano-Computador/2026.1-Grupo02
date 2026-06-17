@@ -12,9 +12,12 @@ app = FastAPI()
 app.mount("/static", StaticFiles(directory="../CandContas/static"), name="static")
 app.mount("/static-je", StaticFiles(directory="../JustificativaEleitoral/static"), name="static-je")
 app.mount("/static-emt", StaticFiles(directory="../Emissao1Titulo/static"), name="static-emt")
+app.mount("/static-ag", StaticFiles(directory="../Agendamento/static"), name="static-ag")
 templates = Jinja2Templates(directory="../CandContas/templates")
 templates_je = Jinja2Templates(directory="../JustificativaEleitoral/templates")
 templates_emt = Jinja2Templates(directory="../Emissao1Titulo/templates")
+templates_ag = Jinja2Templates(directory="../Agendamento/templates")
+
 
 os.makedirs("logs", exist_ok=True)
 
@@ -75,6 +78,9 @@ async def read_titulo_eleitor(request: Request):
 @app.get("/tcle-emissaodetitulo", response_class=HTMLResponse)
 async def read_tcle_emissao_titulo(request: Request):
     return templates_emt.TemplateResponse(request=request, name="tcleTitulo.html")
+@app.get("/agendamento", response_class=HTMLResponse)
+async def read_agendamento(request: Request):
+    return templates_ag.TemplateResponse(request=request, name="agendamento.html")
 
 if __name__ == "__main__":
     import uvicorn
