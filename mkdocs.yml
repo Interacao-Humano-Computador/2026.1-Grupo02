@@ -122,7 +122,9 @@ nav:
                   - Relato da Avaliação 02: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Agendamento.md
                   - Relato da Avaliação 03: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_CertidaoQuitacaoEleitoral.md
                   - Relato da Avaliação 04: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_ComparacaoGastos.md
-                  - Relato da Avaliação 05: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Mesario.md
+                  - Relato da Avaliação 06: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Emissao1Titulo.md
+                  - Relato da Avaliação 07: DesignAvaliaçãoDesenvolvimento/Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_AlterarLocal.md
+
       - Relatos de Avaliação: DesignAvaliaçãoDesenvolvimento/avaliacoes.md
 
 
@@ -153,6 +155,7 @@ nav:
           - Protótipos de Alta Fidelidade Individuais:
             - Protótipo de Alta Fidelidade Justificativa Eleitoral: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/JustificativaEleitoral_AltaFidelidade.md
             - Protótipo de Alta Fidelidade Agendamento Presencial: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/Agendamento_AltaFidelidade.md
+            - Protótipo de Alta Fidelidade Emissão do 1º Título: DesignAvaliaçãoDesenvolvimento/ProtótipoAltaFidelidade/Emissao1Ttitulo_AltaFidelidade.md
   - Verificação:
       - Listas de Verificação:
           - Etapa 1: Avaliacao/Lista/Lista_de_Verificação_Entrega1.md

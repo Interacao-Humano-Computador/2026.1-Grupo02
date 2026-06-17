@@ -87,6 +87,8 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 | 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_CertidaoQuitacaoEleitoral.md) |
 | 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_ComparacaoGastos.md) |
 | 5 | Relato da Avaliação 05| [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Mesario.md) |
+| 6 | Relato da Avaliação 06 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Emissao1Titulo.md) |
+| 7 | Relato da Avaliação 06 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_AlterarLocalVotacao.md) |
 
 <div style="text-align: left">
 <p>Tabela 5: Índice de relatos da avaliação dos Protótipos de Alta Fidelidade (Fonte: FUJIMOTO, Lucas, 2026).</p>
