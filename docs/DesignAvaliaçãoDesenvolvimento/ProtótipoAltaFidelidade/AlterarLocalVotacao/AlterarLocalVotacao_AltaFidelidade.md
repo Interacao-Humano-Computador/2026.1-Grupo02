@@ -23,13 +23,10 @@ Votação** do portal do Tribunal Superior Eleitoral (TSE), desenvolvido no âmb
 Interação Humano-Computador da Universidade de Brasília.
 
 O protótipo simula o fluxo completo que o eleitor percorre ao solicitar a alteração de seu local
-de votação pelo portal digital, partindo da análise de tarefas (HTA e CMN-GOMS) já documentada em
-[`Análise de Tarefas — Alterar Local de Votação`](../Analise%20de%20Requisitos/Analise%20de%20Tarefas/AlterarLocalVotacao.md)
-e das telas de referência do sistema real do TSE.
+de votação pelo portal digital, partindo da análise de tarefas (HTA e CMN-GOMS), modificações do reprojeto e das telas de referência do sistema real do TSE.
 
 Ele foi implementado em HTML, CSS e JavaScript, servido localmente por meio do servidor FastAPI
-compartilhado pelo grupo, reaproveitando o script de telemetria (`telemetry.js`) para registro de
-cliques e digitações durante os testes de usabilidade.
+compartilhado pelo grupo.
 
 ---
 
@@ -103,12 +100,6 @@ O protótipo é executado localmente junto ao servidor FastAPI do grupo. Siga as
 Após iniciar o servidor, acesse:
 
 - **Protótipo (início direto):** [http://127.0.0.1:8000/alterar-local](http://127.0.0.1:8000/alterar-local)
-
----
-
-## Persona Relacionada
-
-O protótipo foi desenvolvido com base em uma persona de eleitor que deseja regularizar seu local de votação para o mais próximo possível residência, sem necessidade de deslocamento ao cartório eleitoral.
 
 ---
 
