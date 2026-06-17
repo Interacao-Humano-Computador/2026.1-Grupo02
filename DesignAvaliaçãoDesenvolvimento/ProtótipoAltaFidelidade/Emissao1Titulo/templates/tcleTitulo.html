@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termo de Consentimento - Teste de Usabilidade</title>
+    <link rel="stylesheet" href="/static/candcontas.css">
+    <style>
+        body { background-color: var(--color-bg); }
+        .tcle-container { max-width: 800px; margin: 50px auto; background: white; padding: 40px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .tcle-container h1 { color: var(--color-primary-dark); margin-bottom: 20px; }
+        .tcle-container p { margin-bottom: 15px; color: var(--color-text-secondary); line-height: 1.6; }
+        .tcle-container ul { margin-bottom: 20px; padding-left: 20px; color: var(--color-text-secondary); }
+        .tcle-container li { margin-bottom: 10px; }
+        .actions { margin-top: 40px; display: flex; gap: 15px; }
+        .btn { padding: 12px 24px; text-decoration: none; border-radius: 4px; color: white; cursor: pointer; border: none; font-size: 1rem; text-align: center; }
+        .btn-accept { background-color: var(--color-primary-dark); }
+        .btn-decline { background-color: var(--color-red); }
+    </style>
+</head>
+<body>
+    <div class="tcle-container">
+        <h1>TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE)</h1>
+        <p><em>Interação Humano-Computador — Universidade de Brasília (UnB)</em></p>
+        <p><strong>Pesquisa: Perfil do Usuário e Avaliação de Funcionalidades do Site do TSE</strong></p>
+        
+        <p>Somos estudantes da disciplina de Interação Humano-Computador da Universidade de Brasília e estamos realizando avaliações com o objetivo de identificar o perfil dos usuários e coletar opiniões sobre as funcionalidades do site do Tribunal Superior Eleitoral (TSE). Solicitamos seu consentimento para a participação neste teste de usabilidade do nosso protótipo (duração estimada: 30 min).</p>
+        
+        <p>Para decidir sobre seu consentimento, conheça as seguintes informações:</p>
+        <ul>
+            <li>Os dados coletados destinam-se estritamente a análise e desenvolvimento do projeto acadêmico.</li>
+            <li>O anonimato dos participantes será preservado em todos os documentos produzidos, nenhuma informação pessoal identificável será registrada.</li>
+            <li>A participação é voluntária e o consentimento pode ser retirado a qualquer momento, sem prejuízo.</li>
+            <li>O teste pode ser interrompido a qualquer momento, segundo sua disponibilidade e vontade, bastando fechar a janela.</li>
+            <li>Não há riscos significativos associados à participação nesta pesquisa.</li>
+        </ul>
+        
+        <p><strong>A Tarefa do Teste:</strong></p>
+        <p>Seu objetivo principal será emitir seu primeiro título de eleitor, realizando todo o processo, desde localizar essa funcionalidade na tela, preencher os dados necessários, incluindo a anexaçao de documentos, chegar a tela final com o numero do protocolo e voltar para a tela inicial.</p>
+        
+        <div class="actions">
+            <a href="/titulo-eleitor" class="btn btn-accept">Li e concordo, iniciar o teste</a>
+            <a href="javascript:void(0)" onclick="alert('Teste cancelado e encerrado. Obrigado!'); document.body.innerHTML = '<h2 style=\'text-align:center;margin-top:50px;\'>Você cancelou o teste. Pode fechar esta janela.</h2>';" class="btn btn-decline">Não concordo, cancelar</a>
+        </div>
+    </div>
+</body>
+</html>
