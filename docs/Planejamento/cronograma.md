@@ -191,7 +191,107 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Planejamento da Avaliação do Protótipo de papel |  Início: 29/05<br>Fim: 31/05| Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |  Início: 29/05<br>Fim: 31/05| Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Gravar vídeo de apresentação | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
-| Correção após feedback |   |  |  |  |
+| Correção após feedback | Início: 05/06<br>Fim: 05/06  | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 05/06<br>Fim: 31/05  | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Protótipo de papel (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+## Entrega 6 - Protótipo de alta fidelidade - Data: 07/06
+
+### Planejado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados do Protótipo de Papel | Início: 01/06<br>Fim: 05/06 | Lucas e Bryan | Início: 06/06<br>Fim: 07/06 | Guilherme |
+| Planejamento da Avaliação do protótipo de alta fidelidade | Início: 01/06<br>Fim: 05/06 | Maria Luana, Luan e Guilherme | Início: 06/06<br>Fim: 07/06 | Tiago e Samuel |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 01/06<br>Fim: 05/06 | Tiago e Samuel | Início: 06/06<br>Fim: 07/06 | Bryan e Luan |
+| Gravar vídeo de apresentação | Início: 06/06<br>Fim: 06/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 07/06<br>Fim: 07/06 | Lucas |
+| Correção após feedback | Início: 10/06<br>Fim: 11/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 11/06<br>Fim: 12/06 | Maria Luana |
+
+<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+### Executado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados do Protótipo de Papel | Início: 01/06<br>Fim: 05/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 06/06<br>Fim: 07/06 | Guilherme |
+| Planejamento da Avaliação do protótipo de alta fidelidade | Início: 01/06<br>Fim: 05/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 06/06<br>Fim: 07/06 | Tiago e Samuel |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 01/06<br>Fim: 05/06 | Tiago e Samuel | Início: 06/06<br>Fim: 07/06 | Bryan e Luan |
+| Gravar vídeo de apresentação | Início: 06/06<br>Fim: 06/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 07/06<br>Fim: 07/06 | Lucas |
+| Correção após feedback | Início: 10/06<br>Fim: 11/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 11/06<br>Fim: 12/06 | Maria Luana |
+
+<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+## Entrega 7 - Relato dos resultados do Protótipo de alta fidelidade - Data: 17/06
+
+### Planejado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados do Protótipo de alta fidelidade | Início: 08/06<br>Fim: 15/06 | Maria Luana, Tiago, Bryan | Início: 17/06<br>Fim: 17/06 | Lucas e Luan |
+| Gravar vídeo de apresentação | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 17/06<br>Fim: 17/06 | Samuel |
+| Correção após feedback | Início: 19/06<br>Fim: 19/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 20/06<br>Fim: 20/06 | Guilherme |
+
+<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Relato dos resultados do Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+### Executado
+
+<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Resultados finais</p></font>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados do Protótipo de alta fidelidade | Início: 16/06<br>Fim: 16/06 | Maria Luana, Tiago, Bryan | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Gravar vídeo de apresentação | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Correção após feedback |  | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |  |  |
+
+<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Relato dos resultados do Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+## Entrega 8 - Verificação dos artefatos - Data: 26/06
+
+### Planejado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Verificação e Relato dos artefatos das etapas 1, 2 e 3 | Início: 10/06<br>Fim: 16/06 | Guilherme, Samuel, Maria Luana | Início: 17/06<br>Fim: 17/06 | Lucas, Tiago, Bryan |
+| Verificação e Relato dos artefatos das etapas 4, 5 e 6 | Início: 10/06<br>Fim: 16/06 | Lucas, Tiago, Bryan | Início: 18/06<br>Fim: 18/06 | Guilherme, Samuel, Maria Luana |
+| Verificação e Relato dos artefatos da etapa 7 | Início: 17/06<br>Fim: 20/06 | Luan | Início: 21/06<br>Fim: 21/06 | Lucas |
+| Gravar vídeo de apresentação | Início: 16/05<br>Fim: 16/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Luan |
+| Correção após feedback | Início: 03/06<br>Fim: 04/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 05/06<br>Fim: 06/06 | Luan |
+
+<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Verificação dos artefatos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+### Executado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Verificação e Relato dos artefatos das etapas 1, 2 e 3 |  |  |  |  |
+| Verificação e Relato dos artefatos das etapas 4, 5 e 6 |  |  |  |  |
+| Verificação e Relato dos artefatos da etapa 7 |  |  |  |  |
+| Gravar vídeo de apresentação |  |  |  |  |
+| Correção após feedback |  |  |  |  |
+
+<font size="3"><p style="text-align: center"><b>Tabela 16</b> - Verificação dos artefatos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+## Entrega Final - Projeto final - Data: 01/07
+
+### Planejado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Planejamento de verificação dos artefatos da Etapa 8 | Início: 26/06<br>Fim: 28/06 | Lucas, Tiago, Bryan, Luan | Início: 29/06<br>Fim: 30/06 | Guilherme, Samuel, Maria Luana |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 26/06<br>Fim: 28/06 | Guilherme, Samuel, Maria Luana | Início: 29/06<br>Fim: 30/06 | Lucas, Tiago, Bryan, Luan |
+| Gravar vídeo de apresentação final | Início: 30/06<br>Fim: 30/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 01/07<br>Fim: 01/07 | Lucas |
+
+<font size="3"><p style="text-align: center"><b>Tabela 17</b> - Projeto final (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
+
+### Executado
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+|---|---|---|---|---|
+| Planejamento de verificação dos artefatos da Etapa 8 |  |  |  |  |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos |  |  |  |  |
+| Gravar vídeo de apresentação final |  |  |  |  |
+
+<font size="3"><p style="text-align: center"><b>Tabela 18</b> - Projeto final (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
 ## Bibliografia
 

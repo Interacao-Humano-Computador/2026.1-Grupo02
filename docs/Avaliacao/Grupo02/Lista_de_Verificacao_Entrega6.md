@@ -66,7 +66,7 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-C
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
-| 07/06/2026 | 1.0 | Criação do documento complementar  | Bryan | — |
+| 07/06/2026 | 1.0 | Criação do documento complementar  | Bryan | Lucas |
 
 ---
 
