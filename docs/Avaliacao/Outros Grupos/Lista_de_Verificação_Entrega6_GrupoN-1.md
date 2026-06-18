@@ -1,4 +1,4 @@
-# Lista de Verificação — Entrega 5 (Complementar)
+# Lista de Verificação — Entrega 6 (Complementar)
 ## Grupo 02
 
 ---
