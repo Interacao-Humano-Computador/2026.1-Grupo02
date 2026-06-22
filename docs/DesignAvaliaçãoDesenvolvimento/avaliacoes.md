@@ -30,12 +30,12 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 
 | # | Documento / Sessão | Link |
 |:-:|:-------------------|:----:|
-| 1 | Relato da Avaliação 01 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_01.md) |
-| 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_02.md) |
-| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_03.md) |
-| 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_04.md) |
-| 5 | Relato da Avaliação 05 | [Acessar](Avaliacoes/Relato_Avaliacao_AnaliseTarefas_07.md) |
-| 6 | Relato da Avaliação 06 e 07 | [Acessar](Avaliacoes/Relato_Avaliacao_Analise_Tarefas_06-07.md) |
+| 1 | Relato da Avaliação 01 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Analise_Tarefas_01.md) |
+| 2 | Relato da Avaliação 02 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Analise_Tarefas_02.md) |
+| 3 | Relato da Avaliação 03 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Analise_Tarefas_03.md) |
+| 4 | Relato da Avaliação 04 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Analise_Tarefas_04.md) |
+| 5 | Relato da Avaliação 05 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_AnaliseTarefas_07.md) |
+| 6 | Relato da Avaliação 06 e 07 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Analise_Tarefas_06-07.md) |
 
 
 <div style="text-align: left">
@@ -48,11 +48,11 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 
 | # | Documento / Sessão | Link |
 |:-:|:-------------------|:----:|
-| 1 | Relato da Avaliação 01 | [Acessar](Avaliacoes/Relato_Avaliacao_Storyboard_01.md) |
-| 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_Storyboard_02.md) |
-| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_Storyboard_03.md) |
-| 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_StoryBoard_07.md) |
-| 5 | Relato da Avaliação 05 e 06 | [Acessar](Avaliacoes/Relato_Avaliacao_Storyboard_06-07.md) |
+| 1 | Relato da Avaliação 01 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Storyboard_01.md) |
+| 2 | Relato da Avaliação 02 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Storyboard_02.md) |
+| 3 | Relato da Avaliação 03 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Storyboard_03.md) |
+| 4 | Relato da Avaliação 04 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_StoryBoard_07.md) |
+| 5 | Relato da Avaliação 05 e 06 | [Acessar](Nivel1/Relatos/Relato_Avaliacao_Storyboard_06-07.md) |
 
 
 <div style="text-align: left">
@@ -65,12 +65,12 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 
 | # | Documento / Sessão | Link |
 |:-:|:-------------------|:----:|
-| 1 | Relato da Avaliação 01 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AlterarLocal.md) |
-| 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md) |
-| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_SerMesario.md) |
-| 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_AgendamentoPresencial.md) |
-| 5 | Relato da Avaliação 05| [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoPapel_JustificativaEleitoral.md) |
-| 6 | Relato da Avaliação 06| [Acessar](Avaliacoes/Relato_Avaliação_PrototipoPapel_Emitir1Titulo.md) |
+| 1 | Relato da Avaliação 01 | [Acessar](Nivel2/Relatos/Relato_Avaliacao_PrototipoPapel_AlterarLocal.md) |
+| 2 | Relato da Avaliação 02 | [Acessar](Nivel2/Relatos/Relato_Avaliacao_PrototipoPapel_quitacaoeleitoral.md) |
+| 3 | Relato da Avaliação 03 | [Acessar](Nivel2/Relatos/Relato_Avaliacao_PrototipoPapel_SerMesario.md) |
+| 4 | Relato da Avaliação 04 | [Acessar](Nivel2/Relatos/Relato_Avaliacao_PrototipoPapel_AgendamentoPresencial.md) |
+| 5 | Relato da Avaliação 05| [Acessar](Nivel2/Relatos/Relato_Avaliacao_PrototipoPapel_JustificativaEleitoral.md) |
+| 6 | Relato da Avaliação 06| [Acessar](Nivel2/Relatos/Relato_Avaliação_PrototipoPapel_Emitir1Titulo.md) |
 
 <div style="text-align: left">
 <p>Tabela 4: Índice de relatos da avaliação dos Protótipos de Papel (Fonte: CARVALHO, Guilherme, 2026).</p>
@@ -82,13 +82,13 @@ Os relatos de avaliação estão organizados por técnica (Análise de Tarefas e
 
 | # | Documento / Sessão | Link |
 |:-:|:-------------------|:----:|
-| 1 | Relato da Avaliação 01 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_JustificativaEleitoral.md) |
-| 2 | Relato da Avaliação 02 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Agendamento.md) |
-| 3 | Relato da Avaliação 03 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_CertidaoQuitacaoEleitoral.md) |
-| 4 | Relato da Avaliação 04 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_ComparacaoGastos.md) |
-| 5 | Relato da Avaliação 05| [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Mesario.md) |
-| 6 | Relato da Avaliação 06 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_Emissao1Titulo.md) |
-| 7 | Relato da Avaliação 06 | [Acessar](Avaliacoes/Relato_Avaliacao_PrototipoAltaFidelidade_AlterarLocalVotacao.md) |
+| 1 | Relato da Avaliação 01 | [Acessar](Nivel3/Relatos/Relato_Avaliacao_PrototipoAltaFidelidade_JustificativaEleitoral.md) |
+| 2 | Relato da Avaliação 02 | [Acessar](Nivel3/Relatos/Relato_Avaliacao_PrototipoAltaFidelidade_Agendamento.md) |
+| 3 | Relato da Avaliação 03 | [Acessar](Nivel3/Relatos/Relato_Avaliacao_PrototipoAltaFidelidade_CertidaoQuitacaoEleitoral.md) |
+| 4 | Relato da Avaliação 04 | [Acessar](Nivel3/Relatos/Relato_Avaliacao_PrototipoAltaFidelidade_ComparacaoGastos.md) |
+| 5 | Relato da Avaliação 05| [Acessar](Nivel3/Relatos/Relato_Avaliacao_PrototipoAltaFidelidade_Mesario.md) |
+| 6 | Relato da Avaliação 06 | [Acessar](Nivel3/Relatos/Relato_Avaliacao_PrototipoAltaFidelidade_Emissao1Titulo.md) |
+| 7 | Relato da Avaliação 06 | [Acessar](Nivel3/Relatos/Relato_Avaliacao_PrototipoAltaFidelidade_AlterarLocal.md) |
 
 <div style="text-align: left">
 <p>Tabela 5: Índice de relatos da avaliação dos Protótipos de Alta Fidelidade (Fonte: FUJIMOTO, Lucas, 2026).</p>
