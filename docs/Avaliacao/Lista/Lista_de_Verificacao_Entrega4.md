@@ -172,7 +172,7 @@ Os artefatos avaliados nesta entrega são: Storyboards, Planejamento da Avaliaç
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
-| 23/06/2026 | 2.0 | Revisão das listas com adições de seção para cada artefato | Samuel Felipe |  |
+| 23/06/2026 | 2.0 | Revisão das listas com adições de seção e adição para cada artefato | Samuel Felipe | Bryan |
 
 ---
 

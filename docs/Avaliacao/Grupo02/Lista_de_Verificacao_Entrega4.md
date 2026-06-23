@@ -7,13 +7,13 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Tiago | Elaboração dos items E1,E2,E3,E4 |
-| Guilherme | Elaboração do items E5 |
-| Luan | Elaboração do items E6  |
-| Maria Luana | Elaboração do items E7  |
-| Lucas Fujimoto | Elaboração do items E8  |
-| Bryan | Elaboração do items E9 |
-| Samuel | Elaboração do items E10  |
+| Tiago | Elaboração dos items E7, E8, E9, E10 |
+| Guilherme | Elaboração do items E1 |
+| Luan | Elaboração do items E2  |
+| Maria Luana | Elaboração do items E3  |
+| Lucas Fujimoto | Elaboração do items E4  |
+| Bryan | Elaboração do items E22 |
+| Samuel | Elaboração do items E5, E6, E11, E12, E13, E14, E15, E16, E17, 18, E19, E20, E21, E23, E24, E25, E26, E27, 28, E29 |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
@@ -86,20 +86,68 @@ Os artefatos avaliados nesta entrega são: Storyboards, Planejamento da Avaliaç
 
 ### Seção 3 — Itens Extras com Base no Livro
 
-> Critérios adicionais elaborados com base em Barbosa e Silva (2010), visando aprofundar a qualidade dos artefatos entregues. Distribuídos entre os três artefatos centrais desta entrega.
+> Critérios adicionais elaborados com base em Barbosa e Silva (2010), visando aprofundar a qualidade dos artefatos entregues. Distribuídos entre os quatro artefatos centrais desta entrega: Planejamento de avaliação (StoryBoard e Análise de Tarefas), Planejamento de Relato (StoryBoard e Análise de Tarefa) StoryBoard e Análise de Tarefas.
+
+#### Seção 3.1- Planejamento de Avaliação (StoryBoard e Análise de Tarefas)
 
 | Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
 |:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
-| E1 | Storyboard | O storyboard representa de forma clara o contexto de uso e o ambiente em que a tarefa ocorre? |  [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU)  | Sim | 1.0 | Tiago |
-| E2 | Storyboard | O storyboard ilustra a sequência de passos do usuário de maneira compreensível e coerente com a HTA correspondente? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | Sim | 1.0 | Tiago |
-| E3 | Storyboard | O storyboard evidencia o problema ou necessidade que motivou a tarefa retratada? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | Sim | 1.0 | Tiago |
-| E4 | Storyboard | O storyboard apresenta a satisfação ou reação do usuário ao concluir a tarefa? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | Sim | 1.0 | Tiago |
-| E5 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento define claramente as perguntas a serem respondidas pela avaliação (questões de pesquisa)? | p. 280 (Barbosa e Silva, 2010) | Sim | 1.0 | Guilherme |
-| E6 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento especifica o perfil dos participantes a serem recrutados, alinhado ao perfil de usuário levantado anteriormente? | p. 283 (Barbosa e Silva, 2010) | Sim | 1.0 | Luan |
-| E7 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento descreve como os dados coletados serão registrados, tratados e analisados? | p. 280 (Barbosa e Silva, 2010) | Sim | 1.0 | Maria Luana |
-| E8 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento contempla um roteiro ou script para condução da sessão de avaliação? | p. 285 (Barbosa e Silva, 2010) | Sim | 1.0 | Lucas Fujimoto |
-| E9 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato prevê a consolidação e interpretação dos dados antes da apresentação dos resultados? | p. 290 (Barbosa e Silva, 2010) | Sim | 1.0 | Bryan |
-| E10 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato indica como as sugestões de melhoria identificadas durante a avaliação serão documentadas e priorizadas? | p. 291 (Barbosa e Silva, 2010) | Sim | 1.0 | Samuel |
+| E1 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento define claramente as perguntas a serem respondidas pela avaliação (questões de pesquisa)? | p. 280 (Barbosa e Silva, 2010) | Sim | 1.0 | Guilherme |
+| E2 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento especifica o perfil dos participantes a serem recrutados, alinhado ao perfil de usuário levantado anteriormente? | p. 283 (Barbosa e Silva, 2010) | Sim | 1.0 | Luan |
+| E3 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento descreve como os dados coletados serão registrados, tratados e analisados? | p. 280 (Barbosa e Silva, 2010) | Sim | 1.0 | Maria Luana |
+| E4 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | O planejamento contempla um roteiro ou script para condução da sessão de avaliação? | p. 285 (Barbosa e Silva, 2010) | Sim | 1.0 | Lucas Fujimoto |
+| E5 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | Os participantes da avaliação foram respeitados e não prejudicados de forma direta ou indireta nem durante os experimentos, nem após a divulgação dos resultados da avaliação? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
+| E6 | Planejamento da Avaliação (Storyboard e Análise de Tarefas) | Houve determinação do avaliador sobre os objetivos gerais da avaliação e há identificação do por que e para quem tais objetivos são importantes? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
+
+<div style="text-align: left">
+<p>Tabela 4: Itens extras de verificação (Fonte: autores, 2026).</p>
+</div>
+
+#### Seção 3.2- Storyboard
+
+| Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
+|:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
+| E7 | Storyboard | O storyboard representa de forma clara o contexto de uso e o ambiente em que a tarefa ocorre? |  [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | Sim | 1.0 | Tiago |
+| E8 | Storyboard | O storyboard ilustra a sequência de passos do usuário de maneira compreensível e coerente com a HTA correspondente? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | Sim | 1.0 | Tiago |
+| E9 | Storyboard | O storyboard evidencia o problema ou necessidade que motivou a tarefa retratada? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | Sim | 1.0 | Tiago |
+| E10 | Storyboard | O storyboard apresenta a satisfação ou reação do usuário ao concluir a tarefa? | [KLEMMER, Scott: Video](https://www.youtube.com/watch?v=h2H3oIQtddU) | Sim | 1.0 | Tiago |
+| E11 | Storyboard | Os símbolos e ícones criados são simples, ou seja, de baixa fidelidade (simples quadrado, boneco de palito (stick figure), estrelas, entre outros)? | p. 264, c.8(Design de Interação, 2013) | |  | Samuel Felipe |
+| E12 | Storyboard | Os símbolos e ícones criados são simples, ou seja, de baixa fidelidade (simples quadrado, boneco de palito (stick figure), estrelas, entre outros)? | p. 264, c.8(Design de Interação, 2013) | |  | Samuel Felipe |
+
+<div style="text-align: left">
+<p>Tabela 5: Itens extras de verificação (Fonte: autores, 2026).</p>
+</div>
+
+#### Seção 3.3- Análise de Tarefas
+
+| Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
+|:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
+| E13 | Análise de Tarefas | No diagrama de HTA, há decomposição desse objetivos e sub-objetivos (por exemplo, decidir a data, decidir o local, convidar os participantes etc.)? | p.179, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E14 | Análise de Tarefas | O diagrama de HTA apresenta a diferença entre elementos de “objetivo” e “operação”? (por exemplo, decidir a data, decidir o local, convidar os participantes etc.)? | p.179, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E15 | Análise de Tarefas | O diagrama de HTA apresenta a diferença entre as relações entre os sub-objetivos que compõem um plano sequencial (>), seleção (/) e paralelo (+)? | p.179, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E16 | Análise de Tarefas | As operações são especificadas pelas circunstâncias nas quais o objetivo é ativado (input ou entrada)? | p.179, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E17 | Análise de Tarefas | As operações são especificadas pelas atividades ou ações (actions) que contribuem para atingi-lo? | p.179, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E18 | Análise de Tarefas | No diagrama de CTT, há representação das tarefas do usuário (realizadas fora do sistema)? | p.187, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E19 | Análise de Tarefas | No diagrama de CTT, há representação das tarefas do sistema (em que o sistema realiza um processamento sem interagir com o usuário)? | p.187, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E20 | Análise de Tarefas | No diagrama de CTT, há representação das tarefas interativas (em que ocorrem os diálogos usuário–sistema)? | p.187, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+| E21 | Análise de Tarefas | No diagrama de CTT, há representação das tarefas abstratas (que não são tarefas em si, mas sim uma representação de uma composição de tarefas que auxilie a decomposição)? | p.187, c.08 (Barbosa e Silva, 2021) |  |  | Samuel Felipe |
+
+<div style="text-align: left">
+<p>Tabela 6: Itens extras de verificação (Fonte: autores, 2026).</p>
+</div>
+
+#### Seção 3.4- Planejamento de Relato (StoryBoard e Análise de Tarefas)
+
+| Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
+|:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
+| E22 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato prevê a consolidação e interpretação dos dados antes da apresentação dos resultados? | p. 290 (Barbosa e Silva, 2010) | Sim | 1.0 | Bryan |
+| E23 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O planejamento do relato indica como as sugestões de melhoria identificadas durante a avaliação serão documentadas e priorizadas? | p. 291 (Barbosa e Silva, 2010) | Sim | 1.0 | Samuel Felipe |
+| E24 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | Os participantes da avaliação foram respeitados e não prejudicados de forma direta ou indireta nem durante os experimentos, nem após a divulgação dos resultados da avaliação? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
+| E25 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | Houve determinação do avaliador sobre os objetivos gerais da avaliação e há identificação do por que e para quem tais objetivos são importantes? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
+| E26 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | Foi considerado o grau de confiabilidade dos dados (semelhança dos resultados obtidos quando emprega mais de uma vez o mesmo método de avaliação nas mesmas circunstâncias)? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
+| E27 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | Foi considerado o grau de confiabilidade dos dados (semelhança dos resultados obtidos quando emprega mais de uma vez o mesmo método de avaliação nas mesmas circunstâncias)? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
+| E28 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | Foi considerado a validade interna do estudo (se o método de avaliação mede o que deveria medir, se o faz com rigor e evita que os dados sejam distorcidos)? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
+| E29 | Planejamento do Relato dos Resultados (Storyboard e Análise de Tarefas) | O avaliador considerou a validade externa do estudo (até que ponto os resultados podem ser generalizados ou transferidos a um outro contexto semelhante)? | p. 280 (Barbosa e Silva, 2010) | | | Samuel Felipe |
 
 <div style="text-align: left">
 <p>Tabela 4: Itens extras de verificação (Fonte: autores, 2026).</p>
@@ -123,6 +171,7 @@ Os artefatos avaliados nesta entrega são: Storyboards, Planejamento da Avaliaç
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 19/05/2026 | 1.0 | Criação do documento | Tiago | Lucas |
 | 19/05/2026 | 1.1 | Respondida a lista do próprio grupo | Lucas | Tiago |
+| 23/06/2026 | 2.0 | Revisão das listas com adições de seção para cada artefato | Samuel Felipe | Luan |
 
 ---
 
