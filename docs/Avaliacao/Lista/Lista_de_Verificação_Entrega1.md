@@ -44,12 +44,14 @@ A lista reúne os critérios de avaliação das **Entregas 1**, organizados no s
 | 3 | Todos os artefatos possuem referências bibliográficas e/ou bibliografia? | | |
 | 4 | As tabelas e imagens possuem legenda e fonte, e são referenciadas dentro do texto? | | |
 | 5 | Há um texto de introdução em todos os artefatos? | | |
-| 6 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | | |
-| 7 | As atas de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | | |
-| 8 | A gravação da reunião do grupo está disponível e acessível? | | |
-| 9 | O vídeo de apresentação está publicado como "não listado" no YouTube? | | |
-| 10 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes, a contribuição individual e hiperligação para a atividade e gravação? | | |
-| 11 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | | |
+| 6 | O cronograma planejado e executado relacionado a essa etapa está disponvel? | | |
+| 7 | O cronograma executado indica quem realizou cada artefato/atividade com as datas de início e fim? | | |
+| 8 | A ata de reunião relacionada a apresentação dessa entrega está disponivel no Github Pages? | | |
+| 9 | A ata de reunião contêm data, horário de início e fim, participantes, objetivo e atividades definidas? | | |
+| 10 | A gravação da reunião do grupo está disponível e acessível? | | |
+| 11 | O vídeo de apresentação está publicado como "não listado" no YouTube? | | |
+| 12 | A tabela de contribuição está no início do artefato com o nome de todos os integrantes com a contribuição individual? | | |
+| 13 | A seção de agradecimentos registra o uso de IA generativa com a descrição específica do uso realizado no artefato? | | |
 
 <div style="text-align: left">
 <p>Tabela 2: Itens do desenvolvimento do projeto (Fonte: Plano de Ensino da Disciplina, 2026).</p>
