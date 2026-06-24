@@ -9,7 +9,7 @@
 |:----------:|:-------------|
 | Tiago | Elaboração dos itens L1, L2, L3, L4 |
 | Guilherme | Elaboração do item L5 |
-| Luan | Elaboração do item L6 |
+| Luan | Elaboração do item L6 e dos itens L11, L12, L13, L14, L15, L16, L17, L18 |
 | Maria Luana | Elaboração do item L7 |
 | Lucas Fujimoto | Elaboração do item L8 |
 | Bryan | Elaboração do item L9 |
@@ -57,7 +57,9 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 
 ### Seção 2 — Itens com Base no Livro
 
-> Critérios elaborados com base em Barbosa et al. (2021), visando aprofundar a qualidade metodológica dos artefatos entregues. Distribuídos entre os artefatos centrais desta entrega.
+> Critérios elaborados com base em Barbosa et al. (2021), visando aprofundar a qualidade metodológica dos artefatos entregues. Distribuídos entre os quatro artefatos centrais desta entrega: Relato dos Resultados (Storyboard e Análise de Tarefas), Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato do Protótipo de Papel.
+
+#### Seção 2.1 — Relato dos Resultados (Storyboard e Análise de Tarefas)
 
 | Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
 |:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
@@ -65,15 +67,41 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 | L2 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato apresenta detalhes sobre o número, características e perfil dos participantes e avaliadores envolvidos? | p. 298 | Sim | 1.0 | Tiago |
 | L3 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato consolida e lista todos os dados, comportamentos observados ou problemas encontrados durante a execução da avaliação? | p. 298 | Sim | 1.0 | Tiago |
 | L4 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O documento apresenta indicações, propostas e sugestões para melhorias no sistema ou no design com base nos dados analisados? | p. 298 | Sim | 1.0 | Tiago |
+| L11 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato apresenta a gravidade ou prioridade dos problemas de usabilidade identificados, indicando quais devem ser corrigidos com mais urgência? | p. 298 | | | Luan |
+| L12 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato diferencia claramente os resultados do teste piloto dos resultados da avaliação principal, conforme previsto no planejamento? | p. 283 | | | Luan |
+| L13 | Relato dos Resultados (Storyboard e Análise de Tarefas) | O relato apresenta evidências (fotos, vídeos ou trechos de transcrição) que sustentem os problemas e observações relatados? | p. 298 | | | Luan |
+
+<div style="text-align: left">
+<p>Tabela 3: Itens com base na literatura — Relato dos Resultados (Fonte: autores, 2026).</p>
+</div>
+
+#### Seção 2.2 — Planejamento da Avaliação do Protótipo de Papel
+
+| Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
+|:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
 | L5 | Planejamento da Avaliação do Protótipo de Papel | O planejamento utiliza o framework DECIDE (ou outra estrutura análoga de IHC) para guiar a condução do estudo de forma iterativa? | p. 279 | Sim | 1.0 | Guilherme |
 | L6 | Planejamento da Avaliação do Protótipo de Papel | O planejamento descreve com clareza as perguntas específicas que a avaliação pretende responder (passo E do DECIDE)? | p. 280 | Sim | 1.0 | Luan |
 | L7 | Planejamento da Avaliação do Protótipo de Papel | O planejamento aborda questões práticas, identificando equipamentos necessários, cenários de tarefas, papéis (ex: computador humano, observador) e cronogramas? | p. 282 | Sim | 1.0 | Maria Luana |
 | L8 | Planejamento da Avaliação do Protótipo de Papel | O planejamento prevê a realização de um teste piloto prévio para ajustar o processo antes das sessões principais? | p. 283 | Sim | 1.0 | Lucas Fujimoto |
 | L9 | Planejamento da Avaliação do Protótipo de Papel | O planejamento orienta a equipe sobre a preparação das telas em papel e dos componentes adicionais dinâmicos necessários para o uso do método? | p. 317 | Sim | 1.0 | Bryan |
-| L10| Planejamento do Relato (Protótipo de Papel) | O planejamento do relato prevê a contextualização da avaliação, a consolidação dos problemas observados e as sugestões de reprojeto? | p. 298 | Sim | 1.0 | Samuel |
+| L14 | Planejamento da Avaliação do Protótipo de Papel | O planejamento contempla as questões éticas da avaliação, incluindo a aplicação do Termo de Consentimento Livre e Esclarecido (TCLE) aos participantes? | p. 282 | | | Luan |
+| L15 | Planejamento da Avaliação do Protótipo de Papel | O planejamento define claramente o papel de cada avaliador durante a sessão (ex.: condutor, observador, anotador)? | p. 285 | | | Luan |
+| L16 | Planejamento da Avaliação do Protótipo de Papel | O planejamento considera a validade do método de avaliação escolhido, isto é, se ele é capaz de medir corretamente o que se pretende avaliar? | p. 280 | | | Luan |
 
 <div style="text-align: left">
-<p>Tabela 3: Itens com base na literatura (Fonte: autores, 2026).</p>
+<p>Tabela 4: Itens com base na literatura — Planejamento da Avaliação do Protótipo de Papel (Fonte: autores, 2026).</p>
+</div>
+
+#### Seção 2.3 — Planejamento do Relato (Protótipo de Papel)
+
+| Nº | Artefato | Questão | Referência | Resposta (Sim / Não / Incompleto) | Versão, Data e Hora da Avaliação | Autor do item |
+|:--:|:--------:|:--------|:----------:|:---------------------------------:|:--------------------------------:|:-------------:|
+| L10 | Planejamento do Relato (Protótipo de Papel) | O planejamento do relato prevê a contextualização da avaliação, a consolidação dos problemas observados e as sugestões de reprojeto? | p. 298 | Sim | 1.0 | Samuel |
+| L17 | Planejamento do Relato (Protótipo de Papel) | O planejamento do relato define como o anonimato dos participantes será preservado na divulgação dos resultados? | p. 298 | | | Luan |
+| L18 | Planejamento do Relato (Protótipo de Papel) | O planejamento do relato prevê a apresentação de um sumário consolidado dos principais resultados ao final do documento? | p. 298 | | | Luan |
+
+<div style="text-align: left">
+<p>Tabela 5: Itens com base na literatura — Planejamento do Relato (Protótipo de Papel) (Fonte: autores, 2026).</p>
 </div>
 
 ---
@@ -91,6 +119,7 @@ Diferente da entrega anterior, não há itens de conteúdo específicos extraíd
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 01/06/2026 | 1.0 | Criação do documento | Lucas | Guilherme |
+| 23/06/2026 | 2.0 | Revisão da lista com adição de subseções por artefato e novos itens extras | Luan Ludry | A definir |
 
 ---
 
