@@ -7,13 +7,13 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Bryan | Elaboração dos itens de verificação E1, E2, E3, E4, E5, E6 (Relato do Protótipo de Papel). |
-| Guilherme | Elaboração dos itens de verificação E7, E8, E9, E10 (Planejamento da Avaliação do Protótipo de Alta Fidelidade). |
-| Luan | Elaboração dos itens de verificação E11, E12, E13, E14 (Planejamento da Avaliação do Protótipo de Alta Fidelidade). |
-| Maria Luana | Elaboração dos itens de verificação E15, E16, E17, E18 (Planejamento do Relato do Protótipo de Alta Fidelidade). |
-| Lucas Fujimoto | Elaboração dos itens de verificação E19, E20, E21, E22 (Planejamento do Relato do Protótipo de Alta Fidelidade). Revisão da lista. |
-| Tiago | Elaboração dos itens de verificação E23, E24, E25, E26 (Planejamento do Relato do Protótipo de Alta Fidelidade). |
-| Samuel | Elaboração dos itens de verificação E27, E28, E29, E30 (Planejamento do Relato do Protótipo de Alta Fidelidade). |
+| Bryan | Elaboração dos itens de verificação E1, E2, E3, E4, E5, E6 (Relato do Protótipo de Papel). E21, E22, E23, E24, E25, E26, E27, E28, E29 Planejamento do Relato (Alta Fidelidade) |
+| Guilherme | Elaboração dos itens de verificação E9, E10 (Planejamento da Avaliação do Protótipo de Alta Fidelidade). |
+| Luan | Elaboração dos itens de verificação  E11, E12, E13, E14 (Planejamento da Avaliação do Protótipo de Alta Fidelidade). |
+| Maria Luana | Elaboração dos itens de verificação E15, E16 (Planejamento do Relato do Protótipo de Alta Fidelidade). |
+| Lucas Fujimoto | Elaboração dos itens de verificação E7, E8 (Planejamento do Relato do Protótipo de Alta Fidelidade). Revisão da lista. |
+| Tiago | Elaboração dos itens de verificação E17, E18 (Planejamento do Relato do Protótipo de Alta Fidelidade). |
+| Samuel | Elaboração dos itens de verificação E19, E20 (Planejamento do Relato do Protótipo de Alta Fidelidade). |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: autor, 2026).</p>
@@ -81,7 +81,7 @@ Os artefatos avaliados nesta entrega são: Relato dos Resultados do Protótipo d
 |:--:|:--------:|:--------|:----------------------------------:|:---------------------------------:|:--------------------------------:|:-----:|
 | E1 | Relato (Protótipo de Papel) | O relato descreve os **objetivos e o escopo** da avaliação do protótipo de papel? | [**p. 312:**](#lista6-1) | | | Bryan |
 | E2 | Relato (Protótipo de Papel) | O relato especifica a **forma como a avaliação foi realizada**, incluindo o método de avaliação empregado (ex: prototipação em papel)? | [**p. 312:**](#lista6-2)  | | | Bryan |
-| E3 | Relato (Protótipo de Papel) | O relato apresenta o **número e o perfil dos participantes e avaliadores** que participaram da avaliação? | [**p. 312:**](#lista6-3) "o número e o perfil de usuários e avaliadores que participaram da avaliação" | | | Bryan |
+| E3 | Relato (Protótipo de Papel) | O relato apresenta o **número e o perfil dos participantes e avaliadores** que participaram da avaliação? | [**p. 312:**](#lista6-3)  | | | Bryan |
 | E4 | Relato (Protótipo de Papel) | O relato contém uma **lista detalhada dos problemas encontrados** durante a avaliação, com descrição e localização? | [**p. 312:**](#lista6-4) | | | Bryan |
 | E5 | Relato (Protótipo de Papel) | O relato apresenta um **sumário dos dados coletados**, incluindo tabelas e/ou gráficos? | [**p. 312:**](#lista6-5)  | | | Bryan |
 | E6 | Relato (Protótipo de Papel) | O relato contém **recomendações de melhoria** e um **planejamento para o reprojeto** com base nos resultados? | [**p. 312:**](#lista6-6)  | | | Bryan |
