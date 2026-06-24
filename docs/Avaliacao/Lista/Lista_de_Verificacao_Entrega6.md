@@ -1,4 +1,4 @@
-# Lista de Verificação — Entrega 5 (Complementar)
+# Lista de Verificação — Entrega 6 (Complementar)
 ## Grupo 02
 
 ---
@@ -96,6 +96,6 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-C
 
 ## Agradecimentos
 
-Agradecemos à IA Generativa **Claude** pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação e redação dos itens da lista de verificação com base nos capítulos 9 e 10 do livro de Barbosa e Silva (2010), na organização das tabelas e na formatação geral do artefato. Todo o conteúdo técnico e as decisões metodológicas foram definidos pelos integrantes da equipe; o DeepSeek atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
+Agradecemos à IA Generativa **Claude** pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação e redação dos itens da lista de verificação com base nos capítulos 9 e 10 do livro de Barbosa e Silva (2010), na organização das tabelas e na formatação geral do artefato. Todo o conteúdo técnico e as decisões metodológicas foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
 
 
