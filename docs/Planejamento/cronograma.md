@@ -241,7 +241,7 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 |---|---|---|---|---|
 | Relato dos resultados do Protótipo de alta fidelidade | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 | Gravar vídeo de apresentação | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 16/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
-| Correção após feedback |  | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |  |  |
+| Correção após feedback | Início: 20/06<br>Fim: 29/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 20/06<br>Fim: 29/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
 
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Relato dos resultados do Protótipo de alta fidelidade (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
@@ -263,11 +263,11 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
-| Verificação e Relato dos artefatos das etapas 1, 2 e 3 |  |  |  |  |
-| Verificação e Relato dos artefatos das etapas 4, 5 e 6 |  |  |  |  |
-| Verificação e Relato dos artefatos da etapa 7 |  |  |  |  |
-| Gravar vídeo de apresentação |  |  |  |  |
-| Correção após feedback |  |  |  |  |
+| Verificação e Relato dos artefatos das etapas 1, 2 e 3 | Início: 10/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 17/06<br>Fim: 17/06 | Lucas, Tiago, Bryan |
+| Verificação e Relato dos artefatos das etapas 4, 5 e 6 | Início: 10/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 18/06<br>Fim: 18/06 | Guilherme, Samuel, Maria Luana |
+| Verificação e Relato dos artefatos da etapa 7 | Início: 17/06<br>Fim: 20/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 21/06<br>Fim: 21/06 | Lucas |
+| Gravar vídeo de apresentação | Início: 16/05<br>Fim: 16/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Luan |
+| Correção após feedback | Início: 03/06<br>Fim: 04/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 05/06<br>Fim: 06/06 | Luan |
 
 <font size="3"><p style="text-align: center"><b>Tabela 16</b> - Verificação dos artefatos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
@@ -287,15 +287,15 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 |---|---|---|---|---|
-| Planejamento de verificação dos artefatos da Etapa 8 |  |  |  |  |
-| Relato da verificação da Etapa 8 e ajustes nos artefatos |  |  |  |  |
-| Gravar vídeo de apresentação final |  |  |  |  |
+| Planejamento de verificação dos artefatos da Etapa 8 | Início: 01/07<br>Fim: 01/07 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 01/07<br>Fim: 01/07 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 01/07<br>Fim: 01/07 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 01/07<br>Fim: 01/07 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel |
+| Gravar vídeo de apresentação final | Início: 01/07<br>Fim: 01/07 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 01/07<br>Fim: 01/07 | Lucas |
 
 <font size="3"><p style="text-align: center"><b>Tabela 18</b> - Projeto final (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
 ## Bibliografia
 
-SALES, André Barros. **Plano de ensino da disciplina**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
+>SALES, André Barros. **Plano de ensino da disciplina**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
 
 ---
 
@@ -307,6 +307,7 @@ SALES, André Barros. **Plano de ensino da disciplina**. Disponível em: <https:
 | 15/04/2026 | 1.1 | Correções no cronograma após feedback | Lucas Fujimoto | Luan Ludry |
 | 23/05/2026 | 1.2 | Padronização do artefato conforme modelo | Tiago | Lucas |
 | 31/05/2026 | 1.3 | Ajuste nas entregas deletadas | Lucas | Bryan |
+| 01/07/2026 | 1.4 | Ajuste nas entregas deletadas | Lucas | Bryan |
 
 ---
 
