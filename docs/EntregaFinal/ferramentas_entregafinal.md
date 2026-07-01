@@ -7,8 +7,8 @@
 
 | Integrante | Contribuição |
 |:----------:|:-------------|
-| Maria Luana | Levantamento e documentação das ferramentas utilizadas |
-| Tiago Geovane | Revisão do conteúdo e padronização |
+| Samuel Felipe | Criação do documento das ferramentas utilizadas |
+|  | Revisão do conteúdo e padronização |
 
 <div style="text-align: left">
 <p>Tabela 2: Tabela de contribuição (Fonte: autor, 2026).</p>
@@ -82,6 +82,7 @@ NOTION. **Notion**. Disponível em: <https://www.notion.com/pt>. Acesso em 10.ab
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 01/07/2026 | 1.0 | Criação do documento contendo as ferramentas | Samuel Felipe |  |
+| 01/07/2026 | 1.1 | Atualização da tabela de contribuição | Samuel Felipe |  |
 
 ---
 
