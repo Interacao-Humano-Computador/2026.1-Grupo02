@@ -31,6 +31,7 @@ Os protótipos de alta estão organizados por tarefa e podem ser acessados indiv
 |  2  | Agendamento Presencial                | Lucas Fujimoto | [Acessar](Agendamento_AltaFidelidade.md) |
 | 3 | Emissão do 1º Título | Maria Luana | [Acessar](Emissao1Ttitulo_AltaFidelidade.md) |
 | 4 | Alterar local | Guilherme | [Acessar](AlterarLocalVotacao_AltaFidelidade.md) |
+|  5  | Certidão de Quitação Eleitoral        | Samuel Felipe  | [Acessar](CertidaoQuitacaoEleitoral_AltaFidelidade.md) |
 <div style="text-align: left">
 <p>Tabela 2: Índice de protótipos de papel do Grupo 02 (Fonte: FUJIMOTO, Lucas).</p>
 </div>
