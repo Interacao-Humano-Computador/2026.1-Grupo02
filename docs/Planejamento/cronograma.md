@@ -267,7 +267,7 @@ O cronograma foi estruturado com base nas datas de entrega previstas no plano de
 | Verificação e Relato dos artefatos das etapas 4, 5 e 6 | Início: 10/06<br>Fim: 16/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 18/06<br>Fim: 18/06 | Guilherme, Samuel, Maria Luana |
 | Verificação e Relato dos artefatos da etapa 7 | Início: 17/06<br>Fim: 20/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 21/06<br>Fim: 21/06 | Lucas |
 | Gravar vídeo de apresentação | Início: 16/05<br>Fim: 16/05 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 31/05<br>Fim: 31/05 | Luan |
-| Correção após feedback | Início: 03/06<br>Fim: 04/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 05/06<br>Fim: 06/06 | Luan |
+| Correção após feedback | Início: 03/06<br>Fim: 18/06 | Bryan, Guilherme, Maria Luana, Lucas, Luan, Tiago, Samuel | Início: 19/06<br>Fim: 19/06 | Luan |
 
 <font size="3"><p style="text-align: center"><b>Tabela 16</b> - Verificação dos artefatos (Fonte: FUJIMOTO, Lucas. 2026).</p></font>
 
