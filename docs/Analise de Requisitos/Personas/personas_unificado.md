@@ -14,7 +14,7 @@
 | Bryan Smith | Desenvolvimento da [persona Lucas Mendes](#lucas-mendes) |
 | Guilherme | Desenvolvimento da [persona Luiz Ribeiro](#luiz-ribeiro) e unificação das personas em um arquivo  |
 | Samuel Felipe | Desenvolvimento das personas [Félix Ryan](#felix-ryan) e [Tamara Lais](#tamara-lais) |
-| Maria Luana | Desenvolvimento da [persona Fernanda Ribeiro](#fernanda-ribeiro) |
+| Maria Luana | Desenvolvimento da [persona Fernanda Ribeiro](#fernanda-ribeiro) e [anti-persona Pedro Almeida](#pedro-almeida) |
 
 <div style="text-align: left">
 <p>Tabela 1: Tabela de contribuição (Fonte: CARVALHO, Guilherme, 2026).</p|>
@@ -435,6 +435,54 @@ Este documento reúne as personas definidas pelo Grupo 02 a partir dos dados col
 
 ---
 
+## Pedro Almeida
+
+![Anti-Persona Pedro](../../img/Personas/AntiPersonaPedro.png)
+<div style="text-align: left">
+<p>Imagem 9: Imagem do Pedro Almeida (Fonte: SOARES LOPES, Maria Luana, 2026).</p>
+</div>
+
+**Dados demográficos**
+
+| Atributo | Descrição |
+|:--------:|:----------|
+| Idade | 12 anos |
+| Gênero | Masculino |
+| Estado civil | Solteiro |
+| Localização | Brasília, DF |
+| Ocupação | Estudante do 6° ano do Ensino Fundamental |
+| Escolaridade | Ensino Fundamental incompleto |
+| Afinidade com tecnologia | Média (uso recreativo e supervisionado) |
+
+**Status:** Anti-Persona.
+
+**Objetivos:**
+* Não possui interesse ou necessidade real de acessar serviços do TSE, já que não possui capacidade eleitoral.
+* Busca apenas conteúdos de entretenimento, como jogos, desenhos e vídeos curtos.
+* Eventualmente acessa o site por curiosidade ao acompanhar os pais ou por acidente ao clicar em links.
+
+**Habilidades:**
+* Possui familiaridade básica com telas touch e aplicativos infantis, mas pouquíssima capacidade de leitura de textos longos ou técnicos.
+* Não compreende termos jurídicos, eleitorais ou administrativos (ex: "título de eleitor", "zona eleitoral", "domicílio eleitoral").
+* Depende totalmente de um adulto para preencher formulários, enviar documentos ou tomar decisões que envolvam dados pessoais.
+
+**Tarefas:**
+* Não realiza tarefas do fluxo de autoatendimento do eleitor, pois não é público apto a solicitar título de eleitor, alistamento ou justificativa de ausência.
+* Pode, no máximo, clicar aleatoriamente em botões, imagens ou links por curiosidade, sem entender o propósito da página.
+* Não possui documentos, e-mail próprio ou CPF utilizável para autenticação nos sistemas.
+
+**Relacionamentos:** Depende inteiramente dos pais ou responsáveis para qualquer interação com sites institucionais; não possui autonomia legal nem cognitiva para tomar decisões nesse contexto.
+
+**Requisitos:**
+* Não há requisitos de usabilidade a serem atendidos para esse público, pois o serviço não deve ser direcionado, adaptado ou incentivado para crianças.
+* O sistema deve, pelo contrário, evitar coletar ou processar dados de menores sem consentimento e supervisão adequados dos responsáveis.
+
+**Expectativas:** Pedrinho não possui expectativas reais em relação ao serviço, pois não é o público-alvo. Sua eventual interação com o site é acidental ou motivada por curiosidade infantil, nunca por necessidade legítima de uso.
+
+**Motivo da Exclusão:** O público infantil foi definido como anti-persona por não possuir capacidade civil e eleitoral para utilizar os serviços oferecidos pelo site do TSE. Crianças não podem se alistar como eleitoras, não possuem título de eleitor e não têm maturidade cognitiva para compreender processos eleitorais, termos jurídicos ou o impacto do voto. Além disso, o design do serviço não deve ser pensado para atrair, engajar ou facilitar o uso por menores de idade, uma vez que isso foge completamente do propósito institucional da plataforma.
+
+---
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. ISBN: 978-65-00-19677-1.
@@ -453,9 +501,12 @@ Este documento reúne as personas definidas pelo Grupo 02 a partir dos dados col
 |:----:|:------:|:----------|:---------:|:-----------:|
 | 01/05/2026 | 1.0 | Criação do documento| Guilherme | Maria Luana |
 | 23/05/2026 | 1.1 | Padronização do artefato | Tiago | - |
+| 01/07/2026 | 1.2 | Padronização do artefato | Maria Luana | Guilherme |
+
 
 ---
 
 ## Agradecimentos
 
 Agradecemos às IAs Generativas **Claude** (Anthropic) pelo suporte na elaboração deste documento. As ferramentas foram utilizadas para revisar e formatar a estrutura docdocumento. Todo o conteúdo técnico e as decisões de projeto foram definidos pelos integrantes da equipe; as IAs atuaram como assistentes de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
+

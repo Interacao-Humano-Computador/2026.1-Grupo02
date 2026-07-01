@@ -67,6 +67,7 @@ nav:
               - Persona 7: Analise de Requisitos/Personas/Persona_LucasFerreira.md
               - Persona 8: Analise de Requisitos/Personas/persona_luiz.md
               - Persona 9: Analise de Requisitos/Personas/persona_Tamara.md
+              - Anti-Persona: Analise de Requisitos/Personas/anti_persona_Pedro.md
       - Análise de Tarefas:
           - Análise de Tarefas: Analise de Requisitos/analise_de_tarefas.md
           - Análises Individuais:
@@ -196,5 +197,6 @@ nav:
   - Entrega Final:
       - Ferramentas: EntregaFinal/ferramentas_entregafinal.md
       - Resultados Obtidos: EntregaFinal/resultadosobtidos_entregafinal.md
+      - Síntese das Apresentações: EntregaFinal/sintese_apresentacoes.md
       - Técnicas Utilizadas: EntregaFinal/TabelaTecnica.md
       - Artefatos Criados: EntregaFinal/artefatos_realizados.md
