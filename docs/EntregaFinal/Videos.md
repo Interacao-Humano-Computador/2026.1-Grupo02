@@ -95,7 +95,7 @@ A Tabela 5 compila os vídeos gravados ao longo do desenvolvimento do projeto, i
 | **Etapa 5** | Tiago Geovane, Guilherme de Carvalho, Maria Luana, Samuel Felipe, Bryan, Lucas Fujimoto, Luan Ludry | [Apresentação da Etapa 5](https://youtu.be/xjTOuOSNMug) | [Verificação Etapa 5 Grupo 3](https://youtu.be/nCFsRFwWchU?si=N9uhuZAs50IkTK5o) |
 | **Etapa 6** | Tiago Geovane, Guilherme de Carvalho, Maria Luana, Samuel Felipe, Bryan, Lucas Fujimoto, Luan Ludry | [Apresentação da Etapa 6](https://youtu.be/AXhwzD3U3KY) | [Verificação Etapa 6 Grupo 1](https://youtu.be/T7xHf_uh9Ik) |
 | **Etapa 7** | Tiago Geovane, Guilherme de Carvalho, Maria Luana, Samuel Felipe, Bryan, Lucas Fujimoto, Luan Ludry | [Apresentação da Etapa 7](https://youtu.be/oMEn_kx62zU) | [Verificação Etapa 7 Grupo 3](https://youtu.be/d7Q_-zM6gbI) |
-| **Entrega Final** | Tiago Geovane, Guilherme de Carvalho, Maria Luana, Samuel Felipe, Bryan, Lucas Fujimoto, Luan Ludry | [Apresentação da Entrega Final]() | Não disponível |
+| **Entrega Final** | Tiago Geovane, Guilherme de Carvalho, Maria Luana, Samuel Felipe, Bryan, Lucas Fujimoto, Luan Ludry | [Apresentação da Entrega Final](https://youtu.be/SaeCOMfDNSA) | Não disponível |
 
 <div style="text-align: left">
 <p>Tabela 5: Síntese das gravações de apresentação e verificação por etapa. (Fonte: Autores, 2026).</p>
