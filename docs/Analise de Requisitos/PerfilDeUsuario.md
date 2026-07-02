@@ -279,6 +279,43 @@ A consolidação dos dados das três técnicas aponta os seguintes pontos críti
 
 ---
 
+### 5. Classificação dos Usuários
+
+Com base nos dados obtidos pelas três técnicas de pesquisa (entrevista, análise de documentos e questionário), os usuários do sistema foram classificados em **primários**, **secundários**, **terciários** e **antiusuários**, conforme a natureza e a frequência de sua interação com o sistema.
+
+#### 5.1 Usuários Primários
+
+São aqueles que interagem diretamente com o sistema para atingir seus próprios objetivos, sendo os principais responsáveis por justificar o design da interface.
+
+- **Eleitores brasileiros maiores de 18 anos** que acessam o Autoatendimento Eleitoral – Título Net para tirar a primeira via do título de eleitor, regularizar pendências ou confirmar a autenticidade do documento (motivações identificadas na entrevista).
+- **Cidadãos em situação de regularização eleitoral**, que precisam quitar pendências (ex: título cancelado) para poderem votar ou utilizar o título em outros contextos.
+- **Jovens entre 18 e 30 anos**, com alta afinidade tecnológica, que buscam o serviço pela primeira vez (perfil predominante dos entrevistados).
+
+#### 5.2 Usuários Secundários
+
+São aqueles que utilizam o sistema de forma ocasional, indireta ou com apoio de terceiros, não sendo o foco principal do design, mas que ainda impactam decisões de usabilidade e acessibilidade.
+
+- **Eleitores com baixo letramento digital ou escolaridade limitada** (parte dos 22% com Ensino Fundamental incompleto e dos 3,5% de analfabetos identificados na análise documental), que geralmente dependem de auxílio de terceiros ou do atendimento presencial em cartórios eleitorais.
+- **Usuários esporádicos**, que acessam o sistema apenas em época de eleições ou para resolver pendências pontuais (48% do questionário), sem familiaridade consolidada com o fluxo do sistema.
+- **Atendentes de cartórios eleitorais**, que auxiliam eleitores presencialmente na regularização e emissão do título, atuando como intermediários entre o cidadão e o sistema.
+
+#### 5.3 Usuários Terciários
+
+São aqueles que não interagem diretamente com a interface do sistema, mas são impactados por seus resultados ou utilizam as informações/documentos gerados por ele.
+
+- **Instituições que exigem o título de eleitor como documento comprobatório**, como bancas de concursos públicos, instituições financeiras (empréstimos) e instituições de ensino (matrícula), conforme identificado na análise documental.
+- **Órgãos e gestores públicos do TSE**, que utilizam os dados agregados do Painel Perfil do Eleitorado para planejamento e formulação de políticas eleitorais, sem necessariamente operar o sistema de autoatendimento.
+
+
+#### 5.4 Antiusuários
+
+São pessoas para as quais o sistema não foi projetado, pois não possuem os requisitos legais mínimos para exercer deveres eleitorais, não devendo, portanto, ser público-alvo do design.
+
+- **Menores de 16 anos**, faixa etária que não possui idade mínima para o alistamento eleitoral (facultativo a partir dos 16 anos e obrigatório a partir dos 18), não tendo, portanto, deveres eleitorais e não sendo elegíveis para tirar o título de eleitor.
+
+
+---
+
 ## Bibliografia
 
 > BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
@@ -297,9 +334,10 @@ A consolidação dos dados das três técnicas aponta os seguintes pontos críti
 | 03/05/2026 | 1.5 | Conslidação do perfil do usuário | Maria Luana | Guilherme |
 | 14/05/2026 | 1.6 | Inserção de planilhas, links e gráficos relacionados ao questionário | Maria Luana | Guilherme |
 | 23/05/2026 | 1.7 | Padronização do artefato | Tiago | - |
+| 01/07/2026 | 1.8 | Adição da classificação de usuários primários, secundários, terciários e antiusuários | Guilherme | Maria Luana |
 
 ---
 
 ## Agradecimentos
 
-Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação do documento, formatação das tabelas e organização do conteúdo de acordo com o modelo estabelecido pelo grupo. Todo o conteúdo técnico — incluindo os dados coletados nas entrevistas, na análise de documentos e no questionário — e as decisões metodológicas foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.  
+Agradecemos à IA Generativa **Claude** (Anthropic) pelo suporte na elaboração deste documento. A ferramenta foi utilizada para auxiliar na estruturação do documento, formatação das tabelas e organização do conteúdo de acordo com o modelo estabelecido pelo grupo. Todo o conteúdo técnico — incluindo os dados coletados nas entrevistas, na análise de documentos e no questionário — e as decisões metodológicas foram definidos pelos integrantes da equipe; o Claude atuou como assistente de formatação e redação, sem interferir nas escolhas metodológicas do grupo.
